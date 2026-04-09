@@ -1,4 +1,4 @@
-# AI Product Manager
+# Logan Garcia
 
 print("hello world")
 
