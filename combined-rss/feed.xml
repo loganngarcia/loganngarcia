@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 09:59:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 10:07:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>NEURA Robotics and SECO Team Up to Scale European Physical AI Hardware</title>
@@ -58,10 +58,10 @@
 <category>Techmeme</category>
 <atom:link href="https://thezvi.substack.com/p/openai-and-the-wiki-incident" rel="related" type="text/html" />
 <description>I did not expect to be back here so soon with more OpenAI agent swarm coverage.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!GN8n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" alt="" /></p><p>I did not expect to be back here so soon with more OpenAI agent swarm coverage.</p><p><a href="https://thezvi.substack.com/p/openai-and-the-wiki-incident">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!GN8n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!GN8n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!GN8n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21GN8n%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" alt="" /></p><p>I did not expect to be back here so soon with more OpenAI agent swarm coverage.</p><p><a href="https://thezvi.substack.com/p/openai-and-the-wiki-incident">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21GN8n%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21GN8n%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21GN8n%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F2d0a821a-e400-4280-818f-4103158d1ffe_1200x675.jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Blockstream's Liquid Network halts new transactions after "purported white-hat hackers" withdrew ~4,000 of the 4,200 bitcoin held in its federation wallet (Omkar Godbole/CoinDesk)</title>
@@ -114,10 +114,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
 <description>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg" alt="" /></p><p>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.</p><p><a href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg" />
-<enclosure url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F01%2Fmultimedia%2F00biz-china-ai-smuggle-Aivres-lvjb%2F00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.</p><p><a href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F01%2Fmultimedia%2F00biz-china-ai-smuggle-Aivres-lvjb%2F00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F01%2Fmultimedia%2F00biz-china-ai-smuggle-Aivres-lvjb%2F00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F01%2Fmultimedia%2F00biz-china-ai-smuggle-Aivres-lvjb%2F00biz-china-ai-smuggle-Aivres-lvjb-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)</title>
@@ -184,10 +184,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU" rel="related" type="text/html" />
 <description>Also: The latest on Apple’s big Sept. 9 event.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ErVbpksGOo/v8/1200x800.jpg" alt="" /></p><p>Also: The latest on Apple’s big Sept. 9 event.</p><p><a href="https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ErVbpksGOo/v8/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ErVbpksGOo/v8/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4ErVbpksGOo/v8/1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4ErVbpksGOo%2Fv8%2F1200x800.jpg" alt="" /></p><p>Also: The latest on Apple’s big Sept. 9 event.</p><p><a href="https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4ErVbpksGOo%2Fv8%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4ErVbpksGOo%2Fv8%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4ErVbpksGOo%2Fv8%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work (New York Times)</title>
@@ -198,10 +198,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h&amp;smid=url-share" rel="related" type="text/html" />
 <description>Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg" alt="" /></p><p>Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.</p><p><a href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg" />
-<enclosure url="https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F31%2Fmultimedia%2F00biz-ai-essay-mills-Teresios-kjzh%2F00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.</p><p><a href="https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F31%2Fmultimedia%2F00biz-ai-essay-mills-Teresios-kjzh%2F00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F31%2Fmultimedia%2F00biz-ai-essay-mills-Teresios-kjzh%2F00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F31%2Fmultimedia%2F00biz-ai-essay-mills-Teresios-kjzh%2F00biz-ai-essay-mills-Teresios-kjzh-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Beyond Mechanical Chatbots: Galbot Unveils RoboGesture to Tackle Real-Time Nonverbal Communication</title>
@@ -282,10 +282,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4" rel="related" type="text/html" />
 <description>AI could transform our understanding of other species. It also risks giving humans powerful new ways to manipulate, exploit and harm them.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" alt="" /></p><p>AI could transform our understanding of other species. It also risks giving humans powerful new ways to manipulate, exploit and harm them.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" medium="image" type="image/gif" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" type="image/gif" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fifq_wWhZkdRY%2Fv0%2F-999x-999.gif" alt="" /></p><p>AI could transform our understanding of other species. It also risks giving humans powerful new ways to manipulate, exploit and harm them.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fifq_wWhZkdRY%2Fv0%2F-999x-999.gif" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fifq_wWhZkdRY%2Fv0%2F-999x-999.gif" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fifq_wWhZkdRY%2Fv0%2F-999x-999.gif" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)</title>
@@ -337,11 +337,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/" rel="related" type="text/html" />
-<description>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact...</p><p><a href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+<description>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact of the cyberattack ​that targeted two departments.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact of the cyberattack ​that targeted two departments.</p><p><a href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
+<enclosure url="https://www.reuters.com/resizer/v2/YM7DTVNHXJLU3MEGOYWOAPNCEY.jpg?auth=f5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)</title>
@@ -575,11 +575,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/" rel="related" type="text/html" />
-<description>The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI ​capabilities reach a global tipping point.</description>
-<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg?auth=d44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI ​capabilities reach a global tipping point.</p><p><a href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.reuters.com/resizer/v2/5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg?auth=d44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.reuters.com/resizer/v2/5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg?auth=d44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.reuters.com/resizer/v2/5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg?auth=d44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
+<description>The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI ​capabil...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg%3Fauth%3Dd44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI ​capabil...</p><p><a href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg%3Fauth%3Dd44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg%3Fauth%3Dd44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5NMFNY5GDBJ57GKOCOCMUSOVZE.jpg%3Fauth%3Dd44ec192cb0e924fd38f7be5cc526326818b4cc43f5612e1cfdb8faf91783dd1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November (Echo Wang/Reuters)</title>
@@ -590,10 +590,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/" rel="related" type="text/html" />
 <description>The shift pushes back what some ​investors have said could be a $2 trillion listing, one of the largest IPOs ever ​attempted.</description>
-<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/I3GE3B2OMZMITGCLAL4YMEOG3E.jpg?auth=7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>The shift pushes back what some ​investors have said could be a $2 trillion listing, one of the largest IPOs ever ​attempted.</p><p><a href="https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.reuters.com/resizer/v2/I3GE3B2OMZMITGCLAL4YMEOG3E.jpg?auth=7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.reuters.com/resizer/v2/I3GE3B2OMZMITGCLAL4YMEOG3E.jpg?auth=7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.reuters.com/resizer/v2/I3GE3B2OMZMITGCLAL4YMEOG3E.jpg?auth=7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI3GE3B2OMZMITGCLAL4YMEOG3E.jpg%3Fauth%3D7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The shift pushes back what some ​investors have said could be a $2 trillion listing, one of the largest IPOs ever ​attempted.</p><p><a href="https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI3GE3B2OMZMITGCLAL4YMEOG3E.jpg%3Fauth%3D7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI3GE3B2OMZMITGCLAL4YMEOG3E.jpg%3Fauth%3D7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI3GE3B2OMZMITGCLAL4YMEOG3E.jpg%3Fauth%3D7f0b7c797bd0717e0349cec4e97c8517bd63fa25df7555d351f034400468a5e4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)</title>
@@ -911,11 +911,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year" rel="related" type="text/html" />
-<description>Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH11D4JmcI6M/v1/1200x800.jpg" alt="" /></p><p>Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH11D4JmcI6M/v1/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH11D4JmcI6M/v1/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH11D4JmcI6M/v1/1200x800.jpg" type="image/jpeg" length="0" />
+<description>Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH11D4JmcI6M%2Fv1%2F1200x800.jpg" alt="" /></p><p>Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH11D4JmcI6M%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH11D4JmcI6M%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH11D4JmcI6M%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Letters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East (Raphael Satter/Reuters)</title>
@@ -953,11 +953,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain" rel="related" type="text/html" />
-<description>Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSn6YFpV1x04/v1/1200x800.jpg" alt="" /></p><p>Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSn6YFpV1x04/v1/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSn6YFpV1x04/v1/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSn6YFpV1x04/v1/1200x800.jpg" type="image/jpeg" length="0" />
+<description>Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSn6YFpV1x04%2Fv1%2F1200x800.jpg" alt="" /></p><p>Thailand’s embrace of data centers hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSn6YFpV1x04%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSn6YFpV1x04%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSn6YFpV1x04%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>How to think about the robotics market</title>
@@ -1058,7 +1058,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>/ Sep 1, 2026 A Self-Improving RLM Harness Just Dropped Plus more about LeVJEPA, Code World Model, and Gemini's AI Scientist by cloud</title>
+<title>A Self-Improving RLM Harness Just Dropped</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f996e30ffa9a7b0767ad.html</link>
 <guid isPermaLink="false">combined:d925ae352abfabd2c41a7fb20a363b700c07f525</guid>
 <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
@@ -1254,7 +1254,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>/ Aug 25, 2026 Recirculation: Improve an LLM Without Retraining It plus more about SPADE, skill issue, and Q-learning with World Models by cloud</title>
+<title>Recirculation: Improve an LLM Without Retraining It</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/de2ce8df4366328865d3.html</link>
 <guid isPermaLink="false">combined:d42bf06657c890149b67bf9b5d2f73d0b2ade6a0</guid>
 <pubDate>Tue, 25 Aug 2026 19:00:00 +0000</pubDate>
@@ -1366,7 +1366,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>/ Aug 19, 2026 Crazy New Exploit To Steal Reasoning Traces Plus more about Full-Bandwidth Transformer, Small Scaling Law, and SFT Conflicts RL Coexists by cloud</title>
+<title>Crazy New Exploit To Steal Reasoning Traces</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c05c9c49714dce643979.html</link>
 <guid isPermaLink="false">combined:c1832f0e1aa02029a3c1e3cb4ff3f0eb7d75dabc</guid>
 <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
@@ -1394,7 +1394,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Aug 11, 2026 On-Policy Self-Distillation without Any Supervision plus more about Leanstral, Towards Physics of Multimodal Pretraining, and loss does not see the basis by cloud</title>
+<title>On-Policy Self-Distillation without Any Supervision</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/54a50036fa0c058ed660.html</link>
 <guid isPermaLink="false">combined:395a1444d4a5a922ccaea51eaefbb31f525ac29e</guid>
 <pubDate>Tue, 11 Aug 2026 18:41:00 +0000</pubDate>
@@ -1408,7 +1408,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/7d620388-7bd1-4924-9fce-4d8c432bcaaf/issue_120.jpg?t=1786465572" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Aug 4, 2026 Explorative Modeling: Third Pre-training Axis? Plus more about Memory Foundation Model, Weak-to-Strong OPD, and LeRoPE by cloud</title>
+<title>Explorative Modeling: Third Pre-training Axis?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/54889794c929df2a3968.html</link>
 <guid isPermaLink="false">combined:8ac3f267bf70e6c6ca12a36a0a3631ae096a7ca3</guid>
 <pubDate>Tue, 04 Aug 2026 18:41:00 +0000</pubDate>
@@ -1422,7 +1422,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8663bd22-43ab-4566-b290-eaf78da11896/issue_119.jpg?t=1785866114" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jul 29, 2026 Kimi K3 Technical Report plus more about Hilbert Operator for Progressive Encoding, RLVR-Native Optimization Stack, Soap &amp; Muon At Scale, and Measuring Reward-Seeking by cloud</title>
+<title>Kimi K3 Technical Report</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6970cbe95480be3335a7.html</link>
 <guid isPermaLink="false">combined:532c46f16d8c6879b7098eaab435e23bcc3992ea</guid>
 <pubDate>Wed, 29 Jul 2026 19:00:00 +0000</pubDate>
@@ -1436,7 +1436,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6490d014-0992-43cf-9061-194fc8ce4a6f/issue_118.jpg?t=1785348943" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jul 21, 2026 On-Policy Delta Distillation plus more about Concurrent Image Understanding and Generation, Latent and Explicit Reasoning with Looped Transformers and more by cloud</title>
+<title>On-Policy Delta Distillation</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/41aea507c03db60144d3.html</link>
 <guid isPermaLink="false">combined:f0e3b2f9ceb2cbfefb4ca76295699b53c66d7c0b</guid>
 <pubDate>Tue, 21 Jul 2026 20:00:00 +0000</pubDate>
@@ -1450,7 +1450,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3c02a207-1fb3-4292-a061-d48c52cdb309/issue_117.jpg?t=1784662852" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jul 14, 2026 Why Memorized Knowledge Fails to Generalize in LLM Finetuning Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory by cloud</title>
+<title>Why Memorized Knowledge Fails to Generalize in LLM Finetuning</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d12643a69c04da81195.html</link>
 <guid isPermaLink="false">combined:add5686b1e66409a73de7309317f024995d96657</guid>
 <pubDate>Tue, 14 Jul 2026 18:31:00 +0000</pubDate>
@@ -1506,7 +1506,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2284669810_usa-secretary-of-state-marco-rubio-and-usa-president-donald-trump-during-the-press-conference.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jul 7, 2026 You Only Need 1 Layer for RLVR? plus more about AdaJEPA, Program-as-Weights, The World Is In Your Mind, and Dual On-policy Distillation by cloud</title>
+<title>You Only Need 1 Layer for RLVR?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3fbebf5cc1f555507ac9.html</link>
 <guid isPermaLink="false">combined:b00811cdcbcb585d8ce415c44e41f777d593df9f</guid>
 <pubDate>Tue, 07 Jul 2026 18:30:00 +0000</pubDate>
@@ -1576,7 +1576,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2197325105_shoppers-walk-past-a-just-do-it-ad-slogan-that-features-nba-los-angeles-lakers-basketball.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jun 30, 2026 DeepSeek Just dropped a new speculative decoding method! plus more about Tapered LMs, Improved LLDMs, AutoData, and You Don't Need To Run Every Eval by cloud</title>
+<title>DeepSeek Just dropped a new speculative decoding method!</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/442fe32272dc7ad034df.html</link>
 <guid isPermaLink="false">combined:940266120c27ff6129ee3ac1057427474ca76f67</guid>
 <pubDate>Tue, 30 Jun 2026 19:30:00 +0000</pubDate>
@@ -1716,7 +1716,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1387722858_washington-dc-environmental-activists-rally-on-capitol-hill-after-a-march-from-lafayette.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jun 23, 2026 What even is a &gt;&lt; former (yes &gt;&lt; former) plus more about Looped World Models, Fixed-Point Reasoners, and ExpRL by cloud</title>
+<title>What even is a &gt;&lt; former (yes &gt;&lt; former)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9f27a30092d7bb205da8.html</link>
 <guid isPermaLink="false">combined:7b9aa1499d376b5d0a8d8ea4700d6796d52a48da</guid>
 <pubDate>Tue, 23 Jun 2026 19:30:00 +0000</pubDate>
@@ -1800,7 +1800,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ Jun 2, 2026 DiffusionBlocks: Save 2-3x Training Memory!? plus more about Bitter Lesson in Data Filtering, Do Language Models Need Sleep, and Neural Weight Norm. by cloud</title>
+<title>DiffusionBlocks: Save 2-3x Training Memory!?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6004dc3ca09ebf884410.html</link>
 <guid isPermaLink="false">combined:fbd932c48d6338c26e23fa678bac84b747c7ff62</guid>
 <pubDate>Tue, 02 Jun 2026 19:15:00 +0000</pubDate>
@@ -1814,7 +1814,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ May 26, 2026 Generative Recursive Reasoning plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization by cloud</title>
+<title>Generative Recursive Reasoning</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3013444be87ebbe353cb.html</link>
 <guid isPermaLink="false">combined:a5d4ad8f1871a005e81f04250d856d781346ab4e</guid>
 <pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
@@ -1828,7 +1828,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ May 19, 2026 Long Context Pre-Training w/ Lighthouse Attention plus more about Self-distilled Agentic RL, Embedded Language Flows, and Negation Neglect by cloud</title>
+<title>Long Context Pre-Training w/ Lighthouse Attention</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/19ef3b5e1234ec0e5378.html</link>
 <guid isPermaLink="false">combined:b26d794f134b8cbfc9c1bfb18ad62407c583c9c7</guid>
 <pubDate>Tue, 19 May 2026 18:52:00 +0000</pubDate>
@@ -1842,7 +1842,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ May 12, 2026 Think In Diffusion: Continuous Latent Diffusion Language Model plus more on Sparser, Faster, Lighter Transformer LMs, Manifold Steering, and Teaching Claude Why by cloud</title>
+<title>Think In Diffusion: Continuous Latent Diffusion Language Model</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2340533ee0d71c7e18b7.html</link>
 <guid isPermaLink="false">combined:598abc671300bc8603bf7f8731b8c5f3ed69cb41</guid>
 <pubDate>Tue, 12 May 2026 19:14:00 +0000</pubDate>
@@ -1856,7 +1856,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fefba347-18db-4774-8c45-073a4e5c194e/issue_107.jpg?t=1778609350" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>/ May 5, 2026 DeepSeek's Deleted Paper: Thinking With Visual Primitives can't believe they removed this paper unknowningly by cloud</title>
+<title>DeepSeek's Deleted Paper: Thinking With Visual Primitives</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a6908b50705aefc5777b.html</link>
 <guid isPermaLink="false">combined:a7b582587992068aa90161f1f99e680abf48ac67</guid>
 <pubDate>Tue, 05 May 2026 19:33:00 +0000</pubDate>
@@ -1870,497 +1870,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Qwen-Image-Edit-2511: Improve Consistency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0abf9d5096ac66637ac8.html</link>
-<guid isPermaLink="false">combined:f05dcdf76190aae37a0f3a59740938bbbcc9a9f6</guid>
-<pubDate>Tue, 23 Dec 2025 05:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-edit-2511&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit [Qwen Chat](https://chat.qwen.ai/?inputFeature=image_edit) and select the Image Editing fea</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit [Qwen Chat](https://chat.qwen.ai/?inputFeature=image_edit) and select the Image Editing fea</p><p><a href="https://qwen.ai/blog?id=qwen-image-edit-2511&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" />
-<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen3-TTS Steps Up: Voice Cloning and Voice Design!</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/39979d4d7daaf708c1b9.html</link>
-<guid isPermaLink="false">combined:0e863583b918a088daab9df5f123c78182da727d</guid>
-<pubDate>Mon, 22 Dec 2025 16:00:45 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3-TTS** family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the [Qwen API](https://www.alibabacloud.com/help/en/model-studio/qwen-tts-voice-design)) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the [Qwen API](https://www.alibabacloud.</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" alt="" /></p><p>**Qwen3-TTS** family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the [Qwen API](https://www.alibabacloud.com/help/en/model-studio/qwen-tts-voice-design)) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the [Qwen API](https://www.alibabacloud.</p><p><a href="https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Layered: Layered Decomposition for Inherent Editablity</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/65c01690f664d3113784.html</link>
-<guid isPermaLink="false">combined:604f8697c1919796562574b0e740bf6ffd4988aa</guid>
-<pubDate>Fri, 19 Dec 2025 05:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-layered&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation na</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" alt="" /></p><p>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation na</p><p><a href="https://qwen.ai/blog?id=qwen-image-layered&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen3-Omni-Flash-2025-12-01：Hear You. See You. Follow Smarter!</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e8e03230e57afb8764b0.html</link>
-<guid isPermaLink="false">combined:af6734f39e60108165623414908ef8b39acb2c12</guid>
-<pubDate>Mon, 08 Dec 2025 21:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3-Omni** is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" alt="" /></p><p>**Qwen3-Omni** is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces</p><p><a href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>SAPO: A Stable and Performant Reinforcement Learning Method for Training Large Language Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9ff13bc7731b4ac6bea0.html</link>
-<guid isPermaLink="false">combined:80f2f34b14c60f045bf46538eebaf6a3e3117fe9</guid>
-<pubDate>Thu, 04 Dec 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=sapo&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimizati</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" alt="" /></p><p>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimizati</p><p><a href="https://qwen.ai/blog?id=sapo&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-TTS Update! 49 Timbres + 10 Languages + 9 Dialects</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/eed07672b8a90e83769c.html</link>
-<guid isPermaLink="false">combined:8fcac46a3ba49d678740af43aa492d083ec7d83a</guid>
-<pubDate>Thu, 04 Dec 2025 16:00:04 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-tts-1128&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available via [Qwen API](https://help.aliyun.com/zh/model-studio/qwen-tts).Major Improvements:Qwen3-TTS offers</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available via [Qwen API](https://help.aliyun.com/zh/model-studio/qwen-tts).Major Improvements:Qwen3-TTS offers</p><p><a href="https://qwen.ai/blog?id=qwen3-tts-1128&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen DeepResearch: When Inspiration Becomes Its Own Reason</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d31916258aa566789cfc.html</link>
-<guid isPermaLink="false">combined:4ccb2519289155a9a3120413722c7e95f30fe4f0</guid>
-<pubDate>Wed, 12 Nov 2025 20:59:26 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-deepresearch&amp;from=research.research-list" rel="related" type="text/html" />
-<description>[Click here to experience the latest Qwen DeepResearch](https://chat.qwen.ai/?inputFeature=deep_research)_**How does inspiration die?**_It usually doesn’t die from “not being good enough”, but from being “too much trouble”.When a thought flashes, it’s still fragile and unverified. After a brief mome</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" alt="" /></p><p>[Click here to experience the latest Qwen DeepResearch](https://chat.qwen.ai/?inputFeature=deep_research)_**How does inspiration die?**_It usually doesn’t die from “not being good enough”, but from being “too much trouble”.When a thought flashes, it’s still fragile and unverified. After a brief mome</p><p><a href="https://qwen.ai/blog?id=qwen-deepresearch&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-Max: Just Scale it</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/11858d060cd9a76b9c33.html</link>
-<guid isPermaLink="false">combined:509bbd95457c6dabbdab3c6d4cf49f7157c4fa16</guid>
-<pubDate>Wed, 24 Sep 2025 04:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" alt="" /></p><p>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</p><p><a href="https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-Max: Just Scale it</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/30103a626875b9db5f03.html</link>
-<guid isPermaLink="false">combined:a79ed3f35a7bf873643844d86973b617a01438df</guid>
-<pubDate>Wed, 24 Sep 2025 04:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-max&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" alt="" /></p><p>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</p><p><a href="https://qwen.ai/blog?id=qwen3-max&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3‑LiveTranslate: Real‑Time Multimodal Interpretation — See It, Hear It, Speak It！</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d60229e377918e78c9a7.html</link>
-<guid isPermaLink="false">combined:d85555eabac04350e5ccb3b1cc452baf97c8ab63</guid>
-<pubDate>Mon, 22 Sep 2025 23:00:26 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" alt="" /></p><p>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</p><p><a href="https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3‑LiveTranslate: Real‑Time Multimodal Interpretation — See It, Hear It, Speak It！</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/25bb72fd1203e274b488.html</link>
-<guid isPermaLink="false">combined:d413ecad6eadca57fe65d208680c73521c4ffbdc</guid>
-<pubDate>Mon, 22 Sep 2025 23:00:26 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-livetranslate&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" alt="" /></p><p>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</p><p><a href="https://qwen.ai/blog?id=qwen3-livetranslate&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/185b764efcc2083689e2.html</link>
-<guid isPermaLink="false">combined:511003123b93a252fc022deac4bd9c098f8ee798</guid>
-<pubDate>Mon, 22 Sep 2025 22:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-vl&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" alt="" /></p><p>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</p><p><a href="https://qwen.ai/blog?id=qwen3-vl&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/94873b83fd4717ee14cf.html</link>
-<guid isPermaLink="false">combined:50e331ad866b15fdde859785691cd81508bb56f7</guid>
-<pubDate>Mon, 22 Sep 2025 22:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" alt="" /></p><p>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</p><p><a href="https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Travel Planner: Your Smart Travel Designer</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cd75becb0fae533b03fc.html</link>
-<guid isPermaLink="false">combined:66d81c05169379716d9d978fdc4f0ff143138737</guid>
-<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=6228c39fa97ce1a9e65f9e7ce98787a743007fe4&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p><p><a href="https://qwen.ai/blog?id=6228c39fa97ce1a9e65f9e7ce98787a743007fe4&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Travel Planner: Your Smart Travel Designer</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1fb099985b410d4a14f.html</link>
-<guid isPermaLink="false">combined:d8fb26a7baf52164dd03a098fb6f761f9ae0610f</guid>
-<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=agent&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p><p><a href="https://qwen.ai/blog?id=agent&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fd189aafaa12784651b1.html</link>
-<guid isPermaLink="false">combined:c5172a915c534f1fa8eff5f650d12041c4a6f9c0</guid>
-<pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3guard&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" alt="" /></p><p>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</p><p><a href="https://qwen.ai/blog?id=qwen3guard&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" />
-<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bb7e5d63efbb8af53bdc.html</link>
-<guid isPermaLink="false">combined:d72c0d3a3a777766660d33ca90c28607eae3fcf2</guid>
-<pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=3e4179176f4f2b028b342fb0193c192046ca291b&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" alt="" /></p><p>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</p><p><a href="https://qwen.ai/blog?id=3e4179176f4f2b028b342fb0193c192046ca291b&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" />
-<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Edit-2509: Multi-Image Support, Improved Consistency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fbe5c5fff40620a1decd.html</link>
-<guid isPermaLink="false">combined:679c342b8cf18de46a2dea978599395dc316ce47</guid>
-<pubDate>Mon, 22 Sep 2025 16:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-edit-2509&amp;from=research.research-list" rel="related" type="text/html" />
-<description>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" alt="" /></p><p>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</p><p><a href="https://qwen.ai/blog?id=qwen-image-edit-2509&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Edit-2509: Multi-Image Support，Improved Consistency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e903b69c5e8c5321c197.html</link>
-<guid isPermaLink="false">combined:296060faf68a52114738546e1a1e3967002fce9b</guid>
-<pubDate>Mon, 22 Sep 2025 05:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd93&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" alt="" /></p><p>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</p><p><a href="https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd93&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen3-Omni: Natively Omni-Modal Foundation Models!</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fd3d2003cce689354562.html</link>
-<guid isPermaLink="false">combined:bccd4733c173c100bf7af25a1277dd58889c9c18</guid>
-<pubDate>Sun, 21 Sep 2025 21:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-omni&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" alt="" /></p><p>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</p><p><a href="https://qwen.ai/blog?id=qwen3-omni&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-Omni: Natively Omni-Modal Foundation Models!</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d64e79c64d9782eece20.html</link>
-<guid isPermaLink="false">combined:c5b415cf5e4b3a23465c64dd0064dcbd65386c5a</guid>
-<pubDate>Sun, 21 Sep 2025 21:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" alt="" /></p><p>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</p><p><a href="https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b4fec20dd4d7b6304b77.html</link>
-<guid isPermaLink="false">combined:3c2962ac20dc202206eab933258dbc75d2068ed7</guid>
-<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-tts&amp;from=research.research-list" rel="related" type="text/html" />
-<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
-<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p><p><a href="https://qwen.ai/blog?id=qwen3-tts&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
-<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
-<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/58eca02f9b0f1d5f5ee7.html</link>
-<guid isPermaLink="false">combined:a56d254c9c2a4572080c9656e39a591ae3145ccf</guid>
-<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
-<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p><p><a href="https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
-<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
-<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/32bc2eae84d544e57415.html</link>
-<guid isPermaLink="false">combined:901ef93c746452f296b2a32e56216bf03698395d</guid>
-<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-next&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p><p><a href="https://qwen.ai/blog?id=qwen3-next&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/423cdf1c2df1236920d8.html</link>
-<guid isPermaLink="false">combined:e1a7db9bbe08aa038081b99f2e45bf03f76cdf1e</guid>
-<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p><p><a href="https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be2e06ba662769954319.html</link>
-<guid isPermaLink="false">combined:60a1cd82581affa8b7621c503c86ad6d6b4aa3b8</guid>
-<pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen3-asr-flash&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" alt="" /></p><p>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</p><p><a href="https://qwen.ai/blog?id=qwen3-asr-flash&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" />
-<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3228e41656f99746ecea.html</link>
-<guid isPermaLink="false">combined:ffda26299704eca82a0b8e19719372876281cb74</guid>
-<pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=41e4c0f6175f9b004a03a07e42343eaaf48329e7&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" alt="" /></p><p>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</p><p><a href="https://qwen.ai/blog?id=41e4c0f6175f9b004a03a07e42343eaaf48329e7&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" />
-<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Edit: Image Editing with Higher Quality and Efficiency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1a69205262c339492140.html</link>
-<guid isPermaLink="false">combined:9b8f58ab1c29c3ad6981726aa028c6b3bbda7df4</guid>
-<pubDate>Mon, 18 Aug 2025 17:30:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-edit&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</p><p><a href="https://qwen.ai/blog?id=qwen-image-edit&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Edit: Image Editing with Higher Quality and Efficiency</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ace6fd20b1e7c807f67.html</link>
-<guid isPermaLink="false">combined:f481ef974b613e973deb8410bb0be23383af974e</guid>
-<pubDate>Mon, 18 Aug 2025 17:30:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=3658ef85328511103029b904cb0f3fda78187735&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</p><p><a href="https://qwen.ai/blog?id=3658ef85328511103029b904cb0f3fda78187735&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image: Crafting with Native Text Rendering</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8b436a27b933bfa8a38.html</link>
-<guid isPermaLink="false">combined:ae80cc84b5566b95991dc929d93bacb87bdd7ae4</guid>
-<pubDate>Mon, 04 Aug 2025 14:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image&amp;from=research.research-list" rel="related" type="text/html" />
-<description>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" alt="" /></p><p>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</p><p><a href="https://qwen.ai/blog?id=qwen-image&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image: Crafting with Native Text Rendering</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fd31b0279d3e574e13da.html</link>
-<guid isPermaLink="false">combined:a3d96208ef010ea09d5d49ef71035bfb531b55ab</guid>
-<pubDate>Mon, 04 Aug 2025 14:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=51eec55b76cc7760326919ad5ab4987823ca3a4f&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" alt="" /></p><p>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</p><p><a href="https://qwen.ai/blog?id=51eec55b76cc7760326919ad5ab4987823ca3a4f&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>GSPO: Towards Scalable Reinforcement Learning for Language Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2f6cdb532e4fd53cae19.html</link>
-<guid isPermaLink="false">combined:397e6883bfa281232c8d62ccc6cc5dbe6c9b5293</guid>
-<pubDate>Sun, 27 Jul 2025 07:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=gspo&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" alt="" /></p><p>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</p><p><a href="https://qwen.ai/blog?id=gspo&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>GSPO: Towards Scalable Reinforcement Learning for Language Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6df37a7b9ad76fabae3f.html</link>
-<guid isPermaLink="false">combined:9c6389cdb6239ba0d9dd8df7605a1760702b7e26</guid>
-<pubDate>Sun, 27 Jul 2025 07:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=b42c93786a6c8dbf729ec3a41636fda88b04d6e9&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" alt="" /></p><p>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</p><p><a href="https://qwen.ai/blog?id=b42c93786a6c8dbf729ec3a41636fda88b04d6e9&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-MT: Where Speed Meets Smart Translation</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6dd8c348910b25e11aba.html</link>
-<guid isPermaLink="false">combined:4325cb93104cf653d19008a48a41a741719e9b3f</guid>
-<pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-mt&amp;from=research.research-list" rel="related" type="text/html" />
-<description>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" alt="" /></p><p>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</p><p><a href="https://qwen.ai/blog?id=qwen-mt&amp;from=research.research-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-MT: Where Speed Meets Smart Translation</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6196a224657a3e7fe443.html</link>
-<guid isPermaLink="false">combined:d465776e9d191b79aa1e15f84d70d837b8c4d0e6</guid>
-<pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=d3913d3fad8cd06ee020225844573b31de982e19&amp;from=research.latest-advancements-list" rel="related" type="text/html" />
-<description>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" alt="" /></p><p>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</p><p><a href="https://qwen.ai/blog?id=d3913d3fad8cd06ee020225844573b31de982e19&amp;from=research.latest-advancements-list">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>/ Jun 17, 2025 LLM That Can Modify Itself? Plus more about "The Diffusion Duality" and "Reinforcement Pre-Training" by cloud</title>
+<title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/00026152be80e102049b.html</link>
 <guid isPermaLink="false">combined:69ee61e78a0f2f4576c8768d4c0b82c2b86a20c5</guid>
 <pubDate>Tue, 17 Jun 2025 18:30:00 +0000</pubDate>
@@ -2374,7 +1884,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/447b6abc-0704-463f-a936-adb1d1ad6896/issue_60.jpg?t=1750179553" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Premium Insights / Jun 6, 2025 May 2025 Research Trend Report Premium Insights: A recap of popular AI research papers and research trends in May 2025 by cloud</title>
+<title>May 2025 Research Trend Report</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b3d0ee146c531c2eb57b.html</link>
 <guid isPermaLink="false">combined:b808ade7f9752351418d9efe27db48c2369bfbaf</guid>
 <pubDate>Fri, 06 Jun 2025 18:00:00 +0000</pubDate>
@@ -2386,6 +1896,48 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>AI Research Roundup: Spurious Rewards &amp; Latest Insights Explored</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33e9be7afb69cc73aad7.html</link>
+<guid isPermaLink="false">combined:8414612b774811f04fccd6fbf0a947c74b114b58</guid>
+<pubDate>Tue, 03 Jun 2025 19:55:07 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9" rel="related" type="text/html" />
+<description>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" alt="" /></p><p>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</p><p><a href="https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>How DeepSeek Made The Best Math Prover Ever (+500% vs prev. SoTA)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bc0b698a8187ae082186.html</link>
+<guid isPermaLink="false">combined:7c618f288b08f909451ed66d8e903be68c6e16ff</guid>
+<pubDate>Mon, 19 May 2025 21:00:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/how-deepseek-made-the-best-math-prover-ever" rel="related" type="text/html" />
+<description>Premium Insights: A closer look into the DeepSeek Prover series</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" alt="" /></p><p>Premium Insights: A closer look into the DeepSeek Prover series</p><p><a href="https://mail.bycloud.ai/p/how-deepseek-made-the-best-math-prover-ever">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>DeepSeek-R1 Explained</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a300a46ec630d95bfba1.html</link>
+<guid isPermaLink="false">combined:5f169fc3e891d8508979d23d63a23d2403399787</guid>
+<pubDate>Tue, 28 Jan 2025 20:00:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/agent-laboratory-using-llm-agents-as-research-assistants-e4c862cd437413e4" rel="related" type="text/html" />
+<description>Plus more about self-adaptive transformer proposed by Sakana AI and Kimi k1.5's 128k tokens RL training process</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" alt="" /></p><p>Plus more about self-adaptive transformer proposed by Sakana AI and Kimi k1.5's 128k tokens RL training process</p><p><a href="https://mail.bycloud.ai/p/agent-laboratory-using-llm-agents-as-research-assistants-e4c862cd437413e4">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" medium="image" type="image/png" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
