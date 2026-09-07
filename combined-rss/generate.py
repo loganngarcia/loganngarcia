@@ -573,7 +573,9 @@ def _debug_qwen_current_api():
             if not r.ok:
                 continue
             js = r.text
-            for term in ("article/retrieval", "research-list", "latest-advancements-list"):
+            if "p_research-index.js" in u:
+                print("QWEN_RESEARCH_ROUTE_FULL", js[:50000])
+            for term in ("article/retrieval", "research-list", "latest-advancements-list", "44467"):
                 start = 0
                 while True:
                     p = js.find(term, start)
