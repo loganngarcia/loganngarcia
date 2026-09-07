@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 09:36:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:38:01 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles (Yan Zhuang/New York Times)</title>
@@ -1737,6 +1737,461 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" type="image/jpeg" length="0" />
 </item>
 <item>
+<title>Qwen-Image-Edit-2511: Improve Consistency</title>
+<link>https://qwen.ai/blog?id=qwen-image-edit-2511&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:f05dcdf76190aae37a0f3a59740938bbbcc9a9f6</guid>
+<pubDate>Tue, 23 Dec 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit [Qwen Chat](https://chat.qwen.ai/?inputFeature=image_edit) and select the Image Editing fea</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit [Qwen Chat](https://chat.qwen.ai/?inputFeature=image_edit) and select the Image Editing fea</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS Steps Up: Voice Cloning and Voice Design!</title>
+<link>https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:0e863583b918a088daab9df5f123c78182da727d</guid>
+<pubDate>Mon, 22 Dec 2025 16:00:45 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-TTS** family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the [Qwen API](https://www.alibabacloud.com/help/en/model-studio/qwen-tts-voice-design)) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the [Qwen API](https://www.alibabacloud.</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" alt="" /></p><p>**Qwen3-TTS** family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the [Qwen API](https://www.alibabacloud.com/help/en/model-studio/qwen-tts-voice-design)) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the [Qwen API](https://www.alibabacloud.</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Layered: Layered Decomposition for Inherent Editablity</title>
+<link>https://qwen.ai/blog?id=qwen-image-layered&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:604f8697c1919796562574b0e740bf6ffd4988aa</guid>
+<pubDate>Fri, 19 Dec 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation na</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" alt="" /></p><p>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation na</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen3-Omni-Flash-2025-12-01：Hear You. See You. Follow Smarter!</title>
+<link>https://qwen.ai/blog?id=qwen3-omni-flash-20251201&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:af6734f39e60108165623414908ef8b39acb2c12</guid>
+<pubDate>Mon, 08 Dec 2025 21:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-Omni** is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" alt="" /></p><p>**Qwen3-Omni** is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>SAPO: A Stable and Performant Reinforcement Learning Method for Training Large Language Models</title>
+<link>https://qwen.ai/blog?id=sapo&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:80f2f34b14c60f045bf46538eebaf6a3e3117fe9</guid>
+<pubDate>Thu, 04 Dec 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimizati</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" alt="" /></p><p>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimizati</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS Update! 49 Timbres + 10 Languages + 9 Dialects</title>
+<link>https://qwen.ai/blog?id=qwen3-tts-1128&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:8fcac46a3ba49d678740af43aa492d083ec7d83a</guid>
+<pubDate>Thu, 04 Dec 2025 16:00:04 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available via [Qwen API](https://help.aliyun.com/zh/model-studio/qwen-tts).Major Improvements:Qwen3-TTS offers</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available via [Qwen API](https://help.aliyun.com/zh/model-studio/qwen-tts).Major Improvements:Qwen3-TTS offers</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01Gdt9J71xz0gU7G4bA_!!6000000006513-2-tps-1890-1134.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen DeepResearch: When Inspiration Becomes Its Own Reason</title>
+<link>https://qwen.ai/blog?id=qwen-deepresearch&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:4ccb2519289155a9a3120413722c7e95f30fe4f0</guid>
+<pubDate>Wed, 12 Nov 2025 20:59:26 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>[Click here to experience the latest Qwen DeepResearch](https://chat.qwen.ai/?inputFeature=deep_research)_**How does inspiration die?**_It usually doesn’t die from “not being good enough”, but from being “too much trouble”.When a thought flashes, it’s still fragile and unverified. After a brief mome</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" alt="" /></p><p>[Click here to experience the latest Qwen DeepResearch](https://chat.qwen.ai/?inputFeature=deep_research)_**How does inspiration die?**_It usually doesn’t die from “not being good enough”, but from being “too much trouble”.When a thought flashes, it’s still fragile and unverified. After a brief mome</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01DvbmDu1DeQYSDv1qm_!!6000000000241-2-tps-1890-1134.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Max: Just Scale it</title>
+<link>https://qwen.ai/blog?id=qwen3-max&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:a79ed3f35a7bf873643844d86973b617a01438df</guid>
+<pubDate>Wed, 24 Sep 2025 04:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" alt="" /></p><p>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Max: Just Scale it</title>
+<link>https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:509bbd95457c6dabbdab3c6d4cf49f7157c4fa16</guid>
+<pubDate>Wed, 24 Sep 2025 04:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" alt="" /></p><p>Following the release of the Qwen3-2507 series, we are thrilled to introduce Qwen3-Max — our largest and most capable model to date. The preview version of Qwen3-Max-Instruct currently ranks third on</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3max-banner.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3‑LiveTranslate: Real‑Time Multimodal Interpretation — See It, Hear It, Speak It！</title>
+<link>https://qwen.ai/blog?id=qwen3-livetranslate&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:d413ecad6eadca57fe65d208680c73521c4ffbdc</guid>
+<pubDate>Mon, 22 Sep 2025 23:00:26 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" alt="" /></p><p>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3‑LiveTranslate: Real‑Time Multimodal Interpretation — See It, Hear It, Speak It！</title>
+<link>https://qwen.ai/blog?id=b2de6ae8555599bf3b87eec55a285cdf496b78e4&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:d85555eabac04350e5ccb3b1cc452baf97c8ab63</guid>
+<pubDate>Mon, 22 Sep 2025 23:00:26 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" alt="" /></p><p>**Qwen3‑LiveTranslate‑Flash** delivers high‑precision, lightning‑fast and ultra‑reliable real‑time multilingual audio and video interpretation. With the extensive capabilities of Qwen3‑Omni and traini</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-LiveTranslate-Flash/blog_pic_without_subtitles(1).png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</title>
+<link>https://qwen.ai/blog?id=qwen3-vl&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:511003123b93a252fc022deac4bd9c098f8ee798</guid>
+<pubDate>Mon, 22 Sep 2025 22:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" alt="" /></p><p>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</title>
+<link>https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:50e331ad866b15fdde859785691cd81508bb56f7</guid>
+<pubDate>Mon, 22 Sep 2025 22:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" alt="" /></p><p>Today, we officially launch the all-new Qwen3-VL series — the most powerful vision-language model in the Qwen family to date. In this generation, we’ve made major improvements across multiple dimensio</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl-head.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Travel Planner: Your Smart Travel Designer</title>
+<link>https://qwen.ai/blog?id=agent&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:d8fb26a7baf52164dd03a098fb6f761f9ae0610f</guid>
+<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Travel Planner: Your Smart Travel Designer</title>
+<link>https://qwen.ai/blog?id=6228c39fa97ce1a9e65f9e7ce98787a743007fe4&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:66d81c05169379716d9d978fdc4f0ff143138737</guid>
+<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
+<link>https://qwen.ai/blog?id=3e4179176f4f2b028b342fb0193c192046ca291b&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:d72c0d3a3a777766660d33ca90c28607eae3fcf2</guid>
+<pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" alt="" /></p><p>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" />
+<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
+<link>https://qwen.ai/blog?id=qwen3guard&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:c5172a915c534f1fa8eff5f650d12041c4a6f9c0</guid>
+<pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" alt="" /></p><p>We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" />
+<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3Guard/banner.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Edit-2509: Multi-Image Support, Improved Consistency</title>
+<link>https://qwen.ai/blog?id=qwen-image-edit-2509&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:679c342b8cf18de46a2dea978599395dc316ce47</guid>
+<pubDate>Mon, 22 Sep 2025 16:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" alt="" /></p><p>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Edit-2509: Multi-Image Support，Improved Consistency</title>
+<link>https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd93&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:296060faf68a52114738546e1a1e3967002fce9b</guid>
+<pubDate>Mon, 22 Sep 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" alt="" /></p><p>This September, we are pleased to introduce Qwen-Image-Edit-2509, the monthly iteration of Qwen-Image-Edit. To experience the latest model, please visit [Qwen Chat](https://qwen.ai) and select the "I</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit2509/edit2509_top.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen3-Omni: Natively Omni-Modal Foundation Models!</title>
+<link>https://qwen.ai/blog?id=qwen3-omni&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:bccd4733c173c100bf7af25a1277dd58889c9c18</guid>
+<pubDate>Sun, 21 Sep 2025 21:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" alt="" /></p><p>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Omni: Natively Omni-Modal Foundation Models!</title>
+<link>https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:c5b415cf5e4b3a23465c64dd0064dcbd65386c5a</guid>
+<pubDate>Sun, 21 Sep 2025 21:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" alt="" /></p><p>**Qwen3-Omni** is the natively end-to-end multilingual omni model. It processes text, images, audio, and video, and delivers real-time streaming responses in both text and natural speech. We introduce</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Omni/q3o.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
+<link>https://qwen.ai/blog?id=qwen3-tts&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:3c2962ac20dc202206eab933258dbc75d2068ed7</guid>
+<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
+<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p>]]></content:encoded>
+<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
+<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
+<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
+<link>https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:a56d254c9c2a4572080c9656e39a591ae3145ccf</guid>
+<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
+<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p>]]></content:encoded>
+<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
+<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
+<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
+<link>https://qwen.ai/blog?id=qwen3-next&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:901ef93c746452f296b2a32e56216bf03698395d</guid>
+<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
+<link>https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:e1a7db9bbe08aa038081b99f2e45bf03f76cdf1e</guid>
+<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
+<link>https://qwen.ai/blog?id=qwen3-asr-flash&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:60a1cd82581affa8b7621c503c86ad6d6b4aa3b8</guid>
+<pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" alt="" /></p><p>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" />
+<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
+<link>https://qwen.ai/blog?id=41e4c0f6175f9b004a03a07e42343eaaf48329e7&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:ffda26299704eca82a0b8e19719372876281cb74</guid>
+<pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" alt="" /></p><p>We introduce Qwen3-ASR-Flash, a speech recognition service built upon the strong intelligence of Qwen3-Omni and large amount of multi-modal data especially ASR data on the scale of tens of millions ho</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" />
+<enclosure url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR/qwenasr-bear2.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Edit: Image Editing with Higher Quality and Efficiency</title>
+<link>https://qwen.ai/blog?id=qwen-image-edit&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:9b8f58ab1c29c3ad6981726aa028c6b3bbda7df4</guid>
+<pubDate>Mon, 18 Aug 2025 17:30:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Edit: Image Editing with Higher Quality and Efficiency</title>
+<link>https://qwen.ai/blog?id=3658ef85328511103029b904cb0f3fda78187735&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:f481ef974b613e973deb8410bb0be23383af974e</guid>
+<pubDate>Mon, 18 Aug 2025 17:30:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image's unique text rendering capab</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/edit_homepage.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image: Crafting with Native Text Rendering</title>
+<link>https://qwen.ai/blog?id=qwen-image&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:ae80cc84b5566b95991dc929d93bacb87bdd7ae4</guid>
+<pubDate>Mon, 04 Aug 2025 14:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" alt="" /></p><p>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image: Crafting with Native Text Rendering</title>
+<link>https://qwen.ai/blog?id=51eec55b76cc7760326919ad5ab4987823ca3a4f&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:a3d96208ef010ea09d5d49ef71035bfb531b55ab</guid>
+<pubDate>Mon, 04 Aug 2025 14:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" alt="" /></p><p>We are thrilled to release **Qwen-Image**, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-Image/merge3.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>GSPO: Towards Scalable Reinforcement Learning for Language Models</title>
+<link>https://qwen.ai/blog?id=gspo&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:397e6883bfa281232c8d62ccc6cc5dbe6c9b5293</guid>
+<pubDate>Sun, 27 Jul 2025 07:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" alt="" /></p><p>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>GSPO: Towards Scalable Reinforcement Learning for Language Models</title>
+<link>https://qwen.ai/blog?id=b42c93786a6c8dbf729ec3a41636fda88b04d6e9&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:9c6389cdb6239ba0d9dd8df7605a1760702b7e26</guid>
+<pubDate>Sun, 27 Jul 2025 07:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" alt="" /></p><p>Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/results.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-MT: Where Speed Meets Smart Translation</title>
+<link>https://qwen.ai/blog?id=qwen-mt&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:4325cb93104cf653d19008a48a41a741719e9b3f</guid>
+<pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" alt="" /></p><p>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-MT: Where Speed Meets Smart Translation</title>
+<link>https://qwen.ai/blog?id=d3913d3fad8cd06ee020225844573b31de982e19&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:d465776e9d191b79aa1e15f84d70d837b8c4d0e6</guid>
+<pubDate>Thu, 24 Jul 2025 14:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" alt="" /></p><p>Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via [Qwen API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&amp;url=https://www.alibabacloud.com/help/en/doc-detail</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen-mt-001.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
 <title>/ Jun 17, 2025 LLM That Can Modify Itself? Plus more about "The Diffusion Duality" and "Reinforcement Pre-Training" by cloud</title>
 <link>https://mail.bycloud.ai/p/self-adapting-lms</link>
 <guid isPermaLink="false">combined:69ee61e78a0f2f4576c8768d4c0b82c2b86a20c5</guid>
@@ -1761,58 +2216,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>/ Jun 3, 2025 A Shocking RLVR Revelation For LLM Just Dropped Read about "Rethinking Training Signals in RLVR", why LLMs are headless chickens, and "Learning to Reason without External Rewards" by cloud</title>
-<link>https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9</link>
-<guid isPermaLink="false">combined:8414612b774811f04fccd6fbf0a947c74b114b58</guid>
-<pubDate>Tue, 03 Jun 2025 19:55:07 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<description>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" alt="" /></p><p>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Premium Insights / May 19, 2025 How DeepSeek Made The Best Math Prover Ever (+500% vs prev. SoTA) Premium Insights: A closer look into the DeepSeek Prover series by cloud, +1</title>
-<link>https://mail.bycloud.ai/p/how-deepseek-made-the-best-math-prover-ever</link>
-<guid isPermaLink="false">combined:7c618f288b08f909451ed66d8e903be68c6e16ff</guid>
-<pubDate>Mon, 19 May 2025 21:00:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<description>Premium Insights: A closer look into the DeepSeek Prover series</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" alt="" /></p><p>Premium Insights: A closer look into the DeepSeek Prover series</p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>/ Jan 28, 2025 DeepSeek-R1 Explained Plus more about Transformer2 and Kimi k1.5 by cloud</title>
-<link>https://mail.bycloud.ai/p/agent-laboratory-using-llm-agents-as-research-assistants-e4c862cd437413e4</link>
-<guid isPermaLink="false">combined:5f169fc3e891d8508979d23d63a23d2403399787</guid>
-<pubDate>Tue, 28 Jan 2025 20:00:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<description>Plus more about self-adaptive transformer proposed by Sakana AI and Kimi k1.5's 128k tokens RL training process</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" alt="" /></p><p>Plus more about self-adaptive transformer proposed by Sakana AI and Kimi k1.5's 128k tokens RL training process</p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" medium="image" type="image/png" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/dee96cff-a727-4102-be41-966ae86cef6f/issue_40.png?t=1738091262" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen Studio</title>
-<link>https://qwen.ai/blog?id=qwen3.8</link>
-<guid isPermaLink="false">combined:3a69b23a2b25dcd26d2abf844975e8b3100a7317</guid>
-<pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<description>Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" alt="" /></p><p>Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
