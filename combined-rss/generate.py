@@ -616,7 +616,26 @@ def discover_qwen():
             soup = BeautifulSoup(text, "html.parser")
             if page in {"https://qwen.ai/research", "https://qwen.ai/home"}:
                 scripts = [absolute(page, tag.get("src")) for tag in soup.find_all("script", src=True)]
-                print(f"QWEN DEBUG {page} html_len={len(text)} scripts={scripts[:20]}")
+                print(f"QWEN DEBUG {page} html_len={len(text)} scripts={scripts[:30]}")
+                if page == "https://qwen.ai/research":
+                    for src in scripts[:30]:
+                        try:
+                            jsr = SESSION.get(src, timeout=15)
+                            if not jsr.ok:
+                                continue
+                            js = jsr.text
+                        except requests.RequestException:
+                            continue
+                        hits = []
+                        for keyword in ("research-list", "latest-advancements", "researchList", "blogList", "publication"):
+                            pos2 = js.find(keyword)
+                            if pos2 >= 0:
+                                hits.append((keyword, re.sub(r"\\s+", " ", js[max(0,pos2-600):pos2+1200])[:1800]))
+                        api_paths = list(dict.fromkeys(re.findall(r'[/][A-Za-z0-9._~%+\\-/]*(?:api|research|blog)[A-Za-z0-9._~%+\\-/?=&]*', js, flags=re.I)))[:25]
+                        if hits or api_paths:
+                            print(f"QWEN JS DEBUG src={src} len={len(js)} api_paths={api_paths}")
+                            for kw2, snip2 in hits[:5]:
+                                print(f"QWEN JS DEBUG keyword={kw2}: {snip2}")
                 for keyword in ("research-list", "latest-advancements", "/api/", "research"):
                     pos = text.lower().find(keyword.lower())
                     if pos >= 0:
