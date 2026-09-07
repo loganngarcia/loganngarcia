@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 19:08:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 22:00:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Supply Chain Rumors Hint at Massive Optimus Order as Fremont Production Line Ramps Up</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac0c6da549b1729d638b.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/supply-chain-rumors-hint-at-massive-optimus-order-as-fremont-production-line-ramps-up</guid>
+<pubDate>Mon, 07 Sep 2026 20:53:35 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/supply-chain-rumors-hint-at-massive-optimus-order-as-fremont-production-line-ramps-up" rel="related" type="text/html" />
+<description>Chinese supply chain reports suggest Tesla has placed bulk component orders for roughly 5,000 Optimus units, fueling speculation about the humanoid robot’s path to commercial scale.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-diner.webp" alt="" /></p><p>Chinese supply chain reports suggest Tesla has placed bulk component orders for roughly 5,000 Optimus units, fueling speculation about the humanoid robot’s path to commercial scale.</p><p><a href="https://www.humanoidsdaily.com/news/supply-chain-rumors-hint-at-massive-optimus-order-as-fremont-production-line-ramps-up">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-diner.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-diner.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-diner.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Unitree Unveils UnifoLM-X2: World Model AI Powers Fully Autonomous Robot Combat</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/080c50e6a8f7d72aa0f5.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-unveils-unifolm-x2-world-model-ai-powers-fully-autonomous-robot-combat</guid>
+<pubDate>Mon, 07 Sep 2026 19:05:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/unitree-unveils-unifolm-x2-world-model-ai-powers-fully-autonomous-robot-combat" rel="related" type="text/html" />
+<description>Unitree Robotics has demonstrated its G1 humanoid sparring autonomously against a human, using the UnifoLM-X2-1.0 predictive world model to ditch teleoperation in high-speed combat.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-autonomous-fighting.webp" alt="" /></p><p>Unitree Robotics has demonstrated its G1 humanoid sparring autonomously against a human, using the UnifoLM-X2-1.0 predictive world model to ditch teleoperation in high-speed combat.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-unveils-unifolm-x2-world-model-ai-powers-fully-autonomous-robot-combat">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-autonomous-fighting.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-autonomous-fighting.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-autonomous-fighting.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Agility's Numbers Are In: $1.8M in Sales, a $138M Loss, and a Backlog Owed to an Insider</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/11cbe88a5640dfefa07b.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>AdaPT Bridges Sim-to-Real to Teach Humanoids the Tennis Styles of Federer, Nadal, and Djokovic</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/40d4cc382e0bad240fcb.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/adapt-bridges-sim-to-real-to-teach-humanoids-the-tennis-styles-of-federer-nadal-and-djokovic</guid>
-<pubDate>Mon, 24 Aug 2026 20:34:45 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/adapt-bridges-sim-to-real-to-teach-humanoids-the-tennis-styles-of-federer-nadal-and-djokovic" rel="related" type="text/html" />
-<description>Researchers from Shanghai AI Lab, Dobot, SJTU, and Noitom introduce AdaPT, an adaptive planning and tracking framework that extracts stylized tennis rallying and serving from broadcast footage.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" alt="" /></p><p>Researchers from Shanghai AI Lab, Dobot, SJTU, and Noitom introduce AdaPT, an adaptive planning and tracking framework that extracts stylized tennis rallying and serving from broadcast footage.</p><p><a href="https://www.humanoidsdaily.com/news/adapt-bridges-sim-to-real-to-teach-humanoids-the-tennis-styles-of-federer-nadal-and-djokovic">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Figure AI Demonstrates 15-Foot Autonomous Ladder Ascent and Descent for Industrial Mezzanines</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/401da520224a4ef91d7b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-ai-demonstrates-15-foot-autonomous-ladder-ascent-and-descent-for-industrial-mezzanines</guid>
-<pubDate>Mon, 24 Aug 2026 20:04:48 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/figure-ai-demonstrates-15-foot-autonomous-ladder-ascent-and-descent-for-industrial-mezzanines" rel="related" type="text/html" />
-<description>Figure CEO Brett Adcock shared video of a Figure 03 humanoid autonomously climbing up and down a 15-foot ladder, confirming the vertical locomotion milestone maps directly to an active customer use case.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" alt="" /></p><p>Figure CEO Brett Adcock shared video of a Figure 03 humanoid autonomously climbing up and down a 15-foot ladder, confirming the vertical locomotion milestone maps directly to an active customer use case.</p><p><a href="https://www.humanoidsdaily.com/news/figure-ai-demonstrates-15-foot-autonomous-ladder-ascent-and-descent-for-industrial-mezzanines">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
