@@ -1,51 +1,899 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Techmeme One Click</title>
 <link>https://www.techmeme.com/river</link>
-<description>Techmeme headlines that open the original publisher directly.</description>
+<description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 08:30:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:06:53 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
 <item>
-<title>A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles</title>
-<link>https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html?smid=url-share&amp;unlocked_article_code=1._FA.TggZ.ToSN6hQurMmD</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html</guid>
+<title>A record 12.7M graduates are entering China&#x27;s workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles (Yan Zhuang/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html?unlocked_article_code=1._FA.TggZ.ToSN6hQurMmD&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muw2eoxovn27</guid>
+<pubDate>Mon, 07 Sep 2026 08:05:36 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 <item>
-<title>LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M</title>
+<title>LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M (Reuters)</title>
 <link>https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/</link>
-<guid isPermaLink="true">https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvrgltmb427</guid>
+<pubDate>Mon, 07 Sep 2026 05:25:36 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 <item>
-<title>An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more</title>
+<title>An in-depth look at OpenAI&#x27;s wiki incident: other hacked message boards, OpenAI&#x27;s cover-up, how harmless web search tasks led agents to break out, and more (Zvi Mowshowitz/Don&#x27;t Worry About the Vase)</title>
 <link>https://thezvi.substack.com/p/openai-and-the-wiki-incident</link>
-<guid isPermaLink="true">https://thezvi.substack.com/p/openai-and-the-wiki-incident</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvqmegx7m2w</guid>
+<pubDate>Mon, 07 Sep 2026 05:10:56 +0000</pubDate>
+<description>From thezvi.substack.com</description>
+<content:encoded><![CDATA[<p>From thezvi.substack.com</p>]]></content:encoded>
 </item>
 <item>
-<title>Blockstream's Liquid Network halts new transactions after purported white-hat hackers withdrew about 4,000 of the 4,200 bitcoin held in its federation wallet</title>
+<title>Blockstream&#x27;s Liquid Network halts new transactions after &quot;purported white-hat hackers&quot; withdrew ~4,000 of the 4,200 bitcoin held in its federation wallet (Omkar Godbole/CoinDesk)</title>
 <link>https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys</link>
-<guid isPermaLink="true">https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvq36a4ta2k</guid>
+<pubDate>Mon, 07 Sep 2026 05:01:19 +0000</pubDate>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
-<title>How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex</title>
-<link>https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f?reflink=desktopwebshare_permalink&amp;st=CnE73f</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f</guid>
+<title>Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls (Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/technology/artificial-intelligence/us-and-china-eye-trump-xi-talks-on-ai-guardrails-despite-tech-rift</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvjv544wz2k</guid>
+<pubDate>Mon, 07 Sep 2026 03:10:34 +0000</pubDate>
+<description>Silicon Valley insiders float ideas but skepticism over cooperation persists</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F1%2F9%2F13059166-1-eng-GB%2F4222fce30946-2026-09-04T163024Z_1591986925_RC2P8LA5KTXE_RTRMADP_3_USA-CHINA-AI.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" alt="" /></p><p>Silicon Valley insiders float ideas but skepticism over cooperation persists</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F1%2F9%2F13059166-1-eng-GB%2F4222fce30946-2026-09-04T163024Z_1591986925_RC2P8LA5KTXE_RTRMADP_3_USA-CHINA-AI.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F6%2F1%2F9%2F13059166-1-eng-GB%2F4222fce30946-2026-09-04T163024Z_1591986925_RC2P8LA5KTXE_RTRMADP_3_USA-CHINA-AI.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" />
 </item>
 <item>
-<title>Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy</title>
+<title>How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex (Hannah Erin Lang/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f?st=CnE73f&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvhxcrbv52n</guid>
+<pubDate>Mon, 07 Sep 2026 02:36:00 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muvbsio6q724</guid>
+<pubDate>Mon, 07 Sep 2026 00:45:56 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)</title>
 <link>https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8</link>
-<guid isPermaLink="true">https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muv52aadlz2s</guid>
+<pubDate>Sun, 06 Sep 2026 23:20:46 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 <item>
-<title>OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace</title>
+<title>OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)</title>
 <link>https://openai.com/index/an-alien-mind/</link>
-<guid isPermaLink="true">https://openai.com/index/an-alien-mind/</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muutaxtlp32s</guid>
+<pubDate>Sun, 06 Sep 2026 20:25:35 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
 </item>
 <item>
-<title>Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade</title>
+<title>Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)</title>
 <link>https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months</link>
-<guid isPermaLink="true">https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months</guid>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muuq6vi7f62e</guid>
+<pubDate>Sun, 06 Sep 2026 19:30:44 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says it hit its &quot;automated research intern&quot; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)</title>
+<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muuojtc5v222</guid>
+<pubDate>Sun, 06 Sep 2026 19:01:04 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tim Cook&#x27;s pay package indicates he will remain very active at Apple; sources: Apple&#x27;s plans to squeeze more App Store profits prompted Phil Schiller to leave (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muuc7joiee2n</guid>
+<pubDate>Sun, 06 Sep 2026 15:20:33 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How AI gutted Kenya&#x27;s essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students&#x27; homework, leaving few paths back to work (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mutx5hpkia2n</guid>
+<pubDate>Sun, 06 Sep 2026 12:02:33 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies (Philip Wegmann/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048?st=DEHJjr&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mutcxmmktt2e</guid>
+<pubDate>Sun, 06 Sep 2026 06:01:22 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Travis Kalanick&#x27;s Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)</title>
+<link>https://www.ft.com/content/8a708224-3a37-4d23-9f5c-158a73216018</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mut732omk327</guid>
+<pubDate>Sun, 06 Sep 2026 04:51:42 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)</title>
+<link>https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mut6hnkjhl2r</guid>
+<pubDate>Sun, 06 Sep 2026 04:40:51 +0000</pubDate>
+<description>It&#x27;s unclear what delayed OpenAI&#x27;s official blog post on Astra. But when it did appear, some performance figures had changed in Astra&#x27;s favor.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292640403-e1788541880552.jpg?resize=1200,600" alt="" /></p><p>It&#x27;s unclear what delayed OpenAI&#x27;s official blog post on Astra. But when it did appear, some performance figures had changed in Astra&#x27;s favor.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292640403-e1788541880552.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292640403-e1788541880552.jpg?resize=1200,600" />
+</item>
+<item>
+<title>The data center backlash is challenging Texas&#x27; pro-business approach; Wood Mackenzie: Texas has more data center capacity under construction than any US state (Stephanie Findlay/Financial Times)</title>
+<link>https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?accessToken=zwAAAaBq_GUskdP_9TH8mIxAFtObWyXyJ09NRw.MEYCIQD09lhipznFC83rVxTx4ztMI_rtYxuK-2xpbJltH0yV8AIhALEtjnwE4yew40b3WfYJRD1cEh2sBy9ecksnl-0qFESV&amp;sharetype=gift&amp;token=2310df83-b6ea-4b36-9b05-d4b985b00bbf&amp;syn-25a6b1a6=1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muszgmdqbz2e</guid>
+<pubDate>Sun, 06 Sep 2026 03:10:47 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3musouzmrqb2e</guid>
+<pubDate>Sun, 06 Sep 2026 00:02:00 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)</title>
+<link>https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3museaxq6cl2s</guid>
+<pubDate>Sat, 05 Sep 2026 20:51:49 +0000</pubDate>
+<description>Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday to accuse the Redmond tech giant and OpenAI of using their journalism to train their artificial intelligence models.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/49348632791_628d4b4b21_o-1260x840.jpg" alt="" /></p><p>Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday to accuse the Redmond tech giant and OpenAI of using their journalism to train their artificial intelligence models.</p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/49348632791_628d4b4b21_o-1260x840.jpg" medium="image" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/49348632791_628d4b4b21_o-1260x840.jpg" />
+</item>
+<item>
+<title>Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &quot;very seriously&quot; (ABC News)</title>
+<link>https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3musdnq6exw2d</guid>
+<pubDate>Sat, 05 Sep 2026 20:41:04 +0000</pubDate>
+<description>The White House announced the launch of what it called &quot;Arcade.gov,&quot; a website of five versions of classic computer games promoting the president&#x27;s agenda.</description>
+<content:encoded><![CDATA[<p><img src="https://i.abcnewsfe.com/a/b9ad5c3c-a57a-48bf-ac13-52ce6b6e9a19/trump-arcade_1788564926909_hpMain_16x9.jpg?w=1600" alt="" /></p><p>The White House announced the launch of what it called &quot;Arcade.gov,&quot; a website of five versions of classic computer games promoting the president&#x27;s agenda.</p>]]></content:encoded>
+<media:content url="https://i.abcnewsfe.com/a/b9ad5c3c-a57a-48bf-ac13-52ce6b6e9a19/trump-arcade_1788564926909_hpMain_16x9.jpg?w=1600" medium="image" />
+<media:thumbnail url="https://i.abcnewsfe.com/a/b9ad5c3c-a57a-48bf-ac13-52ce6b6e9a19/trump-arcade_1788564926909_hpMain_16x9.jpg?w=1600" />
+</item>
+<item>
+<title>Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas (Jean Eaglesham/Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/the-next-big-opportunity-in-data-centers-insuring-them-f133f3cb</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3musalddtej24</guid>
+<pubDate>Sat, 05 Sep 2026 19:46:02 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Berlin is reviewing Rhysida&#x27;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)</title>
+<link>https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3murz2mbyxk24</guid>
+<pubDate>Sat, 05 Sep 2026 17:31:25 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3murwjlmhad26</guid>
+<pubDate>Sat, 05 Sep 2026 16:46:06 +0000</pubDate>
+<description>The internet fights over anthropomorphism around the Hugging Face hack.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The internet fights over anthropomorphism around the Hugging Face hack.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles (Kinling Lo/Rest of World)</title>
+<link>https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3murfrbdqsx24</guid>
+<pubDate>Sat, 05 Sep 2026 11:46:10 +0000</pubDate>
+<description>Five unexpected ways computing power is entering everyday life in the country.</description>
+<content:encoded><![CDATA[<p><img src="https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg" alt="" /></p><p>Five unexpected ways computing power is entering everyday life in the country.</p>]]></content:encoded>
+<media:content url="https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg" medium="image" />
+<media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg" />
+</item>
+<item>
+<title>In response to the &quot;wiki incident&quot;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)</title>
+<link>https://x.com/openai/status/2096133504417616165</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqxsas3da22</guid>
+<pubDate>Sat, 05 Sep 2026 07:36:11 +0000</pubDate>
+<description>How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models. Historically, we have treated misalignment largely as a research que…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HRb1iJXbsAADtBM.jpg:large" alt="" /></p><p>How we think about the “wiki incident,” where our agents wrote to several internet sites: it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models. Historically, we have treated misalignment largely as a research que…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HRb1iJXbsAADtBM.jpg:large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HRb1iJXbsAADtBM.jpg:large" />
+</item>
+<item>
+<title>Q&amp;A with Kai-Fu Lee on China&#x27;s open-model advantage, AI&#x27;s impact on jobs, US export restrictions on chips, Chinese AI&#x27;s role in developing countries, and more (Mishal Husain/Bloomberg)</title>
+<link>https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muquz2dpab2n</guid>
+<pubDate>Sat, 05 Sep 2026 06:46:18 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: Betaworks has a 5.5% stake in Hugging Face, worth ~$650M at its $11.9B acquisition price for stockholders; A.Capital says it could bag $1.5B on the sale (Yuliya Chernova/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/betaworks-scores-with-hugging-face-deal-f359e3ec</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muquhecqxx2n</guid>
+<pubDate>Sat, 05 Sep 2026 06:36:24 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)</title>
+<link>https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqsrjexni2y</guid>
+<pubDate>Sat, 05 Sep 2026 06:06:18 +0000</pubDate>
+<description>A once-overlooked block of unicode that&#x27;s invisible to humans is gaining ever wider use.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg" alt="" /></p><p>A once-overlooked block of unicode that&#x27;s invisible to humans is gaining ever wider use.</p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg" medium="image" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg" />
+</item>
+<item>
+<title>The US and UK sign an MOU to investigate and share info on organized crime syndicates behind online scam centers, many of which are based in Southeast Asia (Jonathan Greig/The Record)</title>
+<link>https://therecord.media/scam-compounds-coordination-us-uk-memorandum</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqrmy5lvg27</guid>
+<pubDate>Sat, 05 Sep 2026 05:45:51 +0000</pubDate>
+<description>The U.S. Department of Justice and the U.K.&#x27;s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.</description>
+<content:encoded><![CDATA[<p><img src="https://cms.therecord.media/uploads/us_uk_flags_walter_martin_unsplash_66f0fdc82e.jpg" alt="" /></p><p>The U.S. Department of Justice and the U.K.&#x27;s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.</p>]]></content:encoded>
+<media:content url="https://cms.therecord.media/uploads/us_uk_flags_walter_martin_unsplash_66f0fdc82e.jpg" medium="image" />
+<media:thumbnail url="https://cms.therecord.media/uploads/us_uk_flags_walter_martin_unsplash_66f0fdc82e.jpg" />
+</item>
+<item>
+<title>Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity (Eve Bender/MobiHealthNews)</title>
+<link>https://www.mobihealthnews.com/news/scancom-secures-220m-us-medical-imaging-expansion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqpoo3vj32y</guid>
+<pubDate>Sat, 05 Sep 2026 05:11:01 +0000</pubDate>
+<description>From www.mobihealthnews.com</description>
+<content:encoded><![CDATA[<p>From www.mobihealthnews.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B (Moneycontrol)</title>
+<link>https://www.moneycontrol.com/news/business/startup/slice-raises-100-million-from-neo-wealth-kado-global-and-moore-strategic-ventures-at-lower-valuation-of-450-million-14021886.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqmd6iz3726</guid>
+<pubDate>Sat, 05 Sep 2026 04:10:54 +0000</pubDate>
+<description>The downround, which marks a nearly 70% correction from Slice’s earlier valuation, comes after funding talks with Accel, Elevation Capital and Peak XV Partners, as reported by Moneycontrol, failed to materialise.</description>
+<content:encoded><![CDATA[<p><img src="https://images.moneycontrol.com/static-mcnews/2024/08/20240820064936_VIG03924-1-1.jpg" alt="" /></p><p>The downround, which marks a nearly 70% correction from Slice’s earlier valuation, comes after funding talks with Accel, Elevation Capital and Peak XV Partners, as reported by Moneycontrol, failed to materialise.</p>]]></content:encoded>
+<media:content url="https://images.moneycontrol.com/static-mcnews/2024/08/20240820064936_VIG03924-1-1.jpg" medium="image" />
+<media:thumbnail url="https://images.moneycontrol.com/static-mcnews/2024/08/20240820064936_VIG03924-1-1.jpg" />
+</item>
+<item>
+<title>Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#x27;s sandboxed renderer process (Bill Toulas/BleepingComputer)</title>
+<link>https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqbra4ckr2r</guid>
+<pubDate>Sat, 05 Sep 2026 01:01:54 +0000</pubDate>
+<description>Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg" alt="" /></p><p>Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities.</p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg" medium="image" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg" />
+</item>
+<item>
+<title>Sources: US negotiators used the promise of access to Nvidia&#x27;s chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year (Robbie Whelan/Wall Street Journal)</title>
+<link>https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?st=WcCKED</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muqad2rqed27</guid>
+<pubDate>Sat, 05 Sep 2026 00:36:05 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content (Lauren Feiner/The Verge)</title>
+<link>https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muq6vshyt52s</guid>
+<pubDate>Sat, 05 Sep 2026 00:10:47 +0000</pubDate>
+<description>Publishers and authors are suing Microsoft and OpenAI on copyright grounds.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Publishers and authors are suing Microsoft and OpenAI on copyright grounds.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Nvidia says it plans to bring DLSS 5 to older RTX 40-series GPUs &quot;once RTX 50 Series performance is more fully tuned&quot; (Sean Hollister/The Verge)</title>
+<link>https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE&amp;utm_medium=gift-link</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muq6niqt722y</guid>
+<pubDate>Sat, 05 Sep 2026 00:06:08 +0000</pubDate>
+<description>The cat is out of the bag.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.471204188482%2C100%2C79.057591623037&amp;w=1200" alt="" /></p><p>The cat is out of the bag.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.471204188482%2C100%2C79.057591623037&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.471204188482%2C100%2C79.057591623037&amp;w=1200" />
+</item>
+<item>
+<title>Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side (Laurie Chen/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muq45kkrdj2w</guid>
+<pubDate>Fri, 04 Sep 2026 23:21:26 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November (Echo Wang/Reuters)</title>
+<link>https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muq2q22dji22</guid>
+<pubDate>Fri, 04 Sep 2026 22:55:58 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)</title>
+<link>https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupxeqgoxt2s</guid>
+<pubDate>Fri, 04 Sep 2026 21:55:58 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines&#x27; data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupuu43epl22</guid>
+<pubDate>Fri, 04 Sep 2026 21:10:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says Claude worked &quot;largely autonomously&quot; over 11 days to formalize the proof of Fermat&#x27;s Last Theorem in the Lean programming language (Anthropic)</title>
+<link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupsvnozjx2u</guid>
+<pubDate>Fri, 04 Sep 2026 20:35:57 +0000</pubDate>
+<description>Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg" alt="" /></p><p>Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg" />
+</item>
+<item>
+<title>Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupqf5kxco27</guid>
+<pubDate>Fri, 04 Sep 2026 19:50:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans (Zac Hall/9to5Mac)</title>
+<link>https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupnus3uck2b</guid>
+<pubDate>Fri, 04 Sep 2026 19:05:59 +0000</pubDate>
+<description>Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan....</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" alt="" /></p><p>Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan....</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" />
+</item>
+<item>
+<title>Report: OpenAI learned of the DseWiki German website incident weeks ago but kept it under wraps as it grappled with the Hugging Face fallout (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupn5z6xzn2y</guid>
+<pubDate>Fri, 04 Sep 2026 18:53:15 +0000</pubDate>
+<description>OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
+</item>
+<item>
+<title>OpenAI says it can&#x27;t read all of Astra&#x27;s reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world&#x27;s most aligned model (Celia Ford/Transformer)</title>
+<link>https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupled64a52v</guid>
+<pubDate>Fri, 04 Sep 2026 18:20:59 +0000</pubDate>
+<description>OpenAI is hailing its new model as “the world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" alt="" /></p><p>OpenAI is hailing its new model as “the world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" />
+</item>
+<item>
+<title>A profile of John Ternus, the first product engineer to lead Apple; sources: Tim Cook considered how to execute perfect succession since his early days as CEO (Michael Acton/Financial Times)</title>
+<link>https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupibnkbzc2s</guid>
+<pubDate>Fri, 04 Sep 2026 17:25:48 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)</title>
+<link>https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupf7xoe7p2v</guid>
+<pubDate>Fri, 04 Sep 2026 16:31:10 +0000</pubDate>
+<description>CEO Tom Conrad on cleaning up Sonos’ app redesign mess and turning a speaker company into a software platform.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>CEO Tom Conrad on cleaning up Sonos’ app redesign mess and turning a speaker company into a software platform.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal&#x27;s autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)</title>
+<link>https://somethingbig.ai/astra-review</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupcfvgh5f2j</guid>
+<pubDate>Fri, 04 Sep 2026 15:40:48 +0000</pubDate>
+<description>Matt Shumer’s hands-on GPT-6 Astra review: everyday engineering, computer use, ambitious game-world experiments, and the Manager Loop coordination setup.</description>
+<content:encoded><![CDATA[<p><img src="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" alt="" /></p><p>Matt Shumer’s hands-on GPT-6 Astra review: everyday engineering, computer use, ambitious game-world experiments, and the Manager Loop coordination setup.</p>]]></content:encoded>
+<media:content url="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" medium="image" />
+<media:thumbnail url="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" />
+</item>
+<item>
+<title>Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupbdkjqpt2l</guid>
+<pubDate>Fri, 04 Sep 2026 15:21:36 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>PUBG developer Krafton plans to invest $250M in India in the next 3-4 years, for a total investment of $500M+ since 2021, as it expands into AI and robotics (Jagmeet Singh/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupaz5ypzd27</guid>
+<pubDate>Fri, 04 Sep 2026 15:15:47 +0000</pubDate>
+<description>Krafton&#x27;s planned investment in India is set to surpass $500 million with its latest commitment.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" alt="" /></p><p>Krafton&#x27;s planned investment in India is set to surpass $500 million with its latest commitment.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" />
+</item>
+<item>
+<title>By declaring GPT-6 Astra to be AGI, OpenAI is being flippant and cementing the term&#x27;s status as nothing more than marketing (M.G. Siegler/Spyglass)</title>
+<link>https://spyglass.org/agi-2026/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupahdknqg2d</guid>
+<pubDate>Fri, 04 Sep 2026 15:05:49 +0000</pubDate>
+<description>With &#x27;GPT-6 Astra&#x27;, AGI is here! Congrats, everyone!</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" alt="" /></p><p>With &#x27;GPT-6 Astra&#x27;, AGI is here! Congrats, everyone!</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" />
+</item>
+<item>
+<title>How OpenAI limited METR&#x27;s probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?unlocked_article_code=1.-lA.hbw8.4sMxBQlKEu2a&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mup6inunwj2v</guid>
+<pubDate>Fri, 04 Sep 2026 14:30:46 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>What to expect from Apple&#x27;s September 9 &quot;Surprise and Shine&quot; event: foldable iPhone, iPhone 18 Pro and Pro Max, Apple Watch refresh with ceramic cases, and more (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/what-to-expect-at-sept-9-apple-event-foldable-iphone-iphone-18-pro-watch?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODUyODY3MiwiZXhwIjoxNzg5MTMzNDcyLCJhcnRpY2xlSWQiOiJUS1VDNFlOM04wQUUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FcaFtdv4uwkRzS9XTNpZAW_xehoawqChWiTKXZwO5cI</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mup4b4lvyo2a</guid>
+<pubDate>Fri, 04 Sep 2026 13:50:45 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Artificial Analysis Coding Agent Index: GPT-6 Astra scored 67, roughly equal to Claude Opus 5, Fable 5, and Muse Spark 1.3, but trailing leader Fable 5.1&#x27;s 70 (Artificial Analysis)</title>
+<link>https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muozzqii4z2j</guid>
+<pubDate>Fri, 04 Sep 2026 13:10:50 +0000</pubDate>
+<description>GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/3d308ecf6306e8dfebe66f63adcf5209496dcce8-1024x1024.jpg?w=1200&amp;auto=format" alt="" /></p><p>GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index, scoring equal to Fable 5 at lower cost. In the Intelligence Index, it uses fewer tokens than GPT-5.6 Sol for similar performance, but this is outweighed by higher prices</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/3d308ecf6306e8dfebe66f63adcf5209496dcce8-1024x1024.jpg?w=1200&amp;auto=format" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/3d308ecf6306e8dfebe66f63adcf5209496dcce8-1024x1024.jpg?w=1200&amp;auto=format" />
+</item>
+<item>
+<title>Some European defense officials push back on efforts to cut reliance on US tech, warning it could leave Europe with inferior systems and greater cyber risks (Financial Times)</title>
+<link>https://www.ft.com/content/0e9d714b-f367-4dd7-8ef4-6d4b2c08b79c</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muoz6q3ssn2n</guid>
+<pubDate>Fri, 04 Sep 2026 12:55:44 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The NHTSA opens a probe into Tesla&#x27;s decision to launch its new Cybercab on public roads in Austin with no steering wheel or pedals (Sean O&#x27;Kane/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muoxaarzjq27</guid>
+<pubDate>Fri, 04 Sep 2026 12:20:47 +0000</pubDate>
+<description>The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800" alt="" /></p><p>The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Microsoft unveils Project Zenith, a &quot;distraction-free Windows experience&quot; for developers to run 30B+ parameter models locally on devices with 64GB+ of memory (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muovti6ifi2j</guid>
+<pubDate>Fri, 04 Sep 2026 11:55:45 +0000</pubDate>
+<description>The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.435506901475%2C100%2C79.128986197049&amp;w=1200" alt="" /></p><p>The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.435506901475%2C100%2C79.128986197049&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.435506901475%2C100%2C79.128986197049&amp;w=1200" />
+</item>
+<item>
+<title>Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muougu32bg2y</guid>
+<pubDate>Fri, 04 Sep 2026 11:30:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Letters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East (Raphael Satter/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muosii4g2c2j</guid>
+<pubDate>Fri, 04 Sep 2026 10:55:55 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Bank of Korea: South Korea&#x27;s monthly memory chip output is set to grow by ~600K wafers by 2028, widening its lead over China&#x27;s CXMT, set to grow by ~300K wafers (Yoolim Lee/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/korea-s-memory-chip-lead-over-china-set-to-grow-report-says</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muorwkwpl32l</guid>
+<pubDate>Fri, 04 Sep 2026 10:45:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Thailand suspends the construction of 49 data centers in order to develop new industry regulations, as governments worldwide tighten oversight of the facilities (Anuchit Nguyen/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muoro5ppin2d</guid>
+<pubDate>Fri, 04 Sep 2026 10:41:11 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: DeepSeek plans to use 160K+ of Huawei&#x27;s Ascend 950DT chips at an Inner Mongolia data center, which would create one of the largest Huawei chip clusters (Mackenzie Hawkins/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muor44obek2v</guid>
+<pubDate>Fri, 04 Sep 2026 10:31:07 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Binance is still operating in the EU months after it failed to get a MiCA license, using workarounds to onboard new customers and reroute its trading (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/how-binance-keeps-doing-business-in-europe-without-a-license</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muop4uxeu325</guid>
+<pubDate>Fri, 04 Sep 2026 09:55:45 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nvidia becomes a leading global strategic tech backer, with the value of its equity investments up 10x in the past year to $99B, as it bolsters the AI sector (Kai Nicol-Schwarz/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muoolnjykm2y</guid>
+<pubDate>Fri, 04 Sep 2026 09:46:06 +0000</pubDate>
+<description>Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Sources: initial foldable iPhone production is limited to only a &quot;few hundred&quot; units a day due to Apple&#x27;s strict quality standards as it ramps up output (Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muody5ohl32d</guid>
+<pubDate>Fri, 04 Sep 2026 06:36:15 +0000</pubDate>
+<description>Apple and suppliers working to ramp up output while meeting strict quality standards</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F7%2F3%2F13053780-2-eng-GB%2F8aa0a9a46098-2026-08-09T115932Z_992410978_RC2P3EA4FNET_RTRMADP_3_APPLE-CXMT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" alt="" /></p><p>Apple and suppliers working to ramp up output while meeting strict quality standards</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F7%2F3%2F13053780-2-eng-GB%2F8aa0a9a46098-2026-08-09T115932Z_992410978_RC2P3EA4FNET_RTRMADP_3_APPLE-CXMT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F8%2F7%2F3%2F13053780-2-eng-GB%2F8aa0a9a46098-2026-08-09T115932Z_992410978_RC2P3EA4FNET_RTRMADP_3_APPLE-CXMT.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=1260&amp;height=630" />
+</item>
+<item>
+<title>Q&amp;A with Jensen Huang and Clément Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more (CNBC)</title>
+<link>https://www.cnbc.com/2026/09/03/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo-clment-delangue-speak-with-cnbcs-becky-quick-on-squawk-box-today.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muo6oldjno27</guid>
+<pubDate>Fri, 04 Sep 2026 05:01:25 +0000</pubDate>
+<description>From www.cnbc.com</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080" alt="" /></p><p>From www.cnbc.com</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>A profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/the-deeply-nerdy-founders-behind-nvidias-13-billion-bet-on-hugging-face-3a4b5227?st=nAwTFp&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muo5sjrbbn2o</guid>
+<pubDate>Fri, 04 Sep 2026 04:45:44 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Gimlet Labs, which helps customers divide AI tasks across multiple chip types, raised $300M led by a16z at a $3B valuation, six months after an $80M Series A (Dina Bass/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muo2h6slzb2s</guid>
+<pubDate>Fri, 04 Sep 2026 03:45:42 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Resect AI, which is developing open-source tech to catch AI hallucinations before they happen, emerges from stealth with $25M from private equity investors (Kurt Schlosser/GeekWire)</title>
+<link>https://www.geekwire.com/2026/startup-takes-on-ai-hallucinations-with-25m-and-an-hq-rooted-in-a-small-town-south-of-seattle/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munz2mztmq2l</guid>
+<pubDate>Fri, 04 Sep 2026 03:20:47 +0000</pubDate>
+<description>Resect AI, an artificial intelligence startup led by a team of scientists and engineers in Washougal, Wash., launched out of stealth Thursday.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/Kevin-Owens-Headshot.jpg" alt="" /></p><p>Resect AI, an artificial intelligence startup led by a team of scientists and engineers in Washougal, Wash., launched out of stealth Thursday.</p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/Kevin-Owens-Headshot.jpg" medium="image" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/Kevin-Owens-Headshot.jpg" />
+</item>
+<item>
+<title>Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)</title>
+<link>https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munxxp6iql2q</guid>
+<pubDate>Fri, 04 Sep 2026 03:01:15 +0000</pubDate>
+<description>More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6a9a07338aae3f350260c9af/191:100/w_1280,c_limit/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg" alt="" /></p><p>More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6a9a07338aae3f350260c9af/191:100/w_1280,c_limit/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6a9a07338aae3f350260c9af/191:100/w_1280,c_limit/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg" />
+</item>
+<item>
+<title>Sources: a16z told investors Thinking Machines Lab is in talks to raise $5B-$6B led by Accel at a $40B+ pre-money valuation; Nvidia is expected to invest ~$2.5B (The Information)</title>
+<link>https://www.theinformation.com/articles/thinking-machines-lab-talks-raise-billions-roughly-40-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munvtopgvy27</guid>
+<pubDate>Fri, 04 Sep 2026 02:23:12 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munv5hwxjy2y</guid>
+<pubDate>Fri, 04 Sep 2026 02:10:47 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)</title>
+<link>https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munsmuvnue2d</guid>
+<pubDate>Fri, 04 Sep 2026 01:25:43 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)</title>
+<link>https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munpu3cjbl2a</guid>
+<pubDate>Fri, 04 Sep 2026 00:36:03 +0000</pubDate>
+<description>Subsense’s brain computing interface could compete with Elon Musk’s Neuralink, but would not require surgery.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2270288990-e1788460321972.jpg?resize=1200,600" alt="" /></p><p>Subsense’s brain computing interface could compete with Elon Musk’s Neuralink, but would not require surgery.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2270288990-e1788460321972.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2270288990-e1788460321972.jpg?resize=1200,600" />
+</item>
+<item>
+<title>Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)</title>
+<link>https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munl3ijofd2j</guid>
+<pubDate>Thu, 03 Sep 2026 23:10:43 +0000</pubDate>
+<description>Exclusive details on Town’s new $90M fundraise at a $1B valuation, and the eleventh-hour cap table reshuffling of VCs behind it, per Upstarts sources.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!CnAk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3542fe-45c3-4edb-a84c-38c1505b488e_1920x1920.png" alt="" /></p><p>Exclusive details on Town’s new $90M fundraise at a $1B valuation, and the eleventh-hour cap table reshuffling of VCs behind it, per Upstarts sources.</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!CnAk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3542fe-45c3-4edb-a84c-38c1505b488e_1920x1920.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!CnAk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3542fe-45c3-4edb-a84c-38c1505b488e_1920x1920.png" />
+</item>
+<item>
+<title>Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munkamgype2v</guid>
+<pubDate>Thu, 03 Sep 2026 22:55:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)</title>
+<link>https://www.axios.com/pro/all-deals/2026/09/03/paypal-pause-venture-portfolio-sale</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mungvetzm72n</guid>
+<pubDate>Thu, 03 Sep 2026 21:55:43 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier (Subrat Patnaik/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/smart-ring-maker-oura-files-for-us-ipo-as-revenue-surges</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muneflcp3d2q</guid>
+<pubDate>Thu, 03 Sep 2026 21:11:05 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Adobe names Customer Experience Orchestration president Anil Chakravarthy as CEO, effective December 1, replacing Shantanu Narayen, who becomes executive chair (Annie Palmer/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mune3xi6ki2a</guid>
+<pubDate>Thu, 03 Sep 2026 21:05:43 +0000</pubDate>
+<description>Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&amp;w=1920&amp;h=1080" alt="" /></p><p>Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world (Sam Sabin/Axios)</title>
+<link>https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muncpv2e4m2o</guid>
+<pubDate>Thu, 03 Sep 2026 20:41:04 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munbulonuc25</guid>
+<pubDate>Thu, 03 Sep 2026 20:25:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)</title>
+<link>https://arcprize.org/blog/astra</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3munaqpr7il2s</guid>
+<pubDate>Thu, 03 Sep 2026 20:05:44 +0000</pubDate>
+<description>OpenAI&#x27;s GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3</description>
+<content:encoded><![CDATA[<p><img src="https://arcprize.org/media/images/blog/astra-action-efficiency.png" alt="" /></p><p>OpenAI&#x27;s GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3</p>]]></content:encoded>
+<media:content url="https://arcprize.org/media/images/blog/astra-action-efficiency.png" medium="image" />
+<media:thumbnail url="https://arcprize.org/media/images/blog/astra-action-efficiency.png" />
+</item>
+<item>
+<title>DOD&#x27;s Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun6sgtpdb2l</guid>
+<pubDate>Thu, 03 Sep 2026 19:30:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A White House official says Zuckerberg opposed a US AI regulator in a call with Trump last month; another source says he didn&#x27;t ask Trump to change his stance (Politico)</title>
+<link>https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun5ffr4cz2l</guid>
+<pubDate>Thu, 03 Sep 2026 19:05:43 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft AI debuts MAI-Transcribe-2, a speech recognition model that it says beats Gemini 3.5 Transcribe and GPT-Transcribe, at $0.10/audio hour through 2026 (Michael Nuñez/VentureBeat)</title>
+<link>https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun55g54pw2j</guid>
+<pubDate>Thu, 03 Sep 2026 19:01:15 +0000</pubDate>
+<description>From venturebeat.com</description>
+<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas (Ina Fried/Axios)</title>
+<link>https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun35wl7df2j</guid>
+<pubDate>Thu, 03 Sep 2026 18:25:45 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI calls GPT-6 Astra the &quot;world&#x27;s best computer use model&quot;; in tests, it booked DMV appointments and searched job listings faster than the average person (Maxwell Zeff/Wired)</title>
+<link>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun2tjb4k725</guid>
+<pubDate>Thu, 03 Sep 2026 18:19:55 +0000</pubDate>
+<description>OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6a99abf8b2409d6188eae980/191:100/w_1280,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" alt="" /></p><p>OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6a99abf8b2409d6188eae980/191:100/w_1280,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6a99abf8b2409d6188eae980/191:100/w_1280,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" />
+</item>
+<item>
+<title>OpenAI prices GPT-6 Astra at $10/1M input tokens and $50/1M output tokens, matching Anthropic&#x27;s pricing for Claude Fable 5.1 (The Deep View)</title>
+<link>https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun2lxh7jo2l</guid>
+<pubDate>Thu, 03 Sep 2026 18:15:42 +0000</pubDate>
+<description>In the shadow of the Hugging Face security breach, OpenAI&#x27;s most powerful model is about to be loose in the world, but with new safeguards. On Thursday, OpenAI...</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/0no9te5e/production/99abd6bab44616ab2650ce4c24a982e336bb8367-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" alt="" /></p><p>In the shadow of the Hugging Face security breach, OpenAI&#x27;s most powerful model is about to be loose in the world, but with new safeguards. On Thursday, OpenAI...</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/0no9te5e/production/99abd6bab44616ab2650ce4c24a982e336bb8367-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/0no9te5e/production/99abd6bab44616ab2650ce4c24a982e336bb8367-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" />
+</item>
+<item>
+<title>OpenAI launches GPT-6 Astra, initially available to organizations in its Daybreak Access program; Greg Brockman says &quot;we are now in the AGI era&quot; (Hayden Field/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun2djy3tb2y</guid>
+<pubDate>Thu, 03 Sep 2026 18:10:59 +0000</pubDate>
+<description>According to OpenAI president Greg Brockman, we’ve likely entered the AGI era.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>According to OpenAI president Greg Brockman, we’ve likely entered the AGI era.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Sources: Mira Murati&#x27;s Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year (The Information)</title>
+<link>https://www.theinformation.com/articles/thinking-machines-lab-talks-raise-billions-roughly-40-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumzeosapl2b</guid>
+<pubDate>Thu, 03 Sep 2026 17:53:44 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumy3q2msb2s</guid>
+<pubDate>Thu, 03 Sep 2026 17:30:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumxjln2wv2q</guid>
+<pubDate>Thu, 03 Sep 2026 17:20:41 +0000</pubDate>
+<description>Microsoft is trying once again to tempt people without an Xbox into its ecosystem.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&amp;strip=all&amp;crop=0,3.4801106327551,100,93.03977873449" alt="" /></p><p>Microsoft is trying once again to tempt people without an Xbox into its ecosystem.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&amp;strip=all&amp;crop=0,3.4801106327551,100,93.03977873449" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&amp;strip=all&amp;crop=0,3.4801106327551,100,93.03977873449" />
+</item>
+<item>
+<title>India-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring (Jagmeet Singh/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumxampu5z2y</guid>
+<pubDate>Thu, 03 Sep 2026 17:15:40 +0000</pubDate>
+<description>Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800" alt="" /></p><p>Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Sources: Cursor was a top-five OpenAI customer at the start of 2026; OpenAI estimated in spring that Cursor would bring in $1B+ in annualized revenue for OpenAI (Maxwell Zeff/Wired)</title>
+<link>https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumworof6l2y</guid>
+<pubDate>Thu, 03 Sep 2026 17:05:42 +0000</pubDate>
+<description>OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg" alt="" /></p><p>OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg" />
+</item>
+<item>
+<title>Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumvl5afoh2l</guid>
+<pubDate>Thu, 03 Sep 2026 16:45:46 +0000</pubDate>
+<description>We have AI tokens at home.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.342396806572%2C100%2C93.315206386856&amp;w=1200" alt="" /></p><p>We have AI tokens at home.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.342396806572%2C100%2C93.315206386856&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.342396806572%2C100%2C93.315206386856&amp;w=1200" />
+</item>
+<item>
+<title>Nvidia says the RTX Spark N1X launches in October in two configurations: a 20-core CPU with a 6,144-core Blackwell GPU and an 18-core CPU with a 5,120-core GPU (Andrew E. Freedman/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumuhcynvo2j</guid>
+<pubDate>Thu, 03 Sep 2026 16:25:44 +0000</pubDate>
+<description>18 or 20 CPU cores, paired with 5,120 or 6,144 CUDA cores, up to 128GB of unified memory</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG-1999-80.jpg" alt="" /></p><p>18 or 20 CPU cores, paired with 5,120 or 6,144 CUDA cores, up to 128GB of unified memory</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG-1999-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/27F7rHXqesaDdqqdqyxZpG-1999-80.jpg" />
+</item>
+<item>
+<title>Claude, ChatGPT, and Grok are experiencing issues; Anthropic reports errors across Opus 4.8 and Opus 5, and OpenAI reports errors across ChatGPT and Codex (Ben Schoon/9to5Google)</title>
+<link>https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mums7prt6j2d</guid>
+<pubDate>Thu, 03 Sep 2026 15:45:41 +0000</pubDate>
+<description>A widespread outage has taken out popular AI platforms including ChatGPT, Claude, and Grok. Update 12:38pm PT: All services are...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>A widespread outage has taken out popular AI platforms including ChatGPT, Claude, and Grok. Update 12:38pm PT: All services are...</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Upwind, which filters false security alerts in cloud apps so companies can focus on actual risks, raised $300M at a $3.8B valuation, up from $1.5B in January (Meir Orbach/CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/0kbwgdw01</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mump5helge2q</guid>
+<pubDate>Thu, 03 Sep 2026 14:50:44 +0000</pubDate>
+<description>The Israeli cloud security company was valued at $1.5 billion when it raised $250 million in January, and has since attracted fresh backing from Bessemer Venture Partners, TCV, Salesforce Ventures and other prominent investors.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/26/r17tvzHU11l/r17tvzHU11l_0_0_1600_901_0_large.jpg" alt="" /></p><p>The Israeli cloud security company was valued at $1.5 billion when it raised $250 million in January, and has since attracted fresh backing from Bessemer Venture Partners, TCV, Salesforce Ventures and other prominent investors.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/26/r17tvzHU11l/r17tvzHU11l_0_0_1600_901_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/01/26/r17tvzHU11l/r17tvzHU11l_0_0_1600_901_0_large.jpg" />
+</item>
+<item>
+<title>PitchBook: 95+ investors put money into both Anthropic and OpenAI amid shifting norms; sources: Menlo, Lightspeed, and Iconiq each hold 1%-2% Anthropic stakes (Erin Griffith/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumnzuh4t22l</guid>
+<pubDate>Thu, 03 Sep 2026 14:30:50 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Saudi AI company Humain is planning to raise an initial $2.5B fund to help finance data center capacity of 250 MW in Saudi Arabia (Omar El Chmouri/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-03/saudi-firm-humain-eyes-2-5-billion-fund-to-build-data-centers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mummf2lkni27</guid>
+<pubDate>Thu, 03 Sep 2026 14:01:18 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Munich-based Atira, which aims to use AI to automate the parsing and generation of complex bid proposals, raised a $15M seed led by Accel and a $2.5M pre-seed (Jeremy Kahn/Fortune)</title>
+<link>https://fortune.com/2026/09/03/exclusive-german-ai-startup-atira-raises-17-5-million-to-unclog-the-paperwork-bottleneck-in-industrial-dealmaking/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mumlj336ln2o</guid>
+<pubDate>Thu, 03 Sep 2026 13:45:39 +0000</pubDate>
+<description>Founded by Palantir and Google alums, Atira says its AI agents cut the time customers take to get from a request to a submitted bid by as much as 80%.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/Atira-co-founders-e1788361916223.jpg?resize=1200,600" alt="" /></p><p>Founded by Palantir and Google alums, Atira says its AI agents cut the time customers take to get from a request to a submitted bid by as much as 80%.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Atira-co-founders-e1788361916223.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Atira-co-founders-e1788361916223.jpg?resize=1200,600" />
 </item>
 </channel>
 </rss>
