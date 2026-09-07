@@ -618,7 +618,7 @@ def discover_qwen():
                 scripts = [absolute(page, tag.get("src")) for tag in soup.find_all("script", src=True)]
                 print(f"QWEN DEBUG {page} html_len={len(text)} scripts={scripts[:30]}")
                 if page == "https://qwen.ai/research":
-                    scripts = scripts + ["https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/p_research-index.js"]
+                    scripts = ["https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/p_research-index.js"] + scripts
                     for src in scripts[:31]:
                         try:
                             jsr = SESSION.get(src, timeout=15)
