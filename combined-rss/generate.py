@@ -563,6 +563,12 @@ def discover_bicloud():
 
 def discover_qwen():
     found = {}
+    for code in ("research.research-list", "research.latest-advancements-list", "home.latest-research-list"):
+        try:
+            qr = SESSION.get("https://qwen.ai/api/page_config", params={"code": code}, timeout=20)
+            print(f"QWEN CONFIG DEBUG code={code} status={qr.status_code} ctype={qr.headers.get('content-type')} body={qr.text[:5000]}")
+        except requests.RequestException as exc:
+            print(f"QWEN CONFIG DEBUG code={code} error={exc}")
 
     def add_candidate(raw, title=""):
         if not raw:
