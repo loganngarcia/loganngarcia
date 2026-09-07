@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 10:10:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 15:08:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Wandercraft Signs 12 Enterprise Customers for Calvin-40 Industrial Humanoid</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc8e5fab20ae9cdc6e7c.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/wandercraft-signs-12-enterprise-customers-for-calvin-40-industrial-humanoid</guid>
+<pubDate>Mon, 07 Sep 2026 11:25:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/wandercraft-signs-12-enterprise-customers-for-calvin-40-industrial-humanoid" rel="related" type="text/html" />
+<description>Parisian robotics pioneer Wandercraft has signed 12 enterprise clients across automotive, defense, logistics, and retail for its Calvin-40 humanoid, advancing its deliberate, payload-focused path to industrial scale.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-calvin-40.webp" alt="" /></p><p>Parisian robotics pioneer Wandercraft has signed 12 enterprise clients across automotive, defense, logistics, and retail for its Calvin-40 humanoid, advancing its deliberate, payload-focused path to industrial scale.</p><p><a href="https://www.humanoidsdaily.com/news/wandercraft-signs-12-enterprise-customers-for-calvin-40-industrial-humanoid">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-calvin-40.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-calvin-40.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-calvin-40.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>NEURA Robotics and SECO Team Up to Scale European Physical AI Hardware</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4d19fd31b1618044aa68.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>XPENG Robotics Raises Over $900 Million at $6.3 Billion Valuation to Industrialize IRON Humanoid</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc513d63f8ec3e6f316e.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-robotics-raises-over-900-million-at-6-3-billion-valuation-to-industrialize-iron-humanoid</guid>
-<pubDate>Mon, 24 Aug 2026 10:59:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/xpeng-robotics-raises-over-900-million-at-6-3-billion-valuation-to-industrialize-iron-humanoid" rel="related" type="text/html" />
-<description>XPENG has closed a record-breaking $900 million financing round for its humanoid robotics division, backed by IDG Capital, Alibaba, and Tencent, ahead of late-2026 mass production.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" alt="" /></p><p>XPENG has closed a record-breaking $900 million financing round for its humanoid robotics division, backed by IDG Capital, Alibaba, and Tencent, ahead of late-2026 mass production.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-robotics-raises-over-900-million-at-6-3-billion-valuation-to-industrialize-iron-humanoid">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
