@@ -562,175 +562,86 @@ def discover_bicloud():
     } for link, data in list(found.items())[: MAX_PER_SOURCE["The AI Timeline"]]]
 
 
-def _debug_qwen_current_api():
-    urls = [
-        "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/p_research-index.js",
-        "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/969.js",
-    ]
-    for u in urls:
-        try:
-            r = SESSION.get(u, timeout=20)
-            if not r.ok:
-                continue
-            js = r.text
-            if "p_research-index.js" in u:
-                print("QWEN_RESEARCH_ROUTE_FULL", js[:50000])
-            for term in ("article/retrieval", "research-list", "latest-advancements-list", "44467"):
-                start = 0
-                while True:
-                    p = js.find(term, start)
-                    if p < 0:
-                        break
-                    print("QWEN_API_TRACE", u, term, re.sub(r"\s+", " ", js[max(0,p-1400):p+2200]))
-                    start = p + len(term)
-        except Exception as exc:
-            print("QWEN_API_TRACE_ERR", u, exc)
-
-
 def discover_qwen():
-    _debug_qwen_current_api()
-    """Use Qwen's current Research/Latest Research stream.
+    """Use Qwen's modern Research stream only.
 
-    The legacy research.research-list endpoint is intentionally not used here.
-    Current Qwen research posts are retrieved from the article retrieval API
-    used by the modern qwen.ai Research page.
+    The current qwen.ai Research page requests:
+      GET /api/v2/article/retrieval?type=qwen_ai&language=en-US
+    and renders response.data.articles. We intentionally do NOT merge in the
+    legacy research.research-list archive.
     """
+    endpoint = "https://qwen.ai/api/v2/article/retrieval"
+    try:
+        r = SESSION.get(
+            endpoint,
+            params={"type": "qwen_ai", "language": "en-US"},
+            timeout=20,
+        )
+        r.raise_for_status()
+        payload = r.json() or {}
+    except Exception as exc:
+        print(f"WARN Qwen current research API failed: {exc}")
+        return []
+
+    data = payload.get("data") if isinstance(payload, dict) else None
+    if not isinstance(data, dict):
+        data = payload if isinstance(payload, dict) else {}
+    rows = data.get("articles") or []
+
     items = []
     seen = set()
-
-    # Probe the current first-party retrieval endpoint with the query shapes
-    # used by the modern Research page. The API has changed over time, so try
-    # a small set of compatible parameter names and accept the first valid list.
-    endpoint = "https://qwen.ai/api/v2/article/retrieval"
-    query_variants = [
-        {"page": 1, "pageSize": 50, "type": "research"},
-        {"page": 1, "page_size": 50, "type": "research"},
-        {"pageNum": 1, "pageSize": 50, "type": "research"},
-        {"page": 1, "size": 50, "category": "research"},
-        {"page": 1, "pageSize": 50},
-    ]
-
-    payloads = []
-    for params in query_variants:
-        try:
-            r = SESSION.get(endpoint, params=params, timeout=20)
-            if not r.ok:
-                continue
-            data = r.json()
-            payloads.append(data)
-        except Exception:
-            continue
-
-    def walk_lists(obj):
-        if isinstance(obj, list):
-            yield obj
-        elif isinstance(obj, dict):
-            for key in ("data", "list", "items", "records", "rows", "articles", "result"):
-                if key in obj:
-                    yield from walk_lists(obj[key])
-
-    rows = []
-    for payload in payloads:
-        for candidate in walk_lists(payload):
-            if candidate and isinstance(candidate[0], dict):
-                rows = candidate
-                break
-        if rows:
-            break
-
-    # Fallback: current public web pages can also expose the latest article
-    # cards in qwen.ai's home/research HTML. This is only used if the retrieval
-    # API shape changes again.
-    if not rows:
-        try:
-            html, _ = get_html("https://qwen.ai/research")
-            soup = BeautifulSoup(html, "html.parser")
-            for a_tag in soup.find_all("a", href=True):
-                href = absolute("https://qwen.ai/research", a_tag["href"])
-                if "qwen.ai/blog" not in href:
-                    continue
-                title = clean_text(a_tag.get_text(" ", strip=True))
-                if not title:
-                    continue
-                rows.append({"title": title, "url": href})
-        except Exception:
-            pass
-
     for row in rows:
         if not isinstance(row, dict):
             continue
-        title = clean_text(
-            row.get("title")
-            or row.get("name")
-            or row.get("headline")
-            or row.get("articleTitle")
-        )
-        article_id = clean_text(
-            row.get("id")
-            or row.get("articleId")
-            or row.get("slug")
-        )
-        link = (
-            row.get("url")
-            or row.get("link")
-            or row.get("articleUrl")
-            or ""
-        )
-        if not link and article_id:
-            link = "https://qwen.ai/blog?" + urllib.parse.urlencode({"id": article_id})
-        link = absolute("https://qwen.ai", link)
 
-        if not title or not link or link in seen:
-            continue
-        if "qwen.ai/blog" not in link:
+        path_value = clean_text(row.get("path"))
+        title = clean_text(row.get("title"))
+        extra = row.get("extra") if isinstance(row.get("extra"), dict) else {}
+        if not title or not path_value:
             continue
 
+        article_id = path_value
+        # Qwen's own front end routes these via /blog?id=<path>.
+        link = "https://qwen.ai/blog?" + urllib.parse.urlencode({"id": article_id})
+        if link in seen:
+            continue
         seen.add(link)
+
         image = (
-            row.get("cover")
-            or row.get("cover_small")
-            or row.get("image")
-            or row.get("thumbnail")
+            extra.get("cover_small_light")
+            or extra.get("cover_small")
+            or extra.get("cover")
             or ""
         )
-        if isinstance(image, dict):
-            image = image.get("url") or image.get("src") or ""
         if image:
             parsed = urllib.parse.urlsplit(image)
-            image = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path, parsed.query, ""))
+            image = urllib.parse.urlunsplit(
+                (parsed.scheme, parsed.netloc, parsed.path, parsed.query, "")
+            )
 
-        desc = (
-            row.get("description")
-            or row.get("introduction")
-            or row.get("summary")
-            or row.get("abstract")
+        description = (
+            extra.get("description")
+            or extra.get("introduction")
             or ""
         )
-        dt = parse_dt(
-            row.get("date")
-            or row.get("publishedAt")
-            or row.get("publishTime")
-            or row.get("createdAt")
-        )
+        dt = parse_dt(extra.get("date"))
 
-        item = {
+        items.append({
             "source": "Qwen Research",
             "title": title,
             "link": link,
-            "description": short_desc(desc),
+            "description": short_desc(description),
             "image": image if good_image(image) else "",
             "published": dt,
-            "guid": make_guid("Qwen Research", link),
-        }
-        items.append(item)
+            "guid": make_guid("Qwen Research", article_id),
+        })
 
-    # Modern Research page is chronological; keep newest first.
     items.sort(
         key=lambda i: i.get("published")
         or datetime(1970, 1, 1, tzinfo=timezone.utc),
         reverse=True,
     )
-    print(f"Qwen current research stream returned {len(items)} articles")
+    print(f"Qwen modern research API returned {len(items)} articles")
     return items[: MAX_PER_SOURCE["Qwen Research"]]
 
 
