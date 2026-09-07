@@ -562,7 +562,31 @@ def discover_bicloud():
     } for link, data in list(found.items())[: MAX_PER_SOURCE["The AI Timeline"]]]
 
 
+def _debug_qwen_current_api():
+    urls = [
+        "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/p_research-index.js",
+        "https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/969.js",
+    ]
+    for u in urls:
+        try:
+            r = SESSION.get(u, timeout=20)
+            if not r.ok:
+                continue
+            js = r.text
+            for term in ("article/retrieval", "research-list", "latest-advancements-list"):
+                start = 0
+                while True:
+                    p = js.find(term, start)
+                    if p < 0:
+                        break
+                    print("QWEN_API_TRACE", u, term, re.sub(r"\s+", " ", js[max(0,p-1400):p+2200]))
+                    start = p + len(term)
+        except Exception as exc:
+            print("QWEN_API_TRACE_ERR", u, exc)
+
+
 def discover_qwen():
+    _debug_qwen_current_api()
     """Use Qwen's current Research/Latest Research stream.
 
     The legacy research.research-list endpoint is intentionally not used here.
