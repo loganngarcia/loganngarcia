@@ -679,22 +679,26 @@ def cdata(text):
     return (text or "").replace("]]>", "]]]]><![CDATA[>")
 
 
-def write_feed(items):
+def write_feed(items, out_path=OUT, title="Logan’s AI + Tech One Click", home_url="https://www.techmeme.com/", description=None, self_url=SELF):
     items = [i for i in items if i.get("title") and i.get("link")]
     items.sort(key=lambda i: i.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
-    items = items[:MAX_OUTPUT]
+    if out_path == OUT:
+        items = items[:MAX_OUTPUT]
+
+    if description is None:
+        description = "Direct-link feed with rich descriptions and article images."
 
     now = datetime.now(timezone.utc)
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">',
         '<channel>',
-        '<title>Logan’s AI + Tech One Click</title>',
-        '<link>https://www.techmeme.com/</link>',
-        '<description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>',
+        f'<title>{xml_escape(title)}</title>',
+        f'<link>{xml_escape(home_url)}</link>',
+        f'<description>{xml_escape(description)}</description>',
         '<language>en-us</language>',
         f'<lastBuildDate>{xml_escape(rfc822(now))}</lastBuildDate>',
-        f'<atom:link href="{xml_escape(SELF, quote=True)}" rel="self" type="application/rss+xml" />',
+        f'<atom:link href="{xml_escape(self_url, quote=True)}" rel="self" type="application/rss+xml" />',
     ]
 
     source_urls = {
@@ -736,17 +740,53 @@ def write_feed(items):
         parts.append('</item>')
 
     parts.extend(['</channel>', '</rss>', ''])
-    OUT.write_text("\n".join(parts), encoding="utf-8")
-    print(f"Wrote {len(items)} items to {OUT}")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text("\n".join(parts), encoding="utf-8")
+    print(f"Wrote {len(items)} items to {out_path}")
+
     counts, images, descriptions = {}, {}, {}
     for i in items:
-        s = i["source"]
-        counts[s] = counts.get(s, 0) + 1
-        images[s] = images.get(s, 0) + bool(i.get("image"))
-        descriptions[s] = descriptions.get(s, 0) + bool(i.get("description"))
+        src = i["source"]
+        counts[src] = counts.get(src, 0) + 1
+        images[src] = images.get(src, 0) + bool(i.get("image"))
+        descriptions[src] = descriptions.get(src, 0) + bool(i.get("description"))
     print("Counts:", counts)
     print("Images:", images)
     print("Descriptions:", descriptions)
+
+
+SEPARATE_FEEDS = {
+    "Techmeme": {
+        "filename": "techmeme.xml",
+        "title": "Techmeme",
+        "home": "https://www.techmeme.com/",
+        "description": "Techmeme stories with direct publisher links, rich descriptions, and article images.",
+    },
+    "Humanoids Daily": {
+        "filename": "humanoids-daily.xml",
+        "title": "Humanoids Daily",
+        "home": "https://www.humanoidsdaily.com/",
+        "description": "Humanoids Daily with rich descriptions and article images.",
+    },
+    "Sherwood News": {
+        "filename": "sherwood-news.xml",
+        "title": "Sherwood News",
+        "home": "https://sherwood.news/",
+        "description": "Sherwood News with rich descriptions and article images.",
+    },
+    "The AI Timeline": {
+        "filename": "ai-timeline.xml",
+        "title": "The AI Timeline by bycloud",
+        "home": "https://mail.bycloud.ai/",
+        "description": "The AI Timeline by bycloud with rich descriptions and article images.",
+    },
+    "Qwen Research": {
+        "filename": "qwen-research.xml",
+        "title": "Qwen Research",
+        "home": "https://qwen.ai/research",
+        "description": "Qwen Research articles from Qwen's first-party research data with official covers and descriptions.",
+    },
+}
 
 
 def main():
@@ -793,7 +833,31 @@ def main():
         source_items.sort(key=lambda i: i.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
         enriched.extend(source_items[:limit])
 
-    write_feed(dedupe(enriched))
+    enriched = dedupe(enriched)
+
+    write_feed(
+        enriched,
+        out_path=OUT,
+        title="Logan’s AI + Tech One Click",
+        home_url="https://www.techmeme.com/",
+        description="Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.",
+        self_url=SELF,
+    )
+
+    feeds_dir = Path(__file__).with_name("feeds")
+    raw_base = "https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/"
+
+    for source, config in SEPARATE_FEEDS.items():
+        source_items = [item for item in enriched if item["source"] == source]
+        write_feed(
+            source_items,
+            out_path=feeds_dir / config["filename"],
+            title=config["title"],
+            home_url=config["home"],
+            description=config["description"],
+            self_url=raw_base + config["filename"],
+        )
+
 
 
 if __name__ == "__main__":
