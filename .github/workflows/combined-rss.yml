@@ -1,0 +1,46 @@
+name: Update Combined AI + Tech RSS
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "combined-rss/generate.py"
+      - ".github/workflows/combined-rss.yml"
+      - "techmeme-oneclick/feed.xml"
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: combined-rss
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install feed dependencies
+        run: pip install --disable-pip-version-check feedparser beautifulsoup4 requests python-dateutil
+      - name: Generate combined RSS
+        run: python combined-rss/generate.py
+      - name: Validate RSS
+        run: python -c "import xml.etree.ElementTree as ET; ET.parse('combined-rss/feed.xml'); print('RSS XML valid')"
+      - name: Commit feed if changed
+        run: |
+          if git diff --quiet -- combined-rss/feed.xml; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add combined-rss/feed.xml
+          git commit -m "Update combined AI + Tech RSS"
+          git push
