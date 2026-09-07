@@ -18,6 +18,7 @@ from dateutil import parser as dateparser
 
 OUT = Path(__file__).with_name("feed.xml")
 SELF = "https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml"
+READER_BASE = "https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/"
 TECHMEME_LOCAL = Path(__file__).resolve().parents[1] / "techmeme-oneclick" / "feed.xml"
 
 SOURCES = {
@@ -679,6 +680,86 @@ def cdata(text):
     return (text or "").replace("]]>", "]]]]><![CDATA[>")
 
 
+
+def reader_id(item):
+    return hashlib.sha1(item["link"].encode("utf-8")).hexdigest()[:20]
+
+
+def reader_url(item):
+    return READER_BASE + reader_id(item) + ".html"
+
+
+def write_reader_pages(items):
+    out_dir = Path(__file__).with_name("reader")
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    source_urls = {
+        "Techmeme": "https://www.techmeme.com/",
+        "Humanoids Daily": "https://www.humanoidsdaily.com/",
+        "Sherwood News": "https://sherwood.news/",
+        "The AI Timeline": "https://mail.bycloud.ai/",
+        "Qwen Research": "https://qwen.ai/research",
+    }
+
+    for item in items:
+        original = item["link"]
+        title = item.get("title") or "Article"
+        desc = short_desc(item.get("description") or "")
+        image = item.get("image") if good_image(item.get("image", "")) else ""
+        source = item.get("source") or ""
+        published = item.get("published")
+        date_text = published.strftime("%B %-d, %Y") if published else ""
+
+        image_html = (
+            f'<figure><img src="{xml_escape(image, quote=True)}" alt="" loading="eager"></figure>'
+            if image else ""
+        )
+        desc_html = f'<p class="dek">{xml_escape(desc)}</p>' if desc else ""
+        date_html = f'<time>{xml_escape(date_text)}</time>' if date_text else ""
+
+        page = f'''<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{xml_escape(title)}</title>
+<meta name="description" content="{xml_escape(desc, quote=True)}">
+<link rel="canonical" href="{xml_escape(original, quote=True)}">
+<meta property="og:title" content="{xml_escape(title, quote=True)}">
+<meta property="og:description" content="{xml_escape(desc, quote=True)}">
+{f'<meta property="og:image" content="{xml_escape(image, quote=True)}">' if image else ''}
+<style>
+:root {{ color-scheme: light dark; }}
+body {{ margin:0; font:18px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }}
+main {{ max-width:760px; margin:0 auto; padding:36px 22px 64px; }}
+article {{ display:block; }}
+.source {{ font-size:14px; opacity:.68; margin-bottom:12px; }}
+h1 {{ font-size:clamp(30px,6vw,50px); line-height:1.08; letter-spacing:-.025em; margin:.2em 0 .45em; }}
+.dek {{ font-size:21px; line-height:1.45; opacity:.86; }}
+figure {{ margin:28px 0; }}
+img {{ width:100%; height:auto; border-radius:14px; display:block; }}
+a.button {{ display:inline-block; margin-top:28px; padding:13px 18px; border:1px solid currentColor; border-radius:12px; text-decoration:none; font-weight:600; }}
+footer {{ margin-top:34px; font-size:14px; opacity:.7; }}
+</style>
+</head>
+<body>
+<main>
+<article>
+<header>
+<div class="source">{xml_escape(source)} {date_html}</div>
+<h1>{xml_escape(title)}</h1>
+{desc_html}
+</header>
+{image_html}
+<p><a class="button" href="{xml_escape(original, quote=True)}">Open Original Article</a></p>
+<footer>Source: <a href="{xml_escape(source_urls.get(source, original), quote=True)}">{xml_escape(source)}</a></footer>
+</article>
+</main>
+</body>
+</html>'''
+        (out_dir / f"{reader_id(item)}.html").write_text(page, encoding="utf-8")
+
+
 def write_feed(items, out_path=OUT, title="Logan’s AI + Tech One Click", home_url="https://www.techmeme.com/", description=None, self_url=SELF):
     items = [i for i in items if i.get("title") and i.get("link")]
     items.sort(key=lambda i: i.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
@@ -718,14 +799,19 @@ def write_feed(items, out_path=OUT, title="Logan’s AI + Tech One Click", home_
         if desc:
             rich.append(f'<p>{xml_escape(desc)}</p>')
 
+        page_link = reader_url(item)
+        original_link = item["link"]
+        rich.append(f'<p><a href="{xml_escape(original_link, quote=True)}">Open Original Article</a></p>')
+
         parts.extend([
             '<item>',
             f'<title>{xml_escape(item["title"])}</title>',
-            f'<link>{xml_escape(item["link"])}</link>',
+            f'<link>{xml_escape(page_link)}</link>',
             f'<guid isPermaLink="false">{xml_escape(item.get("guid") or make_guid(item["source"], item["link"]))}</guid>',
             f'<pubDate>{xml_escape(rfc822(item.get("published")))}</pubDate>',
             f'<source url="{xml_escape(source_urls[item["source"]], quote=True)}">{xml_escape(item["source"])}</source>',
             f'<category>{xml_escape(item["source"])}</category>',
+            f'<atom:link href="{xml_escape(original_link, quote=True)}" rel="related" type="text/html" />',
             f'<description>{xml_escape(desc)}</description>',
             f'<content:encoded><![CDATA[{cdata("".join(rich))}]]></content:encoded>',
         ])
@@ -834,6 +920,7 @@ def main():
         enriched.extend(source_items[:limit])
 
     enriched = dedupe(enriched)
+    write_reader_pages(enriched)
 
     write_feed(
         enriched,
