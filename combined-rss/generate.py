@@ -563,89 +563,148 @@ def discover_bicloud():
 
 
 def discover_qwen():
-    """Read Qwen's own research page configuration API.
+    """Use Qwen's current Research/Latest Research stream.
 
-    The Qwen SPA uses these page-config codes to render the Research page.
-    They already contain the canonical article metadata needed for an RSS card:
-    title, publication date, description/introduction, article id, and cover image.
+    The legacy research.research-list endpoint is intentionally not used here.
+    Current Qwen research posts are retrieved from the article retrieval API
+    used by the modern qwen.ai Research page.
     """
-    sections = (
-        ("research.research-list", "research.research-list"),
-        ("research.latest-advancements-list", "research.latest-advancements-list"),
-    )
-    found = {}
+    items = []
+    seen = set()
 
-    for code, origin in sections:
+    # Probe the current first-party retrieval endpoint with the query shapes
+    # used by the modern Research page. The API has changed over time, so try
+    # a small set of compatible parameter names and accept the first valid list.
+    endpoint = "https://qwen.ai/api/v2/article/retrieval"
+    query_variants = [
+        {"page": 1, "pageSize": 50, "type": "research"},
+        {"page": 1, "page_size": 50, "type": "research"},
+        {"pageNum": 1, "pageSize": 50, "type": "research"},
+        {"page": 1, "size": 50, "category": "research"},
+        {"page": 1, "pageSize": 50},
+    ]
+
+    payloads = []
+    for params in query_variants:
         try:
-            r = SESSION.get(
-                "https://qwen.ai/api/page_config",
-                params={"code": code},
-                timeout=20,
-            )
-            r.raise_for_status()
-            rows = r.json()
-        except Exception as exc:
-            print(f"WARN Qwen page config failed for {code}: {exc}")
+            r = SESSION.get(endpoint, params=params, timeout=20)
+            if not r.ok:
+                continue
+            data = r.json()
+            payloads.append(data)
+        except Exception:
             continue
 
-        if not isinstance(rows, list):
+    def walk_lists(obj):
+        if isinstance(obj, list):
+            yield obj
+        elif isinstance(obj, dict):
+            for key in ("data", "list", "items", "records", "rows", "articles", "result"):
+                if key in obj:
+                    yield from walk_lists(obj[key])
+
+    rows = []
+    for payload in payloads:
+        for candidate in walk_lists(payload):
+            if candidate and isinstance(candidate[0], dict):
+                rows = candidate
+                break
+        if rows:
+            break
+
+    # Fallback: current public web pages can also expose the latest article
+    # cards in qwen.ai's home/research HTML. This is only used if the retrieval
+    # API shape changes again.
+    if not rows:
+        try:
+            html, _ = get_html("https://qwen.ai/research")
+            soup = BeautifulSoup(html, "html.parser")
+            for a_tag in soup.find_all("a", href=True):
+                href = absolute("https://qwen.ai/research", a_tag["href"])
+                if "qwen.ai/blog" not in href:
+                    continue
+                title = clean_text(a_tag.get_text(" ", strip=True))
+                if not title:
+                    continue
+                rows.append({"title": title, "url": href})
+        except Exception:
+            pass
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        title = clean_text(
+            row.get("title")
+            or row.get("name")
+            or row.get("headline")
+            or row.get("articleTitle")
+        )
+        article_id = clean_text(
+            row.get("id")
+            or row.get("articleId")
+            or row.get("slug")
+        )
+        link = (
+            row.get("url")
+            or row.get("link")
+            or row.get("articleUrl")
+            or ""
+        )
+        if not link and article_id:
+            link = "https://qwen.ai/blog?" + urllib.parse.urlencode({"id": article_id})
+        link = absolute("https://qwen.ai", link)
+
+        if not title or not link or link in seen:
+            continue
+        if "qwen.ai/blog" not in link:
             continue
 
-        for row in rows:
-            if not isinstance(row, dict):
-                continue
-            article_id = clean_text(row.get("id"))
-            title = clean_text(row.get("title"))
-            if not article_id or not title:
-                continue
+        seen.add(link)
+        image = (
+            row.get("cover")
+            or row.get("cover_small")
+            or row.get("image")
+            or row.get("thumbnail")
+            or ""
+        )
+        if isinstance(image, dict):
+            image = image.get("url") or image.get("src") or ""
+        if image:
+            parsed = urllib.parse.urlsplit(image)
+            image = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path, parsed.query, ""))
 
-            link = (
-                "https://qwen.ai/blog?"
-                + urllib.parse.urlencode({"id": article_id, "from": origin})
-            )
-            image = row.get("cover") or row.get("cover_small") or ""
-            # Qwen sometimes appends Markdown-style anchors such as #center to
-            # image URLs. Remove the fragment for RSS readers.
-            if image:
-                parsed = urllib.parse.urlsplit(image)
-                image = urllib.parse.urlunsplit(
-                    (parsed.scheme, parsed.netloc, parsed.path, parsed.query, "")
-                )
+        desc = (
+            row.get("description")
+            or row.get("introduction")
+            or row.get("summary")
+            or row.get("abstract")
+            or ""
+        )
+        dt = parse_dt(
+            row.get("date")
+            or row.get("publishedAt")
+            or row.get("publishTime")
+            or row.get("createdAt")
+        )
 
-            description = (
-                row.get("description")
-                or row.get("introduction")
-                or ""
-            )
-            item = {
-                "source": "Qwen Research",
-                "title": title,
-                "link": link,
-                "description": short_desc(description),
-                "image": image if good_image(image) else "",
-                "published": parse_dt(row.get("date")),
-                "guid": make_guid("Qwen Research", article_id),
-            }
+        item = {
+            "source": "Qwen Research",
+            "title": title,
+            "link": link,
+            "description": short_desc(desc),
+            "image": image if good_image(image) else "",
+            "published": dt,
+            "guid": make_guid("Qwen Research", link),
+        }
+        items.append(item)
 
-            existing = found.get(article_id)
-            if existing is None:
-                found[article_id] = item
-            else:
-                # Prefer whichever section supplies richer metadata.
-                if not existing.get("description") and item.get("description"):
-                    existing["description"] = item["description"]
-                if not existing.get("image") and item.get("image"):
-                    existing["image"] = item["image"]
-                if not existing.get("published") and item.get("published"):
-                    existing["published"] = item["published"]
-
-    items = list(found.values())
+    # Modern Research page is chronological; keep newest first.
     items.sort(
         key=lambda i: i.get("published")
         or datetime(1970, 1, 1, tzinfo=timezone.utc),
         reverse=True,
     )
-    print(f"Qwen first-party research API returned {len(items)} unique articles")
+    print(f"Qwen current research stream returned {len(items)} articles")
     return items[: MAX_PER_SOURCE["Qwen Research"]]
 
 
