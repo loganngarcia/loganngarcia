@@ -31,15 +31,24 @@ jobs:
       - name: Generate combined RSS
         run: python combined-rss/generate.py
       - name: Validate RSS
-        run: python -c "import xml.etree.ElementTree as ET; ET.parse('combined-rss/feed.xml'); print('RSS XML valid')"
-      - name: Commit feed if changed
         run: |
-          if git diff --quiet -- combined-rss/feed.xml; then
+          python - <<'PY'
+          import glob
+          import xml.etree.ElementTree as ET
+          files = ["combined-rss/feed.xml"] + sorted(glob.glob("combined-rss/feeds/*.xml"))
+          assert len(files) == 6, f"Expected 6 feeds, got {len(files)}: {files}"
+          for path in files:
+              ET.parse(path)
+              print("RSS XML valid:", path)
+          PY
+      - name: Commit feeds if changed
+        run: |
+          if git diff --quiet -- combined-rss/feed.xml combined-rss/feeds; then
             echo "No feed changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add combined-rss/feed.xml
-          git commit -m "Update combined AI + Tech RSS"
+          git add combined-rss/feed.xml combined-rss/feeds
+          git commit -m "Update labeled AI + Tech RSS feeds"
           git push
