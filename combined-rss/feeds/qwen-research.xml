@@ -5,7 +5,497 @@
 <link>https://qwen.ai/research</link>
 <description>Qwen Research articles from Qwen's first-party research data with official covers and descriptions.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 10:09:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 10:10:00 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/qwen-research.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b8bb5f420aaa59868de7.html</link>
+<guid isPermaLink="false">combined:9ba95e19f82de3713d7ca235ecb66139a19540fe</guid>
+<pubDate>Thu, 03 Sep 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=e-commerce-bench" rel="related" type="text/html" />
+<description>Agent benchmarks over the past few years have mostly followed one pattern. A goal is handed to the model, and the model tries to reach it within a bounded number of turns, whether that means finding the treasure in a maze, producing a report, or fixing a piece of code. Performance is then scored on the quality of the deliverable or on how much of the task got done, and evaluations of this kind usu</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png" alt="" /></p><p>Agent benchmarks over the past few years have mostly followed one pattern. A goal is handed to the model, and the model tries to reach it within a bounded number of turns, whether that means finding the treasure in a maze, producing a report, or fixing a piece of code. Performance is then scored on the quality of the deliverable or on how much of the task got done, and evaluations of this kind usu</p><p><a href="https://qwen.ai/blog?id=e-commerce-bench">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6c6f0010c3b9987ca151.html</link>
+<guid isPermaLink="false">combined:e63f482832c911e7b86eefe07326839914c63828</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-drive-1.0" rel="related" type="text/html" />
+<description>We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an exp</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png" alt="" /></p><p>We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an exp</p><p><a href="https://qwen.ai/blog?id=qwen-drive-1.0">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b6e71c13696b6ec8c245.html</link>
+<guid isPermaLink="false">combined:cd1723f739d0dc65936bf9e40e3a779582e08396</guid>
+<pubDate>Wed, 26 Aug 2026 12:30:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.8-flash-next" rel="related" type="text/html" />
+<description>In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the a</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png" alt="" /></p><p>In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the a</p><p><a href="https://qwen.ai/blog?id=qwen3.8-flash-next">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f1afe25775a0b09360ff.html</link>
+<guid isPermaLink="false">combined:183fb71a232cbc1f7aa705c1e0089fc32b78df39</guid>
+<pubDate>Mon, 03 Aug 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.8" rel="related" type="text/html" />
+<description>Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work, rese</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" alt="" /></p><p>Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work, rese</p><p><a href="https://qwen.ai/blog?id=qwen3.8">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8a76849761aefc4383af.html</link>
+<guid isPermaLink="false">combined:50352d4c9eeb09215cc9f9b99c8b3c758a193b24</guid>
+<pubDate>Tue, 21 Jul 2026 06:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-3.0" rel="related" type="text/html" />
+<description>We are launching Qwen-Image-3.0, the third-generation foundational image generation model in the Qwen-Image series. If the keyword for Qwen-Image-1.0 was "Precision", and the keywords for Qwen-Image-2.0 were "Precision, Variety, Completeness, Beauty, and Authenticity", then the core of Qwen-Image-3.0 comes down to a single word — "Real" (实). This "Real" is embodied across three dimensions: Ric</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01xIf9ZH22o5MUhuDYF_!!6000000007166-2-tps-1590-954.png" alt="" /></p><p>We are launching Qwen-Image-3.0, the third-generation foundational image generation model in the Qwen-Image series. If the keyword for Qwen-Image-1.0 was "Precision", and the keywords for Qwen-Image-2.0 were "Precision, Variety, Completeness, Beauty, and Authenticity", then the core of Qwen-Image-3.0 comes down to a single word — "Real" (实). This "Real" is embodied across three dimensions: Ric</p><p><a href="https://qwen.ai/blog?id=qwen-image-3.0">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01xIf9ZH22o5MUhuDYF_!!6000000007166-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01xIf9ZH22o5MUhuDYF_!!6000000007166-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01xIf9ZH22o5MUhuDYF_!!6000000007166-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-AgentWorld: Language World Models for General Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e75a5d92b455252ac13d.html</link>
+<guid isPermaLink="false">combined:be75fc18fda17940488fe1988716017ece601edd</guid>
+<pubDate>Tue, 23 Jun 2026 03:30:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-agentworld" rel="related" type="text/html" />
+<description>Today we release Qwen-AgentWorld, a native language world model that simulates agent environments across seven domains: Native world modeling: environment modeling is the training objective from continual pre-training onward (CPT → SFT → RL), not a post hoc adaptation on top of a general-purpose LLM. Seven domains, one model: a single model simulates text-based (MCP, Search, Terminal, SWE) and</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01HTUzD01pxACTcMZhl_!!6000000005426-2-tps-1590-954.png" alt="" /></p><p>Today we release Qwen-AgentWorld, a native language world model that simulates agent environments across seven domains: Native world modeling: environment modeling is the training objective from continual pre-training onward (CPT → SFT → RL), not a post hoc adaptation on top of a general-purpose LLM. Seven domains, one model: a single model simulates text-based (MCP, Search, Terminal, SWE) and</p><p><a href="https://qwen.ai/blog?id=qwen-agentworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01HTUzD01pxACTcMZhl_!!6000000005426-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01HTUzD01pxACTcMZhl_!!6000000005426-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01HTUzD01pxACTcMZhl_!!6000000005426-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aa77a916b0f0c9e5f9d9.html</link>
+<guid isPermaLink="false">combined:0c8545fb1fa9be89c026d1310351bd91dc6a80e9</guid>
+<pubDate>Tue, 16 Jun 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotsuite" rel="related" type="text/html" />
+<description>The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies fi</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" alt="" /></p><p>The Qwen family of foundation models already gives strong perception and reasoning about the physical world. But seeing is not acting: the gap between vision and language understanding and physical control remains the central bottleneck for embodied intelligence. The Qwen-Robot Suite bridges this gap with three foundation models — Qwen-RobotNav, Qwen-RobotManip, and Qwen-RobotWorld. Nav unifies fi</p><p><a href="https://qwen.ai/blog?id=qwen-robotsuite">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1370d9367537d3026b34.html</link>
+<guid isPermaLink="false">combined:5fa4b3172a801e1d60fa0d0dc632d44b28bd7415</guid>
+<pubDate>Mon, 01 Jun 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.7-plus" rel="related" type="text/html" />
+<description>Today we introduce Qwen3.7-Plus — a multimodal agent model that unifies vision and language into a single, versatile agent foundation. Building on Qwen3.7's strong text backbone, Qwen3.7-Plus delivers a comprehensive upgrade in vision-language capabi</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01dlIhjJ1Zi1FO5WGsc_!!6000000003227-2-tps-1590-954.png" alt="" /></p><p>Today we introduce Qwen3.7-Plus — a multimodal agent model that unifies vision and language into a single, versatile agent foundation. Building on Qwen3.7's strong text backbone, Qwen3.7-Plus delivers a comprehensive upgrade in vision-language capabi</p><p><a href="https://qwen.ai/blog?id=qwen3.7-plus">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01dlIhjJ1Zi1FO5WGsc_!!6000000003227-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01dlIhjJ1Zi1FO5WGsc_!!6000000003227-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01dlIhjJ1Zi1FO5WGsc_!!6000000003227-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-VLA: From Understanding the World to Acting in It</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9bcf1d73b42b01b7a3.html</link>
+<guid isPermaLink="false">combined:fe84433622f87db7e7478774dfb831bf2cc59ef3</guid>
+<pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwenvla" rel="related" type="text/html" />
+<description>Over the past few years, multimodal large language models have become increasingly capable of understanding images, videos, and real-world scenes. They can recognize objects, reason about spatial relationships, answer visual questions, and solve complex multimodal reasoning tasks. But for embodied intelligence, understanding the world is only the first step. A truly embodied agent also needs to un</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" alt="" /></p><p>Over the past few years, multimodal large language models have become increasingly capable of understanding images, videos, and real-world scenes. They can recognize objects, reason about spatial relationships, answer visual questions, and solve complex multimodal reasoning tasks. But for embodied intelligence, understanding the world is only the first step. A truly embodied agent also needs to un</p><p><a href="https://qwen.ai/blog?id=qwenvla">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.7: The Agent Frontier</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/665d8410f3f9a118bd26.html</link>
+<guid isPermaLink="false">combined:df58ba550cc86fd334804b783a9080bb7704709e</guid>
+<pubDate>Wed, 20 May 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.7" rel="related" type="text/html" />
+<description>Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps. What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a codin</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01za5jOD2214yBUb8F5_!!6000000007059-2-tps-1590-954.png" alt="" /></p><p>Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps. What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a codin</p><p><a href="https://qwen.ai/blog?id=qwen3.7">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01za5jOD2214yBUb8F5_!!6000000007059-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01za5jOD2214yBUb8F5_!!6000000007059-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01za5jOD2214yBUb8F5_!!6000000007059-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.5-LiveTranslate: From Sound to Sight, From Word to Right</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/01820ec5743df8d93c26.html</link>
+<guid isPermaLink="false">combined:5fd125e0336d764df87c2a990a225b526e60d375</guid>
+<pubDate>Tue, 19 May 2026 09:40:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.5-livetranslate" rel="related" type="text/html" />
+<description>Qwen3.5-LiveTranslate-Flash is the latest simultaneous interpretation model in the Qwen family, built on top of Qwen3.5-Omni. It delivers real-time, multimodal translation that not only hears and translates speech, but also sees and understands visual context to produce more accurate translations. Compared with its predecessor Qwen3-LiveTranslate, Qwen3.5-LiveTranslate-Flash brings major upgrades</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01VmUTIT1HdI4ZLu25U_!!6000000000780-2-tps-1590-954.png" alt="" /></p><p>Qwen3.5-LiveTranslate-Flash is the latest simultaneous interpretation model in the Qwen family, built on top of Qwen3.5-Omni. It delivers real-time, multimodal translation that not only hears and translates speech, but also sees and understands visual context to produce more accurate translations. Compared with its predecessor Qwen3-LiveTranslate, Qwen3.5-LiveTranslate-Flash brings major upgrades</p><p><a href="https://qwen.ai/blog?id=qwen3.5-livetranslate">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01VmUTIT1HdI4ZLu25U_!!6000000000780-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01VmUTIT1HdI4ZLu25U_!!6000000000780-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01VmUTIT1HdI4ZLu25U_!!6000000000780-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Scope: Decoding Intelligence, Unleashing Potential</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1afb60b51da2aa261a0c.html</link>
+<guid isPermaLink="false">combined:be075ac7ff5ee1bd33309da453ef1c07d50b3169</guid>
+<pubDate>Thu, 30 Apr 2026 04:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-scope" rel="related" type="text/html" />
+<description>Interpretability research has emerged as a critical area for understanding LLM behaviors, informing performance optimization, and enabling more controllable model outputs. Today, we are excited to introduce Qwen-Scope, an interpretability toolkit trained on the Qwen3 and Qwen3.5 series models. Specifically, we inserted and trained Sparse Autoencoders (SAEs) within Qwen’s hidden layers. By imposing</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01Zn57Fv1HbuseMj1D4_!!6000000000777-2-tps-1590-954.png" alt="" /></p><p>Interpretability research has emerged as a critical area for understanding LLM behaviors, informing performance optimization, and enabling more controllable model outputs. Today, we are excited to introduce Qwen-Scope, an interpretability toolkit trained on the Qwen3 and Qwen3.5 series models. Specifically, we inserted and trained Sparse Autoencoders (SAEs) within Qwen’s hidden layers. By imposing</p><p><a href="https://qwen.ai/blog?id=qwen-scope">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01Zn57Fv1HbuseMj1D4_!!6000000000777-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01Zn57Fv1HbuseMj1D4_!!6000000000777-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01Zn57Fv1HbuseMj1D4_!!6000000000777-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>FlashQLA: CP-/Bwd-Friendly Fused Linear Attention Kernels for GDN</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4d56e67b22cd54828643.html</link>
+<guid isPermaLink="false">combined:3721c208d169d7013d8ba579e3c8027f383ad458</guid>
+<pubDate>Tue, 28 Apr 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=flashqla" rel="related" type="text/html" />
+<description>Following the release of Qwen3-Next, Gated Delta Network (GDN) has become the workhorse attention layer across the Qwen family — from Qwen3-Next-80B-A3B all the way to the subsequent Qwen3.5 / Qwen3.6 series. As models scale to 397A17B / 122A10B / 35B / 27B and context win</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01IUOCqg1RG48rlBwP7_!!6000000002083-2-tps-1590-954.png" alt="" /></p><p>Following the release of Qwen3-Next, Gated Delta Network (GDN) has become the workhorse attention layer across the Qwen family — from Qwen3-Next-80B-A3B all the way to the subsequent Qwen3.5 / Qwen3.6 series. As models scale to 397A17B / 122A10B / 35B / 27B and context win</p><p><a href="https://qwen.ai/blog?id=flashqla">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01IUOCqg1RG48rlBwP7_!!6000000002083-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01IUOCqg1RG48rlBwP7_!!6000000002083-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01IUOCqg1RG48rlBwP7_!!6000000002083-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/345895944935c926ae4c.html</link>
+<guid isPermaLink="false">combined:3f04aab9f8ee79f26ecbfee61ff8a15eb06ab0ce</guid>
+<pubDate>Wed, 22 Apr 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.6-27b" rel="related" type="text/html" />
+<description>Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-level agentic coding performance, surpassing the previous-generation open-source flagship Qwen3.5-397B-</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01pnefgf1o0FcxKA3uu_!!6000000005162-2-tps-1590-954.png" alt="" /></p><p>Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-level agentic coding performance, surpassing the previous-generation open-source flagship Qwen3.5-397B-</p><p><a href="https://qwen.ai/blog?id=qwen3.6-27b">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01pnefgf1o0FcxKA3uu_!!6000000005162-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01pnefgf1o0FcxKA3uu_!!6000000005162-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01pnefgf1o0FcxKA3uu_!!6000000005162-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/26bac509a21fa15c0f66.html</link>
+<guid isPermaLink="false">combined:9125b918bee377bdc2d8c80e8f24b798c904e78f</guid>
+<pubDate>Sat, 18 Apr 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.6-max-preview" rel="related" type="text/html" />
+<description>Following the release of Qwen3.6-Plus, we are sharing an early preview of our next proprietary model: Qwen3.6-Max-Preview. Compared to Qwen3.6-Plus, this preview release brings stronger world knowledge and instruction following, along with significant agentic coding improvements across a wide range of benchmarks. As a preview, the model is still under active development — we are continuing to iter</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01G7Tcjx1TKJ2SRtYll_!!6000000002363-2-tps-1590-954.png" alt="" /></p><p>Following the release of Qwen3.6-Plus, we are sharing an early preview of our next proprietary model: Qwen3.6-Max-Preview. Compared to Qwen3.6-Plus, this preview release brings stronger world knowledge and instruction following, along with significant agentic coding improvements across a wide range of benchmarks. As a preview, the model is still under active development — we are continuing to iter</p><p><a href="https://qwen.ai/blog?id=qwen3.6-max-preview">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01G7Tcjx1TKJ2SRtYll_!!6000000002363-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01G7Tcjx1TKJ2SRtYll_!!6000000002363-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01G7Tcjx1TKJ2SRtYll_!!6000000002363-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/13141fd23dc1a3eb8503.html</link>
+<guid isPermaLink="false">combined:c201a8dd859906a5c99640ec624d90d7638f8335</guid>
+<pubDate>Wed, 15 Apr 2026 02:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.6-35b-a3b" rel="related" type="text/html" />
+<description>Following the launch of Qwen3.6-Plus, we are excited to open-source Qwen3.6-35B-A3B — a sparse yet remarkably capable mixture-of-experts (MoE) model with 35 billion total parameters and only 3 billion active parameters. Despite its efficiency, Qwen3.6-35B-A3B delivers outstanding agentic coding performance, surpassing its predecessor Qwen3.5-35B-A3B by a wide margin and rivaling much larger dense</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01cL6tG71xn6PgeRuj6_!!6000000006487-2-tps-1590-954.png" alt="" /></p><p>Following the launch of Qwen3.6-Plus, we are excited to open-source Qwen3.6-35B-A3B — a sparse yet remarkably capable mixture-of-experts (MoE) model with 35 billion total parameters and only 3 billion active parameters. Despite its efficiency, Qwen3.6-35B-A3B delivers outstanding agentic coding performance, surpassing its predecessor Qwen3.5-35B-A3B by a wide margin and rivaling much larger dense</p><p><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01cL6tG71xn6PgeRuj6_!!6000000006487-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01cL6tG71xn6PgeRuj6_!!6000000006487-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01cL6tG71xn6PgeRuj6_!!6000000006487-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.6-Plus: Towards Real World Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d4ef448fe2808627ce8.html</link>
+<guid isPermaLink="false">combined:e788321afac769ceb6e9541da301d131b5b39ae9</guid>
+<pubDate>Wed, 01 Apr 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.6" rel="related" type="text/html" />
+<description>Following the release of the Qwen3.5 series in February, we are thrilled to announce the official launch of Qwen3.6-Plus. Available immediately via our API, this release represents a massive capability upgrade over its predecessor. Most notably, we have drastically enhanced the model's agentic coding capabilities. From frontend web development to complex, repository-level problem solving, Qwen3.6-</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01DNoOHV1Mbz0kbbOsY_!!6000000001454-2-tps-1590-954.png" alt="" /></p><p>Following the release of the Qwen3.5 series in February, we are thrilled to announce the official launch of Qwen3.6-Plus. Available immediately via our API, this release represents a massive capability upgrade over its predecessor. Most notably, we have drastically enhanced the model's agentic coding capabilities. From frontend web development to complex, repository-level problem solving, Qwen3.6-</p><p><a href="https://qwen.ai/blog?id=qwen3.6">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01DNoOHV1Mbz0kbbOsY_!!6000000001454-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01DNoOHV1Mbz0kbbOsY_!!6000000001454-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01DNoOHV1Mbz0kbbOsY_!!6000000001454-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.5-Omni: Scaling Up, Toward Native Omni-Modal AGI</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/25098c0f09a55d0272ce.html</link>
+<guid isPermaLink="false">combined:0aa04a1fd93eb082434286549de4eb4f83a226ab</guid>
+<pubDate>Sun, 29 Mar 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.5-omni" rel="related" type="text/html" />
+<description>Qwen3.5-Omni is Qwen’s latest generation of fully omnimodal LLM, supporting the understanding of text, images, audio, and audio-visual content. Both the Thinker and Talker in Qwen3.5-Omni adopt the Hybrid-Attention MoE. Qwen3.5-Omni series includes Instruct versions in three sizes: Plus, Flash, and Light, with support for 256k long-context input. The model can process more than 10 hours of audio i</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01gJhkPX1gZVB49xEk1_!!6000000004156-2-tps-1590-954.png" alt="" /></p><p>Qwen3.5-Omni is Qwen’s latest generation of fully omnimodal LLM, supporting the understanding of text, images, audio, and audio-visual content. Both the Thinker and Talker in Qwen3.5-Omni adopt the Hybrid-Attention MoE. Qwen3.5-Omni series includes Instruct versions in three sizes: Plus, Flash, and Light, with support for 256k long-context input. The model can process more than 10 hours of audio i</p><p><a href="https://qwen.ai/blog?id=qwen3.5-omni">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01gJhkPX1gZVB49xEk1_!!6000000004156-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01gJhkPX1gZVB49xEk1_!!6000000004156-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01gJhkPX1gZVB49xEk1_!!6000000004156-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.5-Max-Preview Now Available on Arena</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/121266ea64fb3b8be332.html</link>
+<guid isPermaLink="false">combined:442eda8ad9934823341d283a3b0769b120038295</guid>
+<pubDate>Wed, 18 Mar 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.5-max-preview" rel="related" type="text/html" />
+<description>We are pleased to announce the deployment of Qwen3.5-Max-Preview on Arena, where it has demonstrated exceptional performance during the preliminary evaluations. As we proceed with final optimizations ahead of the release within the next two weeks, we invite the community to evaluate the model's capabilities via https://arena.ai/ .</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01oNNHZp1u2RCpQ3Kyj_!!6000000005979-2-tps-1590-954.png" alt="" /></p><p>We are pleased to announce the deployment of Qwen3.5-Max-Preview on Arena, where it has demonstrated exceptional performance during the preliminary evaluations. As we proceed with final optimizations ahead of the release within the next two weeks, we invite the community to evaluate the model's capabilities via https://arena.ai/ .</p><p><a href="https://qwen.ai/blog?id=qwen3.5-max-preview">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01oNNHZp1u2RCpQ3Kyj_!!6000000005979-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01oNNHZp1u2RCpQ3Kyj_!!6000000005979-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01oNNHZp1u2RCpQ3Kyj_!!6000000005979-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3.5: Towards Native Multimodal Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/05401bde8c814e67e166.html</link>
+<guid isPermaLink="false">combined:fe4c37f22b384881b56f3efd7be28dc942f9c0c7</guid>
+<pubDate>Sun, 15 Feb 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.5" rel="related" type="text/html" />
+<description>We are delighted to announce the official release of Qwen3.5, introducing the open-weight of the first model in the Qwen3.5 series, namely Qwen3.5-397B-A17B. As a native vision-language model, Qwen3.5-397B-A17B demonstrates outstanding results across a full range of benchmark evaluations, including reasoning, coding, agent capabilities, and multimodal understanding, empowering developers and enter</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01Ux3jxM1qOBXoBo82c_!!6000000005485-2-tps-1590-954.png" alt="" /></p><p>We are delighted to announce the official release of Qwen3.5, introducing the open-weight of the first model in the Qwen3.5 series, namely Qwen3.5-397B-A17B. As a native vision-language model, Qwen3.5-397B-A17B demonstrates outstanding results across a full range of benchmark evaluations, including reasoning, coding, agent capabilities, and multimodal understanding, empowering developers and enter</p><p><a href="https://qwen.ai/blog?id=qwen3.5">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01Ux3jxM1qOBXoBo82c_!!6000000005485-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01Ux3jxM1qOBXoBo82c_!!6000000005485-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01Ux3jxM1qOBXoBo82c_!!6000000005485-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-2.0: Professional infographics, exquisite photorealism</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2f98e85d6d28a780f880.html</link>
+<guid isPermaLink="false">combined:4d23d098dc84fbc25232674cea467cc73f197d96</guid>
+<pubDate>Tue, 10 Feb 2026 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-2.0" rel="related" type="text/html" />
+<description>We are launching Qwen-Image-2.0, a next-generation foundational image generation model. The key highlights of Qwen-Image-2.0 include: Professional Typography Rendering: Supports 1k-token instructions for direct generation of professional infographics, including PPTs, posters, comics, and more. Stronger Semantic Adherence: Native 2K resolution support for finely detailed realistic scenes, including</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01IKBGxr1EqAL8Px7tj_!!6000000000402-2-tps-1590-954.png" alt="" /></p><p>We are launching Qwen-Image-2.0, a next-generation foundational image generation model. The key highlights of Qwen-Image-2.0 include: Professional Typography Rendering: Supports 1k-token instructions for direct generation of professional infographics, including PPTs, posters, comics, and more. Stronger Semantic Adherence: Native 2K resolution support for finely detailed realistic scenes, including</p><p><a href="https://qwen.ai/blog?id=qwen-image-2.0">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01IKBGxr1EqAL8Px7tj_!!6000000000402-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01IKBGxr1EqAL8Px7tj_!!6000000000402-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01IKBGxr1EqAL8Px7tj_!!6000000000402-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5059de01d1045e5cbe63.html</link>
+<guid isPermaLink="false">combined:059c7aac9e64f1014e39f7eb646104296ad17375</guid>
+<pubDate>Mon, 02 Feb 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3-coder-next" rel="related" type="text/html" />
+<description>--- We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01LwK7vH21HjjuHvHWQ_!!6000000006960-2-tps-1590-954.png" alt="" /></p><p>--- We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong</p><p><a href="https://qwen.ai/blog?id=qwen3-coder-next">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01LwK7vH21HjjuHvHWQ_!!6000000006960-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01LwK7vH21HjjuHvHWQ_!!6000000006960-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01LwK7vH21HjjuHvHWQ_!!6000000006960-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-ASR &amp; Qwen3-ForcedAligner is Now Open Sourced: Robust, Streaming and Multilingual!</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/136975081a0d8234e8c2.html</link>
+<guid isPermaLink="false">combined:061be5ff103e07461a2c336e155e5e84acb93810</guid>
+<pubDate>Wed, 28 Jan 2026 16:00:04 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3asr" rel="related" type="text/html" />
+<description>Qwen3-ASR family includes two powerful all-in-one speech recognition models and a novel non-autoregressive speech forced alignment model. Qwen3-ASR-1.7B and Qwen3-ASR-0.6B are ASR models that support language identifi</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN0109ZYFB1icpHCNALJG_!!6000000004434-2-tps-1590-954.png" alt="" /></p><p>Qwen3-ASR family includes two powerful all-in-one speech recognition models and a novel non-autoregressive speech forced alignment model. Qwen3-ASR-1.7B and Qwen3-ASR-0.6B are ASR models that support language identifi</p><p><a href="https://qwen.ai/blog?id=qwen3asr">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN0109ZYFB1icpHCNALJG_!!6000000004434-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN0109ZYFB1icpHCNALJG_!!6000000004434-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN0109ZYFB1icpHCNALJG_!!6000000004434-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Pushing Qwen3-Max-Thinking Beyond its Limits</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2ae63d7cabe0efc4270c.html</link>
+<guid isPermaLink="false">combined:c57d201b58aa60f85253a72ac65714b100c0296a</guid>
+<pubDate>Sun, 25 Jan 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3-max-thinking" rel="related" type="text/html" />
+<description>We present Qwen3-Max-Thinking, our latest flagship reasoning model. By scaling up model parameters and leveraging substantial computational resources for reinforcement learning, Qwen3-Max-Thinking achieves significant performance improvements across multiple dimensions, including factual knowledge, complex reasoning, instruction following, alignment with human preferences, and agent capabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i3/O1CN01wdW0HW1e4Eu3CE2Jb_!!6000000003817-2-tps-1590-954.png" alt="" /></p><p>We present Qwen3-Max-Thinking, our latest flagship reasoning model. By scaling up model parameters and leveraging substantial computational resources for reinforcement learning, Qwen3-Max-Thinking achieves significant performance improvements across multiple dimensions, including factual knowledge, complex reasoning, instruction following, alignment with human preferences, and agent capabilities.</p><p><a href="https://qwen.ai/blog?id=qwen3-max-thinking">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i3/O1CN01wdW0HW1e4Eu3CE2Jb_!!6000000003817-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN01wdW0HW1e4Eu3CE2Jb_!!6000000003817-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01wdW0HW1e4Eu3CE2Jb_!!6000000003817-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation!</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/150d26c6976c103155b6.html</link>
+<guid isPermaLink="false">combined:7cc901850fde0e0ace6fecc1af49dad9ad7d830f</guid>
+<pubDate>Wed, 21 Jan 2026 16:00:04 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3tts-0115" rel="related" type="text/html" />
+<description>Qwen3-TTS is a series of powerful speech generation capabilities developed by Qwen, offering comprehensive support for voice clone, voice design, ultra-high-quality human-like speech generation, and natural language-</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01j0qyeo1QD1soQFCW3_!!6000000001941-2-tps-1590-954.png" alt="" /></p><p>Qwen3-TTS is a series of powerful speech generation capabilities developed by Qwen, offering comprehensive support for voice clone, voice design, ultra-high-quality human-like speech generation, and natural language-</p><p><a href="https://qwen.ai/blog?id=qwen3tts-0115">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01j0qyeo1QD1soQFCW3_!!6000000001941-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01j0qyeo1QD1soQFCW3_!!6000000001941-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01j0qyeo1QD1soQFCW3_!!6000000001941-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen3-VL-Embedding and Qwen3-VL-Reranker: For the Next Generation of Multimodal Retrieval</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cac26578916c72faff0c.html</link>
+<guid isPermaLink="false">combined:8343071fcb987bd4d8bd453ef53e797ba9c9f96d</guid>
+<pubDate>Wed, 07 Jan 2026 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3-vl-embedding" rel="related" type="text/html" />
+<description>In June 2025, we open-sourced the text-oriented Qwen3-Embedding and Qwen3-ReRanker model series, providing best-in-class performance across a variety of downstream tasks, including multilingual text retrieval, clustering, and classification, which have been widely adopted by developers in the community. Today, we are thrilled to announce the release of the Qwen3-VL-Embedding and Qwen3-VL-Reranker</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN017MeV6820B2KAWlQwA_!!6000000006810-2-tps-1590-954.png" alt="" /></p><p>In June 2025, we open-sourced the text-oriented Qwen3-Embedding and Qwen3-ReRanker model series, providing best-in-class performance across a variety of downstream tasks, including multilingual text retrieval, clustering, and classification, which have been widely adopted by developers in the community. Today, we are thrilled to announce the release of the Qwen3-VL-Embedding and Qwen3-VL-Reranker</p><p><a href="https://qwen.ai/blog?id=qwen3-vl-embedding">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN017MeV6820B2KAWlQwA_!!6000000006810-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN017MeV6820B2KAWlQwA_!!6000000006810-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN017MeV6820B2KAWlQwA_!!6000000006810-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-2512: Finer Details, Greater Realism</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/928b7829cd250008c9e1.html</link>
+<guid isPermaLink="false">combined:fa6ddf1548fb5172b4fd9e38915117a9fdc59861</guid>
+<pubDate>Wed, 31 Dec 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-2512" rel="related" type="text/html" />
+<description>We are excited to introduce Qwen-Image-2512, the December update of Qwen-Image’s text-to-image foundational model. You are welcome to try the latest model at Qwen Chat. Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances ov</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01dEKYWk22o5K1j8Hku_!!6000000007166-2-tps-1590-954.png" alt="" /></p><p>We are excited to introduce Qwen-Image-2512, the December update of Qwen-Image’s text-to-image foundational model. You are welcome to try the latest model at Qwen Chat. Compared to the base Qwen-Image model released in August, Qwen-Image-2512 features the following key improvements: Enhanced Huamn Realism Qwen-Image-2512 significantly reduces the “AI-generated” look and substantially enhances ov</p><p><a href="https://qwen.ai/blog?id=qwen-image-2512">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01dEKYWk22o5K1j8Hku_!!6000000007166-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01dEKYWk22o5K1j8Hku_!!6000000007166-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01dEKYWk22o5K1j8Hku_!!6000000007166-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Edit-2511: Improve Consistency</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3b16c32f264810a24271.html</link>
+<guid isPermaLink="false">combined:f05dcdf76190aae37a0f3a59740938bbbcc9a9f6</guid>
+<pubDate>Tue, 23 Dec 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-edit-2511" rel="related" type="text/html" />
+<description>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit Qwen Chat and select the Image Editing feature. Note that the online version includes certain optimizations for speed; for the best possible performance, we recommend deploying the model loc</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" alt="" /></p><p>We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit Qwen Chat and select the Image Editing feature. Note that the online version includes certain optimizations for speed; for the best possible performance, we recommend deploying the model loc</p><p><a href="https://qwen.ai/blog?id=qwen-image-edit-2511">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN015JyH0e1jXcNfdFALl_!!6000000004558-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen3-TTS Steps Up: Voice Cloning and Voice Design!</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/891324a03b8f376b1f9f.html</link>
+<guid isPermaLink="false">combined:0e863583b918a088daab9df5f123c78182da727d</guid>
+<pubDate>Mon, 22 Dec 2025 16:00:45 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign" rel="related" type="text/html" />
+<description>Qwen3-TTS family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the Qwen API) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the Qwen API). Key Features: Voice Design：Qwen3-TTS-VD-Flash supports complex natural language instructions, enabling fine-grained control over timbre, prosody, emotion, p</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" alt="" /></p><p>Qwen3-TTS family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the Qwen API) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the Qwen API). Key Features: Voice Design：Qwen3-TTS-VD-Flash supports complex natural language instructions, enabling fine-grained control over timbre, prosody, emotion, p</p><p><a href="https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-Layered: Layered Decomposition for Inherent Editablity</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6b172ec137ee5cd9b66e.html</link>
+<guid isPermaLink="false">combined:604f8697c1919796562574b0e740bf6ffd4988aa</guid>
+<pubDate>Fri, 19 Dec 2025 05:08:30 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-layered" rel="related" type="text/html" />
+<description>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation naturally supports high-fidelity elementary operations-such as resizing, reposition, and recoloring. B</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" alt="" /></p><p>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation naturally supports high-fidelity elementary operations-such as resizing, reposition, and recoloring. B</p><p><a href="https://qwen.ai/blog?id=qwen-image-layered">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen3-Omni-Flash-2025-12-01：Hear You. See You. Follow Smarter!</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fa929d1e601b75e192e4.html</link>
+<guid isPermaLink="false">combined:af6734f39e60108165623414908ef8b39acb2c12</guid>
+<pubDate>Mon, 08 Dec 2025 21:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201" rel="related" type="text/html" />
+<description>Qwen3-Omni is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces mul</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" alt="" /></p><p>Qwen3-Omni is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces mul</p><p><a href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>SAPO: A Stable and Performant Reinforcement Learning Method for Training Large Language Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d5fa28c2d5ba3c581dd.html</link>
+<guid isPermaLink="false">combined:80f2f34b14c60f045bf46538eebaf6a3e3117fe9</guid>
+<pubDate>Thu, 04 Dec 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=sapo" rel="related" type="text/html" />
+<description>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimization—where multiple responses are sampled per prompt and their rewards are normalized within the group</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" alt="" /></p><p>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimization—where multiple responses are sampled per prompt and their rewards are normalized within the group</p><p><a href="https://qwen.ai/blog?id=sapo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" type="image/png" length="0" />
+</item>
 </channel>
 </rss>
