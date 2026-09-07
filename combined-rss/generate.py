@@ -6,6 +6,7 @@ import re
 import time
 import urllib.parse
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -657,24 +658,32 @@ def main():
     enriched = []
     for source, group in by_source.items():
         limit = MAX_PER_SOURCE[source]
-        candidates = group[: (100 if source == "Qwen Research" else limit)]
-        source_items = []
-        for idx, item in enumerate(candidates):
+        candidates = group[: (45 if source == "Qwen Research" else limit)]
+
+        def enrich_one(item):
             key = (source, item["link"])
-            item = enrich(item, cached.get(key), prefer_page_title=source in {"The AI Timeline", "Qwen Research"})
-            if source == "Qwen Research":
-                if not item.get("published") and not item.get("description"):
+            return enrich(item, cached.get(key), prefer_page_title=source in {"The AI Timeline", "Qwen Research"})
+
+        source_items = []
+        workers = min(10, max(1, len(candidates)))
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futures = [pool.submit(enrich_one, item) for item in candidates]
+            for future in as_completed(futures):
+                try:
+                    item = future.result()
+                except Exception as exc:
+                    print(f"WARN enrichment failed for {source}: {exc}")
                     continue
-                if "/research/" not in item["link"] and "/blog" not in item["link"]:
-                    continue
-            if not item.get("published"):
-                item["published"] = datetime(1970, 1, 1, tzinfo=timezone.utc)
-            source_items.append(item)
-            if len(source_items) >= limit:
-                break
-            if key not in cached and idx < 15:
-                time.sleep(0.15)
-        enriched.extend(source_items)
+                if source == "Qwen Research":
+                    if not item.get("published") and not item.get("description"):
+                        continue
+                    if "/research/" not in item["link"] and "/blog" not in item["link"]:
+                        continue
+                if not item.get("published"):
+                    item["published"] = datetime(1970, 1, 1, tzinfo=timezone.utc)
+                source_items.append(item)
+        source_items.sort(key=lambda i: i.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc), reverse=True)
+        enriched.extend(source_items[:limit])
 
     write_feed(dedupe(enriched))
 
