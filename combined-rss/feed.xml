@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 09:25:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:28:24 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles (Yan Zhuang/New York Times)</title>
@@ -14,8 +14,11 @@
 <pubDate>Mon, 07 Sep 2026 08:05:36 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F04%2Fmultimedia%2F04int-china-youth-unemployment-01-wkqv%2F04int-china-youth-unemployment-01-wkqv-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F04%2Fmultimedia%2F04int-china-youth-unemployment-01-wkqv%2F04int-china-youth-unemployment-01-wkqv-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F04%2Fmultimedia%2F04int-china-youth-unemployment-01-wkqv%2F04int-china-youth-unemployment-01-wkqv-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F04%2Fmultimedia%2F04int-china-youth-unemployment-01-wkqv%2F04int-china-youth-unemployment-01-wkqv-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M (Reuters)</title>
@@ -24,8 +27,11 @@
 <pubDate>Mon, 07 Sep 2026 05:25:36 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Indian space tech startup Pixxel said on Monday it had raised $100 million in a Series C ​funding round led by Singapore state investor ‌Temasek and British space-technology venture firm Seraphim , ma...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5FTH47BYFJOWRC3B7V4ZM6GSWA.jpg%3Fauth%3D33193f7b3c4d3425371f9b7783a0b4a299abc699f902f6d6b0cc2c55e63f3cde%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Indian space tech startup Pixxel said on Monday it had raised $100 million in a Series C ​funding round led by Singapore state investor ‌Temasek and British space-technology venture firm Seraphim , ma...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5FTH47BYFJOWRC3B7V4ZM6GSWA.jpg%3Fauth%3D33193f7b3c4d3425371f9b7783a0b4a299abc699f902f6d6b0cc2c55e63f3cde%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5FTH47BYFJOWRC3B7V4ZM6GSWA.jpg%3Fauth%3D33193f7b3c4d3425371f9b7783a0b4a299abc699f902f6d6b0cc2c55e63f3cde%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5FTH47BYFJOWRC3B7V4ZM6GSWA.jpg%3Fauth%3D33193f7b3c4d3425371f9b7783a0b4a299abc699f902f6d6b0cc2c55e63f3cde%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more (Zvi Mowshowitz/Don't Worry About the Vase)</title>
@@ -73,8 +79,11 @@
 <pubDate>Mon, 07 Sep 2026 02:36:00 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-22948193%2Fsocial" alt="" /></p><p>Americans are vibe-coding trading algorithms and handing over their stock portfolios to AI agents. Welcome to the world of the robot retail investor.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-22948193%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-22948193%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-22948193%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)</title>
@@ -122,8 +131,11 @@
 <pubDate>Sun, 06 Sep 2026 19:30:44 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand for Claude Code and Cowork that took the company by surprise th...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17777%2Fe3f44732-cd3c-491d-ba4f-63db407e99c8.png%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" alt="" /></p><p>Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand for Claude Code and Cowork that took the company by surprise th...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17777%2Fe3f44732-cd3c-491d-ba4f-63db407e99c8.png%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17777%2Fe3f44732-cd3c-491d-ba4f-63db407e99c8.png%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17777%2Fe3f44732-cd3c-491d-ba4f-63db407e99c8.png%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>OpenAI says it hit its "automated research intern" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)</title>
@@ -184,8 +196,11 @@
 <pubDate>Sun, 06 Sep 2026 06:01:22 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Trump administration officials are wrestling with the spiritual consequences of AI as the president embraces it as an economic engine.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21286369%2Fsocial" alt="" /></p><p>Trump administration officials are wrestling with the spiritual consequences of AI as the president embraces it as an economic engine.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21286369%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21286369%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21286369%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)</title>
@@ -233,8 +248,11 @@
 <pubDate>Sun, 06 Sep 2026 00:02:00 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>AI could transform our understanding of other species. It also risks giving humans powerful new ways to manipulate, exploit and harm them.</description>
+<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" alt="" /></p><p>AI could transform our understanding of other species. It also risks giving humans powerful new ways to manipulate, exploit and harm them.</p>]]></content:encoded>
+<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" medium="image" type="image/gif" />
+<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" />
+<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifq_wWhZkdRY/v0/-999x-999.gif" type="image/gif" length="0" />
 </item>
 <item>
 <title>The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)</title>
@@ -269,8 +287,11 @@
 <pubDate>Sat, 05 Sep 2026 19:46:02 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>From tornadoes to power cuts, artificial-intelligence hyperscale data centers are exposed to a dizzying array of potential threats during their construction and operation.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76944135%2Fsocial" alt="" /></p><p>From tornadoes to power cuts, artificial-intelligence hyperscale data centers are exposed to a dizzying array of potential threats during their construction and operation.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76944135%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76944135%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76944135%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)</title>
@@ -279,8 +300,11 @@
 <pubDate>Sat, 05 Sep 2026 17:31:25 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Berlin's state government said on Saturday it was reviewing with the highest ​intensity a trove of stolen data ‌published by a ransomware group, as investigators attempt to assess the scale and impact...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYM7DTVNHXJLU3MEGOYWOAPNCEY.jpg%3Fauth%3Df5dfd1df20e8863945f86ac3a091bf4772987c4a0cf831aeceb58d13fc5c5fbb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)</title>
@@ -367,8 +391,11 @@
 <pubDate>Sat, 05 Sep 2026 06:46:18 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>The former Google China chief and longtime AI investor on Beijing’s open-model advantage, the future of work and why CEOs still underestimate AI.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3bk7hM8ECCw%2Fv0%2F-1x-1.png" alt="" /></p><p>The former Google China chief and longtime AI investor on Beijing’s open-model advantage, the future of work and why CEOs still underestimate AI.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3bk7hM8ECCw%2Fv0%2F-1x-1.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3bk7hM8ECCw%2Fv0%2F-1x-1.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3bk7hM8ECCw%2Fv0%2F-1x-1.png" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Source: Betaworks has a 5.5% stake in Hugging Face, worth ~$650M at its $11.9B acquisition price for stockholders; A.Capital says it could bag $1.5B on the sale (Yuliya Chernova/Wall Street Journal)</title>
@@ -377,8 +404,11 @@
 <pubDate>Sat, 05 Sep 2026 06:36:24 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>John Borthwick’s venture firm wrote the first check Hugging Face ever received, and now owns a stake that could be worth $650 million. Other early investors also did handsomely.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11434342%2Fsocial" alt="" /></p><p>John Borthwick’s venture firm wrote the first check Hugging Face ever received, and now owns a stake that could be worth $650 million. Other early investors also did handsomely.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11434342%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11434342%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11434342%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)</title>
@@ -413,8 +443,11 @@
 <pubDate>Sat, 05 Sep 2026 05:11:01 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>The financing includes a $90 million Series C equity round and $130 million in debt facilities.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.mobihealthnews.com%2Fsites%2Fmhn%2Ffiles%2F2026-09%2FScan.com%2520founders%2520sized.jpg" alt="" /></p><p>The financing includes a $90 million Series C equity round and $130 million in debt facilities.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.mobihealthnews.com%2Fsites%2Fmhn%2Ffiles%2F2026-09%2FScan.com%2520founders%2520sized.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.mobihealthnews.com%2Fsites%2Fmhn%2Ffiles%2F2026-09%2FScan.com%2520founders%2520sized.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.mobihealthnews.com%2Fsites%2Fmhn%2Ffiles%2F2026-09%2FScan.com%2520founders%2520sized.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B (Moneycontrol)</title>
@@ -449,8 +482,11 @@
 <pubDate>Sat, 05 Sep 2026 00:36:05 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Negotiators offered access to advanced AI hardware to help secure a preliminary agreement last year to end decades of conflict, the latest example of chip diplomacy.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-30699123%2Fsocial" alt="" /></p><p>Negotiators offered access to advanced AI hardware to help secure a preliminary agreement last year to end decades of conflict, the latest example of chip diplomacy.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-30699123%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-30699123%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-30699123%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content (Lauren Feiner/The Verge)</title>
@@ -512,7 +548,10 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <description>The probe comes as new reports suggest the breach by autonomous artificial intelligence models went even further than first disclosed.</description>
-<content:encoded><![CDATA[<p>The probe comes as new reports suggest the breach by autonomous artificial intelligence models went even further than first disclosed.</p>]]></content:encoded>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F05%252F21%252F247d87e7448f92d956cf518e286a%252Fcalifornia-sheriff-ballot-seizure-5774.jpg" alt="" /></p><p>The probe comes as new reports suggest the breach by autonomous artificial intelligence models went even further than first disclosed.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F05%252F21%252F247d87e7448f92d956cf518e286a%252Fcalifornia-sheriff-ballot-seizure-5774.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F05%252F21%252F247d87e7448f92d956cf518e286a%252Fcalifornia-sheriff-ballot-seizure-5774.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F05%252F21%252F247d87e7448f92d956cf518e286a%252Fcalifornia-sheriff-ballot-seizure-5774.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)</title>
@@ -521,8 +560,11 @@
 <pubDate>Fri, 04 Sep 2026 21:10:52 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.’s business records from Google LLC.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTMfIslDxXsw%2Fv1%2F1200x800.jpg" alt="" /></p><p>An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.’s business records from Google LLC.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTMfIslDxXsw%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTMfIslDxXsw%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTMfIslDxXsw%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Anthropic says Claude worked "largely autonomously" over 11 days to formalize the proof of Fermat's Last Theorem in the Lean programming language (Anthropic)</title>
@@ -544,8 +586,11 @@
 <pubDate>Fri, 04 Sep 2026 19:50:55 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, accord...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiq27VGGKpvg4%2Fv1%2F1200x800.jpg" alt="" /></p><p>Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, accord...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiq27VGGKpvg4%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiq27VGGKpvg4%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiq27VGGKpvg4%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans (Zac Hall/9to5Mac)</title>
@@ -658,8 +703,11 @@
 <pubDate>Fri, 04 Sep 2026 15:21:36 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiNMoQ9u._5DA%2Fv0%2F1200x800.jpg" alt="" /></p><p>Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it ...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiNMoQ9u._5DA%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiNMoQ9u._5DA%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiNMoQ9u._5DA%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>LimX and ZINOVA Put TRON 2 to Work on Simulated Construction Sites</title>
@@ -707,8 +755,11 @@
 <pubDate>Fri, 04 Sep 2026 14:30:46 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Researchers investigating how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure weren’t allowed to look at the incident’s full scope.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F02%2Fmultimedia%2F00biz-openai-investigation-01-ktwg%2F00biz-openai-investigation-01-ktwg-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Researchers investigating how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure weren’t allowed to look at the incident’s full scope.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F02%2Fmultimedia%2F00biz-openai-investigation-01-ktwg%2F00biz-openai-investigation-01-ktwg-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F02%2Fmultimedia%2F00biz-openai-investigation-01-ktwg%2F00biz-openai-investigation-01-ktwg-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F02%2Fmultimedia%2F00biz-openai-investigation-01-ktwg%2F00biz-openai-investigation-01-ktwg-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>What to expect from Apple's September 9 "Surprise and Shine" event: foldable iPhone, iPhone 18 Pro and Pro Max, Apple Watch refresh with ceramic cases, and more (Mark Gurman/Bloomberg)</title>
@@ -717,8 +768,11 @@
 <pubDate>Fri, 04 Sep 2026 13:50:45 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>From the foldable iPhone to a touch-screen MacBook, here’s what to expect on Sept. 9 and beyond.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FigD2ab0tfrVk%2Fv1%2F1200x800.jpg" alt="" /></p><p>From the foldable iPhone to a touch-screen MacBook, here’s what to expect on Sept. 9 and beyond.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FigD2ab0tfrVk%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FigD2ab0tfrVk%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FigD2ab0tfrVk%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Artificial Analysis Coding Agent Index: GPT-6 Astra scored 67, roughly equal to Claude Opus 5, Fable 5, and Muse Spark 1.3, but trailing leader Fable 5.1's 70 (Artificial Analysis)</title>
@@ -792,8 +846,11 @@
 <pubDate>Fri, 04 Sep 2026 10:55:55 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>Reports said location data was used to target American forces in the Middle East.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5CHR5OTDTBP4TFJR5YL5BBL6HU.jpg%3Fauth%3D52bfc66fc966de7a1817a69502081ffb0c18dac4c2f766d41a2d47e28b73beaf%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Reports said location data was used to target American forces in the Middle East.</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5CHR5OTDTBP4TFJR5YL5BBL6HU.jpg%3Fauth%3D52bfc66fc966de7a1817a69502081ffb0c18dac4c2f766d41a2d47e28b73beaf%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5CHR5OTDTBP4TFJR5YL5BBL6HU.jpg%3Fauth%3D52bfc66fc966de7a1817a69502081ffb0c18dac4c2f766d41a2d47e28b73beaf%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5CHR5OTDTBP4TFJR5YL5BBL6HU.jpg%3Fauth%3D52bfc66fc966de7a1817a69502081ffb0c18dac4c2f766d41a2d47e28b73beaf%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Bank of Korea: South Korea's monthly memory chip output is set to grow by ~600K wafers by 2028, widening its lead over China's CXMT, set to grow by ~300K wafers (Yoolim Lee/Bloomberg)</title>
@@ -802,8 +859,11 @@
 <pubDate>Fri, 04 Sep 2026 10:45:54 +0000</pubDate>
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
-<description></description>
-<content:encoded><![CDATA[]]></content:encoded>
+<description>South Korea’s lead over China in memory chip production is expected to widen further thanks to an aggressive expansion of domestic facilities by Samsung Electronics Co. and SK Hynix Inc., according to...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4.yKh.mIi7Q%2Fv0%2F1200x800.jpg" alt="" /></p><p>South Korea’s lead over China in memory chip production is expected to widen further thanks to an aggressive expansion of domestic facilities by Samsung Electronics Co. and SK Hynix Inc., according to...</p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4.yKh.mIi7Q%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4.yKh.mIi7Q%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4.yKh.mIi7Q%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Thailand suspends the construction of 49 data centers in order to develop new industry regulations, as governments worldwide tighten oversight of the facilities (Anuchit Nguyen/Bloomberg)</title>
@@ -910,7 +970,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>A Self-Improving RLM Harness Just Dropped</title>
+<title>/ Sep 1, 2026 A Self-Improving RLM Harness Just Dropped Plus more about LeVJEPA, Code World Model, and Gemini's AI Scientist by cloud</title>
 <link>https://mail.bycloud.ai/p/a-self-improving-rlm-harness-just-dropped</link>
 <guid isPermaLink="false">combined:d925ae352abfabd2c41a7fb20a363b700c07f525</guid>
 <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
@@ -1092,7 +1152,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Recirculation: Improve an LLM Without Retraining It</title>
+<title>/ Aug 25, 2026 Recirculation: Improve an LLM Without Retraining It plus more about SPADE, skill issue, and Q-learning with World Models by cloud</title>
 <link>https://mail.bycloud.ai/p/recirculation-improve-an-llm-without-retraining-it</link>
 <guid isPermaLink="false">combined:d42bf06657c890149b67bf9b5d2f73d0b2ade6a0</guid>
 <pubDate>Tue, 25 Aug 2026 19:00:00 +0000</pubDate>
@@ -1209,7 +1269,7 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gen-1-5.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Crazy New Exploit To Steal Reasoning Traces</title>
+<title>/ Aug 19, 2026 Crazy New Exploit To Steal Reasoning Traces Plus more about Full-Bandwidth Transformer, Small Scaling Law, and SFT Conflicts RL Coexists by cloud</title>
 <link>https://mail.bycloud.ai/p/crazy-new-exploit-to-steal-reasoning-traces</link>
 <guid isPermaLink="false">combined:c1832f0e1aa02029a3c1e3cb4ff3f0eb7d75dabc</guid>
 <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
@@ -1235,7 +1295,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1405907094_new-york-new-york-a-view-of-the-atlas-statue-with-st-patricks-cathedral-in-the-back-at.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>On-Policy Self-Distillation without Any Supervision</title>
+<title>/ Aug 11, 2026 On-Policy Self-Distillation without Any Supervision plus more about Leanstral, Towards Physics of Multimodal Pretraining, and loss does not see the basis by cloud</title>
 <link>https://mail.bycloud.ai/p/on-policy-self-distillation-without-any-supervision</link>
 <guid isPermaLink="false">combined:395a1444d4a5a922ccaea51eaefbb31f525ac29e</guid>
 <pubDate>Tue, 11 Aug 2026 18:41:00 +0000</pubDate>
@@ -1248,7 +1308,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/7d620388-7bd1-4924-9fce-4d8c432bcaaf/issue_120.jpg?t=1786465572" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Explorative Modeling: Third Pre-training Axis?</title>
+<title>/ Aug 4, 2026 Explorative Modeling: Third Pre-training Axis? Plus more about Memory Foundation Model, Weak-to-Strong OPD, and LeRoPE by cloud</title>
 <link>https://mail.bycloud.ai/p/explorative-modeling-third-pre-training-axis</link>
 <guid isPermaLink="false">combined:8ac3f267bf70e6c6ca12a36a0a3631ae096a7ca3</guid>
 <pubDate>Tue, 04 Aug 2026 18:41:00 +0000</pubDate>
@@ -1261,7 +1321,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8663bd22-43ab-4566-b290-eaf78da11896/issue_119.jpg?t=1785866114" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Kimi K3 Technical Report</title>
+<title>/ Jul 29, 2026 Kimi K3 Technical Report plus more about Hilbert Operator for Progressive Encoding, RLVR-Native Optimization Stack, Soap &amp; Muon At Scale, and Measuring Reward-Seeking by cloud</title>
 <link>https://mail.bycloud.ai/p/kimi-k3-technical-report</link>
 <guid isPermaLink="false">combined:532c46f16d8c6879b7098eaab435e23bcc3992ea</guid>
 <pubDate>Wed, 29 Jul 2026 19:00:00 +0000</pubDate>
@@ -1274,7 +1334,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6490d014-0992-43cf-9061-194fc8ce4a6f/issue_118.jpg?t=1785348943" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>On-Policy Delta Distillation</title>
+<title>/ Jul 21, 2026 On-Policy Delta Distillation plus more about Concurrent Image Understanding and Generation, Latent and Explicit Reasoning with Looped Transformers and more by cloud</title>
 <link>https://mail.bycloud.ai/p/on-policy-delta-distillation</link>
 <guid isPermaLink="false">combined:f0e3b2f9ceb2cbfefb4ca76295699b53c66d7c0b</guid>
 <pubDate>Tue, 21 Jul 2026 20:00:00 +0000</pubDate>
@@ -1287,7 +1347,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3c02a207-1fb3-4292-a061-d48c52cdb309/issue_117.jpg?t=1784662852" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Why Memorized Knowledge Fails to Generalize in LLM Finetuning</title>
+<title>/ Jul 14, 2026 Why Memorized Knowledge Fails to Generalize in LLM Finetuning Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory by cloud</title>
 <link>https://mail.bycloud.ai/p/why-memorized-knowledge-fails-to-generalize-in-llm-finetuning</link>
 <guid isPermaLink="false">combined:add5686b1e66409a73de7309317f024995d96657</guid>
 <pubDate>Tue, 14 Jul 2026 18:31:00 +0000</pubDate>
@@ -1339,7 +1399,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2284669810_usa-secretary-of-state-marco-rubio-and-usa-president-donald-trump-during-the-press-conference.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>You Only Need 1 Layer for RLVR?</title>
+<title>/ Jul 7, 2026 You Only Need 1 Layer for RLVR? plus more about AdaJEPA, Program-as-Weights, The World Is In Your Mind, and Dual On-policy Distillation by cloud</title>
 <link>https://mail.bycloud.ai/p/you-only-need-1-layer-for-rlvr</link>
 <guid isPermaLink="false">combined:b00811cdcbcb585d8ce415c44e41f777d593df9f</guid>
 <pubDate>Tue, 07 Jul 2026 18:30:00 +0000</pubDate>
@@ -1404,7 +1464,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2197325105_shoppers-walk-past-a-just-do-it-ad-slogan-that-features-nba-los-angeles-lakers-basketball.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>DeepSeek Just dropped a new speculative decoding method!</title>
+<title>/ Jun 30, 2026 DeepSeek Just dropped a new speculative decoding method! plus more about Tapered LMs, Improved LLDMs, AutoData, and You Don't Need To Run Every Eval by cloud</title>
 <link>https://mail.bycloud.ai/p/deepseek-just-dropped-a-new-speculative-decoding-method</link>
 <guid isPermaLink="false">combined:940266120c27ff6129ee3ac1057427474ca76f67</guid>
 <pubDate>Tue, 30 Jun 2026 19:30:00 +0000</pubDate>
@@ -1534,7 +1594,7 @@
 <enclosure url="https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/1387722858_washington-dc-environmental-activists-rally-on-capitol-hill-after-a-march-from-lafayette.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>What even is a &gt;&lt; former (yes &gt;&lt; former)</title>
+<title>/ Jun 23, 2026 What even is a &gt;&lt; former (yes &gt;&lt; former) plus more about Looped World Models, Fixed-Point Reasoners, and ExpRL by cloud</title>
 <link>https://mail.bycloud.ai/p/what-even-is-a-former-yes-former</link>
 <guid isPermaLink="false">combined:7b9aa1499d376b5d0a8d8ea4700d6796d52a48da</guid>
 <pubDate>Tue, 23 Jun 2026 19:30:00 +0000</pubDate>
@@ -1612,7 +1672,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>DiffusionBlocks: Save 2-3x Training Memory!?</title>
+<title>/ Jun 2, 2026 DiffusionBlocks: Save 2-3x Training Memory!? plus more about Bitter Lesson in Data Filtering, Do Language Models Need Sleep, and Neural Weight Norm. by cloud</title>
 <link>https://mail.bycloud.ai/p/diffusionblocks-save-2-3x-training-memory</link>
 <guid isPermaLink="false">combined:fbd932c48d6338c26e23fa678bac84b747c7ff62</guid>
 <pubDate>Tue, 02 Jun 2026 19:15:00 +0000</pubDate>
@@ -1625,7 +1685,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Generative Recursive Reasoning</title>
+<title>/ May 26, 2026 Generative Recursive Reasoning plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization by cloud</title>
 <link>https://mail.bycloud.ai/p/generative-recursive-reasoning</link>
 <guid isPermaLink="false">combined:a5d4ad8f1871a005e81f04250d856d781346ab4e</guid>
 <pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
@@ -1638,7 +1698,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Long Context Pre-Training w/ Lighthouse Attention</title>
+<title>/ May 19, 2026 Long Context Pre-Training w/ Lighthouse Attention plus more about Self-distilled Agentic RL, Embedded Language Flows, and Negation Neglect by cloud</title>
 <link>https://mail.bycloud.ai/p/long-context-pre-training-w-lighthouse-attention</link>
 <guid isPermaLink="false">combined:b26d794f134b8cbfc9c1bfb18ad62407c583c9c7</guid>
 <pubDate>Tue, 19 May 2026 18:52:00 +0000</pubDate>
@@ -1651,7 +1711,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Think In Diffusion: Continuous Latent Diffusion Language Model</title>
+<title>/ May 12, 2026 Think In Diffusion: Continuous Latent Diffusion Language Model plus more on Sparser, Faster, Lighter Transformer LMs, Manifold Steering, and Teaching Claude Why by cloud</title>
 <link>https://mail.bycloud.ai/p/think-in-diffusion-continuous-latent-diffusion-language-model</link>
 <guid isPermaLink="false">combined:598abc671300bc8603bf7f8731b8c5f3ed69cb41</guid>
 <pubDate>Tue, 12 May 2026 19:14:00 +0000</pubDate>
@@ -1664,7 +1724,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fefba347-18db-4774-8c45-073a4e5c194e/issue_107.jpg?t=1778609350" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>DeepSeek's Deleted Paper: Thinking With Visual Primitives</title>
+<title>/ May 5, 2026 DeepSeek's Deleted Paper: Thinking With Visual Primitives can't believe they removed this paper unknowningly by cloud</title>
 <link>https://mail.bycloud.ai/p/deepseek-s-deleted-paper-thinking-with-visual-primitives</link>
 <guid isPermaLink="false">combined:a7b582587992068aa90161f1f99e680abf48ac67</guid>
 <pubDate>Tue, 05 May 2026 19:33:00 +0000</pubDate>
@@ -1677,7 +1737,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
+<title>/ Jun 17, 2025 LLM That Can Modify Itself? Plus more about "The Diffusion Duality" and "Reinforcement Pre-Training" by cloud</title>
 <link>https://mail.bycloud.ai/p/self-adapting-lms</link>
 <guid isPermaLink="false">combined:69ee61e78a0f2f4576c8768d4c0b82c2b86a20c5</guid>
 <pubDate>Tue, 17 Jun 2025 18:30:00 +0000</pubDate>
@@ -1690,7 +1750,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/447b6abc-0704-463f-a936-adb1d1ad6896/issue_60.jpg?t=1750179553" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>May 2025 Research Trend Report</title>
+<title>Premium Insights / Jun 6, 2025 May 2025 Research Trend Report Premium Insights: A recap of popular AI research papers and research trends in May 2025 by cloud</title>
 <link>https://mail.bycloud.ai/p/may-2025-research-trend-report</link>
 <guid isPermaLink="false">combined:b808ade7f9752351418d9efe27db48c2369bfbaf</guid>
 <pubDate>Fri, 06 Jun 2025 18:00:00 +0000</pubDate>
@@ -1703,7 +1763,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>AI Research Roundup: Spurious Rewards &amp; Latest Insights Explored</title>
+<title>/ Jun 3, 2025 A Shocking RLVR Revelation For LLM Just Dropped Read about "Rethinking Training Signals in RLVR", why LLMs are headless chickens, and "Learning to Reason without External Rewards" by cloud</title>
 <link>https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9</link>
 <guid isPermaLink="false">combined:8414612b774811f04fccd6fbf0a947c74b114b58</guid>
 <pubDate>Tue, 03 Jun 2025 19:55:07 +0000</pubDate>
@@ -1716,7 +1776,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>How DeepSeek Made The Best Math Prover Ever (+500% vs prev. SoTA)</title>
+<title>Premium Insights / May 19, 2025 How DeepSeek Made The Best Math Prover Ever (+500% vs prev. SoTA) Premium Insights: A closer look into the DeepSeek Prover series by cloud, +1</title>
 <link>https://mail.bycloud.ai/p/how-deepseek-made-the-best-math-prover-ever</link>
 <guid isPermaLink="false">combined:7c618f288b08f909451ed66d8e903be68c6e16ff</guid>
 <pubDate>Mon, 19 May 2025 21:00:00 +0000</pubDate>
@@ -1729,7 +1789,7 @@
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6159b10f-6f8a-4840-b15d-82d1739d3054/premium_insights_deepseek-prover.jpg?t=1747675392" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>DeepSeek-R1 Explained</title>
+<title>/ Jan 28, 2025 DeepSeek-R1 Explained Plus more about Transformer2 and Kimi k1.5 by cloud</title>
 <link>https://mail.bycloud.ai/p/agent-laboratory-using-llm-agents-as-research-assistants-e4c862cd437413e4</link>
 <guid isPermaLink="false">combined:5f169fc3e891d8508979d23d63a23d2403399787</guid>
 <pubDate>Tue, 28 Jan 2025 20:00:00 +0000</pubDate>
