@@ -251,6 +251,66 @@ def extract_direct_metadata(url):
     }
 
 
+def extract_cardyb(url):
+    try:
+        endpoint = "https://cardyb.bsky.app/v1/extract?" + urllib.parse.urlencode({"url": url})
+        r = SESSION.get(endpoint, timeout=15)
+        if not r.ok:
+            return {}
+        data = r.json() or {}
+        if data.get("error"):
+            return {}
+        image = data.get("image") or ""
+        return {
+            "title": clean_text(data.get("title")),
+            "description": short_desc(data.get("description")),
+            "image": image if good_image(image) else "",
+            "published": None,
+        }
+    except Exception:
+        return {}
+
+
+def extract_linkmetadata(url):
+    try:
+        endpoint = "https://api.linkmetadata.com/v1/metadata?" + urllib.parse.urlencode({"url": url})
+        r = SESSION.get(endpoint, timeout=15)
+        if not r.ok:
+            return {}
+        data = r.json() or {}
+        image = data.get("image") or data.get("image_url") or ""
+        if isinstance(image, dict):
+            image = image.get("url") or image.get("src") or ""
+        return {
+            "title": clean_text(data.get("title")),
+            "description": short_desc(data.get("description")),
+            "image": image if good_image(image) else "",
+            "published": parse_dt(data.get("published_at") or data.get("date")),
+        }
+    except Exception:
+        return {}
+
+
+def extract_ogfetch(url):
+    try:
+        endpoint = "https://api.ogfetch.com/preview?" + urllib.parse.urlencode({"url": url})
+        r = SESSION.get(endpoint, timeout=15)
+        if not r.ok:
+            return {}
+        data = r.json() or {}
+        image = data.get("image") or ""
+        if isinstance(image, dict):
+            image = image.get("url") or image.get("src") or ""
+        return {
+            "title": clean_text(data.get("title")),
+            "description": short_desc(data.get("description")),
+            "image": image if good_image(image) else "",
+            "published": parse_dt(data.get("published_at") or data.get("date")),
+        }
+    except Exception:
+        return {}
+
+
 def extract_microlink(url):
     try:
         endpoint = "https://api.microlink.io/?" + urllib.parse.urlencode({"url": url, "meta": "true"})
@@ -340,6 +400,22 @@ def enrich(item, cached=None, prefer_page_title=False):
     need_image = not good_image(item.get("image", ""))
     need_date = not item.get("published")
 
+    for extractor in (extract_cardyb, extract_linkmetadata, extract_ogfetch):
+        if not (need_desc or need_image or need_date):
+            break
+        meta = extractor(item["link"])
+        if meta.get("description") and need_desc:
+            item["description"] = meta["description"]
+        if meta.get("image") and need_image:
+            item["image"] = meta["image"]
+        if meta.get("published") and need_date:
+            item["published"] = meta["published"]
+        if prefer_page_title and meta.get("title") and not item.get("title"):
+            item["title"] = meta["title"]
+        need_desc = not item.get("description") or item["description"].lower().startswith("from ")
+        need_image = not good_image(item.get("image", ""))
+        need_date = not item.get("published")
+
     if need_desc or need_image or need_date:
         meta = extract_microlink(item["link"])
         if meta.get("description") and need_desc:
@@ -365,6 +441,9 @@ def enrich(item, cached=None, prefer_page_title=False):
         if prefer_page_title and meta.get("title") and not item.get("title"):
             item["title"] = meta["title"]
 
+    if not item.get("description") and item.get("source") == "Techmeme":
+        summary = re.sub(r"\\s*\\([^()]{1,120}\\)\\s*$", "", item.get("title", "")).strip()
+        item["description"] = short_desc(summary)
     item["description"] = short_desc(item.get("description") or "")
     if not good_image(item.get("image", "")):
         item["image"] = ""
