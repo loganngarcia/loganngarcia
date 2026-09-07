@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 15:08:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 19:08:24 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Agility's Numbers Are In: $1.8M in Sales, a $138M Loss, and a Backlog Owed to an Insider</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/11cbe88a5640dfefa07b.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-s-numbers-are-in-1-8m-in-sales-a-138m-loss-and-a-backlog-owed-to-an-insider</guid>
+<pubDate>Mon, 07 Sep 2026 16:04:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agility-s-numbers-are-in-1-8m-in-sales-a-138m-loss-and-a-backlog-owed-to-an-insider" rel="related" type="text/html" />
+<description>Agility Robotics' Form S-4 puts audited numbers behind the humanoid industry's first US listing: $1.78 million in 2025 sales, a $138.1 million net loss, and a going-concern warning. The headline $300 million backlog turns out to be a single contract with a related party, partly paid in warrants — and the competition section names eight rivals without mentioning a single Chinese manufacturer.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-moving-sofa.webp" alt="" /></p><p>Agility Robotics' Form S-4 puts audited numbers behind the humanoid industry's first US listing: $1.78 million in 2025 sales, a $138.1 million net loss, and a going-concern warning. The headline $300 million backlog turns out to be a single contract with a related party, partly paid in warrants — and the competition section names eight rivals without mentioning a single Chinese manufacturer.</p><p><a href="https://www.humanoidsdaily.com/news/agility-s-numbers-are-in-1-8m-in-sales-a-138m-loss-and-a-backlog-owed-to-an-insider">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-moving-sofa.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-moving-sofa.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-moving-sofa.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Wandercraft Signs 12 Enterprise Customers for Calvin-40 Industrial Humanoid</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc8e5fab20ae9cdc6e7c.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Robots Outrun Usain Bolt: Inside the Record-Shattering Spree at the 2nd World Humanoid Robot Games</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ae9431fe28a57b3d5c43.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robots-outrun-usain-bolt-inside-the-record-shattering-spree-at-the-2nd-world-humanoid-robot-games</guid>
-<pubDate>Mon, 24 Aug 2026 19:38:06 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/robots-outrun-usain-bolt-inside-the-record-shattering-spree-at-the-2nd-world-humanoid-robot-games" rel="related" type="text/html" />
-<description>Bipedal machines crossed a major athletic threshold in Beijing, smashing human sprinting and jumping benchmarks while facing persistent braking and autonomy challenges.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" alt="" /></p><p>Bipedal machines crossed a major athletic threshold in Beijing, smashing human sprinting and jumping benchmarks while facing persistent braking and autonomy challenges.</p><p><a href="https://www.humanoidsdaily.com/news/robots-outrun-usain-bolt-inside-the-record-shattering-spree-at-the-2nd-world-humanoid-robot-games">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
