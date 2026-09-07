@@ -562,147 +562,90 @@ def discover_bicloud():
 
 
 def discover_qwen():
+    """Read Qwen's own research page configuration API.
+
+    The Qwen SPA uses these page-config codes to render the Research page.
+    They already contain the canonical article metadata needed for an RSS card:
+    title, publication date, description/introduction, article id, and cover image.
+    """
+    sections = (
+        ("research.research-list", "research.research-list"),
+        ("research.latest-advancements-list", "research.latest-advancements-list"),
+    )
     found = {}
-    for code in ("research.research-list", "research.latest-advancements-list", "home.latest-research-list"):
+
+    for code, origin in sections:
         try:
-            qr = SESSION.get("https://qwen.ai/api/page_config", params={"code": code}, timeout=20)
-            print(f"QWEN CONFIG DEBUG code={code} status={qr.status_code} ctype={qr.headers.get('content-type')} body={qr.text[:5000]}")
-        except requests.RequestException as exc:
-            print(f"QWEN CONFIG DEBUG code={code} error={exc}")
-
-    def add_candidate(raw, title=""):
-        if not raw:
-            return
-        raw = html_lib.unescape(str(raw))
-        raw = (
-            raw.replace("\\u0026", "&")
-               .replace("\\u003f", "?")
-               .replace("\\u003d", "=")
-               .replace("\\/", "/")
-               .strip()
-        )
-        raw = raw.rstrip(").,;:'\"\\")
-        link = absolute("https://qwen.ai", raw)
-        parsed = urllib.parse.urlparse(link)
-        if parsed.hostname not in {"qwen.ai", "www.qwen.ai"}:
-            return
-        is_blog = parsed.path.rstrip("/") == "/blog" and "id=" in parsed.query
-        is_research = parsed.path.startswith("/research/") and parsed.path.rstrip("/") != "/research"
-        if not (is_blog or is_research):
-            return
-        # Drop locale/tracking-only noise while preserving the ID and research-origin
-        # parameters that identify Qwen posts.
-        found.setdefault(link, {"title": clean_text(title)})
-        if title and not found[link].get("title"):
-            found[link]["title"] = clean_text(title)
-
-    direct_pages = [
-        ("https://qwen.ai/research", "https://qwen.ai/research"),
-        ("https://qwen.ai/home", "https://qwen.ai/home"),
-        ("https://qwen.ai/sitemap.xml", "https://qwen.ai/sitemap.xml"),
-    ]
-
-    for page, base in direct_pages:
-        try:
-            r = SESSION.get(page, timeout=20)
-            if not r.ok:
-                continue
-            text = r.text
-        except requests.RequestException:
+            r = SESSION.get(
+                "https://qwen.ai/api/page_config",
+                params={"code": code},
+                timeout=20,
+            )
+            r.raise_for_status()
+            rows = r.json()
+        except Exception as exc:
+            print(f"WARN Qwen page config failed for {code}: {exc}")
             continue
 
-        if "xml" in (r.headers.get("content-type") or "").lower() or text.lstrip().startswith("<?xml"):
-            try:
-                root = ET.fromstring(text)
-                for loc in root.findall(".//{*}loc"):
-                    add_candidate(clean_text(loc.text))
-            except Exception:
-                pass
-        else:
-            soup = BeautifulSoup(text, "html.parser")
-            if page in {"https://qwen.ai/research", "https://qwen.ai/home"}:
-                scripts = [absolute(page, tag.get("src")) for tag in soup.find_all("script", src=True)]
-                print(f"QWEN DEBUG {page} html_len={len(text)} scripts={scripts[:30]}")
-                if page == "https://qwen.ai/research":
-                    scripts = ["https://g.alicdn.com/qwenweb/qwen-ai-fe/0.0.79/js/p_research-index.js"] + scripts
-                    for src in scripts[:31]:
-                        try:
-                            jsr = SESSION.get(src, timeout=15)
-                            if not jsr.ok:
-                                continue
-                            js = jsr.text
-                        except requests.RequestException:
-                            continue
-                        hits = []
-                        for keyword in ("research-list", "latest-advancements", "researchList", "blogList", "publication"):
-                            pos2 = js.find(keyword)
-                            if pos2 >= 0:
-                                hits.append((keyword, re.sub(r"\\s+", " ", js[max(0,pos2-600):pos2+1200])[:1800]))
-                        api_paths = list(dict.fromkeys(re.findall(r'[/][A-Za-z0-9._~%+/\\-]*(?:api|research|blog)[A-Za-z0-9._~%+/?=&\\-]*', js, flags=re.I)))[:25]
-                        if hits or api_paths:
-                            print(f"QWEN JS DEBUG src={src} len={len(js)} api_paths={api_paths}")
-                            for kw2, snip2 in hits[:5]:
-                                print(f"QWEN JS DEBUG keyword={kw2}: {snip2}")
-                for keyword in ("research-list", "latest-advancements", "/api/", "research"):
-                    pos = text.lower().find(keyword.lower())
-                    if pos >= 0:
-                        snippet = re.sub(r"\\s+", " ", text[max(0,pos-350):pos+650])
-                        print(f"QWEN DEBUG keyword={keyword}: {snippet[:1000]}")
-            for anchor in soup.find_all("a", href=True):
-                add_candidate(anchor["href"], anchor.get_text(" ", strip=True))
-
-        normalized = (
-            text.replace("\\u0026", "&")
-                .replace("\\u003f", "?")
-                .replace("\\u003d", "=")
-                .replace("\\/", "/")
-        )
-        patterns = (
-            r'https?://(?:www\.)?qwen\.ai/blog\?[^"\'<>\s)]+',
-            r'/blog\?[^"\'<>\s)]+',
-            r'https?://(?:www\.)?qwen\.ai/research/[A-Za-z0-9._~%+\-/]+',
-            r'/research/[A-Za-z0-9._~%+\-/]+',
-        )
-        for pattern in patterns:
-            for match in re.finditer(pattern, normalized, flags=re.I):
-                add_candidate(match.group(0))
-
-    # Qwen's research index is client-rendered. Jina's rendered/reader copy often
-    # exposes the card links that are absent from the initial HTML response.
-    for target in ("https://qwen.ai/research", "https://qwen.ai/home"):
-        try:
-            r = SESSION.get("https://r.jina.ai/" + target, timeout=25)
-            if not r.ok:
-                continue
-            text = html_lib.unescape(r.text)
-        except requests.RequestException:
+        if not isinstance(rows, list):
             continue
 
-        for match in re.finditer(
-            r'https?://(?:www\.)?qwen\.ai/(?:blog\?[^)\]>\s]+|research/[A-Za-z0-9._~%+\-/]+)',
-            text,
-            flags=re.I,
-        ):
-            add_candidate(match.group(0))
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            article_id = clean_text(row.get("id"))
+            title = clean_text(row.get("title"))
+            if not article_id or not title:
+                continue
 
-        # Markdown can contain relative targets too.
-        for match in re.finditer(
-            r'\]\((/blog\?[^)\s]+|/research/[A-Za-z0-9._~%+\-/]+)\)',
-            text,
-            flags=re.I,
-        ):
-            add_candidate(match.group(1))
+            link = (
+                "https://qwen.ai/blog?"
+                + urllib.parse.urlencode({"id": article_id, "from": origin})
+            )
+            image = row.get("cover") or row.get("cover_small") or ""
+            # Qwen sometimes appends Markdown-style anchors such as #center to
+            # image URLs. Remove the fragment for RSS readers.
+            if image:
+                parsed = urllib.parse.urlsplit(image)
+                image = urllib.parse.urlunsplit(
+                    (parsed.scheme, parsed.netloc, parsed.path, parsed.query, "")
+                )
 
-    print(f"Qwen discovery found {len(found)} candidate URLs")
-    return [{
-        "source": "Qwen Research",
-        "title": data.get("title", ""),
-        "link": link,
-        "description": "",
-        "image": "",
-        "published": None,
-        "guid": make_guid("Qwen Research", link),
-    } for link, data in list(found.items())[:100]]
+            description = (
+                row.get("description")
+                or row.get("introduction")
+                or ""
+            )
+            item = {
+                "source": "Qwen Research",
+                "title": title,
+                "link": link,
+                "description": short_desc(description),
+                "image": image if good_image(image) else "",
+                "published": parse_dt(row.get("date")),
+                "guid": make_guid("Qwen Research", article_id),
+            }
+
+            existing = found.get(article_id)
+            if existing is None:
+                found[article_id] = item
+            else:
+                # Prefer whichever section supplies richer metadata.
+                if not existing.get("description") and item.get("description"):
+                    existing["description"] = item["description"]
+                if not existing.get("image") and item.get("image"):
+                    existing["image"] = item["image"]
+                if not existing.get("published") and item.get("published"):
+                    existing["published"] = item["published"]
+
+    items = list(found.values())
+    items.sort(
+        key=lambda i: i.get("published")
+        or datetime(1970, 1, 1, tzinfo=timezone.utc),
+        reverse=True,
+    )
+    print(f"Qwen first-party research API returned {len(items)} unique articles")
+    return items[: MAX_PER_SOURCE["Qwen Research"]]
 
 
 def dedupe(items):
