@@ -2,6 +2,10 @@ name: Update Techmeme One Click RSS
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "techmeme-oneclick/generate.py"
+      - ".github/workflows/techmeme-oneclick.yml"
   schedule:
     - cron: "*/10 * * * *"
 
