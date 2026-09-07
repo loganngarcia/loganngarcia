@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Humanoids Daily</title>
+<link>https://www.humanoidsdaily.com/</link>
+<description>Humanoids Daily with rich descriptions and article images.</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 07 Sep 2026 09:43:43 +0000</lastBuildDate>
+<atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Beyond Mechanical Chatbots: Galbot Unveils RoboGesture to Tackle Real-Time Nonverbal Communication</title>
+<link>https://www.humanoidsdaily.com/news/beyond-mechanical-chatbots-galbot-unveils-robogesture-to-tackle-real-time-nonverbal-communication</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/beyond-mechanical-chatbots-galbot-unveils-robogesture-to-tackle-real-time-nonverbal-communication</guid>
+<pubDate>Sun, 06 Sep 2026 08:31:59 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Galbot and researchers from Tsinghua University introduce RoboGesture, a streaming diffusion-based system that aligns speech with expressive, collision-free humanoid gestures.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" alt="" /></p><p>Galbot and researchers from Tsinghua University introduce RoboGesture, a streaming diffusion-based system that aligns speech with expressive, collision-free humanoid gestures.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>OpenAI’s GPT-6 Astra Hits 95% on Physical Manipulation Benchmark, But Precision Tasks Expose Familiar Bottlenecks</title>
+<link>https://www.humanoidsdaily.com/news/openai-s-gpt-6-astra-hits-95-on-physical-manipulation-benchmark-but-precision-tasks-expose-familiar-bottlenecks</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/openai-s-gpt-6-astra-hits-95-on-physical-manipulation-benchmark-but-precision-tasks-expose-familiar-bottlenecks</guid>
+<pubDate>Sat, 05 Sep 2026 11:02:18 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>RoboCurve benchmarked OpenAI’s new GPT-6 Astra on real robot arms, revealing dramatic efficiency and spatial reasoning gains on gross manipulation alongside a persistent 10% plateau on millimeter-precision tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" alt="" /></p><p>RoboCurve benchmarked OpenAI’s new GPT-6 Astra on real robot arms, revealing dramatic efficiency and spatial reasoning gains on gross manipulation alongside a persistent 10% plateau on millimeter-precision tasks.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Galbot Opens Pre-Orders for ET1 Bipedal Humanoid Aimed at Entertainment and Performance</title>
+<link>https://www.humanoidsdaily.com/news/galbot-opens-pre-orders-for-et1-bipedal-humanoid-aimed-at-entertainment-and-performance</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/galbot-opens-pre-orders-for-et1-bipedal-humanoid-aimed-at-entertainment-and-performance</guid>
+<pubDate>Sat, 05 Sep 2026 09:53:36 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Galbot has opened pre-orders for the ET1, a compact 1.25-meter bipedal robot designed for dynamic stage performance and interactive commercial venues, stepping directly into competition with Unitree and AGIBOT.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-et1-preorder.webp" alt="" /></p><p>Galbot has opened pre-orders for the ET1, a compact 1.25-meter bipedal robot designed for dynamic stage performance and interactive commercial venues, stepping directly into competition with Unitree and AGIBOT.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-et1-preorder.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-et1-preorder.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-et1-preorder.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Tuya Unveils Doova: An AI Companion Robot Targeting Elder Care and Smart Home Hubs</title>
+<link>https://www.humanoidsdaily.com/news/tuya-unveils-doova-an-ai-companion-robot-targeting-elder-care-and-smart-home-hubs</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tuya-unveils-doova-an-ai-companion-robot-targeting-elder-care-and-smart-home-hubs</guid>
+<pubDate>Sat, 05 Sep 2026 08:53:27 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Announced at IFA 2026, Tuya Smart’s new mobile companion robot combines fall detection, multimodal LLM conversations, and AIoT control tailored for seniors living alone.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuya-doova.webp" alt="" /></p><p>Announced at IFA 2026, Tuya Smart’s new mobile companion robot combines fall detection, multimodal LLM conversations, and AIoT control tailored for seniors living alone.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuya-doova.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuya-doova.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tuya-doova.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>AGIBOT Deepens European Push at IFA 2026 with TÜV Rheinland Certification and Tekpoint Retail Alliance</title>
+<link>https://www.humanoidsdaily.com/news/agibot-deepens-european-push-at-ifa-2026-with-t-v-rheinland-certification-and-tekpoint-retail-alliance</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-deepens-european-push-at-ifa-2026-with-t-v-rheinland-certification-and-tekpoint-retail-alliance</guid>
+<pubDate>Fri, 04 Sep 2026 16:44:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Hot on the heels of launching its Serbian manufacturing hub, AGIBOT showcased its multi-robot lineup at IFA 2026 in Berlin, securing key safety certifications from TÜV Rheinland and partnering with distributor Tekpoint.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ifa-2026-x2-dancing.webp" alt="" /></p><p>Hot on the heels of launching its Serbian manufacturing hub, AGIBOT showcased its multi-robot lineup at IFA 2026 in Berlin, securing key safety certifications from TÜV Rheinland and partnering with distributor Tekpoint.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ifa-2026-x2-dancing.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ifa-2026-x2-dancing.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ifa-2026-x2-dancing.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>NVIDIA Buys Hugging Face for $12.9B as Open-Source Robotics Scales Up</title>
+<link>https://www.humanoidsdaily.com/news/nvidia-buys-hugging-face-for-12-9b-as-open-source-robotics-scales-up</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/nvidia-buys-hugging-face-for-12-9b-as-open-source-robotics-scales-up</guid>
+<pubDate>Fri, 04 Sep 2026 16:19:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>NVIDIA has agreed to acquire Hugging Face for $12.93 billion, bringing the open-source hub into its physical AI orbit just as Pollen Robotics launches the viral $399 Microduck.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-huggingface.webp" alt="" /></p><p>NVIDIA has agreed to acquire Hugging Face for $12.93 billion, bringing the open-source hub into its physical AI orbit just as Pollen Robotics launches the viral $399 Microduck.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-huggingface.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-huggingface.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-huggingface.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>LimX and ZINOVA Put TRON 2 to Work on Simulated Construction Sites</title>
+<link>https://www.humanoidsdaily.com/news/limx-and-zinova-put-tron-2-to-work-on-simulated-construction-sites</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/limx-and-zinova-put-tron-2-to-work-on-simulated-construction-sites</guid>
+<pubDate>Fri, 04 Sep 2026 15:21:08 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>A new proof-of-concept mounts LimX Dynamics’ modular TRON 2 torso onto heavy industrial arms to assemble formwork and tie rebar, testing ZINOVA’s "Tool Intelligence" framework in unstructured job sites.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/limx-zinova.webp" alt="" /></p><p>A new proof-of-concept mounts LimX Dynamics’ modular TRON 2 torso onto heavy industrial arms to assemble formwork and tie rebar, testing ZINOVA’s "Tool Intelligence" framework in unstructured job sites.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/limx-zinova.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/limx-zinova.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/limx-zinova.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>How to think about the robotics market</title>
+<link>https://www.humanoidsdaily.com/news/how-to-think-about-the-robotics-market</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/how-to-think-about-the-robotics-market</guid>
+<pubDate>Thu, 03 Sep 2026 19:26:32 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>RoboStrategy CMO Kevin McCordic lays out the case for physical AI: why AI finally makes humanoid labour possible, why it lands under $2 an hour, and why a roughly $200B market is aimed at a $60T one.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" alt="" /></p><p>RoboStrategy CMO Kevin McCordic lays out the case for physical AI: why AI finally makes humanoid labour possible, why it lands under $2 an hour, and why a roughly $200B market is aimed at a $60T one.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Figure Inks Multi-Billion-Dollar Compute Deal With Nscale to Deploy 100,000 Next-Gen NVIDIA GPUs</title>
+<link>https://www.humanoidsdaily.com/news/figure-inks-multi-billion-dollar-compute-deal-with-nscale-to-deploy-100-000-next-gen-nvidia-gpus</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-inks-multi-billion-dollar-compute-deal-with-nscale-to-deploy-100-000-next-gen-nvidia-gpus</guid>
+<pubDate>Thu, 03 Sep 2026 13:37:45 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Figure AI has partnered with cloud infrastructure provider Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs, committing an initial $3.5 billion to train its Helix robotics models.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-nscale.webp" alt="" /></p><p>Figure AI has partnered with cloud infrastructure provider Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs, committing an initial $3.5 billion to train its Helix robotics models.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-nscale.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-nscale.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-nscale.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>CJ Logistics Puts ROBOTIS Dual-Arm "AI Worker" on Live Olive Young Fulfillment Lines</title>
+<link>https://www.humanoidsdaily.com/news/cj-logistics-puts-robotis-dual-arm-ai-worker-on-live-olive-young-fulfillment-lines</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/cj-logistics-puts-robotis-dual-arm-ai-worker-on-live-olive-young-fulfillment-lines</guid>
+<pubDate>Thu, 03 Sep 2026 10:57:25 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Moving beyond experimental pilots, South Korean logistics giant CJ Logistics has integrated two ROBOTIS semi-humanoids into an active e-commerce packing workflow to feed its Physical AI foundation models.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cj-robotis-olive-young.webp" alt="" /></p><p>Moving beyond experimental pilots, South Korean logistics giant CJ Logistics has integrated two ROBOTIS semi-humanoids into an active e-commerce packing workflow to feed its Physical AI foundation models.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cj-robotis-olive-young.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cj-robotis-olive-young.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cj-robotis-olive-young.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Wandercraft Seeks €100M at €750M Valuation to Scale Industrial Humanoid Ambitions</title>
+<link>https://www.humanoidsdaily.com/news/wandercraft-seeks-100m-at-750m-valuation-to-scale-industrial-humanoid-ambitions</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/wandercraft-seeks-100m-at-750m-valuation-to-scale-industrial-humanoid-ambitions</guid>
+<pubDate>Thu, 03 Sep 2026 10:21:50 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Backed by Renault and working with Goldman Sachs, French robotics pioneer Wandercraft is targeting €100 million in fresh capital to ramp up its dual focus on industrial humanoids and medical exoskeletons.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-raise-2026.webp" alt="" /></p><p>Backed by Renault and working with Goldman Sachs, French robotics pioneer Wandercraft is targeting €100 million in fresh capital to ramp up its dual focus on industrial humanoids and medical exoskeletons.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-raise-2026.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-raise-2026.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/wandercraft-raise-2026.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Sam Altman Confirms OpenAI "Will Definitely Do a Humanoid"</title>
+<link>https://www.humanoidsdaily.com/news/sam-altman-confirms-openai-will-definitely-do-a-humanoid</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/sam-altman-confirms-openai-will-definitely-do-a-humanoid</guid>
+<pubDate>Wed, 02 Sep 2026 20:01:21 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>In an appearance on the Sources podcast, OpenAI CEO Sam Altman unequivocally confirmed that the AI lab will build humanoid robots alongside specialized data center machines.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sam-altman-openai-humanoid.webp" alt="" /></p><p>In an appearance on the Sources podcast, OpenAI CEO Sam Altman unequivocally confirmed that the AI lab will build humanoid robots alongside specialized data center machines.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sam-altman-openai-humanoid.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sam-altman-openai-humanoid.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sam-altman-openai-humanoid.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Minth Group and AGIBOT Launch Europe’s First Humanoid Mass Production Line in Serbia</title>
+<link>https://www.humanoidsdaily.com/news/minth-group-and-agibot-launch-europe-s-first-humanoid-mass-production-line-in-serbia</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/minth-group-and-agibot-launch-europe-s-first-humanoid-mass-production-line-in-serbia</guid>
+<pubDate>Wed, 02 Sep 2026 14:16:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Minth Group and AGIBOT have inaugurated Europe’s first mass-production base for humanoid robots in Šabac, backing a €20 million initial line ahead of a planned €200 million robotics hub in Inđija.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-minth-sabac.webp" alt="" /></p><p>Minth Group and AGIBOT have inaugurated Europe’s first mass-production base for humanoid robots in Šabac, backing a €20 million initial line ahead of a planned €200 million robotics hub in Inđija.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-minth-sabac.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-minth-sabac.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-minth-sabac.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Isomorphism Over Imitation: X Square Unveils TwinDEX to Bridge the Robot-Free Data Gap</title>
+<link>https://www.humanoidsdaily.com/news/isomorphism-over-imitation-x-square-unveils-twindex-to-bridge-the-robot-free-data-gap</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/isomorphism-over-imitation-x-square-unveils-twindex-to-bridge-the-robot-free-data-gap</guid>
+<pubDate>Wed, 02 Sep 2026 13:48:26 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Shenzhen-based X Square Robot has introduced TwinDEX, an isomorphic three-finger, nine-DoF manipulation interface paired between a wearable exoskeleton and a robot end effector to accelerate real-world dexterous data collection.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" alt="" /></p><p>Shenzhen-based X Square Robot has introduced TwinDEX, an isomorphic three-finger, nine-DoF manipulation interface paired between a wearable exoskeleton and a robot end effector to accelerate real-world dexterous data collection.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>The "No Bot of Theseus" Challenge: Scott Walter Proposes a Strict Decathlon Benchmark for Humanoids</title>
+<link>https://www.humanoidsdaily.com/news/the-no-bot-of-theseus-challenge-scott-walter-proposes-a-strict-decathlon-benchmark-for-humanoids</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-no-bot-of-theseus-challenge-scott-walter-proposes-a-strict-decathlon-benchmark-for-humanoids</guid>
+<pubDate>Tue, 01 Sep 2026 15:14:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Robotics pioneer Dr. Scott Walter has drafted a rule book for an autonomous humanoid decathlon, targeting single-task optimization with strict rules on anthropomorphism, zero hardware swaps, and self-dressing.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" alt="" /></p><p>Robotics pioneer Dr. Scott Walter has drafted a rule book for an autonomous humanoid decathlon, targeting single-task optimization with strict rules on anthropomorphism, zero hardware swaps, and self-dressing.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>The $1,688 Appliance Bet: Nori Robotics Launches Wheeled Bimanual Manipulator</title>
+<link>https://www.humanoidsdaily.com/news/the-1-688-appliance-bet-nori-robotics-launches-wheeled-bimanual-manipulator</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-1-688-appliance-bet-nori-robotics-launches-wheeled-bimanual-manipulator</guid>
+<pubDate>Tue, 01 Sep 2026 13:39:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Nori Robotics has debuted the A3, a sub-$1,700 bimanual mobile manipulator aimed at consumer homes. But technical papers and newly opened SDKs reveal the divide between appliance marketing and experimental developer hardware.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" alt="" /></p><p>Nori Robotics has debuted the A3, a sub-$1,700 bimanual mobile manipulator aimed at consumer homes. But technical papers and newly opened SDKs reveal the divide between appliance marketing and experimental developer hardware.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Lumos Robotics Unveils MOS 2 Mobile Manipulator Backed by Mitsubishi Factory Deployment</title>
+<link>https://www.humanoidsdaily.com/news/lumos-robotics-unveils-mos-2-mobile-manipulator-backed-by-mitsubishi-factory-deployment</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lumos-robotics-unveils-mos-2-mobile-manipulator-backed-by-mitsubishi-factory-deployment</guid>
+<pubDate>Tue, 01 Sep 2026 12:22:07 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Lumos Robotics has launched MOS 2, a heavy-duty wheeled dual-arm "AI Worker" with a 50 kg payload capacity, deployed at Mitsubishi Electric facilities following a funding round exceeding 1 billion yuan.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" alt="" /></p><p>Lumos Robotics has launched MOS 2, a heavy-duty wheeled dual-arm "AI Worker" with a 50 kg payload capacity, deployed at Mitsubishi Electric facilities following a funding round exceeding 1 billion yuan.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Kinetic Blocks Opens Marketplace for Humanoid Training Data</title>
+<link>https://www.humanoidsdaily.com/news/kinetic-blocks-opens-marketplace-for-humanoid-training-data</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/kinetic-blocks-opens-marketplace-for-humanoid-training-data</guid>
+<pubDate>Tue, 01 Sep 2026 11:48:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Oslo-based Kinetic Blocks launches a gated two-sided market to standardize licensing, pricing, and quality grading for physical AI datasets.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" alt="" /></p><p>Oslo-based Kinetic Blocks launches a gated two-sided market to standardize licensing, pricing, and quality grading for physical AI datasets.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>UBTECH Reports 104% Revenue Surge in H1 2026 as Full-Size Humanoids Drive Growth</title>
+<link>https://www.humanoidsdaily.com/news/ubtech-reports-104-revenue-surge-in-h1-2026-as-full-size-humanoids-drive-growth</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/ubtech-reports-104-revenue-surge-in-h1-2026-as-full-size-humanoids-drive-growth</guid>
+<pubDate>Mon, 31 Aug 2026 06:50:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>UBTECH Robotics generated RMB 1.27 billion in the first half of 2026, driven by a 1,445% revenue surge in full-size embodied humanoids, narrowing net losses as industrial deployments accelerate.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" alt="" /></p><p>UBTECH Robotics generated RMB 1.27 billion in the first half of 2026, driven by a 1,445% revenue surge in full-size embodied humanoids, narrowing net losses as industrial deployments accelerate.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Hack One Robot, Reach the Next: How Unitree’s G1 Left the Door Open to Root Takeover</title>
+<link>https://www.humanoidsdaily.com/news/hack-one-robot-reach-the-next-how-unitree-s-g1-left-the-door-open-to-root-takeover</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hack-one-robot-reach-the-next-how-unitree-s-g1-left-the-door-open-to-root-takeover</guid>
+<pubDate>Sun, 30 Aug 2026 06:37:32 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>A new security disclosure reveals how proximity and a cloud flaw enabled unauthenticated root takeover of Unitree’s G1 humanoid, spotlighting the physical risks of software security in embodied robotics.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" alt="" /></p><p>A new security disclosure reveals how proximity and a cloud flaw enabled unauthenticated root takeover of Unitree’s G1 humanoid, spotlighting the physical risks of software security in embodied robotics.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>From AlphaGo to AstraTennis: Galbot Humanoids Complete 100+ Consecutive Rallies in Live Tennis Match</title>
+<link>https://www.humanoidsdaily.com/news/from-alphago-to-astratennis-galbot-humanoids-complete-100-consecutive-rallies-in-live-tennis-match</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/from-alphago-to-astratennis-galbot-humanoids-complete-100-consecutive-rallies-in-live-tennis-match</guid>
+<pubDate>Sun, 30 Aug 2026 05:46:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>During the opening ceremony of the second World Humanoid Robot Games, Galbot showcased autonomous humanoids completing over 100 consecutive tennis rallies against and alongside human athletes.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" alt="" /></p><p>During the opening ceremony of the second World Humanoid Robot Games, Galbot showcased autonomous humanoids completing over 100 consecutive tennis rallies against and alongside human athletes.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Lightberry Unveils Lumi: A $40k Interactive Humanoid Built on a Unitree Core</title>
+<link>https://www.humanoidsdaily.com/news/lightberry-unveils-lumi-a-40k-interactive-humanoid-built-on-a-unitree-core</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lightberry-unveils-lumi-a-40k-interactive-humanoid-built-on-a-unitree-core</guid>
+<pubDate>Sat, 29 Aug 2026 11:46:16 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>San Francisco startup Lightberry has opened reservations for Lumi, a $39,990 bipedal robot pairing a Unitree mechanical baseline with custom American sensing, NVIDIA Thor compute, and a modular interaction engine.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" alt="" /></p><p>San Francisco startup Lightberry has opened reservations for Lumi, a $39,990 bipedal robot pairing a Unitree mechanical baseline with custom American sensing, NVIDIA Thor compute, and a modular interaction engine.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>South Korea Commits KRW 2.3 Trillion to Build Full-Stack Humanoid Robotics Ecosystem by 2030</title>
+<link>https://www.humanoidsdaily.com/news/south-korea-commits-krw-2-3-trillion-to-build-full-stack-humanoid-robotics-ecosystem-by-2030</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/south-korea-commits-krw-2-3-trillion-to-build-full-stack-humanoid-robotics-ecosystem-by-2030</guid>
+<pubDate>Sat, 29 Aug 2026 10:01:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>South Korea is allocating $1.66 billion directly to humanoid robotics and $2.0 billion for physical AI field verification, targeting an 80% domestic component localization rate and state procurement of over 1,000 bipedal units.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" alt="" /></p><p>South Korea is allocating $1.66 billion directly to humanoid robotics and $2.0 billion for physical AI field verification, targeting an 80% domestic component localization rate and state procurement of over 1,000 bipedal units.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>AGIBOT Tops Medal Table at 2nd World Humanoid Robot Games as Beijing Showdown Concludes</title>
+<link>https://www.humanoidsdaily.com/news/agibot-tops-medal-table-at-2nd-world-humanoid-robot-games-as-beijing-showdown-concludes</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-tops-medal-table-at-2nd-world-humanoid-robot-games-as-beijing-showdown-concludes</guid>
+<pubDate>Thu, 27 Aug 2026 13:33:58 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>AGIBOT secures first place with 46 medals at the 2nd World Humanoid Robot Games, narrowly edging out TianGong in a fierce multi-discipline competition showcasing mass-produced hardware.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" alt="" /></p><p>AGIBOT secures first place with 46 medals at the 2nd World Humanoid Robot Games, narrowly edging out TianGong in a fierce multi-discipline competition showcasing mass-produced hardware.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>SoftBank in Talks for Majority Stake in 1X at $6 Billion — Below the $10 Billion It Sought Last Year</title>
+<link>https://www.humanoidsdaily.com/news/softbank-in-talks-for-majority-stake-in-1x-at-6-billion-below-the-10-billion-it-sought-last-year</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/softbank-in-talks-for-majority-stake-in-1x-at-6-billion-below-the-10-billion-it-sought-last-year</guid>
+<pubDate>Thu, 27 Aug 2026 05:44:22 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Masayoshi Son''s investment powerhouse is reportedly negotiating a controlling interest in OpenAI-backed humanoid maker 1X Technologies, at a figure well under the valuation the company pursued last September.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/1x-neo-hand-flips.webp" alt="" /></p><p>Masayoshi Son''s investment powerhouse is reportedly negotiating a controlling interest in OpenAI-backed humanoid maker 1X Technologies, at a figure well under the valuation the company pursued last September.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/1x-neo-hand-flips.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/1x-neo-hand-flips.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/1x-neo-hand-flips.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Hyundai Says Atlas Will Not Replace Workers — One Day After Settling a Strike Over Exactly That</title>
+<link>https://www.humanoidsdaily.com/news/hyundai-says-atlas-will-not-replace-workers-one-day-after-settling-a-strike-over-exactly-that</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hyundai-says-atlas-will-not-replace-workers-one-day-after-settling-a-strike-over-exactly-that</guid>
+<pubDate>Wed, 26 Aug 2026 21:57:36 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>At its 2026 CEO Investor Day, Hyundai put hard numbers behind Atlas for the first time: 30,000 units of annual US capacity from 2028, 25,000 already spoken for. It also went out of its way to insist robots are "in service of humans" — a line delivered 24 hours after its Korean union settled a walkout that demanded protection from automation.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/munoz-hyundai-investor-day-2026.webp" alt="" /></p><p>At its 2026 CEO Investor Day, Hyundai put hard numbers behind Atlas for the first time: 30,000 units of annual US capacity from 2028, 25,000 already spoken for. It also went out of its way to insist robots are "in service of humans" — a line delivered 24 hours after its Korean union settled a walkout that demanded protection from automation.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/munoz-hyundai-investor-day-2026.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/munoz-hyundai-investor-day-2026.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/munoz-hyundai-investor-day-2026.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Asimov 1 DIY Humanoid Kits Begin Shipping as Team Details Final Costs</title>
+<link>https://www.humanoidsdaily.com/news/asimov-1-diy-humanoid-kits-begin-shipping-as-team-details-final-costs</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/asimov-1-diy-humanoid-kits-begin-shipping-as-team-details-final-costs</guid>
+<pubDate>Wed, 26 Aug 2026 20:53:02 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Menlo Research and the Asimov team are shipping the first batch of their open-source Asimov 1 DIY humanoid kit, locking in a final delivered price of $20,000.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" alt="" /></p><p>Menlo Research and the Asimov team are shipping the first batch of their open-source Asimov 1 DIY humanoid kit, locking in a final delivered price of $20,000.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-1.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Figure AI Unveils Index: Crowdsourcing Real-World Human Video to Train Helix</title>
+<link>https://www.humanoidsdaily.com/news/figure-ai-unveils-index-crowdsourcing-real-world-human-video-to-train-helix</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-ai-unveils-index-crowdsourcing-real-world-human-video-to-train-helix</guid>
+<pubDate>Tue, 25 Aug 2026 18:16:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Figure AI has exited stealth on Index, a crowdsourced data-collection platform that has gathered over 16 million video uploads across 108 countries to train its Helix neural network.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-index.webp" alt="" /></p><p>Figure AI has exited stealth on Index, a crowdsourced data-collection platform that has gathered over 16 million video uploads across 108 countries to train its Helix neural network.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-index.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-index.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-index.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Skild AI Unveils S1: In-Context Learning for Long-Horizon Robot Manipulation</title>
+<link>https://www.humanoidsdaily.com/news/skild-ai-unveils-s1-in-context-learning-for-long-horizon-robot-manipulation</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/skild-ai-unveils-s1-in-context-learning-for-long-horizon-robot-manipulation</guid>
+<pubDate>Tue, 25 Aug 2026 11:39:55 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Skild AI has detailed S1, a foundation model that executes unseen, 10-minute manipulation tasks from a single video prompt without task-specific post-training.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" alt="" /></p><p>Skild AI has detailed S1, a foundation model that executes unseen, 10-minute manipulation tasks from a single video prompt without task-specific post-training.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Pink Robotics Emerges in Germany With a Mission to Revive Industrial Engineering</title>
+<link>https://www.humanoidsdaily.com/news/pink-robotics-emerges-in-germany-with-a-mission-to-revive-industrial-engineering</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/pink-robotics-emerges-in-germany-with-a-mission-to-revive-industrial-engineering</guid>
+<pubDate>Tue, 25 Aug 2026 08:35:11 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Darmstadt-based startup Pink Robotics has unveiled its P0 humanoid prototype, aiming to tackle logistics sorting while mounting a sharp critique of Germany’s current robotics ecosystem.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" alt="" /></p><p>Darmstadt-based startup Pink Robotics has unveiled its P0 humanoid prototype, aiming to tackle logistics sorting while mounting a sharp critique of Germany’s current robotics ecosystem.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>AdaPT Bridges Sim-to-Real to Teach Humanoids the Tennis Styles of Federer, Nadal, and Djokovic</title>
+<link>https://www.humanoidsdaily.com/news/adapt-bridges-sim-to-real-to-teach-humanoids-the-tennis-styles-of-federer-nadal-and-djokovic</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/adapt-bridges-sim-to-real-to-teach-humanoids-the-tennis-styles-of-federer-nadal-and-djokovic</guid>
+<pubDate>Mon, 24 Aug 2026 20:34:45 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Researchers from Shanghai AI Lab, Dobot, SJTU, and Noitom introduce AdaPT, an adaptive planning and tracking framework that extracts stylized tennis rallying and serving from broadcast footage.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" alt="" /></p><p>Researchers from Shanghai AI Lab, Dobot, SJTU, and Noitom introduce AdaPT, an adaptive planning and tracking framework that extracts stylized tennis rallying and serving from broadcast footage.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/adapt-tennis.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Figure AI Demonstrates 15-Foot Autonomous Ladder Ascent and Descent for Industrial Mezzanines</title>
+<link>https://www.humanoidsdaily.com/news/figure-ai-demonstrates-15-foot-autonomous-ladder-ascent-and-descent-for-industrial-mezzanines</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-ai-demonstrates-15-foot-autonomous-ladder-ascent-and-descent-for-industrial-mezzanines</guid>
+<pubDate>Mon, 24 Aug 2026 20:04:48 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Figure CEO Brett Adcock shared video of a Figure 03 humanoid autonomously climbing up and down a 15-foot ladder, confirming the vertical locomotion milestone maps directly to an active customer use case.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" alt="" /></p><p>Figure CEO Brett Adcock shared video of a Figure 03 humanoid autonomously climbing up and down a 15-foot ladder, confirming the vertical locomotion milestone maps directly to an active customer use case.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-scaling-ladder.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Robots Outrun Usain Bolt: Inside the Record-Shattering Spree at the 2nd World Humanoid Robot Games</title>
+<link>https://www.humanoidsdaily.com/news/robots-outrun-usain-bolt-inside-the-record-shattering-spree-at-the-2nd-world-humanoid-robot-games</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robots-outrun-usain-bolt-inside-the-record-shattering-spree-at-the-2nd-world-humanoid-robot-games</guid>
+<pubDate>Mon, 24 Aug 2026 19:38:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Bipedal machines crossed a major athletic threshold in Beijing, smashing human sprinting and jumping benchmarks while facing persistent braking and autonomy challenges.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" alt="" /></p><p>Bipedal machines crossed a major athletic threshold in Beijing, smashing human sprinting and jumping benchmarks while facing persistent braking and autonomy challenges.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tiangong-100m-2026.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>XPENG Robotics Raises Over $900 Million at $6.3 Billion Valuation to Industrialize IRON Humanoid</title>
+<link>https://www.humanoidsdaily.com/news/xpeng-robotics-raises-over-900-million-at-6-3-billion-valuation-to-industrialize-iron-humanoid</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-robotics-raises-over-900-million-at-6-3-billion-valuation-to-industrialize-iron-humanoid</guid>
+<pubDate>Mon, 24 Aug 2026 10:59:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>XPENG has closed a record-breaking $900 million financing round for its humanoid robotics division, backed by IDG Capital, Alibaba, and Tencent, ahead of late-2026 mass production.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" alt="" /></p><p>XPENG has closed a record-breaking $900 million financing round for its humanoid robotics division, backed by IDG Capital, Alibaba, and Tencent, ahead of late-2026 mass production.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-beijing-autoshow.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Generalist AI Unveils GEN-1.5: One-Shot Robot Learning and the End of Heavy Fine-Tuning</title>
+<link>https://www.humanoidsdaily.com/news/generalist-ai-unveils-gen-1-5-one-shot-robot-learning-and-the-end-of-heavy-fine-tuning</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/generalist-ai-unveils-gen-1-5-one-shot-robot-learning-and-the-end-of-heavy-fine-tuning</guid>
+<pubDate>Thu, 20 Aug 2026 20:24:12 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<description>Generalist AI claims a GPT-3 moment for robotics, demonstrating a foundation model that learns new physical tasks in seconds from a single prompt.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gen-1-5.webp" alt="" /></p><p>Generalist AI claims a GPT-3 moment for robotics, demonstrating a foundation model that learns new physical tasks in seconds from a single prompt.</p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gen-1-5.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gen-1-5.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gen-1-5.webp" type="image/webp" length="0" />
+</item>
+</channel>
+</rss>

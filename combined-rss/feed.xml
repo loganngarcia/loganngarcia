@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 09:38:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:43:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles (Yan Zhuang/New York Times)</title>
@@ -1907,19 +1907,6 @@
 </item>
 <item>
 <title>Travel Planner: Your Smart Travel Designer</title>
-<link>https://qwen.ai/blog?id=agent&amp;from=research.research-list</link>
-<guid isPermaLink="false">combined:d8fb26a7baf52164dd03a098fb6f761f9ae0610f</guid>
-<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
-<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Travel Planner: Your Smart Travel Designer</title>
 <link>https://qwen.ai/blog?id=6228c39fa97ce1a9e65f9e7ce98787a743007fe4&amp;from=research.latest-advancements-list</link>
 <guid isPermaLink="false">combined:66d81c05169379716d9d978fdc4f0ff143138737</guid>
 <pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
@@ -1932,9 +1919,22 @@
 <enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Travel Planner: Your Smart Travel Designer</title>
+<link>https://qwen.ai/blog?id=agent&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:d8fb26a7baf52164dd03a098fb6f761f9ae0610f</guid>
+<pubDate>Mon, 22 Sep 2025 21:00:59 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" alt="" /></p><p>We are excited to introduce our **brand-new Travel Planning Assistant**, a powerful system built on a **Multi-Agent architecture** with robust **real-world tool-calling capabilities**. It is designed</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" />
+<enclosure url="https://qianwen-res.oss-accelerate.aliyuncs.com/qwen-travel-planner/en_q1.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
-<link>https://qwen.ai/blog?id=3e4179176f4f2b028b342fb0193c192046ca291b&amp;from=research.latest-advancements-list</link>
-<guid isPermaLink="false">combined:d72c0d3a3a777766660d33ca90c28607eae3fcf2</guid>
+<link>https://qwen.ai/blog?id=qwen3guard&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:c5172a915c534f1fa8eff5f650d12041c4a6f9c0</guid>
 <pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
@@ -1946,8 +1946,8 @@
 </item>
 <item>
 <title>Qwen3Guard: Real-time Safety for Your Token Stream</title>
-<link>https://qwen.ai/blog?id=qwen3guard&amp;from=research.research-list</link>
-<guid isPermaLink="false">combined:c5172a915c534f1fa8eff5f650d12041c4a6f9c0</guid>
+<link>https://qwen.ai/blog?id=3e4179176f4f2b028b342fb0193c192046ca291b&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:d72c0d3a3a777766660d33ca90c28607eae3fcf2</guid>
 <pubDate>Mon, 22 Sep 2025 20:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
@@ -2011,19 +2011,6 @@
 </item>
 <item>
 <title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
-<link>https://qwen.ai/blog?id=qwen3-tts&amp;from=research.research-list</link>
-<guid isPermaLink="false">combined:3c2962ac20dc202206eab933258dbc75d2068ed7</guid>
-<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
-<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p>]]></content:encoded>
-<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
-<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
-<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
 <link>https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&amp;from=research.latest-advancements-list</link>
 <guid isPermaLink="false">combined:a56d254c9c2a4572080c9656e39a591ae3145ccf</guid>
 <pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
@@ -2036,17 +2023,17 @@
 <enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
-<link>https://qwen.ai/blog?id=qwen3-next&amp;from=research.research-list</link>
-<guid isPermaLink="false">combined:901ef93c746452f296b2a32e56216bf03698395d</guid>
-<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
+<title>Qwen3-TTS-Flash: Multi-timbre &amp; Multi-lingual &amp; Multi-dialect Speech Synthesis.</title>
+<link>https://qwen.ai/blog?id=qwen3-tts&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:3c2962ac20dc202206eab933258dbc75d2068ed7</guid>
+<pubDate>Sun, 21 Sep 2025 20:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
-<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p>]]></content:encoded>
-<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
-<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
-<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
+<description>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</description>
+<content:encoded><![CDATA[<p><img src="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" alt="" /></p><p>**Qwen3-TTS-Flash** is a flagship text-to-speech model that supports multi-timbre, multi-lingual, and multi-dialect speech synthesis. It aims to produce natural and expressive speech and is available</p>]]></content:encoded>
+<media:content url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" medium="image" type="image/png" />
+<media:thumbnail url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" />
+<enclosure url="http://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-TTS-Flash/table2.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
@@ -2062,9 +2049,22 @@
 <enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Qwen3-Next: Towards Ultimate Training &amp; Inference Efficiency</title>
+<link>https://qwen.ai/blog?id=qwen3-next&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:901ef93c746452f296b2a32e56216bf03698395d</guid>
+<pubDate>Wed, 10 Sep 2025 20:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<description>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</description>
+<content:encoded><![CDATA[<p><img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" alt="" /></p><p>We believe that **Context Length Scaling** and **Total Parameter Scaling** are two major trends in the future of large models. To further improve training and inference efficiency under long-context a</p>]]></content:encoded>
+<media:content url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" medium="image" type="image/png" />
+<media:thumbnail url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" />
+<enclosure url="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/qwen3-next.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
-<link>https://qwen.ai/blog?id=qwen3-asr-flash&amp;from=research.research-list</link>
-<guid isPermaLink="false">combined:60a1cd82581affa8b7621c503c86ad6d6b4aa3b8</guid>
+<link>https://qwen.ai/blog?id=41e4c0f6175f9b004a03a07e42343eaaf48329e7&amp;from=research.latest-advancements-list</link>
+<guid isPermaLink="false">combined:ffda26299704eca82a0b8e19719372876281cb74</guid>
 <pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
@@ -2076,8 +2076,8 @@
 </item>
 <item>
 <title>Qwen3 ASR: Hear clearly, transcribe smartly.</title>
-<link>https://qwen.ai/blog?id=41e4c0f6175f9b004a03a07e42343eaaf48329e7&amp;from=research.latest-advancements-list</link>
-<guid isPermaLink="false">combined:ffda26299704eca82a0b8e19719372876281cb74</guid>
+<link>https://qwen.ai/blog?id=qwen3-asr-flash&amp;from=research.research-list</link>
+<guid isPermaLink="false">combined:60a1cd82581affa8b7621c503c86ad6d6b4aa3b8</guid>
 <pubDate>Mon, 08 Sep 2025 06:38:04 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
