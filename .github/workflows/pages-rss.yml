@@ -1,0 +1,54 @@
+name: Publish RSS Feeds to GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "combined-rss/feed.xml"
+      - "combined-rss/feeds/**"
+      - ".github/workflows/pages-rss.yml"
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-rss
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build public RSS site
+        run: |
+          mkdir -p public/rss
+          cp combined-rss/feed.xml public/rss/all.xml
+          cp combined-rss/feeds/*.xml public/rss/
+          cat > public/index.html <<'HTML'
+          <!doctype html>
+          <html><head><meta charset="utf-8"><title>RSS Feeds</title></head>
+          <body><h1>RSS Feeds</h1>
+          <ul>
+            <li><a href="rss/techmeme.xml">Techmeme</a></li>
+            <li><a href="rss/humanoids-daily.xml">Humanoids Daily</a></li>
+            <li><a href="rss/sherwood-news.xml">Sherwood News</a></li>
+            <li><a href="rss/ai-timeline.xml">The AI Timeline by bycloud</a></li>
+            <li><a href="rss/qwen-research.xml">Qwen Research</a></li>
+            <li><a href="rss/all.xml">All Combined</a></li>
+          </ul></body></html>
+          HTML
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
