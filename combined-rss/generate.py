@@ -614,6 +614,14 @@ def discover_qwen():
                 pass
         else:
             soup = BeautifulSoup(text, "html.parser")
+            if page in {"https://qwen.ai/research", "https://qwen.ai/home"}:
+                scripts = [absolute(page, tag.get("src")) for tag in soup.find_all("script", src=True)]
+                print(f"QWEN DEBUG {page} html_len={len(text)} scripts={scripts[:20]}")
+                for keyword in ("research-list", "latest-advancements", "/api/", "research"):
+                    pos = text.lower().find(keyword.lower())
+                    if pos >= 0:
+                        snippet = re.sub(r"\\s+", " ", text[max(0,pos-350):pos+650])
+                        print(f"QWEN DEBUG keyword={keyword}: {snippet[:1000]}")
             for anchor in soup.find_all("a", href=True):
                 add_candidate(anchor["href"], anchor.get_text(" ", strip=True))
 
