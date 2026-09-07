@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Techmeme One Click</title>
+<link>https://www.techmeme.com/river</link>
+<description>Techmeme headlines that open the original publisher directly.</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 07 Sep 2026 08:30:00 +0000</lastBuildDate>
+<atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles</title>
+<link>https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html?smid=url-share&amp;unlocked_article_code=1._FA.TggZ.ToSN6hQurMmD</link>
+<guid isPermaLink="true">https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html</guid>
+</item>
+<item>
+<title>LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M</title>
+<link>https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/</link>
+<guid isPermaLink="true">https://www.reuters.com/science/google-backed-indian-space-startup-raises-100-million-latest-funding-round-2026-09-07/</guid>
+</item>
+<item>
+<title>An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more</title>
+<link>https://thezvi.substack.com/p/openai-and-the-wiki-incident</link>
+<guid isPermaLink="true">https://thezvi.substack.com/p/openai-and-the-wiki-incident</guid>
+</item>
+<item>
+<title>Blockstream's Liquid Network halts new transactions after purported white-hat hackers withdrew about 4,000 of the 4,200 bitcoin held in its federation wallet</title>
+<link>https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys</link>
+<guid isPermaLink="true">https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys</guid>
+</item>
+<item>
+<title>How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex</title>
+<link>https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f?reflink=desktopwebshare_permalink&amp;st=CnE73f</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f</guid>
+</item>
+<item>
+<title>Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy</title>
+<link>https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8</link>
+<guid isPermaLink="true">https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8</guid>
+</item>
+<item>
+<title>OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace</title>
+<link>https://openai.com/index/an-alien-mind/</link>
+<guid isPermaLink="true">https://openai.com/index/an-alien-mind/</guid>
+</item>
+<item>
+<title>Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade</title>
+<link>https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months</link>
+<guid isPermaLink="true">https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months</guid>
+</item>
+</channel>
+</rss>
