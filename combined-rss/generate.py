@@ -563,8 +563,40 @@ def discover_bicloud():
 
 def discover_qwen():
     found = {}
-    pages = ["https://qwen.ai/research", "https://qwen.ai/sitemap.xml"]
-    for page in pages:
+
+    def add_candidate(raw, title=""):
+        if not raw:
+            return
+        raw = html_lib.unescape(str(raw))
+        raw = (
+            raw.replace("\\u0026", "&")
+               .replace("\\u003f", "?")
+               .replace("\\u003d", "=")
+               .replace("\\/", "/")
+               .strip()
+        )
+        raw = raw.rstrip(").,;:'\"\\")
+        link = absolute("https://qwen.ai", raw)
+        parsed = urllib.parse.urlparse(link)
+        if parsed.hostname not in {"qwen.ai", "www.qwen.ai"}:
+            return
+        is_blog = parsed.path.rstrip("/") == "/blog" and "id=" in parsed.query
+        is_research = parsed.path.startswith("/research/") and parsed.path.rstrip("/") != "/research"
+        if not (is_blog or is_research):
+            return
+        # Drop locale/tracking-only noise while preserving the ID and research-origin
+        # parameters that identify Qwen posts.
+        found.setdefault(link, {"title": clean_text(title)})
+        if title and not found[link].get("title"):
+            found[link]["title"] = clean_text(title)
+
+    direct_pages = [
+        ("https://qwen.ai/research", "https://qwen.ai/research"),
+        ("https://qwen.ai/home", "https://qwen.ai/home"),
+        ("https://qwen.ai/sitemap.xml", "https://qwen.ai/sitemap.xml"),
+    ]
+
+    for page, base in direct_pages:
         try:
             r = SESSION.get(page, timeout=20)
             if not r.ok:
@@ -577,37 +609,57 @@ def discover_qwen():
             try:
                 root = ET.fromstring(text)
                 for loc in root.findall(".//{*}loc"):
-                    link = clean_text(loc.text)
-                    if link.startswith("https://qwen.ai/") and ("/research/" in link or "/blog" in link):
-                        found.setdefault(link, {"title": ""})
+                    add_candidate(clean_text(loc.text))
             except Exception:
                 pass
+        else:
+            soup = BeautifulSoup(text, "html.parser")
+            for anchor in soup.find_all("a", href=True):
+                add_candidate(anchor["href"], anchor.get_text(" ", strip=True))
+
+        normalized = (
+            text.replace("\\u0026", "&")
+                .replace("\\u003f", "?")
+                .replace("\\u003d", "=")
+                .replace("\\/", "/")
+        )
+        patterns = (
+            r'https?://(?:www\.)?qwen\.ai/blog\?[^"\'<>\s)]+',
+            r'/blog\?[^"\'<>\s)]+',
+            r'https?://(?:www\.)?qwen\.ai/research/[A-Za-z0-9._~%+\-/]+',
+            r'/research/[A-Za-z0-9._~%+\-/]+',
+        )
+        for pattern in patterns:
+            for match in re.finditer(pattern, normalized, flags=re.I):
+                add_candidate(match.group(0))
+
+    # Qwen's research index is client-rendered. Jina's rendered/reader copy often
+    # exposes the card links that are absent from the initial HTML response.
+    for target in ("https://qwen.ai/research", "https://qwen.ai/home"):
+        try:
+            r = SESSION.get("https://r.jina.ai/" + target, timeout=25)
+            if not r.ok:
+                continue
+            text = html_lib.unescape(r.text)
+        except requests.RequestException:
             continue
 
-        soup = BeautifulSoup(text, "html.parser")
-        for a in soup.find_all("a", href=True):
-            link = absolute(page, a["href"])
-            parsed = urllib.parse.urlparse(link)
-            if parsed.hostname not in {"qwen.ai", "www.qwen.ai"}:
-                continue
-            if not ("/research/" in parsed.path or parsed.path == "/blog"):
-                continue
-            if parsed.path in {"/research", "/research/"}:
-                continue
-            title = clean_text(a.get_text(" ", strip=True))
-            found.setdefault(link, {"title": title})
-            if title and not found[link].get("title"):
-                found[link]["title"] = title
-
-        for pattern in (
-            r'(?P<u>/blog\?[^"\\\s<>]*id=[^"\\\s<>]+)',
-            r'(?P<u>/research/[A-Za-z0-9._~%+\-/]+)',
+        for match in re.finditer(
+            r'https?://(?:www\.)?qwen\.ai/(?:blog\?[^)\]>\s]+|research/[A-Za-z0-9._~%+\-/]+)',
+            text,
+            flags=re.I,
         ):
-            for m in re.finditer(pattern, text):
-                raw = m.group("u").replace("\\u0026", "&").replace("\\/", "/")
-                link = absolute("https://qwen.ai", raw)
-                found.setdefault(link, {"title": ""})
+            add_candidate(match.group(0))
 
+        # Markdown can contain relative targets too.
+        for match in re.finditer(
+            r'\]\((/blog\?[^)\s]+|/research/[A-Za-z0-9._~%+\-/]+)\)',
+            text,
+            flags=re.I,
+        ):
+            add_candidate(match.group(1))
+
+    print(f"Qwen discovery found {len(found)} candidate URLs")
     return [{
         "source": "Qwen Research",
         "title": data.get("title", ""),
