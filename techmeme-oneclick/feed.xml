@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 21:59:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 00:09:25 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Robinhood secures its first IPO underwriting role, in Oura&#x27;s IPO, which could give it more influence over how many shares are allocated to its customers (Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muxlkxniwb22</guid>
+<pubDate>Mon, 07 Sep 2026 22:46:00 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP (Vicky Ge Huang/Wall Street Journal)</title>
 <link>https://www.wsj.com/finance/currencies/hunter-biden-and-his-laptop-enter-the-cryptosphere-with-new-meme-coin-4d46fc9c?st=rBFEhm&amp;reflink=desktopwebshare_permalink</link>
@@ -71,9 +79,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muwos6cvyv2r</guid>
 <pubDate>Mon, 07 Sep 2026 14:11:03 +0000</pubDate>
 <description>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</description>
-<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" alt="" /></p><p>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</p>]]></content:encoded>
-<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" medium="image" />
-<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" />
+<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" alt="" /></p><p>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</p>]]></content:encoded>
+<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" medium="image" />
+<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" />
 </item>
 <item>
 <title>Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)</title>
@@ -872,14 +880,6 @@
 <pubDate>Thu, 03 Sep 2026 19:01:15 +0000</pubDate>
 <description>From venturebeat.com</description>
 <content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas (Ina Fried/Axios)</title>
-<link>https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mun35wl7df2j</guid>
-<pubDate>Thu, 03 Sep 2026 18:25:45 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
