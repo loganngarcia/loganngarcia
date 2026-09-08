@@ -5,7 +5,7 @@
 <link>https://qwen.ai/research</link>
 <description>Qwen Research articles from Qwen's first-party research data with official covers and descriptions.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 22:00:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 00:10:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/qwen-research.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
@@ -106,20 +106,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -146,6 +132,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>

@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 22:00:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 00:10:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Robinhood secures its first IPO underwriting role, in Oura's IPO, which could give it more influence over how many shares are allocated to its customers (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/053ab41d705ac45ad684.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muxlkxniwb22</guid>
+<pubDate>Mon, 07 Sep 2026 22:46:00 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632" rel="related" type="text/html" />
+<description>Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69745727%2Fsocial" alt="" /></p><p>Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers.</p><p><a href="https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69745727%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69745727%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69745727%2Fsocial" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Supply Chain Rumors Hint at Massive Optimus Order as Fremont Production Line Ramps Up</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac0c6da549b1729d638b.html</link>
@@ -156,10 +170,10 @@
 <category>Techmeme</category>
 <atom:link href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/" rel="related" type="text/html" />
 <description>News Media Association warns forcing prominence for 'trustworthy' news could end up harming sector.</description>
-<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" alt="" /></p><p>News Media Association warns forcing prominence for 'trustworthy' news could end up harming sector.</p><p><a href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" medium="image" type="image/webp" />
-<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" />
-<enclosure url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788814810" type="image/webp" length="0" />
+<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" alt="" /></p><p>News Media Association warns forcing prominence for 'trustworthy' news could end up harming sector.</p><p><a href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" medium="image" type="image/webp" />
+<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" />
+<enclosure url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788820897" type="image/webp" length="0" />
 </item>
 <item>
 <title>Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)</title>
@@ -958,20 +972,6 @@
 <media:content url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" />
 <enclosure url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of John Ternus, the first product engineer to lead Apple; sources: Tim Cook considered how to execute perfect succession since his early days as CEO (Michael Acton/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bdadfdaef3c48c851f50.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupibnkbzc2s</guid>
-<pubDate>Fri, 04 Sep 2026 17:25:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a" rel="related" type="text/html" />
-<description>Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08d5965a-2116-44d2-887f-86558382492f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Tim Cook’s successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs</p><p><a href="https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08d5965a-2116-44d2-887f-86558382492f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08d5965a-2116-44d2-887f-86558382492f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08d5965a-2116-44d2-887f-86558382492f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AGIBOT Deepens European Push at IFA 2026 with TÜV Rheinland Certification and Tekpoint Retail Alliance</title>
@@ -1884,20 +1884,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -1924,6 +1910,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
