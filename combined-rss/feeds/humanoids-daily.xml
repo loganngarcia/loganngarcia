@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 08 Sep 2026 00:10:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 04:46:29 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>XPENG Launches Mass Production of IRON Humanoid</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/67ac42fb07516cd22a11.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-launches-mass-production-of-iron-humanoid</guid>
+<pubDate>Mon, 07 Sep 2026 21:28:21 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/xpeng-launches-mass-production-of-iron-humanoid" rel="related" type="text/html" />
+<description>XPENG has officially launched its automotive-grade assembly line for the IRON humanoid, achieving a world-first autonomous walk-off milestone</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/first-iron.webp" alt="" /></p><p>XPENG has officially launched its automotive-grade assembly line for the IRON humanoid, achieving a world-first autonomous walk-off milestone</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-launches-mass-production-of-iron-humanoid">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/first-iron.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/first-iron.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/first-iron.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Supply Chain Rumors Hint at Massive Optimus Order as Fremont Production Line Ramps Up</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac0c6da549b1729d638b.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-s1-pot-planting.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Pink Robotics Emerges in Germany With a Mission to Revive Industrial Engineering</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b755288d85e4978de1f3.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/pink-robotics-emerges-in-germany-with-a-mission-to-revive-industrial-engineering</guid>
-<pubDate>Tue, 25 Aug 2026 08:35:11 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/pink-robotics-emerges-in-germany-with-a-mission-to-revive-industrial-engineering" rel="related" type="text/html" />
-<description>Darmstadt-based startup Pink Robotics has unveiled its P0 humanoid prototype, aiming to tackle logistics sorting while mounting a sharp critique of Germany’s current robotics ecosystem.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" alt="" /></p><p>Darmstadt-based startup Pink Robotics has unveiled its P0 humanoid prototype, aiming to tackle logistics sorting while mounting a sharp critique of Germany’s current robotics ecosystem.</p><p><a href="https://www.humanoidsdaily.com/news/pink-robotics-emerges-in-germany-with-a-mission-to-revive-industrial-engineering">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/pink-robotics-helmke.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
