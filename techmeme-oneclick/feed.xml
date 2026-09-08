@@ -5,8 +5,84 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 08 Sep 2026 17:28:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 20:09:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)</title>
+<link>https://www.forbes.com/sites/johnkoetsier/2026/09/08/heres-a-32-million-bet-that-robots-dont-need-a-billion-dollars-of-real-world-data/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzsk67ia72r</guid>
+<pubDate>Tue, 08 Sep 2026 19:56:09 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta&#x27;s personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week, with $20 and $100 monthly tiers (Riley Griffin/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzqlob5lj2d</guid>
+<pubDate>Tue, 08 Sep 2026 19:21:12 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta says users can connect their apps to Muse to send emails, turn recipe Reels into grocery lists, make purchases via Link by Stripe support, and more (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzqd3wbmz2e</guid>
+<pubDate>Tue, 08 Sep 2026 19:16:24 +0000</pubDate>
+<description>Meta&#x27;s new personal AI agent Muse wants access to users&#x27; email, calendars, payments, health services, and more — making the company&#x27;s biggest consumer AI bet yet a major test of whether people still trust Meta with their data.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675" alt="" /></p><p>Meta&#x27;s new personal AI agent Muse wants access to users&#x27; email, calendars, payments, health services, and more — making the company&#x27;s biggest consumer AI bet yet a major test of whether people still trust Meta with their data.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675" />
+</item>
+<item>
+<title>Meta launches Muse, a personal AI agent that runs on a dedicated VM in Meta&#x27;s cloud, initially available in the US, with support coming soon for its AI glasses (Ina Fried/Axios)</title>
+<link>https://www.axios.com/2026/09/08/meta-debuts-muse-personal-ai-agent</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzpzd2adu2r</guid>
+<pubDate>Tue, 08 Sep 2026 19:10:56 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says, while unlikely, it &quot;cannot rule out that de-identified data derived&quot; from Buckmaster&#x27;s and Alpöge&#x27;s use of its products helped improve its models (OpenAI)</title>
+<link>https://openai.com/index/navier-stokes-solution/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzpqlblk62t</guid>
+<pubDate>Tue, 08 Sep 2026 19:06:03 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT (Ina Fried/Axios)</title>
+<link>https://www.axios.com/2026/09/08/exclusive-hands-on-with-chatgpts-new-image-editor</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzovqvvmg24</guid>
+<pubDate>Tue, 08 Sep 2026 18:51:02 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI&#x27;s Sébastien Bubeck says he never asked for removal of Levent Alpöge from authorship of the work Alpöge and Tristan Buckmaster did on Navier-Stokes (Sebastien Bubeck/@sebastienbubeck)</title>
+<link>https://x.com/sebastienbubeck/status/2097379411691516310</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzomuktbl24</guid>
+<pubDate>Tue, 08 Sep 2026 18:46:04 +0000</pubDate>
+<description>I would like to clarify a few things: 1) The screenshot is my reaching out to Levent to coordinate our releases. I hope it’s clear from the message that we came in with the best possible intentions. 2) I never ever asked for Levent to be removed from authorship of his own work (as indicated by my…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HRtjEaTbcAA0uQ6.jpg:large" alt="" /></p><p>I would like to clarify a few things: 1) The screenshot is my reaching out to Levent to coordinate our releases. I hope it’s clear from the message that we came in with the best possible intentions. 2) I never ever asked for Levent to be removed from authorship of his own work (as indicated by my…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HRtjEaTbcAA0uQ6.jpg:large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HRtjEaTbcAA0uQ6.jpg:large" />
+</item>
+<item>
+<title>Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-08/ramp-in-talks-for-new-funding-at-60-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muznirzh5w27</guid>
+<pubDate>Tue, 08 Sep 2026 18:25:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AI coding startup Cognition raised $2B at a $48B valuation, up from $26B in May, and says its run-rate revenue grew from $492M in May to ~$900M (Samantha Oltman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muzljw3cqb2r</guid>
+<pubDate>Tue, 08 Sep 2026 17:50:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes &quot;copyright infringement very seriously&quot; (Zack Zwiezen/Kotaku)</title>
 <link>https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129</link>
@@ -361,9 +437,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muwos6cvyv2r</guid>
 <pubDate>Mon, 07 Sep 2026 14:11:03 +0000</pubDate>
 <description>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</description>
-<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788882818" alt="" /></p><p>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</p>]]></content:encoded>
-<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788882818" medium="image" />
-<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788882818" />
+<content:encoded><![CDATA[<p><img src="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788892953" alt="" /></p><p>News Media Association warns forcing prominence for &#x27;trustworthy&#x27; news could end up harming sector.</p>]]></content:encoded>
+<media:content url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788892953" medium="image" />
+<media:thumbnail url="https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/socialmedia-800x418.webp?1788892953" />
 </item>
 <item>
 <title>Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)</title>
@@ -800,88 +876,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>OpenAI denies lawyers discouraged disclosing a scheming swarm on a German language wiki.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
-</item>
-<item>
-<title>OpenAI says it can&#x27;t read all of Astra&#x27;s reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world&#x27;s most aligned model (Celia Ford/Transformer)</title>
-<link>https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupled64a52v</guid>
-<pubDate>Fri, 04 Sep 2026 18:20:59 +0000</pubDate>
-<description>OpenAI is hailing its new model as “the world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" alt="" /></p><p>OpenAI is hailing its new model as “the world’s most intelligent and aligned”, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg" />
-</item>
-<item>
-<title>A profile of John Ternus, the first product engineer to lead Apple; sources: Tim Cook considered how to execute perfect succession since his early days as CEO (Michael Acton/Financial Times)</title>
-<link>https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupibnkbzc2s</guid>
-<pubDate>Fri, 04 Sep 2026 17:25:48 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)</title>
-<link>https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupf7xoe7p2v</guid>
-<pubDate>Fri, 04 Sep 2026 16:31:10 +0000</pubDate>
-<description>CEO Tom Conrad on cleaning up Sonos’ app redesign mess and turning a speaker company into a software platform.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>CEO Tom Conrad on cleaning up Sonos’ app redesign mess and turning a speaker company into a software platform.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal&#x27;s autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)</title>
-<link>https://somethingbig.ai/astra-review</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupcfvgh5f2j</guid>
-<pubDate>Fri, 04 Sep 2026 15:40:48 +0000</pubDate>
-<description>Matt Shumer’s hands-on GPT-6 Astra review: everyday engineering, computer use, ambitious game-world experiments, and the Manager Loop coordination setup.</description>
-<content:encoded><![CDATA[<p><img src="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" alt="" /></p><p>Matt Shumer’s hands-on GPT-6 Astra review: everyday engineering, computer use, ambitious game-world experiments, and the Manager Loop coordination setup.</p>]]></content:encoded>
-<media:content url="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" medium="image" />
-<media:thumbnail url="https://somethingbig.ai/post-assets/astra-review/cover-20260903-final.png" />
-</item>
-<item>
-<title>Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupbdkjqpt2l</guid>
-<pubDate>Fri, 04 Sep 2026 15:21:36 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>PUBG developer Krafton plans to invest $250M in India in the next 3-4 years, for a total investment of $500M+ since 2021, as it expands into AI and robotics (Jagmeet Singh/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupaz5ypzd27</guid>
-<pubDate>Fri, 04 Sep 2026 15:15:47 +0000</pubDate>
-<description>Krafton&#x27;s planned investment in India is set to surpass $500 million with its latest commitment.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" alt="" /></p><p>Krafton&#x27;s planned investment in India is set to surpass $500 million with its latest commitment.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800" />
-</item>
-<item>
-<title>By declaring GPT-6 Astra to be AGI, OpenAI is being flippant and cementing the term&#x27;s status as nothing more than marketing (M.G. Siegler/Spyglass)</title>
-<link>https://spyglass.org/agi-2026/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mupahdknqg2d</guid>
-<pubDate>Fri, 04 Sep 2026 15:05:49 +0000</pubDate>
-<description>With &#x27;GPT-6 Astra&#x27;, AGI is here! Congrats, everyone!</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" alt="" /></p><p>With &#x27;GPT-6 Astra&#x27;, AGI is here! Congrats, everyone!</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/ChatGPT-Image-Sep-3--2026--11_43_50-PM.png" />
-</item>
-<item>
-<title>How OpenAI limited METR&#x27;s probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?unlocked_article_code=1.-lA.hbw8.4sMxBQlKEu2a&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mup6inunwj2v</guid>
-<pubDate>Fri, 04 Sep 2026 14:30:46 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>What to expect from Apple&#x27;s September 9 &quot;Surprise and Shine&quot; event: foldable iPhone, iPhone 18 Pro and Pro Max, Apple Watch refresh with ceramic cases, and more (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-04/what-to-expect-at-sept-9-apple-event-foldable-iphone-iphone-18-pro-watch?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODUyODY3MiwiZXhwIjoxNzg5MTMzNDcyLCJhcnRpY2xlSWQiOiJUS1VDNFlOM04wQUUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FcaFtdv4uwkRzS9XTNpZAW_xehoawqChWiTKXZwO5cI</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mup4b4lvyo2a</guid>
-<pubDate>Fri, 04 Sep 2026 13:50:45 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
