@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 09 Sep 2026 05:14:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 09:51:05 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Inside XPENG’s Bet on IRON: He Xiaopeng on Why the Hardest Path in Humanoid Robotics Is Never Crowded</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d442016236ae6ad4c1ed.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/inside-xpeng-s-bet-on-iron-he-xiaopeng-on-why-the-hardest-path-in-humanoid-robotics-is-never-crowded</guid>
+<pubDate>Wed, 09 Sep 2026 06:45:50 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/inside-xpeng-s-bet-on-iron-he-xiaopeng-on-why-the-hardest-path-in-humanoid-robotics-is-never-crowded" rel="related" type="text/html" />
+<description>In an unusually candid documentary-style essay following the commissioning of XPENG’s humanoid assembly line, CEO He Xiaopeng reflects on six years of failures, why the company avoids stage demos, and how EV intelligence translates to physical AI.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/iron-7.webp" alt="" /></p><p>In an unusually candid documentary-style essay following the commissioning of XPENG’s humanoid assembly line, CEO He Xiaopeng reflects on six years of failures, why the company avoids stage demos, and how EV intelligence translates to physical AI.</p><p><a href="https://www.humanoidsdaily.com/news/inside-xpeng-s-bet-on-iron-he-xiaopeng-on-why-the-hardest-path-in-humanoid-robotics-is-never-crowded">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/iron-7.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/iron-7.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/iron-7.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Figure AI Reports Rapid Growth for Index, Surpassing 69,000 Weekly Active Users</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2ef7f42573d38773c358.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>AGIBOT Tops Medal Table at 2nd World Humanoid Robot Games as Beijing Showdown Concludes</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/71e6762c2dbe028a81db.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-tops-medal-table-at-2nd-world-humanoid-robot-games-as-beijing-showdown-concludes</guid>
-<pubDate>Thu, 27 Aug 2026 13:33:58 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agibot-tops-medal-table-at-2nd-world-humanoid-robot-games-as-beijing-showdown-concludes" rel="related" type="text/html" />
-<description>AGIBOT secures first place with 46 medals at the 2nd World Humanoid Robot Games, narrowly edging out TianGong in a fierce multi-discipline competition showcasing mass-produced hardware.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" alt="" /></p><p>AGIBOT secures first place with 46 medals at the 2nd World Humanoid Robot Games, narrowly edging out TianGong in a fierce multi-discipline competition showcasing mass-produced hardware.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-tops-medal-table-at-2nd-world-humanoid-robot-games-as-beijing-showdown-concludes">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-obstacle-race.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
