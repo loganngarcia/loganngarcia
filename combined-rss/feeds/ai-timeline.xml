@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 09 Sep 2026 09:51:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 17:28:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Flow Reasoning Models: A New Way for AI to Reason</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dc8a1a91342375a1912f.html</link>
+<guid isPermaLink="false">combined:ca1d06315de7cafdded1fc661342e36993f459e9</guid>
+<pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/flow-reasoning-models-a-new-way-for-ai-to-reason" rel="related" type="text/html" />
+<description>Plus more about TTPO, Normalized LoRA, and Fast Weight Attention for Continual Learning</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/74cf5879-5d07-4e20-9f58-508e5a53831f/issue_124.jpg?t=1788937866" alt="" /></p><p>Plus more about TTPO, Normalized LoRA, and Fast Weight Attention for Continual Learning</p><p><a href="https://mail.bycloud.ai/p/flow-reasoning-models-a-new-way-for-ai-to-reason">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/74cf5879-5d07-4e20-9f58-508e5a53831f/issue_124.jpg?t=1788937866" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/74cf5879-5d07-4e20-9f58-508e5a53831f/issue_124.jpg?t=1788937866" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/74cf5879-5d07-4e20-9f58-508e5a53831f/issue_124.jpg?t=1788937866" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A Self-Improving RLM Harness Just Dropped</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f996e30ffa9a7b0767ad.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fefba347-18db-4774-8c45-073a4e5c194e/issue_107.jpg?t=1778609350" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fefba347-18db-4774-8c45-073a4e5c194e/issue_107.jpg?t=1778609350" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fefba347-18db-4774-8c45-073a4e5c194e/issue_107.jpg?t=1778609350" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>DeepSeek's Deleted Paper: Thinking With Visual Primitives</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a6908b50705aefc5777b.html</link>
-<guid isPermaLink="false">combined:a7b582587992068aa90161f1f99e680abf48ac67</guid>
-<pubDate>Tue, 05 May 2026 19:33:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/deepseek-s-deleted-paper-thinking-with-visual-primitives" rel="related" type="text/html" />
-<description>can't believe they removed this paper unknowningly</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" alt="" /></p><p>can't believe they removed this paper unknowningly</p><p><a href="https://mail.bycloud.ai/p/deepseek-s-deleted-paper-thinking-with-visual-primitives">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1fbc5233-d2c5-48af-b6b5-925574ca3dc8/issue_106.jpg?t=1778005526" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>

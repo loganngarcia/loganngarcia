@@ -5,8 +5,64 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 09 Sep 2026 09:51:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 17:28:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Unitree Open-Sources UnifoLM-WLA-1.0 to Tackle Humanoid Generalization</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8c7039513334c0aa75a.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization</guid>
+<pubDate>Thu, 10 Sep 2026 10:07:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization" rel="related" type="text/html" />
+<description>Unitree Robotics has open-sourced UnifoLM-WLA-1.0, a 6-billion-parameter foundation model that combines an embodied reasoner, dynamic optical-flow world modeling, and an MMDiT action expert to drive whole-body manipulation.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" alt="" /></p><p>Unitree Robotics has open-sourced UnifoLM-WLA-1.0, a 6-billion-parameter foundation model that combines an embodied reasoner, dynamic optical-flow world modeling, and an MMDiT action expert to drive whole-body manipulation.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Agile Robots CEO Predicts Physical AI Will Surpass Automotive by 10x</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aef1971314c02799146b.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x</guid>
+<pubDate>Thu, 10 Sep 2026 09:20:37 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x" rel="related" type="text/html" />
+<description>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" alt="" /></p><p>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</p><p><a href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>The "OpenAI of Robotics" Debate Reignites as GPT-6 Astra Paints in Real Life</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/91b9167038b33c507c4e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-openai-of-robotics-debate-reignites-as-gpt-6-astra-paints-in-real-life</guid>
+<pubDate>Wed, 09 Sep 2026 20:24:38 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/the-openai-of-robotics-debate-reignites-as-gpt-6-astra-paints-in-real-life" rel="related" type="text/html" />
+<description>An impromptu painting demonstration using OpenAI’s GPT-6 Astra has triggered a wider industry clash over whether foundation models will commoditize physical AI or hit an unyielding hardware ceiling.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/astra-golden-gate.webp" alt="" /></p><p>An impromptu painting demonstration using OpenAI’s GPT-6 Astra has triggered a wider industry clash over whether foundation models will commoditize physical AI or hit an unyielding hardware ceiling.</p><p><a href="https://www.humanoidsdaily.com/news/the-openai-of-robotics-debate-reignites-as-gpt-6-astra-paints-in-real-life">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/astra-golden-gate.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/astra-golden-gate.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/astra-golden-gate.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Nucleus Pivots to Wheeled Base for "Nucleus II" Following Factory Floor Pushback</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/44dee0ff1ae59e125ddf.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/nucleus-pivots-to-wheeled-base-for-nucleus-ii-following-factory-floor-pushback</guid>
+<pubDate>Wed, 09 Sep 2026 10:18:27 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/nucleus-pivots-to-wheeled-base-for-nucleus-ii-following-factory-floor-pushback" rel="related" type="text/html" />
+<description>Just a month after breaking stealth with a legged Unitree platform, European robotics startup Nucleus has deployed Nucleus II on a wheeled mobile chassis, prioritizing payload, runtime, and stability.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nucleus-2.webp" alt="" /></p><p>Just a month after breaking stealth with a legged Unitree platform, European robotics startup Nucleus has deployed Nucleus II on a wheeled mobile chassis, prioritizing payload, runtime, and stability.</p><p><a href="https://www.humanoidsdaily.com/news/nucleus-pivots-to-wheeled-base-for-nucleus-ii-following-factory-floor-pushback">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nucleus-2.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nucleus-2.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nucleus-2.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Inside XPENG’s Bet on IRON: He Xiaopeng on Why the Hardest Path in Humanoid Robotics Is Never Crowded</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d442016236ae6ad4c1ed.html</link>
@@ -440,62 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-h1-2026.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Hack One Robot, Reach the Next: How Unitree’s G1 Left the Door Open to Root Takeover</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aca2c50b5cf0aae81a05.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hack-one-robot-reach-the-next-how-unitree-s-g1-left-the-door-open-to-root-takeover</guid>
-<pubDate>Sun, 30 Aug 2026 06:37:32 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/hack-one-robot-reach-the-next-how-unitree-s-g1-left-the-door-open-to-root-takeover" rel="related" type="text/html" />
-<description>A new security disclosure reveals how proximity and a cloud flaw enabled unauthenticated root takeover of Unitree’s G1 humanoid, spotlighting the physical risks of software security in embodied robotics.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" alt="" /></p><p>A new security disclosure reveals how proximity and a cloud flaw enabled unauthenticated root takeover of Unitree’s G1 humanoid, spotlighting the physical risks of software security in embodied robotics.</p><p><a href="https://www.humanoidsdaily.com/news/hack-one-robot-reach-the-next-how-unitree-s-g1-left-the-door-open-to-root-takeover">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unibleed-blurred.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>From AlphaGo to AstraTennis: Galbot Humanoids Complete 100+ Consecutive Rallies in Live Tennis Match</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d3d20ba0518b65bf1a94.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/from-alphago-to-astratennis-galbot-humanoids-complete-100-consecutive-rallies-in-live-tennis-match</guid>
-<pubDate>Sun, 30 Aug 2026 05:46:57 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/from-alphago-to-astratennis-galbot-humanoids-complete-100-consecutive-rallies-in-live-tennis-match" rel="related" type="text/html" />
-<description>During the opening ceremony of the second World Humanoid Robot Games, Galbot showcased autonomous humanoids completing over 100 consecutive tennis rallies against and alongside human athletes.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" alt="" /></p><p>During the opening ceremony of the second World Humanoid Robot Games, Galbot showcased autonomous humanoids completing over 100 consecutive tennis rallies against and alongside human athletes.</p><p><a href="https://www.humanoidsdaily.com/news/from-alphago-to-astratennis-galbot-humanoids-complete-100-consecutive-rallies-in-live-tennis-match">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-astratennis.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Lightberry Unveils Lumi: A $40k Interactive Humanoid Built on a Unitree Core</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f1915a55f99a93a90725.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lightberry-unveils-lumi-a-40k-interactive-humanoid-built-on-a-unitree-core</guid>
-<pubDate>Sat, 29 Aug 2026 11:46:16 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/lightberry-unveils-lumi-a-40k-interactive-humanoid-built-on-a-unitree-core" rel="related" type="text/html" />
-<description>San Francisco startup Lightberry has opened reservations for Lumi, a $39,990 bipedal robot pairing a Unitree mechanical baseline with custom American sensing, NVIDIA Thor compute, and a modular interaction engine.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" alt="" /></p><p>San Francisco startup Lightberry has opened reservations for Lumi, a $39,990 bipedal robot pairing a Unitree mechanical baseline with custom American sensing, NVIDIA Thor compute, and a modular interaction engine.</p><p><a href="https://www.humanoidsdaily.com/news/lightberry-unveils-lumi-a-40k-interactive-humanoid-built-on-a-unitree-core">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lightberry-lumi-in-car.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>South Korea Commits KRW 2.3 Trillion to Build Full-Stack Humanoid Robotics Ecosystem by 2030</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2e68d66df9755ce5572.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/south-korea-commits-krw-2-3-trillion-to-build-full-stack-humanoid-robotics-ecosystem-by-2030</guid>
-<pubDate>Sat, 29 Aug 2026 10:01:41 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/south-korea-commits-krw-2-3-trillion-to-build-full-stack-humanoid-robotics-ecosystem-by-2030" rel="related" type="text/html" />
-<description>South Korea is allocating $1.66 billion directly to humanoid robotics and $2.0 billion for physical AI field verification, targeting an 80% domestic component localization rate and state procurement of over 1,000 bipedal units.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" alt="" /></p><p>South Korea is allocating $1.66 billion directly to humanoid robotics and $2.0 billion for physical AI field verification, targeting an 80% domestic component localization rate and state procurement of over 1,000 bipedal units.</p><p><a href="https://www.humanoidsdaily.com/news/south-korea-commits-krw-2-3-trillion-to-build-full-stack-humanoid-robotics-ecosystem-by-2030">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/south-korea-humanoid.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
