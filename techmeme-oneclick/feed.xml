@@ -5,17 +5,43 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 09 Sep 2026 22:30:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 00:33:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Jeffrey Katzenberg, ex-OpenAI Sora head Bill Peebles, and ex-Dropbox CFO Sujay Jaswa plan to launch a startup to train AI video models for filmmakers (The Information)</title>
+<link>https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4rarunji2s</guid>
+<pubDate>Thu, 10 Sep 2026 00:10:59 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, &quot;readiness&quot; and Health Age metrics, and more, rolling out later in 2026 (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4puavapt26</guid>
+<pubDate>Wed, 09 Sep 2026 23:46:04 +0000</pubDate>
+<description>The update uses Apple Intelligence to make better sense of your health data.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" alt="" /></p><p>The update uses Apple Intelligence to make better sense of your health data.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" />
+</item>
+<item>
+<title>Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)</title>
+<link>https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4mrrqbzs2w</guid>
+<pubDate>Wed, 09 Sep 2026 22:51:01 +0000</pubDate>
+<description>From www.theblock.co</description>
+<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
+</item>
 <item>
 <title>Slack message: Automattic CEO Matt Mullenweg says CFO Mark Davies &quot;conspired&quot; with board members to put him on paid leave and Davies was voted to be interim CEO (Samantha Cole/404 Media)</title>
 <link>https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4jph2u3w2k</guid>
 <pubDate>Wed, 09 Sep 2026 21:56:01 +0000</pubDate>
 <description>Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members &quot;conspired&quot; behind his back to vote to put him on leave.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg.jpg" alt="" /></p><p>Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members &quot;conspired&quot; behind his back to vote to put him on leave.</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg.jpg" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg.jpg" />
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" alt="" /></p><p>Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members &quot;conspired&quot; behind his back to vote to put him on leave.</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" />
 </item>
 <item>
 <title>Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company (Reed Albergotti/Semafor)</title>
@@ -870,32 +896,6 @@
 <pubDate>Tue, 08 Sep 2026 02:05:38 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Grindr pays £26M to settle a 2024 UK lawsuit that alleged it shared users&#x27; HIV status with ad firms, in breach of UK law (Julia Kollewe/The Guardian)</title>
-<link>https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muxsu3icc22y</guid>
-<pubDate>Tue, 08 Sep 2026 00:56:22 +0000</pubDate>
-<description>US-owned dating app allegedly allowed ad firms access to private information in breach of UK law</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/c3ab739c6cb52fe06c96710731f7dfcb732b5989/34_178_2692_2155/master/2692.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=68aad4577780a1ffc679146befdf1ee7" alt="" /></p><p>US-owned dating app allegedly allowed ad firms access to private information in breach of UK law</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/c3ab739c6cb52fe06c96710731f7dfcb732b5989/34_178_2692_2155/master/2692.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=68aad4577780a1ffc679146befdf1ee7" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/c3ab739c6cb52fe06c96710731f7dfcb732b5989/34_178_2692_2155/master/2692.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=68aad4577780a1ffc679146befdf1ee7" />
-</item>
-<item>
-<title>Robinhood secures its first IPO underwriting role, in Oura&#x27;s IPO, which could give it more influence over how many shares are allocated to its customers (Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muxlkxniwb22</guid>
-<pubDate>Mon, 07 Sep 2026 22:46:00 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP (Vicky Ge Huang/Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/currencies/hunter-biden-and-his-laptop-enter-the-cryptosphere-with-new-meme-coin-4d46fc9c?st=rBFEhm&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3muxf4qzdre2s</guid>
-<pubDate>Mon, 07 Sep 2026 20:50:41 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
