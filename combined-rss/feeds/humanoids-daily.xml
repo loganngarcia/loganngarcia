@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 11 Sep 2026 13:43:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:51:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AGIBOT Open-Sources GE-Act 2.0, Challenging Unitree in the Open Embodied AI Race</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ef3c0b8196ecc798846.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race</guid>
+<pubDate>Fri, 11 Sep 2026 15:35:32 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race" rel="related" type="text/html" />
+<description>Hot on the heels of Unitree’s UnifoLM release, AGIBOT has open-sourced GE-Act 2.0, a native World-Action Model pretrained from scratch across 30,000 hours of manipulation data to eliminate the "validity gap."</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" alt="" /></p><p>Hot on the heels of Unitree’s UnifoLM release, AGIBOT has open-sourced GE-Act 2.0, a native World-Action Model pretrained from scratch across 30,000 hours of manipulation data to eliminate the "validity gap."</p><p><a href="https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Maven Robotics Breaks Stealth With $100M to Tackle Industrial Mixed Palletizing</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0b1d8b3280eb7a53903.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing</guid>
+<pubDate>Fri, 11 Sep 2026 15:10:18 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing" rel="related" type="text/html" />
+<description>Founded by Apple Special Projects Group veterans, Maven Robotics lands $100 million in Series A funding led by RoboStrategy to scale wheeled, dual-arm mobile manipulators across real-world logistics facilities.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" alt="" /></p><p>Founded by Apple Special Projects Group veterans, Maven Robotics lands $100 million in Series A funding led by RoboStrategy to scale wheeled, dual-arm mobile manipulators across real-world logistics facilities.</p><p><a href="https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Skild AI Crosses $100M ARR in 10 Months, Mounting an Enterprise Assault on Robotics "Demo Culture"</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5189cf7789aa808cb34.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nori-a3.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Lumos Robotics Unveils MOS 2 Mobile Manipulator Backed by Mitsubishi Factory Deployment</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d48d77032d0d6e62cd2f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lumos-robotics-unveils-mos-2-mobile-manipulator-backed-by-mitsubishi-factory-deployment</guid>
-<pubDate>Tue, 01 Sep 2026 12:22:07 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/lumos-robotics-unveils-mos-2-mobile-manipulator-backed-by-mitsubishi-factory-deployment" rel="related" type="text/html" />
-<description>Lumos Robotics has launched MOS 2, a heavy-duty wheeled dual-arm "AI Worker" with a 50 kg payload capacity, deployed at Mitsubishi Electric facilities following a funding round exceeding 1 billion yuan.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" alt="" /></p><p>Lumos Robotics has launched MOS 2, a heavy-duty wheeled dual-arm "AI Worker" with a 50 kg payload capacity, deployed at Mitsubishi Electric facilities following a funding round exceeding 1 billion yuan.</p><p><a href="https://www.humanoidsdaily.com/news/lumos-robotics-unveils-mos-2-mobile-manipulator-backed-by-mitsubishi-factory-deployment">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-mos2-plc-inspection.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Kinetic Blocks Opens Marketplace for Humanoid Training Data</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b41231d747ed7d650dae.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/kinetic-blocks-opens-marketplace-for-humanoid-training-data</guid>
-<pubDate>Tue, 01 Sep 2026 11:48:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/kinetic-blocks-opens-marketplace-for-humanoid-training-data" rel="related" type="text/html" />
-<description>Oslo-based Kinetic Blocks launches a gated two-sided market to standardize licensing, pricing, and quality grading for physical AI datasets.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" alt="" /></p><p>Oslo-based Kinetic Blocks launches a gated two-sided market to standardize licensing, pricing, and quality grading for physical AI datasets.</p><p><a href="https://www.humanoidsdaily.com/news/kinetic-blocks-opens-marketplace-for-humanoid-training-data">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kinetic-blocks.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
