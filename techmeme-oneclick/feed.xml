@@ -5,8 +5,44 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 11 Sep 2026 17:19:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:51:07 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The UK&#x27;s Office for National Statistics cites AI as a major driver of the country&#x27;s summer growth spurt, with GDP growing 0.4% in July, above expectations (Tom Rees/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbd46eim52n</guid>
+<pubDate>Fri, 11 Sep 2026 19:41:11 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Cohere is in advanced talks to raise between $2B and $3B, including financing from the Canadian government and existing backers, at a $20B valuation (Globe and Mail)</title>
+<link>https://www.theglobeandmail.com/business/article-canadian-ai-firm-cohere-in-advanced-talks-to-raise-up-to-3-billion/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbacgqkjb2s</guid>
+<pubDate>Fri, 11 Sep 2026 18:51:00 +0000</pubDate>
+<description>Deal would value the company at $20-billion and rank as the largest on record by a private Canadian startup</description>
+<content:encoded><![CDATA[<p><img src="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt="" /></p><p>Deal would value the company at $20-billion and rank as the largest on record by a private Canadian startup</p>]]></content:encoded>
+<media:content url="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" />
+</item>
+<item>
+<title>Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings (Andrew Solender/Axios)</title>
+<link>https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvb7hpzdgs2y</guid>
+<pubDate>Fri, 11 Sep 2026 18:36:04 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: in an internal Slack message Matt Mullenweg claims he is back in control of Automattic; on X, he says this may have been fifth coup attempt against him (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvb4f2jdvj22</guid>
+<pubDate>Fri, 11 Sep 2026 17:40:53 +0000</pubDate>
+<description>In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" alt="" /></p><p>In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" />
+</item>
 <item>
 <title>Internal note: Frank Shaw is leaving Microsoft after 17 years as chief communications officer, saying it is &quot;time for me to move on and try new things&quot; (Tom Warren/The Verge)</title>
 <link>https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms</link>
@@ -22,8 +58,10 @@
 <link>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvaxngydga2t</guid>
 <pubDate>Fri, 11 Sep 2026 16:16:06 +0000</pubDate>
-<description>From techcrunch.com</description>
-<content:encoded><![CDATA[<p>From techcrunch.com</p>]]></content:encoded>
+<description>At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675" alt="" /></p><p>At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675" />
 </item>
 <item>
 <title>Meta says it is making changes to prompts suggested by Meta AI after a viral video showed it posing invasive personal questions about a woman&#x27;s young daughters (Emma Roth/The Verge)</title>
@@ -870,44 +908,6 @@
 <content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/l-intro-1788977193.jpg" alt="" /></p><p>The new handset now comes in a burgundy colorway.</p>]]></content:encoded>
 <media:content url="https://www.engadget.com/img/gallery/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/l-intro-1788977193.jpg" medium="image" />
 <media:thumbnail url="https://www.engadget.com/img/gallery/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/l-intro-1788977193.jpg" />
-</item>
-<item>
-<title>Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven&#x27;t later been altered by AI (Benjamin Mayo/9to5Mac)</title>
-<link>https://9to5mac.com/2026/09/09/iphone-18-pro-can-authenticate-that-your-photo-wasnt-edited-with-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv43hhw23y2y</guid>
-<pubDate>Wed, 09 Sep 2026 17:41:01 +0000</pubDate>
-<description>Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that...</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Apple unveils the 2nm A20 Pro, featuring a 6-core CPU with two &quot;desktop class&quot; super cores, a 7-core GPU up to 40% faster, and 32 Neural Engine cores in total (Hartley Charlton/MacRumors)</title>
-<link>https://www.macrumors.com/2026/09/09/apple-unveils-a20-pro-as-first-2nm-smartphone-chip/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv42zzlmo22s</guid>
-<pubDate>Wed, 09 Sep 2026 17:33:30 +0000</pubDate>
-<description>Apple today revealed the A20 Pro chip in the iPhone 18 Pro and iPhone 18 Pro Max, built on a brand new architecture using 2nm process technology. Apple described the A20 Pro as &quot;an exceptional chip that sets a new bar for mobile computing&quot;. The chip has a 6-core CPU design with two new super cores that Apple says are up to 20% faster, calling them &quot;desktop class&quot; and &quot;the fastest in any smartphone,&quot; alongside four new efficiency cores.</description>
-<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/5LIs4sGFrb6tDcEjAQ_8zDl928M=/1600x/article-new/2026/09/a20-pro-chip.jpg" alt="" /></p><p>Apple today revealed the A20 Pro chip in the iPhone 18 Pro and iPhone 18 Pro Max, built on a brand new architecture using 2nm process technology. Apple described the A20 Pro as &quot;an exceptional chip that sets a new bar for mobile computing&quot;. The chip has a 6-core CPU design with two new super cores that Apple says are up to 20% faster, calling them &quot;desktop class&quot; and &quot;the fastest in any smartphone,&quot; alongside four new efficiency cores.</p>]]></content:encoded>
-<media:content url="https://images.macrumors.com/t/5LIs4sGFrb6tDcEjAQ_8zDl928M=/1600x/article-new/2026/09/a20-pro-chip.jpg" medium="image" />
-<media:thumbnail url="https://images.macrumors.com/t/5LIs4sGFrb6tDcEjAQ_8zDl928M=/1600x/article-new/2026/09/a20-pro-chip.jpg" />
-</item>
-<item>
-<title>Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv42ggvvxv24</guid>
-<pubDate>Wed, 09 Sep 2026 17:22:33 +0000</pubDate>
-<description>Apple’s next Pro iPhones are here.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Apple’s next Pro iPhones are here.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>A livestream of Apple&#x27;s &quot;Surprise and Shine&quot; event (Apple on YouTube)</title>
-<link>https://www.youtube.com/watch?v=39BalPDuTo0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv3zcvuwzw2d</guid>
-<pubDate>Wed, 09 Sep 2026 17:02:41 +0000</pubDate>
-<description>From www.youtube.com</description>
-<content:encoded><![CDATA[<p>From www.youtube.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
