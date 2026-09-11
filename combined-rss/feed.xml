@@ -5,8 +5,162 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 11 Sep 2026 09:26:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 13:43:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/34258d2adb0201d0a91e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvanlebo4b2d</guid>
+<pubDate>Fri, 11 Sep 2026 13:15:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development" rel="related" type="text/html" />
+<description>Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model to support the development of missile and rocket systems, highlighting growin...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidBOrNUlnLmA%2Fv1%2F1200x809.jpg" alt="" /></p><p>Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model to support the development of missile and rocket systems, highlighting growin...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidBOrNUlnLmA%2Fv1%2F1200x809.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidBOrNUlnLmA%2Fv1%2F1200x809.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidBOrNUlnLmA%2Fv1%2F1200x809.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A US court sentences Ukrainian Oleksii Lytvynenko to four years in prison for conspiracy to commit wire fraud in connection with the Conti ransomware attacks (Sergiu Gatlan/BleepingComputer)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4e6e80ec105765cdb2b3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mval4243ql2s</guid>
+<pubDate>Fri, 11 Sep 2026 12:31:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/" rel="related" type="text/html" />
+<description>A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/05/29/Prison-man.jpg" alt="" /></p><p>A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022.</p><p><a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2026/05/29/Prison-man.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/05/29/Prison-man.jpg" />
+<enclosure url="https://www.bleepstatic.com/content/hl-images/2026/05/29/Prison-man.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI (Anissa Gardizy/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9368996f68d3939ac5db.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvahz4bws624</guid>
+<pubDate>Fri, 11 Sep 2026 11:36:17 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/openais-fidji-simo-to-join-board-of-cloud-provider-nscale-ahead-of-ipo-3b452424" rel="related" type="text/html" />
+<description>Former OpenAI executive Fidji Simo has joined the board of directors at Nscale, a startup that has raised billions to build data centers for AI.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-01831640%2Fsocial" alt="" /></p><p>Former OpenAI executive Fidji Simo has joined the board of directors at Nscale, a startup that has raised billions to build data centers for AI.</p><p><a href="https://www.wsj.com/tech/ai/openais-fidji-simo-to-join-board-of-cloud-provider-nscale-ahead-of-ipo-3b452424">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-01831640%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-01831640%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-01831640%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of "slop mathematics" (Truman Dickerson/Business Insider)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ae729c819dc02f5e49b7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvahqa4dfn27</guid>
+<pubDate>Fri, 11 Sep 2026 11:31:19 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9" rel="related" type="text/html" />
+<description>Caltech mathematicians said the event, which is sponsored by AI companies, "is likely to have destructive impacts for the mathematical community."</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aa3256b9b8974787b1cad06?width=1200&amp;format=jpeg" alt="" /></p><p>Caltech mathematicians said the event, which is sponsored by AI companies, "is likely to have destructive impacts for the mathematical community."</p><p><a href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.insider.com/6aa3256b9b8974787b1cad06?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.insider.com/6aa3256b9b8974787b1cad06?width=1200&amp;format=jpeg" />
+<enclosure url="https://i.insider.com/6aa3256b9b8974787b1cad06?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Source and draft press release: the Trump admin will lend $100M to Africell, Africa's only US-owned telecom company, aiming to counter Huawei's Africa expansion (Alexandra Alper/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/856e5db3dd3a91bdc3b9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvagmi4cr22s</guid>
+<pubDate>Fri, 11 Sep 2026 11:11:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/" rel="related" type="text/html" />
+<description>The Trump administration will lend nearly $100 million to Africell, Africa's only American-owned telecoms firm, as it seeks to counter the expansion of China's Huawei ​in Africa, according to a person...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCYOI7DT2UVJUVI2B7E3NUHRL7E.jpg%3Fauth%3D1b4e5cd279b6cc4e00fa72b3880b94f50a86f88c788d035042b5bd108d1b9f95%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The Trump administration will lend nearly $100 million to Africell, Africa's only American-owned telecoms firm, as it seeks to counter the expansion of China's Huawei ​in Africa, according to a person...</p><p><a href="https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCYOI7DT2UVJUVI2B7E3NUHRL7E.jpg%3Fauth%3D1b4e5cd279b6cc4e00fa72b3880b94f50a86f88c788d035042b5bd108d1b9f95%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCYOI7DT2UVJUVI2B7E3NUHRL7E.jpg%3Fauth%3D1b4e5cd279b6cc4e00fa72b3880b94f50a86f88c788d035042b5bd108d1b9f95%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCYOI7DT2UVJUVI2B7E3NUHRL7E.jpg%3Fauth%3D1b4e5cd279b6cc4e00fa72b3880b94f50a86f88c788d035042b5bd108d1b9f95%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Moonshot AI told investors it topped $1B ARR in August, up from $300M in June, driven by its Kimi K3 release; it aims to hit $2B ARR by the end of 2026 (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4139e278efec67b8f5f3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvafiqklen26</guid>
+<pubDate>Fri, 11 Sep 2026 10:51:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026" rel="related" type="text/html" />
+<description>Moonshot AI is targeting a manifold jump in annualized revenue to $2 billion by the end of the year, using the breakout success of its Kimi K3 model to dial up the heat on rivals from Anthropic PBC to...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fim0X5alBXbWk%2Fv0%2F1200x800.jpg" alt="" /></p><p>Moonshot AI is targeting a manifold jump in annualized revenue to $2 billion by the end of the year, using the breakout success of its Kimi K3 model to dial up the heat on rivals from Anthropic PBC to...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fim0X5alBXbWk%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fim0X5alBXbWk%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fim0X5alBXbWk%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A US judge dismisses two lawsuits against LinkedIn over its scanning of browser extensions, saying users voluntarily expose data by downloading extensions (Jon Brodkin/Ars Technica)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8bbba81b854df9bfdb3b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvaewpnfyz2y</guid>
+<pubDate>Fri, 11 Sep 2026 10:41:15 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/" rel="related" type="text/html" />
+<description>Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg" alt="" /></p><p>Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.</p><p><a href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg" />
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ayar Labs, which is developing a way to link AI chips directly with optical connections, raised $150M, an extension of its $500M Series E in March 2026 (Stephen Nellis/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2ea3a4cf2ce590858ffc.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvaenrw7jj26</guid>
+<pubDate>Fri, 11 Sep 2026 10:36:16 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/" rel="related" type="text/html" />
+<description>Ayar Labs, a Silicon Valley startup developing a way to link AI chips directly together with optical connections, on Thursday ​said it has raised an additional $150 million.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Ayar Labs, a Silicon Valley startup developing a way to link AI chips directly together with optical connections, on Thursday ​said it has raised an additional $150 million.</p><p><a href="https://www.reuters.com/world/asia-pacific/ayar-labs-backed-by-chip-giants-extends-funding-round-by-150-million-2026-09-10/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Garry Tan says "I would do nothing" about China's AI distillation and urges the industry to focus on current AI risks instead of doomsday-style extinction fears (CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed055a488c24fe055e1a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvact2uo7w22</guid>
+<pubDate>Fri, 11 Sep 2026 10:03:26 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html" rel="related" type="text/html" />
+<description>At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" alt="" /></p><p>At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.</p><p><a href="https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Polymarket names Warren Jenson its first CFO as the company aims to grow in the US; Jenson served as finance chief of Amazon, EA, NBC, and most recently Nielsen (Katherine Hamilton/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/578b221f4d0f9aa7e97d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvabuiw6py2e</guid>
+<pubDate>Fri, 11 Sep 2026 09:46:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/c-suite/polymarket-appoints-first-finance-chief-amid-u-s-growth-plans-882f8160" rel="related" type="text/html" />
+<description>Warren Jenson, who previously served as finance chief of Amazon, Electronic Arts, Delta Air Lines and NBC during the ‘90s and early 2000s, has been named Polymarket’s first chief financial officer.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" alt="" /></p><p>Warren Jenson, who previously served as finance chief of Amazon, Electronic Arts, Delta Air Lines and NBC during the ‘90s and early 2000s, has been named Polymarket’s first chief financial officer.</p><p><a href="https://www.wsj.com/business/c-suite/polymarket-appoints-first-finance-chief-amid-u-s-growth-plans-882f8160">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: TikTok rejects ads from Meta that call on competitors to join Meta in settling with US state attorneys general in a landmark child safety lawsuit (Sara Fischer/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6f7a2148df80dd627cc1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvaazj2zka2y</guid>
+<pubDate>Fri, 11 Sep 2026 09:31:14 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement" rel="related" type="text/html" />
+<description>Part of Meta's historic multibillion-dollar settlement is contingent on its peers also agreeing to settle.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" alt="" /></p><p>Part of Meta's historic multibillion-dollar settlement is contingent on its peers also agreeing to settle.</p><p><a href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms (Tiffany Hsu/New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e3738cd3a766a5167645.html</link>
@@ -736,160 +890,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FW3MQZ7LCKRKJNINBXMLUAOBRXA.jpg%3Fauth%3D122a290b96d0ad06887e8d4915518bd2c75231b35cbf2c1f69a751e98871198a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Sources including French public officials detail how Mistral's rise over the past three years owes much to the privileged relationship it built with Macron (Océane Herrero/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/405c41d3428a26dcdf06.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv5bjkwjcv2s</guid>
-<pubDate>Thu, 10 Sep 2026 05:02:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/" rel="related" type="text/html" />
-<description>Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing.</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/06/mistral_ai_01-feat01.jpg" alt="" /></p><p>Mistral has forged unrivaled ties with the French presidency. Now, Emmanuel Macron is departing.</p><p><a href="https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/06/mistral_ai_01-feat01.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/06/mistral_ai_01-feat01.jpg" />
-<enclosure url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/06/mistral_ai_01-feat01.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI Foundation board member Paul Christiano says the AI industry is currently not on track to reduce the acute loss-of-control risk to an "acceptable" level (Paul Christiano/@paulfchristiano)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8d3d3dc6bcb303ea62b0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv5a2mwyir2n</guid>
-<pubDate>Thu, 10 Sep 2026 04:35:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://x.com/paulfchristiano/status/2097733214303645729" rel="related" type="text/html" />
-<description>Personal statement on joining the OpenAI board</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838468096268484608%2FBuHSJAGo_400x400.jpg" alt="" /></p><p>Personal statement on joining the OpenAI board</p><p><a href="https://x.com/paulfchristiano/status/2097733214303645729">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838468096268484608%2FBuHSJAGo_400x400.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838468096268484608%2FBuHSJAGo_400x400.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F838468096268484608%2FBuHSJAGo_400x400.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Alibaba is set to lead a $300M round in AI model testing startup UniPat AI at a $2.5B valuation; UniPat founder Li Kuan worked at Alibaba's Tongyi Lab (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/139c6edbb1a575a0f7f0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv56ezpnmg24</guid>
-<pubDate>Thu, 10 Sep 2026 04:06:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value" rel="related" type="text/html" />
-<description>Alibaba Group Holding Ltd. is slated to lead a $300 million investment in AI training and benchmarking startup UniPat AI, valuing the nascent company at $2.5 billion and giving a vote of confidence to...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMjVE.Ut89co%2Fv0%2F1200x800.jpg" alt="" /></p><p>Alibaba Group Holding Ltd. is slated to lead a $300 million investment in AI training and benchmarking startup UniPat AI, valuing the nascent company at $2.5 billion and giving a vote of confidence to...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMjVE.Ut89co%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMjVE.Ut89co%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMjVE.Ut89co%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Amazon names Mandiant founder Kevin Mandia to its board of directors, noting his extensive experience "combating cyber threats" in public and private sectors (Annie Palmer/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/04341c4a26c442bd086c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv54y7eqkk2d</guid>
-<pubDate>Thu, 10 Sep 2026 03:40:56 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html" rel="related" type="text/html" />
-<description>Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" alt="" /></p><p>Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.</p><p><a href="https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>New Mexico, the only US state taking the Cambridge Analytica case to trial, accused Meta of failing to protect Facebook user data in its opening statements (Mikella Schuettler/Associated Press)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e9a015f217debb91db26.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv545mkqek26</guid>
-<pubDate>Thu, 10 Sep 2026 03:26:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a" rel="related" type="text/html" />
-<description>Opening statements in the Facebook trial over privacy concerns linked to the 2016 election began in New Mexico on Wednesday.</description>
-<content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/9f27e32/2147483647/strip/true/crop/4788x3190+0+7/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F91%2Ff1c481beb6da27ec2ae51cf26666%2Fcc6cd835229d4206a3cc390327079c08" alt="" /></p><p>Opening statements in the Facebook trial over privacy concerns linked to the 2016 election began in New Mexico on Wednesday.</p><p><a href="https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://dims.apnews.com/dims4/default/9f27e32/2147483647/strip/true/crop/4788x3190+0+7/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F91%2Ff1c481beb6da27ec2ae51cf26666%2Fcc6cd835229d4206a3cc390327079c08" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://dims.apnews.com/dims4/default/9f27e32/2147483647/strip/true/crop/4788x3190+0+7/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F91%2Ff1c481beb6da27ec2ae51cf26666%2Fcc6cd835229d4206a3cc390327079c08" />
-<enclosure url="https://dims.apnews.com/dims4/default/9f27e32/2147483647/strip/true/crop/4788x3190+0+7/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2F91%2Ff1c481beb6da27ec2ae51cf26666%2Fcc6cd835229d4206a3cc390327079c08" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Paul Christiano, an AI researcher and advisor at CAISI, is joining the OpenAI Foundation board of directors and its Safety and Security Committee (Tim Fernholz/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2d26331197e77bad2052.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv53ljwfyi2s</guid>
-<pubDate>Thu, 10 Sep 2026 03:15:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" rel="related" type="text/html" />
-<description>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" /></p><p>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</p><p><a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Kepler Computing, which claims its 3D stacking and new material can increase HBM and SRAM density without relying on EUV, emerges from stealth with $468M (Lauren Goode/Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0ef3797e2097a843a58a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4ze3gavs27</guid>
-<pubDate>Thu, 10 Sep 2026 02:36:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/" rel="related" type="text/html" />
-<description>Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" alt="" /></p><p>Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.</p><p><a href="https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" />
-<enclosure url="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy (Tim De Chant/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9b8574f42722587301ac.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4xoff7t72w</guid>
-<pubDate>Thu, 10 Sep 2026 02:05:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/" rel="related" type="text/html" />
-<description>Massachusetts has become the third state in as many months to slap new restrictions on data center development.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" alt="" /></p><p>Massachusetts has become the third state in as many months to slap new restrictions on data center development.</p><p><a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a "nonexclusive licensing agreement" (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf0c9be602aacab5e414.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4xgnbglc2w</guid>
-<pubDate>Thu, 10 Sep 2026 02:01:38 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html" rel="related" type="text/html" />
-<description>The Justice Department is examining whether the tech giant sought to sidestep antitrust scrutiny.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F09%2Fmultimedia%2F09biz-nvidia-probe-kpfv%2F09biz-nvidia-probe-kpfv-facebookJumbo.jpg" alt="" /></p><p>The Justice Department is examining whether the tech giant sought to sidestep antitrust scrutiny.</p><p><a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F09%2Fmultimedia%2F09biz-nvidia-probe-kpfv%2F09biz-nvidia-probe-kpfv-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F09%2Fmultimedia%2F09biz-nvidia-probe-kpfv%2F09biz-nvidia-probe-kpfv-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F09%2Fmultimedia%2F09biz-nvidia-probe-kpfv%2F09biz-nvidia-probe-kpfv-facebookJumbo.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI (Madison Mills/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2a9c181dfcb24526ffb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4x4i2kmi2r</guid>
-<pubDate>Thu, 10 Sep 2026 01:55:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview" rel="related" type="text/html" />
-<description>"If you're under pressure to race, you have to cut corners," Jacob Coxon said in an interview with Axios.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FoD1B_yiaTpfuqpLImfTSryp1-OU%3D%2F0x315%3A7488x4527%2F1366x768%2F2026%2F09%2F10%2F1788998456405.jpeg" alt="" /></p><p>"If you're under pressure to race, you have to cut corners," Jacob Coxon said in an interview with Axios.</p><p><a href="https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FoD1B_yiaTpfuqpLImfTSryp1-OU%3D%2F0x315%3A7488x4527%2F1366x768%2F2026%2F09%2F10%2F1788998456405.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FoD1B_yiaTpfuqpLImfTSryp1-OU%3D%2F0x315%3A7488x4527%2F1366x768%2F2026%2F09%2F10%2F1788998456405.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FoD1B_yiaTpfuqpLImfTSryp1-OU%3D%2F0x315%3A7488x4527%2F1366x768%2F2026%2F09%2F10%2F1788998456405.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>California Gov. Gavin Newsom signs into law two bills, backed by Anthropic and OpenAI, regulating how outside groups evaluate AI for safety (Christine Mui/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/60728fa71b7ae0e9aeb5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4wbomqw624</guid>
-<pubDate>Thu, 10 Sep 2026 01:40:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928" rel="related" type="text/html" />
-<description>OpenAI endorsed the bills on Wednesday after a former AI researcher’s fears about existential risks went viral and just before they were signed into law.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fc6%252Fbb%252Fe900f5b94b23b3f0381a50f7a0f2%252Fgavin-newsom-sept-4-2026-1028.JPG" alt="" /></p><p>OpenAI endorsed the bills on Wednesday after a former AI researcher’s fears about existential risks went viral and just before they were signed into law.</p><p><a href="https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fc6%252Fbb%252Fe900f5b94b23b3f0381a50f7a0f2%252Fgavin-newsom-sept-4-2026-1028.JPG" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fc6%252Fbb%252Fe900f5b94b23b3f0381a50f7a0f2%252Fgavin-newsom-sept-4-2026-1028.JPG" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fc6%252Fbb%252Fe900f5b94b23b3f0381a50f7a0f2%252Fgavin-newsom-sept-4-2026-1028.JPG" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>The "OpenAI of Robotics" Debate Reignites as GPT-6 Astra Paints in Real Life</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/91b9167038b33c507c4e.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-openai-of-robotics-debate-reignites-as-gpt-6-astra-paints-in-real-life</guid>
@@ -1199,14 +1199,14 @@
 </item>
 <item>
 <title>How to think about the robotics market</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ec4b1a9b0540754fa0a1.html</link>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3c652291d8a31ea16b04.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/how-to-think-about-the-robotics-market</guid>
 <pubDate>Thu, 03 Sep 2026 19:26:32 +0000</pubDate>
 <source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
 <category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/how-to-think-about-the-robotics-market" rel="related" type="text/html" />
+<atom:link href="https://www.humanoidsdaily.com/features/how-to-think-about-the-robotics-market" rel="related" type="text/html" />
 <description>RoboStrategy CMO Kevin McCordic lays out the case for physical AI: why AI finally makes humanoid labour possible, why it lands under $2 an hour, and why a roughly $200B market is aimed at a $60T one.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" alt="" /></p><p>RoboStrategy CMO Kevin McCordic lays out the case for physical AI: why AI finally makes humanoid labour possible, why it lands under $2 an hour, and why a roughly $200B market is aimed at a $60T one.</p><p><a href="https://www.humanoidsdaily.com/news/how-to-think-about-the-robotics-market">Open Original Article</a></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" alt="" /></p><p>RoboStrategy CMO Kevin McCordic lays out the case for physical AI: why AI finally makes humanoid labour possible, why it lands under $2 an hour, and why a roughly $200B market is aimed at a $60T one.</p><p><a href="https://www.humanoidsdaily.com/features/how-to-think-about-the-robotics-market">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robostrategy-this-is-pointless-graph.webp" type="image/webp" length="0" />
