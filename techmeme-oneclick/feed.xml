@@ -5,15 +5,39 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 11 Sep 2026 04:52:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 09:20:48 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms (Tiffany Hsu/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7wootd4d2w</guid>
+<pubDate>Fri, 11 Sep 2026 06:26:14 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Official doc: India&#x27;s Serious Fraud Office urges the government to probe Xiaomi over alleged business model irregularities and foreign investment law violations (Aditya Kalra/Reuters)</title>
+<link>https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7silb4z227</guid>
+<pubDate>Fri, 11 Sep 2026 05:11:14 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>President Trump rejects warnings of AI-driven human extinction, saying the US leads China by a year and will be &quot;in a very bad position&quot; if it doesn&#x27;t win in AI (Jeff Mason/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7rodrqdb24</guid>
+<pubDate>Fri, 11 Sep 2026 04:56:34 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Tencent-backed AI chipmaker Enflame&#x27;s shares surged 188% in their Shanghai debut, giving Enflame a market cap of $26.3B, after raising ~$910M in an IPO (Ann Cao/South China Morning Post)</title>
 <link>https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7qtuv6ro2y</guid>
 <pubDate>Fri, 11 Sep 2026 04:41:45 +0000</pubDate>
-<description>The Tencent-backed company sees share price surge, highlighting Enflame’s role in Beijing’s push for domestic chips amid US export restrictions.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/e8711f2e-8407-47a9-819e-8692edbda962_8f4cf9c6.jpg?itok=C25mUf6X&amp;v=1789091154" alt="" /></p><p>The Tencent-backed company sees share price surge, highlighting Enflame’s role in Beijing’s push for domestic chips amid US export restrictions.</p>]]></content:encoded>
+<description>Tencent-backed company valued at US$25 billion, highlighting its role in Beijing’s push for domestic chips amid US export restrictions.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/e8711f2e-8407-47a9-819e-8692edbda962_8f4cf9c6.jpg?itok=C25mUf6X&amp;v=1789091154" alt="" /></p><p>Tencent-backed company valued at US$25 billion, highlighting its role in Beijing’s push for domestic chips amid US export restrictions.</p>]]></content:encoded>
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/e8711f2e-8407-47a9-819e-8692edbda962_8f4cf9c6.jpg?itok=C25mUf6X&amp;v=1789091154" medium="image" />
 <media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/11/e8711f2e-8407-47a9-819e-8692edbda962_8f4cf9c6.jpg?itok=C25mUf6X&amp;v=1789091154" />
 </item>
@@ -882,30 +906,6 @@
 <pubDate>Wed, 09 Sep 2026 12:20:48 +0000</pubDate>
 <description>From www.axios.com</description>
 <content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Legal AI startup Harvey raised $550M co-led by Lightspeed and Diffusion at a $15.6B valuation, up from an $11B valuation when it raised $200M in March (Rebecca Torrence/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv3i6aehk424</guid>
-<pubDate>Wed, 09 Sep 2026 11:55:50 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: PE firm Silver Lake intends to merge French software companies Cegid and Silae in a €10B+ deal, allowing them to combine data and integrate software (Financial Times)</title>
-<link>https://www.ft.com/content/2cc88608-04b2-4dcb-8c89-698f251de170</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv3hddlz5i24</guid>
-<pubDate>Wed, 09 Sep 2026 11:40:48 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Lyft begins to offer Waymo rides in Nashville at no additional cost, the second city where it is offering robotaxi trips, as it plays catch up with Uber (Natalie Lung/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-09/lyft-begins-offering-waymo-robotaxi-rides-on-its-app-in-nashville</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv3gimismh2s</guid>
-<pubDate>Wed, 09 Sep 2026 11:25:51 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
