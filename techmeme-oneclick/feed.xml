@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 10 Sep 2026 22:25:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 00:20:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints (The Information)</title>
+<link>https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7bcfy2gb2s</guid>
+<pubDate>Fri, 11 Sep 2026 00:03:33 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity (Lucinda Shen/Axios)</title>
+<link>https://www.axios.com/pro/all-deals/2026/09/10/due-diligence-ai-xapien-56-million</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv76eu5add2t</guid>
+<pubDate>Thu, 10 Sep 2026 23:11:14 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey&#x27;s Erebor Bank (Wall Street Journal)</title>
 <link>https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0</link>
@@ -884,26 +900,6 @@
 <pubDate>Wed, 09 Sep 2026 03:40:46 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft&#x27;s September 2026 Patch Tuesday fixes a record ~972 vulnerabilities, bringing its total flaws patched in 2026 to 2,760, more than double from 2025 (Dan Goodin/Ars Technica)</title>
-<link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv2lfrkvrr2n</guid>
-<pubDate>Wed, 09 Sep 2026 03:21:05 +0000</pubDate>
-<description>Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg" alt="" /></p><p>Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.</p>]]></content:encoded>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg" medium="image" />
-<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg" />
-</item>
-<item>
-<title>Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements (Dwarkesh Podcast)</title>
-<link>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv2himmgva27</guid>
-<pubDate>Wed, 09 Sep 2026 02:11:05 +0000</pubDate>
-<description>Breaking down 6 years of pretraining progress into data vs model improvements</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!4VW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5b7bfa0-c68c-4e38-a34b-f24075e27863_1220x1020.png" alt="" /></p><p>Breaking down 6 years of pretraining progress into data vs model improvements</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!4VW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5b7bfa0-c68c-4e38-a34b-f24075e27863_1220x1020.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!4VW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5b7bfa0-c68c-4e38-a34b-f24075e27863_1220x1020.png" />
 </item>
 </channel>
 </rss>
