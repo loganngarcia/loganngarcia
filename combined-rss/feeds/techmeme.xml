@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 12 Sep 2026 20:30:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 22:29:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying "Dario is right" (Ben Johansen/Politico)</title>
@@ -72,10 +72,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china" rel="related" type="text/html" />
 <description>In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiJnU63hOvGo%2Fv0%2F1200x800.jpg" alt="" /></p><p>In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiJnU63hOvGo%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiJnU63hOvGo%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiJnU63hOvGo%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMpobvZK5UXc%2Fv0%2F1200x675.jpg" alt="" /></p><p>In June 2024, during a campaign stop in Las Vegas, then-candidate Donald Trump got a glimpse of the technology that would come to define his second presidential term.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMpobvZK5UXc%2Fv0%2F1200x675.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMpobvZK5UXc%2Fv0%2F1200x675.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMpobvZK5UXc%2Fv0%2F1200x675.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Kevin Whitelaw/Bloomberg)</title>
