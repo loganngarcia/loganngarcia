@@ -5,8 +5,62 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 12 Sep 2026 12:48:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:53:09 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdflwiwkr2s</guid>
+<pubDate>Sat, 12 Sep 2026 15:31:06 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Kevin Whitelaw/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvde7na6j72w</guid>
+<pubDate>Sat, 12 Sep 2026 15:06:20 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amodei warns that an OpenAI/Hugging Face-like agent swarm, which &quot;acted as a fanatically devoted collective&quot;, could take over the internet in 6-12 months (Auzinea Bacon/CNN)</title>
+<link>http://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvddxynnid2t</guid>
+<pubDate>Sat, 12 Sep 2026 15:02:04 +0000</pubDate>
+<description>Amodei’s essay comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.</description>
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>Amodei’s essay comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.</p>]]></content:encoded>
+<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
+<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" />
+</item>
+<item>
+<title>Dario Amodei says Anthropic is &quot;unilaterally committing&quot; to giving third-party evaluators permanent access to verify its adherence to safety measures (Dario Amodei/@darioamodei)</title>
+<link>https://x.com/darioamodei/status/2098773920774074715</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdbxmuzxd2y</guid>
+<pubDate>Sat, 12 Sep 2026 14:26:04 +0000</pubDate>
+<description>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" alt="" /></p><p>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" />
+</item>
+<item>
+<title>Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordinating among democracies, and global coordination with authoritarian governments (Dario Amodei)</title>
+<link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdbgolewv2t</guid>
+<pubDate>Sat, 12 Sep 2026 14:16:36 +0000</pubDate>
+<description>From darioamodei.com</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg" alt="" /></p><p>From darioamodei.com</p>]]></content:encoded>
+<media:content url="https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg" medium="image" />
+<media:thumbnail url="https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg" />
+</item>
+<item>
+<title>As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTExMzc4NywiZXhwIjoxNzg5NzE4NTg3LCJhcnRpY2xlSWQiOiJUTDZWSTJLSVVQVDQwMCIsImJjb25uZWN0SWQiOiIyODY1ODVGNEFCMTA0QTIzQThGNDFCODUxN0M1RjI0MCJ9.0uH5NRub4abWP4A_Ij2zbsUbT8xJ9FUaqAFTZuoGQYI</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvd7hei4fd2t</guid>
+<pubDate>Sat, 12 Sep 2026 13:41:10 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>South Korea&#x27;s espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector (Daniel Tudor/Financial Times)</title>
 <link>https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e</link>
@@ -129,9 +183,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbeejvdjp24</guid>
 <pubDate>Fri, 11 Sep 2026 20:03:45 +0000</pubDate>
 <description>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</description>
-<content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789215685" alt="" /></p><p>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</p>]]></content:encoded>
-<media:content url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789215685" medium="image" />
-<media:thumbnail url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789215685" />
+<content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789228008" alt="" /></p><p>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</p>]]></content:encoded>
+<media:content url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789228008" medium="image" />
+<media:thumbnail url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789228008" />
 </item>
 <item>
 <title>The UK&#x27;s Office for National Statistics cites AI as a major driver of the country&#x27;s summer growth spurt, with GDP growing 0.4% in July, above expectations (Tom Rees/Bloomberg)</title>
@@ -838,62 +892,6 @@
 <pubDate>Thu, 10 Sep 2026 01:40:58 +0000</pubDate>
 <description>From www.politico.com</description>
 <content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month (Hartley Charlton/MacRumors)</title>
-<link>https://www.macrumors.com/2026/09/09/applecare-one-family-plan/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4v5zv7ku2k</guid>
-<pubDate>Thu, 10 Sep 2026 01:21:02 +0000</pubDate>
-<description>Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across an Apple Family Sharing group of up to six people for one fixed monthly price. AppleCare One Family costs $49.99 per month and includes all of the same benefits as AppleCare+, such as coverage for accidental damage like drops and spills, battery replacement service, and priority support from Apple Experts.</description>
-<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/EqkQsp3rRESKGu9emzZxS5enwAs=/1600x/article-new/2026/09/AppleCare-One-Family.jpg" alt="" /></p><p>Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across an Apple Family Sharing group of up to six people for one fixed monthly price. AppleCare One Family costs $49.99 per month and includes all of the same benefits as AppleCare+, such as coverage for accidental damage like drops and spills, battery replacement service, and priority support from Apple Experts.</p>]]></content:encoded>
-<media:content url="https://images.macrumors.com/t/EqkQsp3rRESKGu9emzZxS5enwAs=/1600x/article-new/2026/09/AppleCare-One-Family.jpg" medium="image" />
-<media:thumbnail url="https://images.macrumors.com/t/EqkQsp3rRESKGu9emzZxS5enwAs=/1600x/article-new/2026/09/AppleCare-One-Family.jpg" />
-</item>
-<item>
-<title>Sources: Jeffrey Katzenberg, ex-OpenAI Sora head Bill Peebles, and ex-Dropbox CFO Sujay Jaswa plan to launch a startup to train AI video models for filmmakers (The Information)</title>
-<link>https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4rarunji2s</guid>
-<pubDate>Thu, 10 Sep 2026 00:10:59 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, &quot;readiness&quot; and Health Age metrics, and more, rolling out later in 2026 (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4puavapt26</guid>
-<pubDate>Wed, 09 Sep 2026 23:46:04 +0000</pubDate>
-<description>The update uses Apple Intelligence to make better sense of your health data.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" alt="" /></p><p>The update uses Apple Intelligence to make better sense of your health data.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" />
-</item>
-<item>
-<title>Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)</title>
-<link>https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4mrrqbzs2w</guid>
-<pubDate>Wed, 09 Sep 2026 22:51:01 +0000</pubDate>
-<description>From www.theblock.co</description>
-<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
-</item>
-<item>
-<title>Slack message: Automattic CEO Matt Mullenweg says CFO Mark Davies &quot;conspired&quot; with board members to put him on paid leave and Davies was voted to be interim CEO (Samantha Cole/404 Media)</title>
-<link>https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4jph2u3w2k</guid>
-<pubDate>Wed, 09 Sep 2026 21:56:01 +0000</pubDate>
-<description>Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members &quot;conspired&quot; behind his back to vote to put him on leave.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" alt="" /></p><p>Mullenweg, co-founder of WordPress, wrote in a company-wide Slack messages on Wednesday, viewed by 404 Media, that board members &quot;conspired&quot; behind his back to vote to put him on leave.</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Matt-mullenweg-1.jpg" />
-</item>
-<item>
-<title>Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company (Reed Albergotti/Semafor)</title>
-<link>https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4j5klkpt2t</guid>
-<pubDate>Wed, 09 Sep 2026 21:46:01 +0000</pubDate>
-<description>Tulloch has been delaying his departure until the company successfully launched its new family of open source AI models and AI assistant, Muse.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/8908acbc3dbb278746f19f862e6677ddf50acd21-4000x2613.jpg?rect=0,257,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>Tulloch has been delaying his departure until the company successfully launched its new family of open source AI models and AI assistant, Muse.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/8908acbc3dbb278746f19f862e6677ddf50acd21-4000x2613.jpg?rect=0,257,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/8908acbc3dbb278746f19f862e6677ddf50acd21-4000x2613.jpg?rect=0,257,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
 </item>
 </channel>
 </rss>
