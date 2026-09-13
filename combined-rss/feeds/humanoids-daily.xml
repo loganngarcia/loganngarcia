@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 13 Sep 2026 04:55:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 14:09:39 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Inside UBTECH’s 10,000-Unit Super Factory: How Robots Are Building Humanoids in Liuzhou</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8199ca3be68e612134fd.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou</guid>
+<pubDate>Sun, 13 Sep 2026 06:32:43 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou" rel="related" type="text/html" />
+<description>UBTECH has commissioned a 14,000-square-meter smart manufacturing facility in Guangxi engineered to produce a humanoid every 10 minutes, scaling up the industry’s hardware volume race.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" alt="" /></p><p>UBTECH has commissioned a 14,000-square-meter smart manufacturing facility in Guangxi engineered to produce a humanoid every 10 minutes, scaling up the industry’s hardware volume race.</p><p><a href="https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>The Humanoids of Europe: Built by Their Customers</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e8aeaff5266032bee805.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/x-square-twindex.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>The "No Bot of Theseus" Challenge: Scott Walter Proposes a Strict Decathlon Benchmark for Humanoids</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fb4602833bae783ce879.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-no-bot-of-theseus-challenge-scott-walter-proposes-a-strict-decathlon-benchmark-for-humanoids</guid>
-<pubDate>Tue, 01 Sep 2026 15:14:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/the-no-bot-of-theseus-challenge-scott-walter-proposes-a-strict-decathlon-benchmark-for-humanoids" rel="related" type="text/html" />
-<description>Robotics pioneer Dr. Scott Walter has drafted a rule book for an autonomous humanoid decathlon, targeting single-task optimization with strict rules on anthropomorphism, zero hardware swaps, and self-dressing.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" alt="" /></p><p>Robotics pioneer Dr. Scott Walter has drafted a rule book for an autonomous humanoid decathlon, targeting single-task optimization with strict rules on anthropomorphism, zero hardware swaps, and self-dressing.</p><p><a href="https://www.humanoidsdaily.com/news/the-no-bot-of-theseus-challenge-scott-walter-proposes-a-strict-decathlon-benchmark-for-humanoids">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-decathlon-scott-walter.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
