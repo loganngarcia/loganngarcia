@@ -5,7 +5,7 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 13 Sep 2026 21:41:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 23:37:28 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI (Leo Schwartz/The Information)</title>
@@ -323,11 +323,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8" rel="related" type="text/html" />
-<description>Courts are grappling with chatbots that provided legal counsel, generated evidence or helped plan a mass shooting. Who’s liable for the AI agents doing crimes all on their own?</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFT11EkRZC_Q%2Fv3%2F-1x-1.jpg" alt="" /></p><p>Courts are grappling with chatbots that provided legal counsel, generated evidence or helped plan a mass shooting. Who’s liable for the AI agents doing crimes all on their own?</p><p><a href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFT11EkRZC_Q%2Fv3%2F-1x-1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFT11EkRZC_Q%2Fv3%2F-1x-1.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFT11EkRZC_Q%2Fv3%2F-1x-1.jpg" type="image/jpeg" length="0" />
+<description>The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)</description>
+<content:encoded><![CDATA[<p>The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)</p><p><a href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8">Open Original Article</a></p>]]></content:encoded>
 </item>
 <item>
 <title>Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue (Bloomberg)</title>
@@ -757,11 +754,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal" rel="related" type="text/html" />
-<description>OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technol...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiywgwN7.dgt0%2Fv1%2F1200x800.jpg" alt="" /></p><p>OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technol...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiywgwN7.dgt0%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiywgwN7.dgt0%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiywgwN7.dgt0%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+<description>OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technology at a 50% discount from standard prices, according to a statement from the General Services Administration.</description>
+<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iywgwN7.dgt0/v1/1200x800.jpg" alt="" /></p><p>OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technology at a 50% discount from standard prices, according to a statement from the General Services Administration.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iywgwN7.dgt0/v1/1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iywgwN7.dgt0/v1/1200x800.jpg" />
+<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iywgwN7.dgt0/v1/1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Ex-Biden officials deny Marc Andreessen's claims that they discussed secret plans to ban AI startups at a May 2024 White House meeting, pushing him toward Trump (Politico)</title>
@@ -1898,20 +1895,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -1924,6 +1907,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
