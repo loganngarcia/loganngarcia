@@ -5,8 +5,44 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 12 Sep 2026 18:03:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 00:12:27 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Twenty police forces in England and Wales recorded 163 crimes involving keywords like &quot;AI-generated&quot;, &quot;deepfake&quot;, and &quot;nudify&quot; by July 2026, up from 10 in 2023 (Mark Tovey/Telegraph)</title>
+<link>https://www.telegraph.co.uk/news/2026/09/12/ai-nude-images-children-police-england-wales-deepfake/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mveaorkvnr2n</guid>
+<pubDate>Sat, 12 Sep 2026 23:35:53 +0000</pubDate>
+<description>Forces see a surge in crimes involving deepfake technology being used to ‘undress women’</description>
+<content:encoded><![CDATA[<p><img src="https://www.telegraph.co.uk/content/dam/news/2026/09/12/TELEMMGLPICT000322329636_17892072695530_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwcAuAQ4GVEs9kcKQorCiV68.jpeg?impolicy=OG-Standard" alt="" /></p><p>Forces see a surge in crimes involving deepfake technology being used to ‘undress women’</p>]]></content:encoded>
+<media:content url="https://www.telegraph.co.uk/content/dam/news/2026/09/12/TELEMMGLPICT000322329636_17892072695530_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwcAuAQ4GVEs9kcKQorCiV68.jpeg?impolicy=OG-Standard" medium="image" />
+<media:thumbnail url="https://www.telegraph.co.uk/content/dam/news/2026/09/12/TELEMMGLPICT000322329636_17892072695530_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwcAuAQ4GVEs9kcKQorCiV68.jpeg?impolicy=OG-Standard" />
+</item>
+<item>
+<title>An analysis of Bending Spoons&#x27; financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth (Jonathan Weil/Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/investing/at-bending-spoons-the-numbers-are-the-real-mind-bender-43f10bee?st=tkdLYi&amp;reflink=article_copyURL_share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdzzdzspn2k</guid>
+<pubDate>Sat, 12 Sep 2026 21:36:32 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sam Altman confirms OpenAI won&#x27;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; (Jason Ma/Fortune)</title>
+<link>https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdtbpcrp627</guid>
+<pubDate>Sat, 12 Sep 2026 19:35:56 +0000</pubDate>
+<description>&quot;I would say not 2026. Yeah, we got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment, and how the industry and governments can work together.&quot;</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/grab-3-e1789234458574.png?resize=1200,600" alt="" /></p><p>&quot;I would say not 2026. Yeah, we got a lot of stuff to do, like meeting this moment of what is going to be required for safety and alignment, and how the industry and governments can work together.&quot;</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/grab-3-e1789234458574.png?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/grab-3-e1789234458574.png?resize=1200,600" />
+</item>
+<item>
+<title>Donald Trump&#x27;s plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdqs3ygoa2y</guid>
+<pubDate>Sat, 12 Sep 2026 18:51:25 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Elon Musk backs Dario Amodei&#x27;s arguments about pacing the frontier, saying &quot;Dario is right&quot; (Ben Johansen/Politico)</title>
 <link>https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519</link>
@@ -65,9 +101,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvddxynnid2t</guid>
 <pubDate>Sat, 12 Sep 2026 15:02:04 +0000</pubDate>
 <description>Amodei’s essay comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>Amodei’s essay comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.</p>]]></content:encoded>
-<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
-<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&amp;q=w_800,c_fill" />
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/amodei-ac-split-thumb-16x9-digvid0.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>Amodei’s essay comes on the heels of an Anthropic researcher’s resignation over concerns that the firm and its competitors are not acting responsibly with AI development.</p>]]></content:encoded>
+<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/amodei-ac-split-thumb-16x9-digvid0.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
+<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/amodei-ac-split-thumb-16x9-digvid0.jpg?c=16x9&amp;q=w_800,c_fill" />
 </item>
 <item>
 <title>Dario Amodei says Anthropic is &quot;unilaterally committing&quot; to giving third-party evaluators permanent access to verify its adherence to safety measures (Dario Amodei/@darioamodei)</title>
@@ -75,9 +111,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvdbxmuzxd2y</guid>
 <pubDate>Sat, 12 Sep 2026 14:26:04 +0000</pubDate>
 <description>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" alt="" /></p><p>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" />
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" alt="" /></p><p>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" />
 </item>
 <item>
 <title>Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordinating among democracies, and global coordination with authoritarian governments (Dario Amodei)</title>
@@ -219,9 +255,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbeejvdjp24</guid>
 <pubDate>Fri, 11 Sep 2026 20:03:45 +0000</pubDate>
 <description>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</description>
-<content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789235860" alt="" /></p><p>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</p>]]></content:encoded>
-<media:content url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789235860" medium="image" />
-<media:thumbnail url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789235860" />
+<content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789257686" alt="" /></p><p>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</p>]]></content:encoded>
+<media:content url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789257686" medium="image" />
+<media:thumbnail url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789257686" />
 </item>
 <item>
 <title>The UK&#x27;s Office for National Statistics cites AI as a major driver of the country&#x27;s summer growth spurt, with GDP growing 0.4% in July, above expectations (Tom Rees/Bloomberg)</title>
@@ -856,44 +892,6 @@
 <pubDate>Thu, 10 Sep 2026 04:06:00 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon names Mandiant founder Kevin Mandia to its board of directors, noting his extensive experience &quot;combating cyber threats&quot; in public and private sectors (Annie Palmer/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv54y7eqkk2d</guid>
-<pubDate>Thu, 10 Sep 2026 03:40:56 +0000</pubDate>
-<description>Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" alt="" /></p><p>Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/106990442-1639676366140-gettyimages-1231345161-775624067.jpeg?v=1773094383&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>New Mexico, the only US state taking the Cambridge Analytica case to trial, accused Meta of failing to protect Facebook user data in its opening statements (Mikella Schuettler/Associated Press)</title>
-<link>https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv545mkqek26</guid>
-<pubDate>Thu, 10 Sep 2026 03:26:04 +0000</pubDate>
-<description>From apnews.com</description>
-<content:encoded><![CDATA[<p>From apnews.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Paul Christiano, an AI researcher and advisor at CAISI, is joining the OpenAI Foundation board of directors and its Safety and Security Committee (Tim Fernholz/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv53ljwfyi2s</guid>
-<pubDate>Thu, 10 Sep 2026 03:15:57 +0000</pubDate>
-<description>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" /></p><p>Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Kepler Computing, which claims its 3D stacking and new material can increase HBM and SRAM density without relying on EUV, emerges from stealth with $468M (Lauren Goode/Wired)</title>
-<link>https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv4ze3gavs27</guid>
-<pubDate>Thu, 10 Sep 2026 02:36:00 +0000</pubDate>
-<description>Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" alt="" /></p><p>Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg" />
 </item>
 </channel>
 </rss>
