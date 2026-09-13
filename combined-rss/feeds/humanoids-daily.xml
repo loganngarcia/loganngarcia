@@ -5,7 +5,7 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 13 Sep 2026 14:09:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 19:37:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Inside UBTECH’s 10,000-Unit Super Factory: How Robots Are Building Humanoids in Liuzhou</title>
@@ -30,10 +30,10 @@
 <category>Humanoids Daily</category>
 <atom:link href="https://www.humanoidsdaily.com/features/the-humanoids-of-europe" rel="related" type="text/html" />
 <description>While the coverage stays fixed on China and the United States, seven European companies have quietly signed deployment commitments running into the thousands of units. Europe's humanoid sector is being built by its buyers.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hexagon-aeon-26.webp" alt="" /></p><p>While the coverage stays fixed on China and the United States, seven European companies have quietly signed deployment commitments running into the thousands of units. Europe's humanoid sector is being built by its buyers.</p><p><a href="https://www.humanoidsdaily.com/features/the-humanoids-of-europe">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hexagon-aeon-26.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hexagon-aeon-26.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hexagon-aeon-26.webp" type="image/webp" length="0" />
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" alt="" /></p><p>While the coverage stays fixed on China and the United States, seven European companies have quietly signed deployment commitments running into the thousands of units. Europe's humanoid sector is being built by its buyers.</p><p><a href="https://www.humanoidsdaily.com/features/the-humanoids-of-europe">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>AGIBOT Open-Sources GE-Act 2.0, Challenging Unitree in the Open Embodied AI Race</title>
