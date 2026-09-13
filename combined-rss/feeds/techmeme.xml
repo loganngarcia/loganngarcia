@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 13 Sep 2026 19:37:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 21:41:44 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI (Leo Schwartz/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ecfb33f57e66ed62af52.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvgjdimmaw2t</guid>
+<pubDate>Sun, 13 Sep 2026 21:15:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police" rel="related" type="text/html" />
+<description>Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry, people familiar with the matter said, even before Anthropic CEO Dario ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17812%2Fd527d083-350e-46e7-884a-a0ef8a534fe1.jpg%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" alt="" /></p><p>Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry, people familiar with the matter said, even before Anthropic CEO Dario ...</p><p><a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17812%2Fd527d083-350e-46e7-884a-a0ef8a534fe1.jpg%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17812%2Fd527d083-350e-46e7-884a-a0ef8a534fe1.jpg%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Ftii.imgix.net%2Fproduction%2Farticles%2F17812%2Fd527d083-350e-46e7-884a-a0ef8a534fe1.jpg%3Ffm%3Djpg%26auto%3Dcompress%26w%3D1200%26frame%3D0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Xi Jinping calls for a "consensus-based global AI governance framework" and says China will pioneer the establishment of a BRICS AI open-source community (Joanna Ossinger/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/20a9879dcc8091e135c3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvgd6miypc2y</guid>
+<pubDate>Sun, 13 Sep 2026 19:25:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html" rel="related" type="text/html" />
+<description>China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108362182-1789298100618-gettyimages-2294350956-AFP_C8424T3.jpeg?v=1789298115&amp;w=1920&amp;h=1080" alt="" /></p><p>China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.</p><p><a href="https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108362182-1789298100618-gettyimages-2294350956-AFP_C8424T3.jpeg?v=1789298115&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108362182-1789298100618-gettyimages-2294350956-AFP_C8424T3.jpeg?v=1789298115&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108362182-1789298100618-gettyimages-2294350956-AFP_C8424T3.jpeg?v=1789298115&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Dario Amodei says the "toughest dilemma" about his proposal to "pace the frontier" is what happens if China does not do the same (Ashley Capoot/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5a84f4505f06fb751e61.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvgcwh7s4n2w</guid>
+<pubDate>Sun, 13 Sep 2026 19:21:18 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html" rel="related" type="text/html" />
+<description>OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&amp;w=1920&amp;h=1080" alt="" /></p><p>OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.</p><p><a href="https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>President Trump dismisses calls for an AI slowdown, saying "you have a lot of negative forces that are bringing it up that shouldn't be bringing it up" (Myles McCormick/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f2d0534a9607accb430b.html</link>
@@ -324,10 +366,10 @@
 <category>Techmeme</category>
 <atom:link href="https://x.com/darioamodei/status/2098773920774074715" rel="related" type="text/html" />
 <description>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" alt="" /></p><p>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</p><p><a href="https://x.com/darioamodei/status/2098773920774074715">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" />
-<enclosure url="https://pbs.twimg.com/card_img/2098773734328832002/s94woeex?format=webp&amp;name=medium" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" alt="" /></p><p>We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that the…</p><p><a href="https://x.com/darioamodei/status/2098773920774074715">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" />
+<enclosure url="https://pbs.twimg.com/card_img/2098821466137788417/WKhi0oMe?format=webp&amp;name=medium" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordinating among democracies, and global coordination with authoritarian governments (Dario Amodei)</title>
@@ -804,48 +846,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108116511-1741991444507-gettyimages-1244428522-HM3_3680.jpeg?v=1741991598&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Polymarket names Warren Jenson its first CFO as the company aims to grow in the US; Jenson served as finance chief of Amazon, EA, NBC, and most recently Nielsen (Katherine Hamilton/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/578b221f4d0f9aa7e97d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvabuiw6py2e</guid>
-<pubDate>Fri, 11 Sep 2026 09:46:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/business/c-suite/polymarket-appoints-first-finance-chief-amid-u-s-growth-plans-882f8160" rel="related" type="text/html" />
-<description>Warren Jenson, who previously served as finance chief of Amazon, Electronic Arts, Delta Air Lines and NBC during the ‘90s and early 2000s, has been named Polymarket’s first chief financial officer.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" alt="" /></p><p>Warren Jenson, who previously served as finance chief of Amazon, Electronic Arts, Delta Air Lines and NBC during the ‘90s and early 2000s, has been named Polymarket’s first chief financial officer.</p><p><a href="https://www.wsj.com/business/c-suite/polymarket-appoints-first-finance-chief-amid-u-s-growth-plans-882f8160">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-46874329%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: TikTok rejects ads from Meta that call on competitors to join Meta in settling with US state attorneys general in a landmark child safety lawsuit (Sara Fischer/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6f7a2148df80dd627cc1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvaazj2zka2y</guid>
-<pubDate>Fri, 11 Sep 2026 09:31:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement" rel="related" type="text/html" />
-<description>Part of Meta's historic multibillion-dollar settlement is contingent on its peers also agreeing to settle.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" alt="" /></p><p>Part of Meta's historic multibillion-dollar settlement is contingent on its peers also agreeing to settle.</p><p><a href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS1pXPv3JCGXJyaeSn2JmaOK8Yvg%3D%2F1366x768%2Fsmart%2F2023%2F03%2F23%2F164501-1679589901269.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms (Tiffany Hsu/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e3738cd3a766a5167645.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mv7wootd4d2w</guid>
-<pubDate>Fri, 11 Sep 2026 06:26:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>Artificial intelligence is quickly becoming a go-to stop for voters looking for information about political races. Researchers are studying the effects.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F10%2Fmultimedia%2F10biz-midterms-chatbots-1-zqwp%2F10biz-midterms-chatbots-1-zqwp-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Artificial intelligence is quickly becoming a go-to stop for voters looking for information about political races. Researchers are studying the effects.</p><p><a href="https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F10%2Fmultimedia%2F10biz-midterms-chatbots-1-zqwp%2F10biz-midterms-chatbots-1-zqwp-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F10%2Fmultimedia%2F10biz-midterms-chatbots-1-zqwp%2F10biz-midterms-chatbots-1-zqwp-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F10%2Fmultimedia%2F10biz-midterms-chatbots-1-zqwp%2F10biz-midterms-chatbots-1-zqwp-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
