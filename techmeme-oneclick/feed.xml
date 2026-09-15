@@ -5,8 +5,80 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 15 Sep 2026 05:29:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 10:21:54 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>China tightens overseas travel controls for citizens via exit bans and fines in a sweeping new law, as Beijing moves to secure state secrets and advanced tech (Financial Times)</title>
+<link>https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?accessToken=zwAAAaE7rcwOkc8_KyFyDBpHCNOrolWes36ryAE.MEUCIF5TPf4Ilil-HKIyYENGadXcJURVK74jpV65dTibtulKAiEAvTwPW6Gbs7bPMNfGedXyGaLb9K1-GJfQWuO3M0Kp4GI&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkf4efobx2n</guid>
+<pubDate>Tue, 15 Sep 2026 10:11:02 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying &quot;I earnestly believe that AI has the potential to kill us all&quot; (Debby Wu/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkenxqx3q27</guid>
+<pubDate>Tue, 15 Sep 2026 10:02:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple rolls out child safety tools with iOS 27, iPadOS 27, and macOS 27, such as blocking gore and violent content in FaceTime calls and Safari&#x27;s Ask to Browse (Apple)</title>
+<link>https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkdgxfful2n</guid>
+<pubDate>Tue, 15 Sep 2026 09:41:10 +0000</pubDate>
+<description>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</description>
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" alt="" /></p><p>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" />
+</item>
+<item>
+<title>Jensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk7rtcltv2n</guid>
+<pubDate>Tue, 15 Sep 2026 08:35:40 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google gives all of its engineers Claude Opus 5 access via Antigravity, and says &quot;Gemini remains our primary and foundational model for internal development&quot; (Hugh Langley/Business Insider)</title>
+<link>https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk7at7lbq2r</guid>
+<pubDate>Tue, 15 Sep 2026 08:26:10 +0000</pubDate>
+<description>Google engineers can finally use one of Anthropic&#x27;s strongest coding models for internal work.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" alt="" /></p><p>Google engineers can finally use one of Anthropic&#x27;s strongest coding models for internal work.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" />
+</item>
+<item>
+<title>A deep dive into on-device and data center inference for robots, including a primer on robot models, deployments, supply chains, the &quot;network wall&quot;, and more (SemiAnalysis)</title>
+<link>https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk6fuxl3t2k</guid>
+<pubDate>Tue, 15 Sep 2026 08:11:05 +0000</pubDate>
+<description>Robot Models, Silicon Efficiency, Jetson Thor vs. B300 TCO, Deployments, The Network Wall</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" alt="" /></p><p>Robot Models, Silicon Efficiency, Jetson Thor vs. B300 TCO, Deployments, The Network Wall</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" />
+</item>
+<item>
+<title>Netherlands-based inference chip startup Euclyd raised a €200M+ Series A co-led by Samsung, Somerset Capital, Scaleup Europe Fund, and Innovation Industries (Kai Nicol-Schwarz/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk5kvlfuq2s</guid>
+<pubDate>Tue, 15 Sep 2026 07:56:00 +0000</pubDate>
+<description>Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" alt="" /></p><p>Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-14/kioxia-is-said-to-consider-raising-10-billion-in-us-listing</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvjxabars22s</guid>
+<pubDate>Tue, 15 Sep 2026 06:02:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Rome-based Exein, which offers cybersecurity tools for connected devices including cars and home routers, raised $270M led by Headline at a $1.7B valuation (Tom Wilson/Financial Times)</title>
 <link>https://www.ft.com/content/9fca2d3f-b689-4f08-801c-ee7f8475e7bc</link>
@@ -826,80 +898,6 @@
 <pubDate>Fri, 11 Sep 2026 22:16:34 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Citrini Research founder James van Geelen has sold the firm to SemiAnalysis for an undisclosed sum; sources: van Geelen plans to launch a new fund (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbjs3vwjv24</guid>
-<pubDate>Fri, 11 Sep 2026 21:40:49 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google&#x27;s 2025 Year in Search Ranking (Kate Knibbs/Wired)</title>
-<link>https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbi562pd226</guid>
-<pubDate>Fri, 11 Sep 2026 21:11:13 +0000</pubDate>
-<description>The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/191:100/w_1280,c_limit/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg" alt="" /></p><p>The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/191:100/w_1280,c_limit/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/191:100/w_1280,c_limit/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg" />
-</item>
-<item>
-<title>LinkedIn profiles show Google appears to have completed its talent deal, reportedly for $1.5B+, with AI coding startup Mechanize (Business Insider)</title>
-<link>https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbfd4wsjx2y</guid>
-<pubDate>Fri, 11 Sep 2026 20:20:52 +0000</pubDate>
-<description>Google has completed its deal with startup Mechanize, bringing cofounder Tamay Besiroglu and more than a dozen staffers to its AI division, DeepMind.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aa44c74cc23a829a3b90851?width=1200&amp;format=jpeg" alt="" /></p><p>Google has completed its deal with startup Mechanize, bringing cofounder Tamay Besiroglu and more than a dozen staffers to its AI division, DeepMind.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6aa44c74cc23a829a3b90851?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6aa44c74cc23a829a3b90851?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>A group of 25 Fields Medal recipients says AI companies&#x27; push to solve mathematical problems as a benchmark is detrimental to the science of mathematics (Terence Tao/What&#x27;s new)</title>
-<link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbeejvdjp24</guid>
-<pubDate>Fri, 11 Sep 2026 20:03:45 +0000</pubDate>
-<description>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</description>
-<content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789450155" alt="" /></p><p>I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</p>]]></content:encoded>
-<media:content url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789450155" medium="image" />
-<media:thumbnail url="https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&amp;ts=1789450155" />
-</item>
-<item>
-<title>The UK&#x27;s Office for National Statistics cites AI as a major driver of the country&#x27;s summer growth spurt, with GDP growing 0.4% in July, above expectations (Tom Rees/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbd46eim52n</guid>
-<pubDate>Fri, 11 Sep 2026 19:41:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Cohere is in advanced talks to raise between $2B and $3B, including financing from the Canadian government and existing backers, at a $20B valuation (Globe and Mail)</title>
-<link>https://www.theglobeandmail.com/business/article-canadian-ai-firm-cohere-in-advanced-talks-to-raise-up-to-3-billion/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvbacgqkjb2s</guid>
-<pubDate>Fri, 11 Sep 2026 18:51:00 +0000</pubDate>
-<description>Deal would value the company at $20-billion and rank as the largest on record by a private Canadian startup</description>
-<content:encoded><![CDATA[<p><img src="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt="" /></p><p>Deal would value the company at $20-billion and rank as the largest on record by a private Canadian startup</p>]]></content:encoded>
-<media:content url="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" medium="image" />
-<media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/NVXTVWB5NNGAJOADXVQ54YSBBM.JPG?auth=5db53aace3f74e96105d8bb4bc017491c9b92c15551af9dd559f9bc8e492d019&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" />
-</item>
-<item>
-<title>Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings (Andrew Solender/Axios)</title>
-<link>https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvb7hpzdgs2y</guid>
-<pubDate>Fri, 11 Sep 2026 18:36:04 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: in an internal Slack message Matt Mullenweg claims he is back in control of Automattic; on X, he says this may have been fifth coup attempt against him (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvb4f2jdvj22</guid>
-<pubDate>Fri, 11 Sep 2026 17:40:53 +0000</pubDate>
-<description>In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" alt="" /></p><p>In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800" />
 </item>
 </channel>
 </rss>
