@@ -5,8 +5,52 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 21:25:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 23:43:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 (Justin Papp/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvocdmgv7t2y</guid>
+<pubDate>Wed, 16 Sep 2026 23:32:03 +0000</pubDate>
+<description>The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" alt="" /></p><p>The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment (Axios)</title>
+<link>https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvo6xr6v4r2k</guid>
+<pubDate>Wed, 16 Sep 2026 22:31:45 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: a group of 10 banks is providing a $22B loan to Blackstone and Alphabet&#x27;s venture Crux AI, which provides compute for AI labs, to fund TPU purchases (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/banks-line-up-22-billion-chip-loan-tied-to-blackstone-alphabet</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvo6g7k4ti24</guid>
+<pubDate>Wed, 16 Sep 2026 22:21:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/drone-startup-zipline-in-talks-on-about-1-billion-raise-at-20-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvo5f3wf7o27</guid>
+<pubDate>Wed, 16 Sep 2026 22:03:25 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Review of Meta&#x27;s Muse: a pretty killer AI assistant and usage rates on the free plan seem generous, but trusting Meta with personal data will take some time (M.G. Siegler/Spyglass)</title>
+<link>https://spyglass.org/metas-amusing-muse/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvo45wc3xj2t</guid>
+<pubDate>Wed, 16 Sep 2026 21:41:30 +0000</pubDate>
+<description>They shipped a pretty killer AI assistant, can they keep people using it?</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/IMG_2734-1.jpg" alt="" /></p><p>They shipped a pretty killer AI assistant, can they keep people using it?</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/IMG_2734-1.jpg" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/09/IMG_2734-1.jpg" />
+</item>
 <item>
 <title>X adds a &quot;Trade&quot; option to its Cashtag feature, letting US users complete trades at brokerages including Interactive Brokers, Gemini, Kraken, and Coinbase (Sarah Perez/TechCrunch)</title>
 <link>https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/</link>
@@ -840,54 +884,6 @@
 <pubDate>Tue, 15 Sep 2026 10:02:59 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple rolls out child safety tools with iOS 27, iPadOS 27, and macOS 27, such as blocking gore and violent content in FaceTime calls and Safari&#x27;s Ask to Browse (Apple)</title>
-<link>https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkdgxfful2n</guid>
-<pubDate>Tue, 15 Sep 2026 09:41:10 +0000</pubDate>
-<description>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609162001" alt="" /></p><p>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609162001" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609162001" />
-</item>
-<item>
-<title>Jensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk7rtcltv2n</guid>
-<pubDate>Tue, 15 Sep 2026 08:35:40 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google gives all of its engineers Claude Opus 5 access via Antigravity, and says &quot;Gemini remains our primary and foundational model for internal development&quot; (Hugh Langley/Business Insider)</title>
-<link>https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk7at7lbq2r</guid>
-<pubDate>Tue, 15 Sep 2026 08:26:10 +0000</pubDate>
-<description>Google engineers can finally use one of Anthropic&#x27;s strongest coding models for internal work.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" alt="" /></p><p>Google engineers can finally use one of Anthropic&#x27;s strongest coding models for internal work.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6aa86baccc23a829a3b9158f?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>A deep dive into on-device and data center inference for robots, including a primer on robot models, deployments, supply chains, the &quot;network wall&quot;, and more (SemiAnalysis)</title>
-<link>https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk6fuxl3t2k</guid>
-<pubDate>Tue, 15 Sep 2026 08:11:05 +0000</pubDate>
-<description>Robot Models, Silicon Efficiency, Jetson Thor vs. B300 TCO, Deployments, The Network Wall</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" alt="" /></p><p>Robot Models, Silicon Efficiency, Jetson Thor vs. B300 TCO, Deployments, The Network Wall</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!LbD2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d10434-1889-4ac2-9858-6bcb61090385_1672x941.png" />
-</item>
-<item>
-<title>Netherlands-based inference chip startup Euclyd raised a €200M+ Series A co-led by Samsung, Somerset Capital, Scaleup Europe Fund, and Innovation Industries (Kai Nicol-Schwarz/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvk5kvlfuq2s</guid>
-<pubDate>Tue, 15 Sep 2026 07:56:00 +0000</pubDate>
-<description>Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" alt="" /></p><p>Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108292308-1776330882528-Euclyd_CRAFTWERK_product_concept.png?v=1776330923&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
