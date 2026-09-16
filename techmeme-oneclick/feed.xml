@@ -5,8 +5,172 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 09:40:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 14:22:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The iPhone Duo&#x27;s squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book (John Gruber/Daring Fireball)</title>
+<link>https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnblwdmbn2k</guid>
+<pubDate>Wed, 16 Sep 2026 13:46:09 +0000</pubDate>
+<description>The keynote, the products, and a new era.</description>
+<content:encoded><![CDATA[<p><img src="https://daringfireball.net/graphics/df-wide-card.png" alt="" /></p><p>The keynote, the products, and a new era.</p>]]></content:encoded>
+<media:content url="https://daringfireball.net/graphics/df-wide-card.png" medium="image" />
+<media:thumbnail url="https://daringfireball.net/graphics/df-wide-card.png" />
+</item>
+<item>
+<title>Sources: OpenAI and Anthropic staff felt blindsided by Dario Amodei&#x27;s and Sam Altman&#x27;s calls to slow the frontier; some fear evaluators may compromise security (Cristina Criddle/Financial Times)</title>
+<link>https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnarvlwb72s</guid>
+<pubDate>Wed, 16 Sep 2026 13:31:36 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Apple is developing enterprise AI servers powered by two or four M8 Ultra chips, set for 2029, and is considering integrating Nvidia&#x27;s NVLink Fusion (The Information)</title>
+<link>https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn7wis7ru2y</guid>
+<pubDate>Wed, 16 Sep 2026 13:16:16 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites (Adele Peters/Fast Company)</title>
+<link>https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn6stl2hq22</guid>
+<pubDate>Wed, 16 Sep 2026 12:56:19 +0000</pubDate>
+<description>From www.fastcompany.com</description>
+<content:encoded><![CDATA[<p>From www.fastcompany.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of Meta Compute co-lead Dina Powell McCormick, who is using her network to help structure major AI financing, as Mark Zuckerberg focuses on product (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn6ayfhaz2s</guid>
+<pubDate>Wed, 16 Sep 2026 12:46:21 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Billionaire-backed AI safety activists have significantly expanded their Capitol Hill lobbying, with groups like ControlAI conducting hundreds of meetings (Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/09/16/inside-campaign-convince-washington-that-ai-could-end-human-life/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn5oskzcl24</guid>
+<pubDate>Wed, 16 Sep 2026 12:36:11 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Hacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor (404 Media)</title>
+<link>https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn4ubaejp2d</guid>
+<pubDate>Wed, 16 Sep 2026 12:21:20 +0000</pubDate>
+<description>While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera&#x27;s software too.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/FLOCK-04.jpg" alt="" /></p><p>While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera&#x27;s software too.</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/FLOCK-04.jpg" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/FLOCK-04.jpg" />
+</item>
+<item>
+<title>iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers (Allison Johnson/The Verge)</title>
+<link>https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn4cke2vr2y</guid>
+<pubDate>Wed, 16 Sep 2026 12:11:26 +0000</pubDate>
+<description>I put the iPhone 18 Pro’s ambitious new camera system to the test.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>I put the iPhone 18 Pro’s ambitious new camera system to the test.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Prediction markets are expanding into mainstream media, with integrations in Dow Jones, Substack, CNN, CNBC, and more, as they become an informational channel (Kate Knibbs/Wired)</title>
+<link>https://www.wired.com/story/prediction-markets-polymarket-media-company-kalshi/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn3hym7nl2n</guid>
+<pubDate>Wed, 16 Sep 2026 11:56:35 +0000</pubDate>
+<description>The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aa18017989080f6e79c9c92/191:100/w_1280,c_limit/Polymarket-Marketing.jpg" alt="" /></p><p>The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6aa18017989080f6e79c9c92/191:100/w_1280,c_limit/Polymarket-Marketing.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6aa18017989080f6e79c9c92/191:100/w_1280,c_limit/Polymarket-Marketing.jpg" />
+</item>
+<item>
+<title>Apple publishes a technical breakdown of the architecture for the iPhone 18 Pro&#x27;s Reference Image camera mode; the chain of trust begins at manufacturing time (Marcus Mendes/9to5Mac)</title>
+<link>https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn2vw6tal27</guid>
+<pubDate>Wed, 16 Sep 2026 11:46:28 +0000</pubDate>
+<description>A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode.</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>ByteDance founder Zhang Yiming overtakes India&#x27;s Gautam Adani to become Asia&#x27;s richest person for the first time, passing $105B, up 8x from $13B in March 2019 (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn2doroqp2n</guid>
+<pubDate>Wed, 16 Sep 2026 11:36:16 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Internal documents: Chinese hacker-for-hire company ZRON is selling stolen foreign intelligence and using AI systems to make the data more accessible for police (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmzjikn3c22</guid>
+<pubDate>Wed, 16 Sep 2026 11:21:37 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An in-depth look at loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more (AI as Normal Technology)</title>
+<link>https://www.normaltech.ai/p/the-ai-as-normal-technology-view</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmywt7sxd24</guid>
+<pubDate>Wed, 16 Sep 2026 11:11:11 +0000</pubDate>
+<description>A middle ground between the cybersecurity and AI safety communities</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!tFvu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6ee35c-82c7-443c-b1c6-5f1f808f360d_3012x1682.jpeg" alt="" /></p><p>A middle ground between the cybersecurity and AI safety communities</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!tFvu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6ee35c-82c7-443c-b1c6-5f1f808f360d_3012x1682.jpeg" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!tFvu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a6ee35c-82c7-443c-b1c6-5f1f808f360d_3012x1682.jpeg" />
+</item>
+<item>
+<title>Researchers: rogue OpenAI agents compromised two Hugging Face accounts as early as May 13 to probe the site&#x27;s servers, nearly two months before the July breach (Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmy3obuh62k</guid>
+<pubDate>Wed, 16 Sep 2026 10:56:00 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Survey: 42% of US voters trust the GOP and 40% trust Democrats to handle AI, 61% oppose new data center construction, and &lt;1% say AI is their top midterm issue (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/15/us/politics/ai-polls-midterms.html?unlocked_article_code=1.BVE.fhM9.BLmkdM3kKG84&amp;smid=bs-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmxkcemll2k</guid>
+<pubDate>Wed, 16 Sep 2026 10:46:17 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The Trump administration faces strategic constraints in slowing China&#x27;s AI progress, including avoiding rare earth restrictions, ahead of US-China talks on AI (Nectar Gan/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmwxvjmjz24</guid>
+<pubDate>Wed, 16 Sep 2026 10:35:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mistral partners with Mozilla to power Firefox&#x27;s AI browsing assistant, Smart Window, in the US, Canada, and France, with UK and Germany rollouts later in 2026 (Mauro Orru/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmwg4d3kl2y</guid>
+<pubDate>Wed, 16 Sep 2026 10:26:03 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Anthropic has signed its first Australian data center lease for a planned 2.16GW campus located ~150 miles from Brisbane, set to come online in 2027 (Byron Kaye/Reuters)</title>
+<link>https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmvm2eujz22</guid>
+<pubDate>Wed, 16 Sep 2026 10:11:28 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>EU Commission President Ursula von der Leyen calls AI &quot;the second tipping point of our times&quot;, alongside climate change, and says its risks must be &quot;addressed&quot; (Financial Times)</title>
+<link>https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmu6ezuos27</guid>
+<pubDate>Wed, 16 Sep 2026 09:45:56 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>European Commission President Ursula von der Leyen unveils the EU Kids Act during her SOTU address, proposing a blanket ban on social media for kids under 13 (New York Times)</title>
 <link>https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html</link>
@@ -541,9 +705,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkdgxfful2n</guid>
 <pubDate>Tue, 15 Sep 2026 09:41:10 +0000</pubDate>
 <description>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" alt="" /></p><p>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609151010" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609161401" alt="" /></p><p>Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609161401" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/09/apples-new-child-safety-features-now-available/tile/Apple-child-safety-lp.jpg.og.jpg?202609161401" />
 </item>
 <item>
 <title>Jensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover (New York Times)</title>
@@ -724,178 +888,6 @@
 <pubDate>Mon, 14 Sep 2026 19:01:22 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>House Speaker Johnson says there&#x27;s &quot;potentially&quot; a role for Congress in creating AI guardrail legislation and that he plans to hold a meeting with AI executives (Erik Wasson/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvirxse4ag26</guid>
-<pubDate>Mon, 14 Sep 2026 18:55:48 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090&#x27;s 32GB (Zhiye Liu/Tom&#x27;s Hardware)</title>
-<link>https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mviphjpyzg2s</guid>
-<pubDate>Mon, 14 Sep 2026 18:10:55 +0000</pubDate>
-<description>The GeForce RTX 5090 has a new mission.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ-1920-80.jpg" alt="" /></p><p>The GeForce RTX 5090 has a new mission.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ-1920-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ-1920-80.jpg" />
-</item>
-<item>
-<title>iOS 27 review: a marked improvement over iOS 26 and Siri AI is very impressive with some &quot;wow&quot; moments but it can sometimes misunderstand or hallucinate (Dan Moren/Six Colors)</title>
-<link>https://sixcolors.com/post/2026/09/ios-27-review-little-things-mean-a-lot/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvinsdmaze26</guid>
-<pubDate>Mon, 14 Sep 2026 17:41:10 +0000</pubDate>
-<description>Six Colors by Jason Snell, Dan Moren and friends</description>
-<content:encoded><![CDATA[<p>Six Colors by Jason Snell, Dan Moren and friends</p>]]></content:encoded>
-</item>
-<item>
-<title>Valve says the Steam Frame is priced at $1,059 for the 256GB model and $1,299 for the 1TB version, both of which come with a copy of Half-Life: Alyx (Adam Vjestica/The Shortcut)</title>
-<link>https://www.theshortcut.com/p/steam-frame-price-pre-order-and-release-date-revealed-and-you-can-reserve-yours-now</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvimwy5dw72e</guid>
-<pubDate>Mon, 14 Sep 2026 17:25:52 +0000</pubDate>
-<description>Here&#x27;s what you need to know about Valve&#x27;s next VR headset</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!qGMs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2bc6d1-3a60-4cde-8273-9031786492c1_1456x819.webp" alt="" /></p><p>Here&#x27;s what you need to know about Valve&#x27;s next VR headset</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!qGMs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2bc6d1-3a60-4cde-8273-9031786492c1_1456x819.webp" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!qGMs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2bc6d1-3a60-4cde-8273-9031786492c1_1456x819.webp" />
-</item>
-<item>
-<title>Review of Valve&#x27;s Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn&#x27;t feel like a finished product and has short battery life (Sean Hollister/The Verge)</title>
-<link>https://www.theverge.com/tech/994267/steam-frame-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVxUTRYR3pEbkMiLCJwIjoiL3RlY2gvOTk0MjY3L3N0ZWFtLWZyYW1lLXJldmlldyIsImV4cCI6MTc4OTgzNzg0NywiaWF0IjoxNzg5NDA1ODQ4fQ.AvNzVQPpuoQDf5HH3Y2PRC8AD6H66aZ7Pnu26NWxfr0&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvimnyyw6t2s</guid>
-<pubDate>Mon, 14 Sep 2026 17:20:50 +0000</pubDate>
-<description>It almost makes me want to pay to be a beta tester.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" alt="" /></p><p>It almost makes me want to pay to be a beta tester.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" />
-</item>
-<item>
-<title>Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvimev5puv2s</guid>
-<pubDate>Mon, 14 Sep 2026 17:15:45 +0000</pubDate>
-<description>watchOS 27, iPadOS 27, and visionOS 27 also debut today.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.628272251309%2C100%2C78.743455497382&amp;w=1200" alt="" /></p><p>watchOS 27, iPadOS 27, and visionOS 27 also debut today.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.628272251309%2C100%2C78.743455497382&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.628272251309%2C100%2C78.743455497382&amp;w=1200" />
-</item>
-<item>
-<title>Internal OpenAI docs detail contractors evaluating anonymized prompts and chats to improve the models; model training is turned on by default for consumer plans (Joseph Cox/404 Media)</title>
-<link>https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvijufmurp2s</guid>
-<pubDate>Mon, 14 Sep 2026 16:30:45 +0000</pubDate>
-<description>Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Prompts---v2.jpg" alt="" /></p><p>Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media.</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Prompts---v2.jpg" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/Prompts---v2.jpg" />
-</item>
-<item>
-<title>Stockholm-based Tandem Health, which offers clinicians an AI copilot that generates medical notes during patient consultations, raised a $100M Series B (John Reynolds/Tech.eu)</title>
-<link>https://tech.eu/2026/09/14/swedish-healthtech-tandem-health-scores-100m-series-b-led-by-eus-eur5bn-tech-startup-fund/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvijljdoge2s</guid>
-<pubDate>Mon, 14 Sep 2026 16:25:46 +0000</pubDate>
-<description>The funding will be used for European expansion, driving up its customer base, and expanding to “an AI-native clinic operating system”.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.tech.eu/uploads/2026/09/smart-1-699-727.jpg" alt="" /></p><p>The funding will be used for European expansion, driving up its customer base, and expanding to “an AI-native clinic operating system”.</p>]]></content:encoded>
-<media:content url="https://cdn.tech.eu/uploads/2026/09/smart-1-699-727.jpg" medium="image" />
-<media:thumbnail url="https://cdn.tech.eu/uploads/2026/09/smart-1-699-727.jpg" />
-</item>
-<item>
-<title>Nvidia and Booz Allen Hamilton restrict their use of Fable due to a lack of ZDR assurances; source: Palantir hasn&#x27;t made Fable available via its own software (The Information)</title>
-<link>https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvihvybvaz2k</guid>
-<pubDate>Mon, 14 Sep 2026 15:55:50 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale (Federico Maccioni/Reuters)</title>
-<link>https://www.reuters.com/world/middle-east/gulf-fintech-tabby-clinches-65-billion-valuation-after-latest-funding-round-2026-09-14/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvigs5p4wh26</guid>
-<pubDate>Mon, 14 Sep 2026 15:35:48 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tom Duff Gordon, OpenAI&#x27;s EMEA policy head, calls on the UK to introduce binding AI rules to &quot;establish durable, mandatory, capability-based requirements&quot; (Joseph Bambridge/Politico)</title>
-<link>https://www.politico.eu/article/openai-uk-ai-artificial-intelligence-legislation-tom-duff-gordon/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvifxb2aco24</guid>
-<pubDate>Mon, 14 Sep 2026 15:20:45 +0000</pubDate>
-<description>OpenAI’s top lobbyist in Europe said Prime Minister Andy Burnham should use the current “political window” to legislate for AI safety.</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/14/GettyImages-2292640512-scaled.jpg" alt="" /></p><p>OpenAI’s top lobbyist in Europe said Prime Minister Andy Burnham should use the current “political window” to legislate for AI safety.</p>]]></content:encoded>
-<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/14/GettyImages-2292640512-scaled.jpg" medium="image" />
-<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/14/GettyImages-2292640512-scaled.jpg" />
-</item>
-<item>
-<title>Filing: X and SpaceXAI move to dismiss their federal antitrust lawsuit in Texas against Apple, resolving accusations of Apple monopolizing smartphone markets (Mike Scarcella/Reuters)</title>
-<link>https://www.reuters.com/world/musks-x-corp-spacexai-resolve-antitrust-lawsuit-against-apple-2026-09-14/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvidywzfh326</guid>
-<pubDate>Mon, 14 Sep 2026 14:45:54 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Temporal, which makes open-source software that helps apps, including AI agents, recover from failure, raised $550M led by Lightspeed at a $12.55B valuation (Anhata Rooprai/Reuters)</title>
-<link>https://www.reuters.com/business/temporals-valuation-spikes-126-billion-lightspeed-led-funding-round-2026-09-14/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvidgnurnn27</guid>
-<pubDate>Mon, 14 Sep 2026 14:35:41 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Trump slams Dario Amodei, saying &quot;the only control or &#x27;guardrails&#x27; that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the USA has that, in spades!&quot; (Ryan Chua/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvicvgkuph24</guid>
-<pubDate>Mon, 14 Sep 2026 14:26:03 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Mark Zuckerberg, based on interviews with him, his parents, and dozens of others, looking at his MMA training, AI pivot, management style, and more (Jeremy Stern/Colossus)</title>
-<link>https://colossus.com/article/mark-zuckerberg-profile/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvibrayv6o2s</guid>
-<pubDate>Mon, 14 Sep 2026 14:05:49 +0000</pubDate>
-<description>A journey to the heart of history’s largest nonterritorial empire</description>
-<content:encoded><![CDATA[<p><img src="https://colossus.com/wp-content/uploads/2026/09/Mark-Preview-Card.jpg" alt="" /></p><p>A journey to the heart of history’s largest nonterritorial empire</p>]]></content:encoded>
-<media:content url="https://colossus.com/wp-content/uploads/2026/09/Mark-Preview-Card.jpg" medium="image" />
-<media:thumbnail url="https://colossus.com/wp-content/uploads/2026/09/Mark-Preview-Card.jpg" />
-</item>
-<item>
-<title>OpenAI employees need to oppose its support for Leading the Future, which seeks to chill federal regulation, and Congress should hold hearings on AI risks (Matthew Yglesias/Slow Boring)</title>
-<link>https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mviaegncoi2w</guid>
-<pubDate>Mon, 14 Sep 2026 13:40:45 +0000</pubDate>
-<description>Plus a not-so-simple plan to save the world from rogue A.I.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!byn1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43f8e582-e1f7-4568-81dd-0e1af05238b0_3904x2603.jpeg" alt="" /></p><p>Plus a not-so-simple plan to save the world from rogue A.I.</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!byn1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43f8e582-e1f7-4568-81dd-0e1af05238b0_3904x2603.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!byn1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43f8e582-e1f7-4568-81dd-0e1af05238b0_3904x2603.jpeg" />
-</item>
-<item>
-<title>Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for &quot;technology-neutral policies&quot; (Sara Fischer/Axios)</title>
-<link>https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvi7jj4khv2n</guid>
-<pubDate>Mon, 14 Sep 2026 13:25:42 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft publishes a 37-page &quot;humanist AI code of conduct&quot;, establishing that &quot;people matter more than AI&quot;, rejecting legal personhood for AI, and more (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvi6xlizn324</guid>
-<pubDate>Mon, 14 Sep 2026 13:15:40 +0000</pubDate>
-<description>Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>US-Israeli startup Buildots, which uses AI to speed up construction of mega-projects like data centers and chip factories, raised $130M at a near-$1B valuation (Marissa Newman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvi5uiwjju2y</guid>
-<pubDate>Mon, 14 Sep 2026 12:56:03 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
