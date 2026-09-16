@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 09:40:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 14:23:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>GPT-6 Is Beating Specialist Models in Robotics Tests</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3996fe8a470ef7bc89e7.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/gpt-6-beats-specialist-models-robotics-tests</guid>
+<pubDate>Wed, 16 Sep 2026 07:01:35 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/gpt-6-beats-specialist-models-robotics-tests" rel="related" type="text/html" />
+<description>GPT-6 Astra leads specialist models on selected simulation tasks. New robot-arm demos add to the promise, while tougher tests expose its limits.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-robotics-tests-hero-W3JVFkEmaK82lFzHtBpe6OB1W1YYOz.webp" alt="" /></p><p>GPT-6 Astra leads specialist models on selected simulation tasks. New robot-arm demos add to the promise, while tougher tests expose its limits.</p><p><a href="https://www.humanoidsdaily.com/news/gpt-6-beats-specialist-models-robotics-tests">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-robotics-tests-hero-W3JVFkEmaK82lFzHtBpe6OB1W1YYOz.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-robotics-tests-hero-W3JVFkEmaK82lFzHtBpe6OB1W1YYOz.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-robotics-tests-hero-W3JVFkEmaK82lFzHtBpe6OB1W1YYOz.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Unitree’s AI models explained: UniFoLM, WLA and X2</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/757eb4496b117db7f648.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-robogesture.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>OpenAI’s GPT-6 Astra Hits 95% on Physical Manipulation Benchmark, But Precision Tasks Expose Familiar Bottlenecks</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/09f42ba5514380ca4fca.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/openai-s-gpt-6-astra-hits-95-on-physical-manipulation-benchmark-but-precision-tasks-expose-familiar-bottlenecks</guid>
-<pubDate>Sat, 05 Sep 2026 11:02:18 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/openai-s-gpt-6-astra-hits-95-on-physical-manipulation-benchmark-but-precision-tasks-expose-familiar-bottlenecks" rel="related" type="text/html" />
-<description>RoboCurve benchmarked OpenAI’s new GPT-6 Astra on real robot arms, revealing dramatic efficiency and spatial reasoning gains on gross manipulation alongside a persistent 10% plateau on millimeter-precision tasks.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" alt="" /></p><p>RoboCurve benchmarked OpenAI’s new GPT-6 Astra on real robot arms, revealing dramatic efficiency and spatial reasoning gains on gross manipulation alongside a persistent 10% plateau on millimeter-precision tasks.</p><p><a href="https://www.humanoidsdaily.com/news/openai-s-gpt-6-astra-hits-95-on-physical-manipulation-benchmark-but-precision-tasks-expose-familiar-bottlenecks">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/openai-gpt6-astra.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
