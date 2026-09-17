@@ -5,8 +5,42 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 17:05:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:16:09 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqh477s522d</guid>
+<pubDate>Thu, 17 Sep 2026 20:02:43 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>NYT court filing: ChatGPT&#x27;s head wrote that publishers face an &quot;existential threat&quot; and a Microsoft executive called AI training &quot;an astonishing theft&quot; (Financial Times)</title>
+<link>https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqfmssie724</guid>
+<pubDate>Thu, 17 Sep 2026 19:36:13 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A survey of 42,151 adults in 36 countries and 8,607 US adults: populations in 34 of 37 surveyed countries expect AI to cause net job loss rather than growth (Pew Research Center)</title>
+<link>https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqck32scd2k</guid>
+<pubDate>Thu, 17 Sep 2026 18:40:59 +0000</pubDate>
+<description>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</description>
+<content:encoded><![CDATA[<p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" alt="" /></p><p>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</p>]]></content:encoded>
+<media:content url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" medium="image" />
+<media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" />
+</item>
+<item>
+<title>Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 (Francesca Maglione/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvq5rpxrla2e</guid>
+<pubDate>Thu, 17 Sep 2026 17:15:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training (Carmen Arroyo/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups</link>
@@ -36,8 +70,8 @@
 <link>https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpyhshzmw2t</guid>
 <pubDate>Thu, 17 Sep 2026 15:40:46 +0000</pubDate>
-<description>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</description>
-<content:encoded><![CDATA[<p>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)</title>
@@ -830,40 +864,6 @@
 <pubDate>Tue, 15 Sep 2026 23:30:59 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn&#x27;t focus on alignment will fall behind (Mark Zuckerberg/@finkd)</title>
-<link>https://x.com/finkd/status/2099997096896274533</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlqy3djb42t</guid>
-<pubDate>Tue, 15 Sep 2026 23:16:03 +0000</pubDate>
-<description>Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/eoLGVY8yad Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens. The reality is: - Peo…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg" alt="" /></p><p>Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/eoLGVY8yad Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens. The reality is: - Peo…</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/profile_images/77846223/profile_400x400.jpg" />
-</item>
-<item>
-<title>Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta&#x27;s AI chatbot and Muse (Jyoti Mann/The Information)</title>
-<link>https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlpl6k2lp2e</guid>
-<pubDate>Tue, 15 Sep 2026 22:50:57 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed (Rashi Shrivastava/Forbes)</title>
-<link>https://www.forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wants-to-fix-ais-overconfidence-problem/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlohgc5zp24</guid>
-<pubDate>Tue, 15 Sep 2026 22:30:57 +0000</pubDate>
-<description>From www.forbes.com</description>
-<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO (Financial Times)</title>
-<link>https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlnhzp3sv2w</guid>
-<pubDate>Tue, 15 Sep 2026 22:13:23 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
