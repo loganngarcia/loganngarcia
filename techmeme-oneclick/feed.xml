@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 20:16:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 22:53:26 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)</title>
+<link>https://claude.com/blog/projects-redesigned</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqok7n7642y</guid>
+<pubDate>Thu, 17 Sep 2026 22:15:49 +0000</pubDate>
+<description>A new experience for Claude projects, now available in beta in Claude Code</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" alt="" /></p><p>A new experience for Claude projects, now available in beta in Claude Code</p>]]></content:encoded>
+<media:content url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" medium="image" />
+<media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" />
+</item>
+<item>
+<title>OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)</title>
+<link>https://openai.com/index/astra-for-law</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqknhwxb626</guid>
+<pubDate>Thu, 17 Sep 2026 21:06:04 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic outlines metrics to track AI development at frontier labs: how much AI R&amp;D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)</title>
+<link>https://www.anthropic.com/institute/measuring-pace-of-ai-development</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqk3h6eod2y</guid>
+<pubDate>Thu, 17 Sep 2026 20:55:59 +0000</pubDate>
+<description>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" alt="" /></p><p>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" />
+</item>
 <item>
 <title>Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction</link>
@@ -840,30 +868,6 @@
 <content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!xGnO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6604d8-7a37-43db-9426-d899d049b747_1536x1024.png" alt="" /></p><p>20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York</p>]]></content:encoded>
 <media:content url="https://substackcdn.com/image/fetch/$s_!xGnO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6604d8-7a37-43db-9426-d899d049b747_1536x1024.png" medium="image" />
 <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!xGnO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6604d8-7a37-43db-9426-d899d049b747_1536x1024.png" />
-</item>
-<item>
-<title>Zuckerberg says &quot;Meta delayed shipping Muse for several months to focus on safety and security&quot; and didn&#x27;t call on other AI labs to do the same before acting (Tom Giles/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlv6iihgl2n</guid>
-<pubDate>Wed, 16 Sep 2026 00:31:13 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html?unlocked_article_code=1.BVE.Xlz7.PxshnLkDQ8sv&amp;smid=bs-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvltafxypx2w</guid>
-<pubDate>Tue, 15 Sep 2026 23:56:30 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html?unlocked_article_code=1.BVE.iOGp.xysboJ9Ytg6-&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvlrsr4sob26</guid>
-<pubDate>Tue, 15 Sep 2026 23:30:59 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
