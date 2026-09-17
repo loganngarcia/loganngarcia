@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 23:43:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 01:45:06 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake (Michelle Ma/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-16/generac-shares-jump-on-8-billion-amazon-data-center-supply-pact</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvohvvztl427</guid>
+<pubDate>Thu, 17 Sep 2026 01:11:46 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Hands-on with Snap&#x27;s Specs: more advanced than Meta&#x27;s top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvofxishnq2e</guid>
+<pubDate>Thu, 17 Sep 2026 00:36:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an &quot;anticipatory AI service&quot; (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvofohdryg24</guid>
+<pubDate>Thu, 17 Sep 2026 00:31:48 +0000</pubDate>
+<description>Try it in preview in the Specs iOS app.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" alt="" /></p><p>Try it in preview in the Specs iOS app.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" />
+</item>
 <item>
 <title>The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 (Justin Papp/CNBC)</title>
 <link>https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html</link>
@@ -858,32 +884,6 @@
 <pubDate>Tue, 15 Sep 2026 10:51:11 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkgajbf5v2n</guid>
-<pubDate>Tue, 15 Sep 2026 10:31:15 +0000</pubDate>
-<description>The out-of-band update fixes Remote Desktop, USB audio, and Hyper-V issues.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The out-of-band update fixes Remote Desktop, USB audio, and Hyper-V issues.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>China tightens overseas travel controls for citizens via exit bans and fines in a sweeping new law, as Beijing moves to secure state secrets and advanced tech (Financial Times)</title>
-<link>https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?accessToken=zwAAAaE7rcwOkc8_KyFyDBpHCNOrolWes36ryAE.MEUCIF5TPf4Ilil-HKIyYENGadXcJURVK74jpV65dTibtulKAiEAvTwPW6Gbs7bPMNfGedXyGaLb9K1-GJfQWuO3M0Kp4GI&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkf4efobx2n</guid>
-<pubDate>Tue, 15 Sep 2026 10:11:02 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying &quot;I earnestly believe that AI has the potential to kill us all&quot; (Debby Wu/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvkenxqx3q27</guid>
-<pubDate>Tue, 15 Sep 2026 10:02:59 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
