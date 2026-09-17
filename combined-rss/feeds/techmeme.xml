@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 17:05:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:17:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Andrew Ng says renewed AI extinction warnings are "much more science fiction than science" and the latest "wave of PR" is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ce7c4afb9cc35330752d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqh477s522d</guid>
+<pubDate>Thu, 17 Sep 2026 20:02:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction" rel="related" type="text/html" />
+<description>Artificial intelligence pioneer Andrew Ng said warnings about existential AI risks from researchers at top model makers are “science fiction” that may be detrimental to ensuring the technology’s maxim...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" alt="" /></p><p>Artificial intelligence pioneer Andrew Ng said warnings about existential AI risks from researchers at top model makers are “science fiction” that may be detrimental to ensuring the technology’s maxim...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>NYT court filing: ChatGPT's head wrote that publishers face an "existential threat" and a Microsoft executive called AI training "an astonishing theft" (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/300cb81155ffe28f993b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqfmssie724</guid>
+<pubDate>Thu, 17 Sep 2026 19:36:13 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3" rel="related" type="text/html" />
+<description>Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content</p><p><a href="https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A survey of 42,151 adults in 36 countries and 8,607 US adults: populations in 34 of 37 surveyed countries expect AI to cause net job loss rather than growth (Pew Research Center)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a1d2c30aa8b47e7e60c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqck32scd2k</guid>
+<pubDate>Thu, 17 Sep 2026 18:40:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/" rel="related" type="text/html" />
+<description>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</description>
+<content:encoded><![CDATA[<p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" alt="" /></p><p>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</p><p><a href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" medium="image" type="image/png" />
+<media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" />
+<enclosure url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" type="image/png" length="0" />
+</item>
+<item>
+<title>Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 (Francesca Maglione/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d29f3b89c67497a026c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvq5rpxrla2e</guid>
+<pubDate>Thu, 17 Sep 2026 17:15:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near" rel="related" type="text/html" />
+<description>The enormous wealth generated by Anthropic and OpenAI is overshadowing layoffs and an uncertain job market in the city.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizEIe10UETaA%2Fv2%2F1200x857.jpg" alt="" /></p><p>The enormous wealth generated by Anthropic and OpenAI is overshadowing layoffs and an uncertain job market in the city.</p><p><a href="https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizEIe10UETaA%2Fv2%2F1200x857.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizEIe10UETaA%2Fv2%2F1200x857.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizEIe10UETaA%2Fv2%2F1200x857.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training (Carmen Arroyo/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/259889bdf6ac9d50fcad.html</link>
@@ -547,11 +603,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting" rel="related" type="text/html" />
-<description>The technically advanced Specs feature an integrated display and a convenient self-contained design.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" alt="" /></p><p>The technically advanced Specs feature an integrated display and a convenient self-contained design.</p><p><a href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+<description>Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)</description>
+<content:encoded><![CDATA[<p>Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)</p><p><a href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting">Open Original Article</a></p>]]></content:encoded>
 </item>
 <item>
 <title>Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an "anticipatory AI service" (Jay Peters/The Verge)</title>
@@ -790,62 +843,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control (Ina Fried/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4e73ba347491c31bf787.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnhifqdxk2w</guid>
-<pubDate>Wed, 16 Sep 2026 15:31:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness" rel="related" type="text/html" />
-<description>The essay arrives amid a pitched debate over how best to make AI safer.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FO-eD9qzP1DQtUOjLH74FdzEmQqg%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F19%2F1779206011456.jpeg" alt="" /></p><p>The essay arrives amid a pitched debate over how best to make AI safer.</p><p><a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FO-eD9qzP1DQtUOjLH74FdzEmQqg%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F19%2F1779206011456.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FO-eD9qzP1DQtUOjLH74FdzEmQqg%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F19%2F1779206011456.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FO-eD9qzP1DQtUOjLH74FdzEmQqg%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F19%2F1779206011456.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>LawZero, a non-profit founded by Yoshua Bengio to develop safe AI systems, says Canada and Germany are providing up to $300M in grant funding (Globe and Mail)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ebe935b69580280b1d3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvngfnxz4a22</guid>
-<pubDate>Wed, 16 Sep 2026 15:12:07 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" rel="related" type="text/html" />
-<description>Montreal group aims to build a system called Scientist AI that would prioritize safety and monitor other models</description>
-<content:encoded><![CDATA[<p><img src="https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt="" /></p><p>Montreal group aims to build a system called Scientist AI that would prioritize safety and monitor other models</p><p><a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.theglobeandmail.com/resizer/v2/M7LK4GDPT5EF5J7M6BBBJUQZHU.jpg?auth=f2fa5bc28caebfe771675e9c28d5002553afee01c719639d3ea4306b0c8b7c2e&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google DeepMind cofounder Shane Legg warns that advancing AI must never run ahead of safety and launches the DeepMind Institute to explore the deployment of AGI (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/15ea19bce595b5de6270.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnfjzg6nn24</guid>
-<pubDate>Wed, 16 Sep 2026 14:56:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e" rel="related" type="text/html" />
-<description>Shane Legg speaks to FT as new DeepMind Institute launches to explore implications of artificial general intelligence, amid growing calls for industry slowdown</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8769987f-4073-46ec-88d1-fbb2e89c62e3.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Shane Legg speaks to FT as new DeepMind Institute launches to explore implications of artificial general intelligence, amid growing calls for industry slowdown</p><p><a href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8769987f-4073-46ec-88d1-fbb2e89c62e3.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8769987f-4073-46ec-88d1-fbb2e89c62e3.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8769987f-4073-46ec-88d1-fbb2e89c62e3.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI is testing Sponsored Agents, which let users chat with business-sponsored agents and visit advertiser websites via ChatGPT ads, with some US advertisers (Anzar Mehraj/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d2931c4233e6644d54f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvneykry4i2r</guid>
-<pubDate>Wed, 16 Sep 2026 14:46:54 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/media-telecom/openai-tests-advertiser-sponsored-agents-expands-ai-tools-chatgpt-ads-2026-09-16/" rel="related" type="text/html" />
-<description>OpenAI said on Wednesday it has introduced AI-powered tools for advertisers and begun testing business-sponsored agents for users to chat with, stepping ​up its push into the increasingly ‌competitive...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDGW2E4JUJFJERCDQPFYG7WRIHQ.jpg%3Fauth%3Dca76bbaca3a36e8f0fe49d20d14aedde24d92724a64f62516f0bb5ce747c09db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>OpenAI said on Wednesday it has introduced AI-powered tools for advertisers and begun testing business-sponsored agents for users to chat with, stepping ​up its push into the increasingly ‌competitive...</p><p><a href="https://www.reuters.com/business/media-telecom/openai-tests-advertiser-sponsored-agents-expands-ai-tools-chatgpt-ads-2026-09-16/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDGW2E4JUJFJERCDQPFYG7WRIHQ.jpg%3Fauth%3Dca76bbaca3a36e8f0fe49d20d14aedde24d92724a64f62516f0bb5ce747c09db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDGW2E4JUJFJERCDQPFYG7WRIHQ.jpg%3Fauth%3Dca76bbaca3a36e8f0fe49d20d14aedde24d92724a64f62516f0bb5ce747c09db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDGW2E4JUJFJERCDQPFYG7WRIHQ.jpg%3Fauth%3Dca76bbaca3a36e8f0fe49d20d14aedde24d92724a64f62516f0bb5ce747c09db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>

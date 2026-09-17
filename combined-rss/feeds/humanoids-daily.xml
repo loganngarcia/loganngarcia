@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 17:05:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:17:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/962f4b4749ca66bf8846.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes</guid>
+<pubDate>Thu, 17 Sep 2026 18:53:35 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes" rel="related" type="text/html" />
+<description>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" alt="" /></p><p>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</p><p><a href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>XPENG’s XPACE Trains IRON With Human Videos and Simulated Mistakes</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c3e94088681e23b24aa9.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-war.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-war.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-war.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tokyo Now Has a Dedicated 911 Service—for Busted Humanoid Robots</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a19ba4fe7716dcc698ff.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tokyo-now-has-a-dedicated-911-service-for-busted-humanoid-robots</guid>
-<pubDate>Tue, 08 Sep 2026 10:55:19 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tokyo-now-has-a-dedicated-911-service-for-busted-humanoid-robots" rel="related" type="text/html" />
-<description>When your $50,000 robotic worker blows an actuator mid-shift, who do you call? GMO AI &amp; Robotics just unleashed Japan’s first "Humanoid Ambulance," complete with mobile triage and robot gurneys.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gmo-humanoid-ambulance.webp" alt="" /></p><p>When your $50,000 robotic worker blows an actuator mid-shift, who do you call? GMO AI &amp; Robotics just unleashed Japan’s first "Humanoid Ambulance," complete with mobile triage and robot gurneys.</p><p><a href="https://www.humanoidsdaily.com/news/tokyo-now-has-a-dedicated-911-service-for-busted-humanoid-robots">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gmo-humanoid-ambulance.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gmo-humanoid-ambulance.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gmo-humanoid-ambulance.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

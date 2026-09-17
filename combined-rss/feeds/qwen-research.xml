@@ -5,8 +5,22 @@
 <link>https://qwen.ai/research</link>
 <description>Qwen Research articles from Qwen's first-party research data with official covers and descriptions.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 17:05:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:17:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/qwen-research.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3195ca010f5c230c590c.html</link>
+<guid isPermaLink="false">combined:fb46c939de61db0ef8d6ec8b75d28c4c985f1593</guid>
+<pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen3.8-omni-flash" rel="related" type="text/html" />
+<description>Today, we are launching Qwen3.8-Omni-Flash, our next-generation native omnimodal model. Its core objective is to strengthen agent capabilities in real-world productivity scenarios, advancing omnimodal models from “understanding omnimodal content” to “planning tasks, calling tools, and completing creative work.” Building on general agentic capabilities in coding, text-based knowledge work, and GUI</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" alt="" /></p><p>Today, we are launching Qwen3.8-Omni-Flash, our next-generation native omnimodal model. Its core objective is to strengthen agent capabilities in real-world productivity scenarios, advancing omnimodal models from “understanding omnimodal content” to “planning tasks, calling tools, and completing creative work.” Building on general agentic capabilities in coding, text-based knowledge work, and GUI</p><p><a href="https://qwen.ai/blog?id=qwen3.8-omni-flash">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" type="image/png" length="0" />
+</item>
 <item>
 <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b8bb5f420aaa59868de7.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01CBLbrb1NJx0kSCqbk_!!6000000001550-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>SAPO: A Stable and Performant Reinforcement Learning Method for Training Large Language Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d5fa28c2d5ba3c581dd.html</link>
-<guid isPermaLink="false">combined:80f2f34b14c60f045bf46538eebaf6a3e3117fe9</guid>
-<pubDate>Thu, 04 Dec 2025 20:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=sapo" rel="related" type="text/html" />
-<description>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimization—where multiple responses are sampled per prompt and their rewards are normalized within the group</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" alt="" /></p><p>Reinforcement learning (RL) has become a core ingredient in advancing the reasoning capabilities of large language models (LLMs). Modern RL pipelines enable models to solve harder mathematical problems, write complex code, and reason over multimodal inputs. In practice, group‑based policy optimization—where multiple responses are sampled per prompt and their rewards are normalized within the group</p><p><a href="https://qwen.ai/blog?id=sapo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN018ECcH61qkAXZSFBFU_!!6000000005533-2-tps-1890-1134.png" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
