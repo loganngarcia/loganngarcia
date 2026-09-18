@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 18 Sep 2026 17:47:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 20:00:20 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)</title>
+<link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
+<pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
+<link>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsttjs2qb2y</guid>
+<pubDate>Fri, 18 Sep 2026 18:55:50 +0000</pubDate>
+<description>States are taking data center and AI policy into their own hands absent federal action.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>States are taking data center and AI policy into their own hands absent federal action.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Sources: the US &quot;almost started a war&quot; after an AI-assisted report hallucinated that a Chinese ship was carrying nuclear weapons components in the Middle East (CNN)</title>
+<link>https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsqsr4wfo2k</guid>
+<pubDate>Fri, 18 Sep 2026 18:01:43 +0000</pubDate>
+<description>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</description>
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</p>]]></content:encoded>
+<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
+<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" />
+</item>
 <item>
 <title>Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic&#x27;s calls to pace the frontier (Reuters)</title>
 <link>https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/</link>
@@ -842,30 +870,6 @@
 <pubDate>Wed, 16 Sep 2026 13:16:16 +0000</pubDate>
 <description>From www.theinformation.com</description>
 <content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites (Adele Peters/Fast Company)</title>
-<link>https://www.fastcompany.com/91607727/what-if-ai-data-centers-didnt-need-new-power-plants</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn6stl2hq22</guid>
-<pubDate>Wed, 16 Sep 2026 12:56:19 +0000</pubDate>
-<description>From www.fastcompany.com</description>
-<content:encoded><![CDATA[<p>From www.fastcompany.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Meta Compute co-lead Dina Powell McCormick, who is using her network to help structure major AI financing, as Mark Zuckerberg focuses on product (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn6ayfhaz2s</guid>
-<pubDate>Wed, 16 Sep 2026 12:46:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Billionaire-backed AI safety activists have significantly expanded their Capitol Hill lobbying, with groups like ControlAI conducting hundreds of meetings (Washington Post)</title>
-<link>https://www.washingtonpost.com/technology/2026/09/16/inside-campaign-convince-washington-that-ai-could-end-human-life/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvn5oskzcl24</guid>
-<pubDate>Wed, 16 Sep 2026 12:36:11 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
