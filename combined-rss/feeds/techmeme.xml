@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 17 Sep 2026 20:17:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 00:59:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c70b5555d0f05cc6fc61.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqw3muzku24</guid>
+<pubDate>Fri, 18 Sep 2026 00:30:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/" rel="related" type="text/html" />
+<description>The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" alt="" /></p><p>The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.</p><p><a href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic says Claude "leads" 26% of its AI R&amp;D work, up from 1% in March, and "collaborates" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cb7082dcf2d99e82ec55.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqtl3pdpo2r</guid>
+<pubDate>Thu, 17 Sep 2026 23:45:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development" rel="related" type="text/html" />
+<description>More than a quarter of Anthropic PBC’s research and development work for artificial intelligence is driven by its Claude chatbot, according to the company, providing the clearest indication yet that A...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fia2oBmcmLuWk%2Fv1%2F1200x804.jpg" alt="" /></p><p>More than a quarter of Anthropic PBC’s research and development work for artificial intelligence is driven by its Claude chatbot, according to the company, providing the clearest indication yet that A...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fia2oBmcmLuWk%2Fv1%2F1200x804.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fia2oBmcmLuWk%2Fv1%2F1200x804.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fia2oBmcmLuWk%2Fv1%2F1200x804.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6135ef1a19c49882127e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqok7n7642y</guid>
+<pubDate>Thu, 17 Sep 2026 22:15:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://claude.com/blog/projects-redesigned" rel="related" type="text/html" />
+<description>A new experience for Claude projects, now available in beta in Claude Code</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" alt="" /></p><p>A new experience for Claude projects, now available in beta in Claude Code</p><p><a href="https://claude.com/blog/projects-redesigned">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" />
+<enclosure url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/363bbead77de9f9f7dbf.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqknhwxb626</guid>
+<pubDate>Thu, 17 Sep 2026 21:06:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://openai.com/index/astra-for-law" rel="related" type="text/html" />
+<description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</description>
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</p><p><a href="https://openai.com/index/astra-for-law">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" />
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
+</item>
+<item>
+<title>Anthropic outlines metrics to track AI development at frontier labs: how much AI R&amp;D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fb225a3bcd845f073284.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqk3h6eod2y</guid>
+<pubDate>Thu, 17 Sep 2026 20:55:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.anthropic.com/institute/measuring-pace-of-ai-development" rel="related" type="text/html" />
+<description>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" alt="" /></p><p>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</p><p><a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" />
+<enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Andrew Ng says renewed AI extinction warnings are "much more science fiction than science" and the latest "wave of PR" is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ce7c4afb9cc35330752d.html</link>
@@ -254,10 +324,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html?unlocked_article_code=1.B1E.qvQg.jAxZEUBJbRwC&amp;smid=bs-share" rel="related" type="text/html" />
 <description>The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.</p><p><a href="https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html?unlocked_article_code=1.B1E.qvQg.jAxZEUBJbRwC&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-largeHorizontalJumbo.jpg" alt="" /></p><p>The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.</p><p><a href="https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html?unlocked_article_code=1.B1E.qvQg.jAxZEUBJbRwC&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-largeHorizontalJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F15%2Fmultimedia%2FAMODEI-WORLD-sub-vfbj%2FAMODEI-WORLD-sub-vfbj-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>The EU details the Kids Act, which would require social networks to use age verification tools to stop under-15s from opening accounts, ban under-13s, and more (Edith Hancock/Wall Street Journal)</title>
@@ -477,8 +547,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM" rel="related" type="text/html" />
-<description>Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEG2Lf1f4gf0%2Fv1%2F1200x800.jpg" alt="" /></p><p>Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM">Open Original Article</a></p>]]></content:encoded>
+<description>Apple Inc. Executive Chairman Tim Cook, OpenAI Chief Executive Officer Sam Altman and Qualcomm Inc. head Cristiano Amon are poised to attend a White House state dinner for Chinese President Xi Jinping...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEG2Lf1f4gf0%2Fv1%2F1200x800.jpg" alt="" /></p><p>Apple Inc. Executive Chairman Tim Cook, OpenAI Chief Executive Officer Sam Altman and Qualcomm Inc. head Cristiano Amon are poised to attend a White House state dinner for Chinese President Xi Jinping...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEG2Lf1f4gf0%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEG2Lf1f4gf0%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEG2Lf1f4gf0%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -603,8 +673,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting" rel="related" type="text/html" />
-<description>Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)</description>
-<content:encoded><![CDATA[<p>Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)</p><p><a href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting">Open Original Article</a></p>]]></content:encoded>
+<description>The technically advanced Specs feature an integrated display and a convenient self-contained design.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" alt="" /></p><p>The technically advanced Specs feature an integrated display and a convenient self-contained design.</p><p><a href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwEKm_Dvq.b0%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an "anticipatory AI service" (Jay Peters/The Verge)</title>
@@ -773,76 +846,6 @@
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675" />
 <enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>DOD CTO Emil Michael says the Trump administration shouldn't take stakes in AI companies and signals opposition to regulatory oversight of AI companies (Kevin Breuninger/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2b035f0be70fe4212f5b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnl4mvmyi26</guid>
-<pubDate>Wed, 16 Sep 2026 16:36:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html" rel="related" type="text/html" />
-<description>President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108300536-1777636415530-gettyimages-2212179187-HILL_VALLEY_FORUM.jpeg?v=1777636438&amp;w=1920&amp;h=1080" alt="" /></p><p>President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.</p><p><a href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108300536-1777636415530-gettyimages-2212179187-HILL_VALLEY_FORUM.jpeg?v=1777636438&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108300536-1777636415530-gettyimages-2212179187-HILL_VALLEY_FORUM.jpeg?v=1777636438&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108300536-1777636415530-gettyimages-2212179187-HILL_VALLEY_FORUM.jpeg?v=1777636438&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A US judge orders X and SpaceXAI to explain why they dropped antitrust claims against Apple, after OpenAI's request for information on the purported agreement (Hassan Ali Kanu/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4b0f3f5e358767cc3e8f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnku5q6t32e</guid>
-<pubDate>Wed, 16 Sep 2026 16:31:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840" rel="related" type="text/html" />
-<description>The ruling was prompted by OpenAI’s request for information on the purported agreement.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe0%252Fa4%252Fa65a942d4084bbf2cf339423be1a%252Fai-safety-slowdown-96482.jpg" alt="" /></p><p>The ruling was prompted by OpenAI’s request for information on the purported agreement.</p><p><a href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe0%252Fa4%252Fa65a942d4084bbf2cf339423be1a%252Fai-safety-slowdown-96482.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe0%252Fa4%252Fa65a942d4084bbf2cf339423be1a%252Fai-safety-slowdown-96482.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe0%252Fa4%252Fa65a942d4084bbf2cf339423be1a%252Fai-safety-slowdown-96482.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Arcee AI, which develops open-weight models in the US, raised a Series B at a $1B pre-money valuation; a source says Arcee raised at least $150M (Allie Garfinkle/Fortune)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8a41cb223bf11f84e093.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnkkq72yq24</guid>
-<pubDate>Wed, 16 Sep 2026 16:26:32 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/" rel="related" type="text/html" />
-<description>Arcee AI isn’t chasing OpenAI, it’s chasing China.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/Mark_HS_HR_Front_105f94-e1789413370814.jpg?resize=1200,600" alt="" /></p><p>Arcee AI isn’t chasing OpenAI, it’s chasing China.</p><p><a href="https://fortune.com/2026/09/16/arcee-ai-trained-four-models-for-20-million-now-its-worth-1-billion/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Mark_HS_HR_Front_105f94-e1789413370814.jpg?resize=1200,600" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Mark_HS_HR_Front_105f94-e1789413370814.jpg?resize=1200,600" />
-<enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Mark_HS_HR_Front_105f94-e1789413370814.jpg?resize=1200,600" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Cohere and Aleph Alpha sign a definitive merger agreement; the combined company will operate as Cohere, with Aleph Alpha co-CEO Ilhan Scheer becoming Cohere COO (Leo Marchandon/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d227e2825f0e2071e0fa.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvnkbunnhd24</guid>
-<pubDate>Wed, 16 Sep 2026 16:21:35 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/" rel="related" type="text/html" />
-<description>Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNNM457HPLNNBRFZNYWP52ZZYGM.jpg%3Fauth%3D90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.</p><p><a href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNNM457HPLNNBRFZNYWP52ZZYGM.jpg%3Fauth%3D90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNNM457HPLNNBRFZNYWP52ZZYGM.jpg%3Fauth%3D90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNNM457HPLNNBRFZNYWP52ZZYGM.jpg%3Fauth%3D90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Noetive, which is developing an industrial AI model for businesses in physical industries, emerges from stealth with a $41M seed led by Eclipse (Sarah Klearman/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1ca8040cf397b0ab259f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvni37zasf2n</guid>
-<pubDate>Wed, 16 Sep 2026 15:42:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/pro/venture-capital/noetive-raises-41-million-to-create-a-chatgpt-moment-for-physical-industries-51645088" rel="related" type="text/html" />
-<description>The AI lab is developing a model that would work alongside businesses in construction, logistics and manufacturing.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" alt="" /></p><p>The AI lab is developing a model that would work alongside businesses in construction, logistics and manufacturing.</p><p><a href="https://www.wsj.com/pro/venture-capital/noetive-raises-41-million-to-create-a-chatgpt-moment-for-physical-industries-51645088">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-48165431%2Fsocial" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
