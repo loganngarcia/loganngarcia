@@ -5,8 +5,62 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 18 Sep 2026 00:59:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 05:44:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Apple plans to launch Apple Pay in India next month with Axis Bank&#x27;s credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)</title>
+<link>https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrgub3zc724</guid>
+<pubDate>Fri, 18 Sep 2026 05:30:56 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrfrmttcq2t</guid>
+<pubDate>Fri, 18 Sep 2026 05:11:34 +0000</pubDate>
+<description>The agent initially launched earlier this month on iOS, Android, and the web, but now, you can use it on your Mac computer, as announced by CEO Mark Zuckerberg. With Muse on Mac, the agent can do things like organize files, fill out forms, and pull information from apps including Messages, Calendar, and Notes, Meta says. [Media: https://www.threads.com/share/Fir0cHsVh/]</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" alt="" /></p><p>The agent initially launched earlier this month on iOS, Android, and the web, but now, you can use it on your Mac computer, as announced by CEO Mark Zuckerberg. With Muse on Mac, the agent can do things like organize files, fill out forms, and pull information from apps including Messages, Calendar, and Notes, Meta says. [Media: https://www.threads.com/share/Fir0cHsVh/]</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" />
+</item>
+<item>
+<title>Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its &quot;monorepo&quot; on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5 (Robert McMillan/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvre5bc4tk2n</guid>
+<pubDate>Fri, 18 Sep 2026 04:42:17 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>PrismML releases Bonsai 2 27B, which compresses Alibaba&#x27;s Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen&#x27;s benchmark scores (Julie Bort/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr6qsotxw2y</guid>
+<pubDate>Fri, 18 Sep 2026 03:05:50 +0000</pubDate>
+<description>If AI lab PrismML isn&#x27;t on your radar yet, it should be.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" alt="" /></p><p>If AI lab PrismML isn&#x27;t on your radar yet, it should be.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" />
+</item>
+<item>
+<title>A federal judge denies OpenAI&#x27;s bid to see SpaceXAI&#x27;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review (Hassan Ali Kanu/Politico)</title>
+<link>https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr35h2rea2s</guid>
+<pubDate>Fri, 18 Sep 2026 02:01:20 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)</title>
+<link>https://www.dwarkesh.com/p/noam-brown</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqzgx2wh626</guid>
+<pubDate>Fri, 18 Sep 2026 01:30:51 +0000</pubDate>
+<description>“We never want to be in a situation again where we underestimate the AI.”</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" alt="" /></p><p>“We never want to be in a situation again where we underestimate the AI.”</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" />
+</item>
 <item>
 <title>The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)</title>
 <link>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</link>
@@ -812,62 +866,6 @@
 <pubDate>Wed, 16 Sep 2026 05:55:55 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A theoretical computer scientist says he has heard rumors that AI labs are sitting on major solutions after a hostile response to the Navier-Stokes proof (Scott Aaronson/Shtetl-Optimized)</title>
-<link>https://scottaaronson.blog/?p=10062</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmgr4vlvp2r</guid>
-<pubDate>Wed, 16 Sep 2026 05:45:52 +0000</pubDate>
-<description>Twenty years ago, when the idea of AI taking over the world in our lifetimes still struck most of us as the unconstrained fantasy of those who knew too much science fiction and too little science, …</description>
-<content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" alt="" /></p><p>Twenty years ago, when the idea of AI taking over the world in our lifetimes still struck most of us as the unconstrained fantasy of those who knew too much science fiction and too little science, …</p>]]></content:encoded>
-<media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" medium="image" />
-<media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" />
-</item>
-<item>
-<title>Police in Gujarat, India, to question Google after uncovering 500K+ Gmail IDs and passwords used to send hoax bomb threats to government offices since 2022 (Munsif Vengattil/Reuters)</title>
-<link>https://www.reuters.com/world/indian-police-query-google-over-500000-fake-gmail-ids-linked-bomb-hoax-2026-09-15/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmg7x3knk2n</guid>
-<pubDate>Wed, 16 Sep 2026 05:36:16 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html?unlocked_article_code=1.BlE.XAsE.kC5KjPe1vsCh&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmecznkmb2y</guid>
-<pubDate>Wed, 16 Sep 2026 05:02:12 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>TypeSafe AI debuts Jev, a model using &quot;Reinforcement Learning for Calibrated Decisions&quot; to produce typed probabilistic decisions that software can use directly (Thomas Claburn/The Register)</title>
-<link>https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvmdxw25fh2n</guid>
-<pubDate>Wed, 16 Sep 2026 04:55:59 +0000</pubDate>
-<description>&#x27;Jev&#x27; doesn&#x27;t chat. It produces typed probabilistic decisions</description>
-<content:encoded><![CDATA[<p><img src="https://image.theregister.com/257943.jpg?imageId=257943&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>&#x27;Jev&#x27; doesn&#x27;t chat. It produces typed probabilistic decisions</p>]]></content:encoded>
-<media:content url="https://image.theregister.com/257943.jpg?imageId=257943&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" />
-<media:thumbnail url="https://image.theregister.com/257943.jpg?imageId=257943&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
-</item>
-<item>
-<title>Google researchers help develop the first complete digital map of an adult male fruit fly&#x27;s brain, which modders programmed to play Doom, trade BTC, and more (Becky Ferreira/404 Media)</title>
-<link>https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvman3uu7l2n</guid>
-<pubDate>Wed, 16 Sep 2026 03:56:15 +0000</pubDate>
-<description>How to make a fly play Doom, Minecraft, Beat Saber, parallel park, trade bitcoin, cut doner kebab, and more.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/flydoom.png" alt="" /></p><p>How to make a fly play Doom, Minecraft, Beat Saber, parallel park, trade bitcoin, cut doner kebab, and more.</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/flydoom.png" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/flydoom.png" />
-</item>
-<item>
-<title>Cybersecurity experts claim that AI leaders&#x27; apocalyptic hacking predictions are technically incoherent and reflect an unfamiliarity with the subject (Kevin Collier/NBC News)</title>
-<link>https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvm5bc5hes2w</guid>
-<pubDate>Wed, 16 Sep 2026 02:55:57 +0000</pubDate>
-<description>Cybersecurity experts told NBC News they were concerned that fundamental issues of cybersecurity weren’t being addressed.</description>
-<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-amodei-altman-vl-445p-daf104.jpg" alt="" /></p><p>Cybersecurity experts told NBC News they were concerned that fundamental issues of cybersecurity weren’t being addressed.</p>]]></content:encoded>
-<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-amodei-altman-vl-445p-daf104.jpg" medium="image" />
-<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-amodei-altman-vl-445p-daf104.jpg" />
 </item>
 </channel>
 </rss>
