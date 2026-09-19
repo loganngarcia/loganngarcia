@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 16:33:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 21:17:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump says he will appoint an AI czar and form an "AI Force", in a Truth Social post that rejects AI safety concerns as a "hoax" (María Paula Mijares Torres/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59eae15698dfaf0814b0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvvcwwdofp2y</guid>
+<pubDate>Sat, 19 Sep 2026 18:31:29 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax" rel="related" type="text/html" />
+<description>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" alt="" /></p><p>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/34979778eeac543ace9e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvvags7vxp2s</guid>
+<pubDate>Sat, 19 Sep 2026 17:46:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share" rel="related" type="text/html" />
+<description>Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F07%2F17%2Fbusiness%2F00draftkings%2F00draftkings-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.</p><p><a href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F07%2F17%2Fbusiness%2F00draftkings%2F00draftkings-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F07%2F17%2Fbusiness%2F00draftkings%2F00draftkings-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F07%2F17%2Fbusiness%2F00draftkings%2F00draftkings-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted "appropriately" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/66fb6faf12d493f74076.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvv52oxhwh2t</guid>
+<pubDate>Sat, 19 Sep 2026 16:46:14 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack" rel="related" type="text/html" />
+<description>Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: the USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft in their dispute with the New York Times (Axios)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a3ccaadf75db9131d984.html</link>
@@ -169,8 +211,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/" rel="related" type="text/html" />
-<description>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
+<description>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in pace.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in pace.</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -804,48 +846,6 @@
 <media:content url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" />
 <enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Andrew Ng says renewed AI extinction warnings are "much more science fiction than science" and the latest "wave of PR" is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ce7c4afb9cc35330752d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqh477s522d</guid>
-<pubDate>Thu, 17 Sep 2026 20:02:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction" rel="related" type="text/html" />
-<description>Artificial intelligence pioneer Andrew Ng said warnings about existential AI risks from researchers at top model makers are “science fiction” that may be detrimental to ensuring the technology’s maxim...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" alt="" /></p><p>Artificial intelligence pioneer Andrew Ng said warnings about existential AI risks from researchers at top model makers are “science fiction” that may be detrimental to ensuring the technology’s maxim...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiETIKZRn5fXU%2Fv1%2F1200x837.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>NYT court filing: ChatGPT's head wrote that publishers face an "existential threat" and a Microsoft executive called AI training "an astonishing theft" (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/300cb81155ffe28f993b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqfmssie724</guid>
-<pubDate>Thu, 17 Sep 2026 19:36:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3" rel="related" type="text/html" />
-<description>Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content</p><p><a href="https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe03d995e-1c30-4258-a36f-3272e9a5dd12.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A survey of 42,151 adults in 36 countries and 8,607 US adults: populations in 34 of 37 surveyed countries expect AI to cause net job loss rather than growth (Pew Research Center)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a1d2c30aa8b47e7e60c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqck32scd2k</guid>
-<pubDate>Thu, 17 Sep 2026 18:40:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/" rel="related" type="text/html" />
-<description>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</description>
-<content:encoded><![CDATA[<p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" alt="" /></p><p>Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.</p><p><a href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" medium="image" type="image/png" />
-<media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" />
-<enclosure url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=1200&amp;h=628&amp;crop=1" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
