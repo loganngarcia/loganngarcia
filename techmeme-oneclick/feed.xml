@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 13:16:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 16:32:50 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: the USPTO and US Copyright Office were surprised by the DOJ&#x27;s brief supporting OpenAI and Microsoft in their dispute with the New York Times (Axios)</title>
+<link>https://www.axios.com/2026/09/19/justice-department-openai-new-york-times</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvv3wkrbfs22</guid>
+<pubDate>Sat, 19 Sep 2026 16:25:59 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/09/16/raindrop-crv-lightspeed-datadog</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvutv24ar62t</guid>
+<pubDate>Sat, 19 Sep 2026 14:02:00 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
 <item>
 <title>ING: India&#x27;s software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country&#x27;s IT industry toward higher-value work (Anup Roy/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says</link>
@@ -218,8 +234,8 @@
 <link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
 <pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
-<content:encoded><![CDATA[<p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
@@ -336,8 +352,8 @@
 <link>https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryqzmi572k</guid>
 <pubDate>Fri, 18 Sep 2026 10:51:15 +0000</pubDate>
-<description>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</description>
-<content:encoded><![CDATA[<p>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Sources: ECB President Christine Lagarde asked Greece to block Binance&#x27;s MiCA license in June at the last minute, aiming to protect the bank&#x27;s &quot;digital euro&quot; (Angus Berwick/Wall Street Journal)</title>
@@ -558,8 +574,8 @@
 <link>https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpyhshzmw2t</guid>
 <pubDate>Thu, 17 Sep 2026 15:40:46 +0000</pubDate>
-<description>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</description>
-<content:encoded><![CDATA[<p>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)</title>
@@ -854,26 +870,6 @@
 <pubDate>Thu, 17 Sep 2026 00:36:52 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an &quot;anticipatory AI service&quot; (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvofohdryg24</guid>
-<pubDate>Thu, 17 Sep 2026 00:31:48 +0000</pubDate>
-<description>Try it in preview in the Specs iOS app.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" alt="" /></p><p>Try it in preview in the Specs iOS app.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&amp;strip=all&amp;crop=5.0466377440347%2C0%2C89.906724511931%2C100&amp;w=1200" />
-</item>
-<item>
-<title>The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 (Justin Papp/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvocdmgv7t2y</guid>
-<pubDate>Wed, 16 Sep 2026 23:32:03 +0000</pubDate>
-<description>The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" alt="" /></p><p>The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
