@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:23:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 13:17:00 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c576187ed957d28db107.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvulpqljcf2w</guid>
+<pubDate>Sat, 19 Sep 2026 11:35:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says" rel="related" type="text/html" />
+<description>India’s outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves up the value chain into services that are harder to automate, according to ING Bank...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" alt="" /></p><p>India’s outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves up the value chain into services that are harder to automate, according to ING Bank...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>1X Aims to Ship 50,000 Robots—But Keeping Them Working Is the Test</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac1ee61fee527c5a3c43.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data</guid>
+<pubDate>Sat, 19 Sep 2026 10:27:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data" rel="related" type="text/html" />
+<description>Bernt Børnich outlines 1X’s shipment ambitions, a mix of home and enterprise deployments, and why he expects broader robot intelligence to gain ground in 2027.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" alt="" /></p><p>Bernt Børnich outlines 1X’s shipment ambitions, a mix of home and enterprise deployments, and why he expects broader robot intelligence to gain ground in 2027.</p><p><a href="https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3abba4897c4dabc44c07.html</link>
@@ -127,8 +155,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/" rel="related" type="text/html" />
-<description>Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an ...</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
+<description>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -974,20 +1002,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWxqUWUNgpWY%2Fv0%2F1200x799.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech (Toby Sterling/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/015833a4535e71dec18c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpznr3tf22s</guid>
-<pubDate>Thu, 17 Sep 2026 16:02:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/" rel="related" type="text/html" />
-<description>Dutch chipmaker Nexperia announced a far-reaching partnership with ‌Tata Electronics on Thursday to manufacture and package computer chips in India, further sealing its split with Chinese parent Wingt...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Dutch chipmaker Nexperia announced a far-reaching partnership with ‌Tata Electronics on Thursday to manufacture and package computer chips in India, further sealing its split with Chinese parent Wingt...</p><p><a href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>XPENG’s XPACE Trains IRON With Human Videos and Simulated Mistakes</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c3e94088681e23b24aa9.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-xpace-iron-human-videos-simulated-recovery</guid>
@@ -1364,20 +1378,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Agile Robots CEO Predicts Physical AI Will Surpass Automotive by 10x</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aef1971314c02799146b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x</guid>
-<pubDate>Thu, 10 Sep 2026 09:20:37 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x" rel="related" type="text/html" />
-<description>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" alt="" /></p><p>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</p><p><a href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Flow Reasoning Models: A New Way for AI to Reason</title>
@@ -1940,6 +1940,20 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
 <guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
@@ -1966,20 +1980,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>

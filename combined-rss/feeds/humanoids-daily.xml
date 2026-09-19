@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:23:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 13:17:00 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>1X Aims to Ship 50,000 Robots—But Keeping Them Working Is the Test</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac1ee61fee527c5a3c43.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data</guid>
+<pubDate>Sat, 19 Sep 2026 10:27:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data" rel="related" type="text/html" />
+<description>Bernt Børnich outlines 1X’s shipment ambitions, a mix of home and enterprise deployments, and why he expects broader robot intelligence to gain ground in 2027.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" alt="" /></p><p>Bernt Børnich outlines 1X’s shipment ambitions, a mix of home and enterprise deployments, and why he expects broader robot intelligence to gain ground in 2027.</p><p><a href="https://www.humanoidsdaily.com/news/1x-50000-robots-bornich-production-data">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bernt-bornich-relentless-interview-lK8lBFAHn7TrBMUIOKlm9YAveQBXGD.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Tesla Reportedly Begins New Optimus Supplier Audits in China</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2236d6f3118949fc25d8.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Agile Robots CEO Predicts Physical AI Will Surpass Automotive by 10x</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aef1971314c02799146b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x</guid>
-<pubDate>Thu, 10 Sep 2026 09:20:37 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x" rel="related" type="text/html" />
-<description>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" alt="" /></p><p>At its Munich Physical AI event, Agile Robots founder Zhaopeng Chen laid out a multi-trillion-dollar vision for humanoids while pushing back on "magic" AI shortcuts on the factory floor.</p><p><a href="https://www.humanoidsdaily.com/news/agile-robots-ceo-predicts-physical-ai-will-surpass-automotive-by-10x">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agile-physical-ai-event-agile-one-walking.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

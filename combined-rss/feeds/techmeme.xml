@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:23:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 13:17:00 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c576187ed957d28db107.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvulpqljcf2w</guid>
+<pubDate>Sat, 19 Sep 2026 11:35:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says" rel="related" type="text/html" />
+<description>India’s outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves up the value chain into services that are harder to automate, according to ING Bank...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" alt="" /></p><p>India’s outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves up the value chain into services that are harder to automate, according to ING Bank...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi24mEBLp0UOI%2Fv1%2F1200x660.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3abba4897c4dabc44c07.html</link>
@@ -127,8 +141,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/" rel="related" type="text/html" />
-<description>Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic is considering rolling out a new AI model to counter OpenAI’s momentum since its launch of GPT-6 Astra, according ​to three sources, ahead of an expected IPO and after its CEO called for an ...</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
+<description>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A potential launch to compete with OpenAI comes after Anthropic's CEO urged a slowdown in the pace of releasing new capabilities.</p><p><a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -832,20 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWxqUWUNgpWY%2Fv0%2F1200x799.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWxqUWUNgpWY%2Fv0%2F1200x799.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWxqUWUNgpWY%2Fv0%2F1200x799.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech (Toby Sterling/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/015833a4535e71dec18c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpznr3tf22s</guid>
-<pubDate>Thu, 17 Sep 2026 16:02:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/" rel="related" type="text/html" />
-<description>Dutch chipmaker Nexperia announced a far-reaching partnership with ‌Tata Electronics on Thursday to manufacture and package computer chips in India, further sealing its split with Chinese parent Wingt...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Dutch chipmaker Nexperia announced a far-reaching partnership with ‌Tata Electronics on Thursday to manufacture and package computer chips in India, further sealing its split with Chinese parent Wingt...</p><p><a href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUKNEZLWN35M55P6VTXY2TIEHOY.jpg%3Fauth%3Dbd710f430deb7f0301abcd11de1c7f3467eb6caf040f4e68cdcf363cd0b42915%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
