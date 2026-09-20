@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 23:13:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 01:15:08 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ffa64a3aa1ae958f3e04.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvvusiqdkf24</guid>
+<pubDate>Sat, 19 Sep 2026 23:51:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
+<description>A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fscience%2F19sci-ai-killswitch%2F19sci-ai-killswitch-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.</p><p><a href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fscience%2F19sci-ai-killswitch%2F19sci-ai-killswitch-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fscience%2F19sci-ai-killswitch%2F19sci-ai-killswitch-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fscience%2F19sci-ai-killswitch%2F19sci-ai-killswitch-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Trump says he will appoint an AI czar and form an "AI Force", in a Truth Social post that rejects AI safety concerns as a "hoax" (María Paula Mijares Torres/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59eae15698dfaf0814b0.html</link>
@@ -972,20 +986,6 @@
 <media:content url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
 <media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" />
 <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
-</item>
-<item>
-<title>Anthropic outlines metrics to track AI development at frontier labs: how much AI R&amp;D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fb225a3bcd845f073284.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqk3h6eod2y</guid>
-<pubDate>Thu, 17 Sep 2026 20:55:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.anthropic.com/institute/measuring-pace-of-ai-development" rel="related" type="text/html" />
-<description>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" alt="" /></p><p>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</p><p><a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" />
-<enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
@@ -1954,20 +1954,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
 <guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
@@ -1980,6 +1966,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
