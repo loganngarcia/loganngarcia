@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 20:17:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 22:32:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)</title>
+<link>https://qwen.ai/blog?id=qwen-image-2.1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvy5xztqkk2r</guid>
+<pubDate>Sun, 20 Sep 2026 21:40:37 +0000</pubDate>
+<description>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" alt="" /></p><p>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" medium="image" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" />
+</item>
 <item>
 <title>Jensen Huang says AI leaders calling for regulation don&#x27;t want new legislation, but to be &quot;relieved of the laws we do have&quot; because of &quot;ulterior reasons&quot; (Truman Dickerson/Business Insider)</title>
 <link>https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9</link>
@@ -378,8 +388,8 @@
 <link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
 <pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
-<content:encoded><![CDATA[<p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
@@ -496,8 +506,8 @@
 <link>https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryqzmi572k</guid>
 <pubDate>Fri, 18 Sep 2026 10:51:15 +0000</pubDate>
-<description>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</description>
-<content:encoded><![CDATA[<p>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Sources: ECB President Christine Lagarde asked Greece to block Binance&#x27;s MiCA license in June at the last minute, aiming to protect the bank&#x27;s &quot;digital euro&quot; (Angus Berwick/Wall Street Journal)</title>
@@ -718,8 +728,8 @@
 <link>https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpyhshzmw2t</guid>
 <pubDate>Thu, 17 Sep 2026 15:40:46 +0000</pubDate>
-<description>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</description>
-<content:encoded><![CDATA[<p>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)</title>
@@ -864,16 +874,6 @@
 <pubDate>Thu, 17 Sep 2026 09:45:44 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Snap is pitching its $2,195 Specs as an enterprise product, inking Salesforce, Amazon, and Nvidia deals to enable visual overlays, alongside consumer features (Boone Ashworth/Wired)</title>
-<link>https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpds2wyy22k</guid>
-<pubDate>Thu, 17 Sep 2026 09:30:42 +0000</pubDate>
-<description>Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" alt="" /></p><p>Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" />
 </item>
 </channel>
 </rss>
