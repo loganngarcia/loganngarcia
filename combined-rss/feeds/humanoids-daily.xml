@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 17:55:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 20:20:37 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>X Square’s Robot Starts Work at Lululemon’s Wuhan Warehouse</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1c6ebdff98265df282df.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse</guid>
+<pubDate>Sun, 20 Sep 2026 19:02:02 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse" rel="related" type="text/html" />
+<description>X Square says its QUANTA X1 Pro is handling parcels at lululemon’s new Wuhan distribution center, adding a named warehouse deployment to its logistics push.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" alt="" /></p><p>X Square says its QUANTA X1 Pro is handling parcels at lululemon’s new Wuhan distribution center, adding a named warehouse deployment to its logistics push.</p><p><a href="https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Why Ningbo Matters to Tesla’s Optimus Ambitions</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/585b6cffa9f113be94f0.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus</guid>
+<pubDate>Sun, 20 Sep 2026 16:11:02 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus" rel="related" type="text/html" />
+<description>Tesla’s reported supplier audits put Ningbo’s automotive expertise in focus, as Georg Stieler highlights the Yangtze River Delta’s role in humanoid robotics.</description>
+<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" alt="" /></p><p>Tesla’s reported supplier audits put Ningbo’s automotive expertise in focus, as Georg Stieler highlights the Yangtze River Delta’s role in humanoid robotics.</p><p><a href="https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" />
+<enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Tesla App Code Hints at Optimus Charging and Home Integration</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b774ea71dc630e4ee796.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>AGIBOT Open-Sources GE-Act 2.0, Challenging Unitree in the Open Embodied AI Race</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ef3c0b8196ecc798846.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race</guid>
-<pubDate>Fri, 11 Sep 2026 15:35:32 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race" rel="related" type="text/html" />
-<description>Hot on the heels of Unitree’s UnifoLM release, AGIBOT has open-sourced GE-Act 2.0, a native World-Action Model pretrained from scratch across 30,000 hours of manipulation data to eliminate the "validity gap."</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" alt="" /></p><p>Hot on the heels of Unitree’s UnifoLM release, AGIBOT has open-sourced GE-Act 2.0, a native World-Action Model pretrained from scratch across 30,000 hours of manipulation data to eliminate the "validity gap."</p><p><a href="https://www.humanoidsdaily.com/news/agibot-open-sources-ge-act-2-0-challenging-unitree-in-the-open-embodied-ai-race">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-ge-act.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Maven Robotics Breaks Stealth With $100M to Tackle Industrial Mixed Palletizing</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0b1d8b3280eb7a53903.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing</guid>
-<pubDate>Fri, 11 Sep 2026 15:10:18 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing" rel="related" type="text/html" />
-<description>Founded by Apple Special Projects Group veterans, Maven Robotics lands $100 million in Series A funding led by RoboStrategy to scale wheeled, dual-arm mobile manipulators across real-world logistics facilities.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" alt="" /></p><p>Founded by Apple Special Projects Group veterans, Maven Robotics lands $100 million in Series A funding led by RoboStrategy to scale wheeled, dual-arm mobile manipulators across real-world logistics facilities.</p><p><a href="https://www.humanoidsdaily.com/news/maven-robotics-breaks-stealth-with-100m-to-tackle-industrial-mixed-palletizing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
