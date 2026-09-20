@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 11:41:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 17:55:44 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c63b151e85a3baa54a72.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvx5utmifl2t</guid>
+<pubDate>Sun, 20 Sep 2026 12:06:10 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099" rel="related" type="text/html" />
+<description>The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0d478ab-501d-43f2-a54d-aa7117a2c1cd.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>The British tech leader on coding as the modern form of literacy, his scepticism of AI evangelists — and why ‘the p(doom) is probably Russia’</p><p><a href="https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0d478ab-501d-43f2-a54d-aa7117a2c1cd.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0d478ab-501d-43f2-a54d-aa7117a2c1cd.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0d478ab-501d-43f2-a54d-aa7117a2c1cd.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9a8f12e485244c6b0a.html</link>
+<guid isPermaLink="false">combined:6e738b4db2be531c77a4ea8a005bda61bbcc0806</guid>
+<pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-2.1" rel="related" type="text/html" />
+<description>We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and native support for generating and editing transparent images. This update introduces four key improvements</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" alt="" /></p><p>We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and native support for generating and editing transparent images. This update introduces four key improvements</p><p><a href="https://qwen.ai/blog?id=qwen-image-2.1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" type="image/png" length="0" />
+</item>
 <item>
 <title>US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7e48a0c302f2896cc7e2.html</link>
@@ -128,10 +156,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&amp;smid=bs-share" rel="related" type="text/html" />
 <description>Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fmultimedia%2F19BIZ-INFLUENCER-LAW-gptk%2F19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.</p><p><a href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fmultimedia%2F19BIZ-INFLUENCER-LAW-gptk%2F19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fmultimedia%2F19BIZ-INFLUENCER-LAW-gptk%2F19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fmultimedia%2F19BIZ-INFLUENCER-LAW-gptk%2F19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/19/multimedia/19BIZ-INFLUENCER-LAW-gptk/19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg" alt="" /></p><p>Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.</p><p><a href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/19/multimedia/19BIZ-INFLUENCER-LAW-gptk/19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/19/multimedia/19BIZ-INFLUENCER-LAW-gptk/19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg" />
+<enclosure url="https://static01.nyt.com/images/2026/09/19/multimedia/19BIZ-INFLUENCER-LAW-gptk/19BIZ-INFLUENCER-LAW-gptk-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself (New York Times)</title>
@@ -449,11 +477,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html" rel="related" type="text/html" />
-<description>Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-facebookJumbo.jpg" alt="" /></p><p>Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.</p><p><a href="https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-facebookJumbo.jpg" type="image/jpeg" length="0" />
+<description>An arbitrator orders Uber to pay $40M to the parents of a woman fatally hit by a car after an Uber driver ordered her out of his car in 2023 (Christine Hauser/New York Times)</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-largeHorizontalJumbo.jpg" alt="" /></p><p>An arbitrator orders Uber to pay $40M to the parents of a woman fatally hit by a car after an Uber driver ordered her out of his car in 2023 (Christine Hauser/New York Times)</p><p><a href="https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-largeHorizontalJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)</title>
@@ -519,11 +547,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share" rel="related" type="text/html" />
-<description>The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.</p><p><a href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<description>Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-largeHorizontalJumbo.jpg" alt="" /></p><p>Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)</p><p><a href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-largeHorizontalJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>London-based AI infrastructure startup Nscale files for a US IPO, reports H1 2026 revenue up 1,252% YoY to $140.6M, with a net loss of $1.02B, up from $368.9M (Jordan Novet/CNBC)</title>
@@ -1000,20 +1028,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image" type="image/png" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" />
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" type="image/png" length="0" />
-</item>
-<item>
-<title>Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its "monorepo" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5 (Robert McMillan/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/caea51e30b65bbd1a1e6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvre5bc4tk2n</guid>
-<pubDate>Fri, 18 Sep 2026 04:42:17 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1" rel="related" type="text/html" />
-<description>A bug-hunting independent security research team was able to access OpenAI’s internal code system, exposing growing risks in automated cyber threats.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" alt="" /></p><p>A bug-hunting independent security research team was able to access OpenAI’s internal code system, exposing growing risks in automated cyber threats.</p><p><a href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
@@ -1940,20 +1954,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -1980,6 +1980,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
@@ -2344,20 +2358,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01Q9UPif1FfSgpkSBnP_!!6000000000514-0-tps-1890-1134.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qwen-Image-Layered: Layered Decomposition for Inherent Editablity</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6b172ec137ee5cd9b66e.html</link>
-<guid isPermaLink="false">combined:604f8697c1919796562574b0e740bf6ffd4988aa</guid>
-<pubDate>Fri, 19 Dec 2025 05:08:30 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-layered" rel="related" type="text/html" />
-<description>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation naturally supports high-fidelity elementary operations-such as resizing, reposition, and recoloring. B</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" alt="" /></p><p>Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation naturally supports high-fidelity elementary operations-such as resizing, reposition, and recoloring. B</p><p><a href="https://qwen.ai/blog?id=qwen-image-layered">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01y9LKxE248WbyrZzFw_!!6000000007346-0-tps-1590-954.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
