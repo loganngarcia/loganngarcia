@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 06:22:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 11:41:40 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7e48a0c302f2896cc7e2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwtsphs5w2k</guid>
+<pubDate>Sun, 20 Sep 2026 09:06:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google" rel="related" type="text/html" />
+<description>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</description>
+<content:encoded><![CDATA[<p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" alt="" /></p><p>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</p><p><a href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" />
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness (Sarah Neville/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5850b34218b8f330db9a.html</link>
@@ -832,20 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7029397f738a2deaae0c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr6qsotxw2y</guid>
-<pubDate>Fri, 18 Sep 2026 03:05:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/" rel="related" type="text/html" />
-<description>If AI lab PrismML isn't on your radar yet, it should be.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" alt="" /></p><p>If AI lab PrismML isn't on your radar yet, it should be.</p><p><a href="https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" medium="image" type="image/png" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" type="image/png" length="0" />
 </item>
 </channel>
 </rss>

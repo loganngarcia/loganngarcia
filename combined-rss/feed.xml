@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 06:22:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 11:41:40 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7e48a0c302f2896cc7e2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwtsphs5w2k</guid>
+<pubDate>Sun, 20 Sep 2026 09:06:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google" rel="related" type="text/html" />
+<description>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</description>
+<content:encoded><![CDATA[<p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" alt="" /></p><p>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</p><p><a href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" />
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Tesla App Code Hints at Optimus Charging and Home Integration</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b774ea71dc630e4ee796.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-app-optimus-charger-home-integration</guid>
+<pubDate>Sun, 20 Sep 2026 07:03:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-app-optimus-charger-home-integration" rel="related" type="text/html" />
+<description>A decompilation of Tesla app 4.61.0 identifies Optimus charger IDs and an energy-site entry, suggesting software preparation without confirming a consumer launch.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-app-code-editorial-illustration-9FCJMEAjzKwhZ572h7k4S9Ig7jXr9j.webp" alt="" /></p><p>A decompilation of Tesla app 4.61.0 identifies Optimus charger IDs and an energy-site entry, suggesting software preparation without confirming a consumer launch.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-app-optimus-charger-home-integration">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-app-code-editorial-illustration-9FCJMEAjzKwhZ572h7k4S9Ig7jXr9j.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-app-code-editorial-illustration-9FCJMEAjzKwhZ572h7k4S9Ig7jXr9j.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-app-code-editorial-illustration-9FCJMEAjzKwhZ572h7k4S9Ig7jXr9j.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>GPT-6 Astra Rarely Refused Unsafe Robot Commands in New Test</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/682e34b2a60d537d744e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/gpt-6-astra-roboharm-unsafe-robot-commands</guid>
+<pubDate>Sun, 20 Sep 2026 06:52:09 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/gpt-6-astra-roboharm-unsafe-robot-commands" rel="related" type="text/html" />
+<description>RoboHarm adds a safety test to Astra’s robotics results: 97 attempts and 60 completions across 100 unsafe-instruction trials, with only two safety refusals.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-harmful.webp" alt="" /></p><p>RoboHarm adds a safety test to Astra’s robotics results: 97 attempts and 60 completions across 100 unsafe-instruction trials, with only two safety refusals.</p><p><a href="https://www.humanoidsdaily.com/news/gpt-6-astra-roboharm-unsafe-robot-commands">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-harmful.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-harmful.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gpt-6-harmful.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness (Sarah Neville/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5850b34218b8f330db9a.html</link>
@@ -974,20 +1016,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93164192%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7029397f738a2deaae0c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr6qsotxw2y</guid>
-<pubDate>Fri, 18 Sep 2026 03:05:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/" rel="related" type="text/html" />
-<description>If AI lab PrismML isn't on your radar yet, it should be.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" alt="" /></p><p>If AI lab PrismML isn't on your radar yet, it should be.</p><p><a href="https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" medium="image" type="image/png" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" type="image/png" length="0" />
-</item>
-<item>
 <title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/962f4b4749ca66bf8846.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes</guid>
@@ -1350,34 +1378,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/maven-robotics.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Skild AI Crosses $100M ARR in 10 Months, Mounting an Enterprise Assault on Robotics "Demo Culture"</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5189cf7789aa808cb34.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/skild-ai-crosses-100m-arr-in-10-months-mounting-an-enterprise-assault-on-robotics-demo-culture</guid>
-<pubDate>Thu, 10 Sep 2026 18:34:03 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/skild-ai-crosses-100m-arr-in-10-months-mounting-an-enterprise-assault-on-robotics-demo-culture" rel="related" type="text/html" />
-<description>Ten months after its first commercial rollout, Skild AI has scaled to $100 million in annual recurring revenue across more than 60 customers, using its deployment milestone to issue a sharp critique of cherry-picked robotics demonstrations.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-founders.webp" alt="" /></p><p>Ten months after its first commercial rollout, Skild AI has scaled to $100 million in annual recurring revenue across more than 60 customers, using its deployment milestone to issue a sharp critique of cherry-picked robotics demonstrations.</p><p><a href="https://www.humanoidsdaily.com/news/skild-ai-crosses-100m-arr-in-10-months-mounting-an-enterprise-assault-on-robotics-demo-culture">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-founders.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-founders.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/skild-ai-founders.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Unitree Begins Open Release of UnifoLM-WLA-1.0 to Tackle Humanoid Generalization</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8c7039513334c0aa75a.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization</guid>
-<pubDate>Thu, 10 Sep 2026 10:07:57 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization" rel="related" type="text/html" />
-<description>Unitree’s UnifoLM-WLA-1.0 combines visual understanding and whole-body control for humanoid tasks. Reasoning-model weights are available, with the full action model still to come.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" alt="" /></p><p>Unitree’s UnifoLM-WLA-1.0 combines visual understanding and whole-body control for humanoid tasks. Reasoning-model weights are available, with the full action model still to come.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-open-sources-unifolm-wla-1-0-to-tackle-humanoid-generalization">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-unifolm-opensourced.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Flow Reasoning Models: A New Way for AI to Reason</title>
@@ -1940,6 +1940,20 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -1966,20 +1980,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
