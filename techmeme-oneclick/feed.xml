@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 14:54:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 20:17:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Jensen Huang says AI leaders calling for regulation don&#x27;t want new legislation, but to be &quot;relieved of the laws we do have&quot; because of &quot;ulterior reasons&quot; (Truman Dickerson/Business Insider)</title>
+<link>https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxywyswzo2y</guid>
+<pubDate>Sun, 20 Sep 2026 20:10:34 +0000</pubDate>
+<description>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" alt="" /></p><p>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" />
+</item>
+<item>
+<title>AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)</title>
+<link>https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxskchscm27</guid>
+<pubDate>Sun, 20 Sep 2026 18:16:05 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003?st=UKxXYi</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxp6q4ors2s</guid>
+<pubDate>Sun, 20 Sep 2026 17:15:56 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)</title>
+<link>https://www.forbes.com/sites/josipamajic/2026/09/19/jev-cuts-ai-decision-costs-100x-and-vercel-cloudflare-rushed-to-add-it/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxkhc2fw424</guid>
+<pubDate>Sun, 20 Sep 2026 15:51:14 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple&#x27;s strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxhpl2crv2s</guid>
+<pubDate>Sun, 20 Sep 2026 15:02:11 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)</title>
 <link>https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099</link>
@@ -336,8 +378,8 @@
 <link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
 <pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<description>From www.coindesk.com</description>
-<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
+<content:encoded><![CDATA[<p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p>]]></content:encoded>
 </item>
 <item>
 <title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
@@ -454,8 +496,8 @@
 <link>https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryqzmi572k</guid>
 <pubDate>Fri, 18 Sep 2026 10:51:15 +0000</pubDate>
-<description>From www.coindesk.com</description>
-<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+<description>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</description>
+<content:encoded><![CDATA[<p>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</p>]]></content:encoded>
 </item>
 <item>
 <title>Sources: ECB President Christine Lagarde asked Greece to block Binance&#x27;s MiCA license in June at the last minute, aiming to protect the bank&#x27;s &quot;digital euro&quot; (Angus Berwick/Wall Street Journal)</title>
@@ -676,8 +718,8 @@
 <link>https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpyhshzmw2t</guid>
 <pubDate>Thu, 17 Sep 2026 15:40:46 +0000</pubDate>
-<description>From www.coindesk.com</description>
-<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+<description>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</description>
+<content:encoded><![CDATA[<p>Legal experts highlight that because zero P2P crypto firms currently hold FCA authorization, all commercial peer-to-peer venues in the U.K. are operating illegally.</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)</title>
@@ -832,48 +874,6 @@
 <content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" alt="" /></p><p>Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.</p>]]></content:encoded>
 <media:content url="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" medium="image" />
 <media:thumbnail url="https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png" />
-</item>
-<item>
-<title>Data center developer Crusoe raised $3.9B co-led by Atreides, Valor, and Mubadala at a ~$30.9B post-money valuation, as it bets on factory-built data centers (Anissa Gardizy/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/the-startup-that-built-openais-biggest-data-center-is-now-making-tiny-ones-71f36a4f?st=RwAtre&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvpcxukdtd2s</guid>
-<pubDate>Thu, 17 Sep 2026 09:16:03 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors (Financial Times)</title>
-<link>https://www.ft.com/content/686429c0-daf3-42a5-9b7c-7ff06eb291ef?accessToken=zwAAAaFF76C6lM8LRcsBf2JBxdOMSBDEfy4a5s8feLaSQ4lJodO9SJAyUswoL89oZCnA2vNCpdObfH_wbrKR79OO2kEvyu1LMdO97rdvyfO6ggE.MEYCIQDk_nprY5ALiEYBTFI1-MWq-aMUgdqVq04zBBUmMP547QIhAO009JNLGixOg1Opoe8lFRxtiKD3Iu4MhkYbOBjKpHm9&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvp2ctx4tv2r</guid>
-<pubDate>Thu, 17 Sep 2026 06:41:08 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models (Yael Grauer/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvozsbmd3x27</guid>
-<pubDate>Thu, 17 Sep 2026 06:31:51 +0000</pubDate>
-<description>Thousands of people have been catfished by scammers supercharged with AI.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Thousands of people have been catfished by scammers supercharged with AI.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>PitchBook: companies developing brain-computer interfaces have already raised more than $1B in 2026, compared with $1.56B in the previous four years combined (Financial Times)</title>
-<link>https://www.ft.com/content/d7650673-23e9-4e41-81c9-d479c24705a0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvoz7o6jou2w</guid>
-<pubDate>Thu, 17 Sep 2026 06:21:27 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvoxshptty2w</guid>
-<pubDate>Thu, 17 Sep 2026 05:56:10 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
