@@ -5,8 +5,61 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 20:40:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 23:38:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b2c543ac59e1c4518c6a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2sxho3d624</guid>
+<pubDate>Mon, 21 Sep 2026 23:01:26 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" rel="related" type="text/html" />
+<description>A simple ClickFix attack is only one way to completely hijack the new agent.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" alt="" /></p><p>A simple ClickFix attack is only one way to completely hijack the new agent.</p><p><a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" />
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5012f299d529a2856b95.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2sncv3j42s</guid>
+<pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568" rel="related" type="text/html" />
+<description>The lawsuit alleges that the AI company failed to notify law enforcement and calls out product safety gaps.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57554777%2Fsocial" alt="" /></p><p>The lawsuit alleges that the AI company failed to notify law enforcement and calls out product safety gaps.</p><p><a href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57554777%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57554777%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57554777%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks" (Xiaomi)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/65539846fc8ff9423ea6.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2q4uhugz27</guid>
+<pubDate>Mon, 21 Sep 2026 22:10:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://mimo.xiaomi.com/mimo-v2-6" rel="related" type="text/html" />
+<description>Introducing the MiMo-V2.6 series: frontier intelligence, all the modalities, built in public.</description>
+<content:encoded><![CDATA[<p>Introducing the MiMo-V2.6 series: frontier intelligence, all the modalities, built in public.</p><p><a href="https://mimo.xiaomi.com/mimo-v2-6">Open Original Article</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e782767b954d6701e5a0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2lf5iajl2y</guid>
+<pubDate>Mon, 21 Sep 2026 20:45:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g" rel="related" type="text/html" />
+<description>The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI’s GPT-4 to do specialized work for lawyers. Recently, however, soaring artificial intelligence costs hav...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiZiVBwlyvCk%2Fv1%2F1200x800.jpg" alt="" /></p><p>The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI’s GPT-4 to do specialized work for lawyers. Recently, however, soaring artificial intelligence costs hav...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiZiVBwlyvCk%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiZiVBwlyvCk%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiZiVBwlyvCk%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ad3e9e834223465da43.html</link>
@@ -890,48 +943,6 @@
 <enclosure url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/30bc04a45666cbe09ee1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvydcev75c24</guid>
-<pubDate>Sun, 20 Sep 2026 23:15:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="related" type="text/html" />
-<description>A top-down tech revolution is harder to manage than a bottom-up one.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" alt="" /></p><p>A top-down tech revolution is harder to manage than a bottom-up one.</p><p><a href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" />
-<enclosure url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9a8f12e485244c6b0a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvy5xztqkk2r</guid>
-<pubDate>Sun, 20 Sep 2026 21:40:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-image-2.1" rel="related" type="text/html" />
-<description>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" alt="" /></p><p>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p><p><a href="https://qwen.ai/blog?id=qwen-image-2.1">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be "relieved of the laws we do have" because of "ulterior reasons" (Truman Dickerson/Business Insider)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bb4fbf2e9746242dc3ee.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxywyswzo2y</guid>
-<pubDate>Sun, 20 Sep 2026 20:10:34 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9" rel="related" type="text/html" />
-<description>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" alt="" /></p><p>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</p><p><a href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" />
-<enclosure url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>X Square’s Robot Starts Work at Lululemon’s Wuhan Warehouse</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1c6ebdff98265df282df.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse</guid>
@@ -946,20 +957,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f6be0150beb995c4b797.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxskchscm27</guid>
-<pubDate>Sun, 20 Sep 2026 18:16:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6" rel="related" type="text/html" />
-<description>Anthropic and OpenAI taking more space in city’s already squeezed prime property market</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40315d96-b33e-46a9-bd9c-a9e7c00b4fc2.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Anthropic and OpenAI taking more space in city’s already squeezed prime property market</p><p><a href="https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40315d96-b33e-46a9-bd9c-a9e7c00b4fc2.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40315d96-b33e-46a9-bd9c-a9e7c00b4fc2.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40315d96-b33e-46a9-bd9c-a9e7c00b4fc2.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Why Ningbo Matters to Tesla’s Optimus Ambitions</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/585b6cffa9f113be94f0.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus</guid>
@@ -972,6 +969,20 @@
 <media:content url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" />
 <enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9a8f12e485244c6b0a.html</link>
+<guid isPermaLink="false">combined:6e738b4db2be531c77a4ea8a005bda61bbcc0806</guid>
+<pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-image-2.1" rel="related" type="text/html" />
+<description>We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and native support for generating and editing transparent images. This update introduces four key improvements</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" alt="" /></p><p>We are excited to open-source Qwen-Image-2.1, an image model in the Qwen family that balances generation quality, inference efficiency, and cost. Qwen-Image-2.1 unifies text-to-image generation and image editing in a single model, with just 7B parameters in its visual generation component and native support for generating and editing transparent images. This update introduces four key improvements</p><p><a href="https://qwen.ai/blog?id=qwen-image-2.1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01XLHYPGwKvuI29R4a_!!6000000005961-2-tps-1060-636.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Tesla App Code Hints at Optimus Charging and Home Integration</title>
@@ -1940,18 +1951,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
@@ -1968,18 +1979,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
@@ -2372,20 +2383,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/ec385139-4e87-42bb-933d-9a33db719a7f/May_2025_research_trend_report.jpg?t=1748926968" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AI Research Roundup: Spurious Rewards &amp; Latest Insights Explored</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33e9be7afb69cc73aad7.html</link>
-<guid isPermaLink="false">combined:8414612b774811f04fccd6fbf0a947c74b114b58</guid>
-<pubDate>Tue, 03 Jun 2025 19:55:07 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9" rel="related" type="text/html" />
-<description>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" alt="" /></p><p>Uncover the latest AI research insights from May 26th to June 2nd: breakthrough studies, industry news, and cutting-edge developments in a concise, accessible weekly roundup.</p><p><a href="https://mail.bycloud.ai/p/a-shocking-rlvr-revelation-for-llm-just-dropped-dacd425f175077f9">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6d21e855-ca01-459a-b19b-a8b5c4cfbb2b/issue_58.jpg?t=1748980487" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
