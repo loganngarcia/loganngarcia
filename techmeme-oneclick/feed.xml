@@ -5,8 +5,236 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 10:50:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 16:46:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as &quot;2.333%&quot; of Cl0p&#x27;s net worth (Alexander Martin/The Record)</title>
+<link>https://therecord.media/shinyhunters-clop-cyberattack-website</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw25fvswlp24</guid>
+<pubDate>Mon, 21 Sep 2026 16:35:48 +0000</pubDate>
+<description>The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.</description>
+<content:encoded><![CDATA[<p><img src="https://cms.therecord.media/uploads/laptop_3_4d42c4a9d1.jpg" alt="" /></p><p>The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.</p>]]></content:encoded>
+<media:content url="https://cms.therecord.media/uploads/laptop_3_4d42c4a9d1.jpg" medium="image" />
+<media:thumbnail url="https://cms.therecord.media/uploads/laptop_3_4d42c4a9d1.jpg" />
+</item>
+<item>
+<title>The EU proposes rules requiring data centers with a capacity of 500+ kW to disclose their energy and water efficiency using an EU-designed labelling system (Kate Abnett/Reuters)</title>
+<link>https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw23yzcs4f24</guid>
+<pubDate>Mon, 21 Sep 2026 16:10:42 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)</title>
+<link>https://x.ai/news/grok-4-7</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw236gmhmy2n</guid>
+<pubDate>Mon, 21 Sep 2026 15:55:50 +0000</pubDate>
+<description>SpaceXAI&#x27;s most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.</description>
+<content:encoded><![CDATA[<p><img src="https://x.ai/images/news/grok-4-7-og.webp" alt="" /></p><p>SpaceXAI&#x27;s most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.</p>]]></content:encoded>
+<media:content url="https://x.ai/images/news/grok-4-7-og.webp" medium="image" />
+<media:thumbnail url="https://x.ai/images/news/grok-4-7-og.webp" />
+</item>
+<item>
+<title>Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)</title>
+<link>https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw22djzelq24</guid>
+<pubDate>Mon, 21 Sep 2026 15:40:48 +0000</pubDate>
+<description>For the past few days, I’ve been testing the (currently) top-of-the-line M5 Ultra Mac Studio with 256 GB of RAM. I’ll cut to the chase: the M5 Ultra Mac Studio is a dream machine for local AI agents. This computer makes it possible to run personal assistants powered by local models with great performance and</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" alt="" /></p><p>For the past few days, I’ve been testing the (currently) top-of-the-line M5 Ultra Mac Studio with 256 GB of RAM. I’ll cut to the chase: the M5 Ultra Mac Studio is a dream machine for local AI agents. This computer makes it possible to run personal assistants powered by local models with great performance and</p>]]></content:encoded>
+<media:content url="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" medium="image" />
+<media:thumbnail url="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" />
+</item>
+<item>
+<title>NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)</title>
+<link>https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw222zpsme2s</guid>
+<pubDate>Mon, 21 Sep 2026 15:36:02 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzywoczmn2s</guid>
+<pubDate>Mon, 21 Sep 2026 15:15:42 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI is developing features to counter SpaceX&#x27;s Grok Bot &quot;teammates&quot;, and has discussed creating a personal AI assistant to compete with Meta&#x27;s Muse (The Information)</title>
+<link>https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzwy3hkj624</guid>
+<pubDate>Mon, 21 Sep 2026 14:40:42 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Q&amp;A with Mark Gurman on the iPhone Duo, breaking Apple news, new AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more (Nilay Patel/The Verge)</title>
+<link>https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzwpobzp424</guid>
+<pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
+<description>Bloomberg’s chief Apple correspondent Mark Gurman on Siri, Tim Cook’s legacy, and what to expect from new CEO John Ternus.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Bloomberg’s chief Apple correspondent Mark Gurman on Siri, Tim Cook’s legacy, and what to expect from new CEO John Ternus.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>US Treasury Secretary Scott Bessent says OpenAI&#x27;s Hugging Face hacking incident is &quot;the responsibility of the OpenAI management, not a bunch of agents&quot; (Yash Roy/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzuhmbvyj2w</guid>
+<pubDate>Mon, 21 Sep 2026 13:55:42 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nscale&#x27;s S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztvpag7w2s</guid>
+<pubDate>Mon, 21 Sep 2026 13:45:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with Google SVP of Devices Rick Osterloh on Googlebooks, which he calls &quot;the ultimate focusing move&quot; for Google, future Pixel Googlebooks, and more (David Pierce/The Verge)</title>
+<link>https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztmoydck24</guid>
+<pubDate>Mon, 21 Sep 2026 13:40:39 +0000</pubDate>
+<description>Don’t call it a Chromebook.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Don’t call it a Chromebook.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Meta enters a voluntary access agreement granting the UK&#x27;s Prospect trade union direct access to recruit its 5,000 UK employees, ahead of new UK employment laws (Delphine Strauss/Financial Times)</title>
+<link>https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztef57so2n</guid>
+<pubDate>Mon, 21 Sep 2026 13:36:00 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>MediaTek unveils the Dimensity CX C10 Max, a 3nm TSMC N3 flagship SoC launching alongside Google&#x27;s new Googlebook lineup, with an 8-core CPU and 11-core GPU (Jake Roach/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzt33nwk32w</guid>
+<pubDate>Mon, 21 Sep 2026 13:30:48 +0000</pubDate>
+<description>The Dimensity CX C10 Max looks awfully similar to the Kompanio Ultra 910.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" alt="" /></p><p>The Dimensity CX C10 Max looks awfully similar to the Kompanio Ultra 910.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" />
+</item>
+<item>
+<title>Googlebook hardware hands-on: Intel Core Ultra Panther Lake or Qualcomm Snapdragon X/X1 Elite CPUs, 16GB to 64GB of RAM, high-resolution OLED displays, and more (Kyle Kucharski/ZDNET)</title>
+<link>https://www.zdnet.com/tech/googlebook-hands-on-acer-asus-dell-hp-lenovo-android-laptops/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzsrzilx724</guid>
+<pubDate>Mon, 21 Sep 2026 13:25:44 +0000</pubDate>
+<description>New Googlebooks from Acer, Asus, Dell, HP, and Lenovo are here - and they may be just what Android users have been waiting for.</description>
+<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" alt="" /></p><p>New Googlebooks from Acer, Asus, Dell, HP, and Lenovo are here - and they may be just what Android users have been waiting for.</p>]]></content:encoded>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" medium="image" />
+<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" />
+</item>
+<item>
+<title>Googlebook OS hands-on: core services like Gmail run as Trusted Web Activities via the Play Store, on-device AI via Gemini Nano, and Pixel-aligned UX elements (Abner Li/9to5Google)</title>
+<link>https://9to5google.com/2026/09/21/googlebook-os-hands-on/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzshf3xue2d</guid>
+<pubDate>Mon, 21 Sep 2026 13:19:47 +0000</pubDate>
+<description>An overwhelming sense of familiarity struck me the first time I used a Googlebook. That was immediately followed by a...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>An overwhelming sense of familiarity struck me the first time I used a Googlebook. That was immediately followed by a...</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Google&#x27;s Googlebook OS, built on Android with a Material 3 Expressive and ChromeOS hybrid UI, offers deep Android 17 integration, 10 years of support, and more (Dominic Preston/The Verge)</title>
+<link>https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzs7zurht22</guid>
+<pubDate>Mon, 21 Sep 2026 13:15:40 +0000</pubDate>
+<description>My next laptop might be a Googlebook.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" alt="" /></p><p>My next laptop might be a Googlebook.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" />
+</item>
+<item>
+<title>Apple Mac Studio (M5 Ultra) review: incredible benchmark scores, high base memory, and a generous number of ultra-fast Thunderbolt 5 ports, but very expensive (Steve Dent/Engadget)</title>
+<link>https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzs5n76i524</guid>
+<pubDate>Mon, 21 Sep 2026 13:14:20 +0000</pubDate>
+<description>At $11,299, the M5 Ultra&#x27;s extra performance over the M5 Max model is only worth it for select buyers.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" alt="" /></p><p>At $11,299, the M5 Ultra&#x27;s extra performance over the M5 Max model is only worth it for select buyers.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" />
+</item>
+<item>
+<title>Mac mini (late 2026) review: strong M6 performance, faster storage over the M4, and small footprint, but pricey storage and memory erode its value proposition (Brandon Hill/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzrx3pofg2d</guid>
+<pubDate>Mon, 21 Sep 2026 13:10:40 +0000</pubDate>
+<description>The Mac mini’s value proposition has evaporated.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" alt="" /></p><p>The Mac mini’s value proposition has evaporated.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" />
+</item>
+<item>
+<title>Google unveils Googlebook hardware, with flagship devices built by Acer, ASUS, Dell, HP, and Lenovo, offering deep Android and AI integration, starting at $899 (Abner Li/9to5Google)</title>
+<link>https://9to5google.com/2026/09/21/googlebook-launch/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzrmb33ak2s</guid>
+<pubDate>Mon, 21 Sep 2026 13:04:37 +0000</pubDate>
+<description>Following the May preview, Google today fully announced Googlebooks ahead of the consumer launch in October. Googlebook OS hands-on: It’s...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Following the May preview, Google today fully announced Googlebooks ahead of the consumer launch in October. Googlebook OS hands-on: It’s...</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Crypto super PAC Fairshake plans to launch a $30M ad blitz against former Democratic Senator Sherrod Brown in the Ohio Senate race, after the Clarity Act failed (Theodore Schleifer/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&amp;smid=url-share/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzolzolbq2s</guid>
+<pubDate>Mon, 21 Sep 2026 12:10:48 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In its first thematic brief, the UN&#x27;s Independent International Scientific Panel on AI urges governments to rein in AI agents before risks are fully understood (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvznrjetg526</guid>
+<pubDate>Mon, 21 Sep 2026 11:55:58 +0000</pubDate>
+<description>The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Filing: Oura is seeking to raise up to $2.2B in its US IPO, marketing 50M shares at $40 to $44 each, giving it a $14.1B valuation at the top of its range (Subrat Patnaik/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzn72e6hv2y</guid>
+<pubDate>Mon, 21 Sep 2026 11:45:39 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate (Kirsten Grind/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzmeiijnk2d</guid>
+<pubDate>Mon, 21 Sep 2026 11:30:47 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Pacing the frontier may be sincere, but it would also be strategically useful for frontier AI labs to have time to reduce overhangs caused by model advancement (Ben Thompson/Stratechery)</title>
+<link>https://stratechery.com/2026/frontier-overhangs/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzlu3moac24</guid>
+<pubDate>Mon, 21 Sep 2026 11:21:37 +0000</pubDate>
+<description>Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.</description>
+<content:encoded><![CDATA[<p><img src="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" alt="" /></p><p>Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.</p>]]></content:encoded>
+<media:content url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" medium="image" />
+<media:thumbnail url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" />
+</item>
+<item>
+<title>Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments (Newley Purnell/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzkytyqp52t</guid>
+<pubDate>Mon, 21 Sep 2026 11:06:23 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek&#x27;s biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)</title>
 <link>https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls</link>
@@ -596,8 +824,8 @@
 <link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
 <pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<description>From www.coindesk.com</description>
-<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
+<content:encoded><![CDATA[<p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p>]]></content:encoded>
 </item>
 <item>
 <title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
@@ -662,222 +890,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsjcktbkt24</guid>
 <pubDate>Fri, 18 Sep 2026 15:47:23 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mind, whose AI agents autonomously handle data loss prevention tasks, raised a $72M Series B, sources say at a $300M valuation, taking its total raised to $112M (Sophie Shulman/CTech)</title>
-<link>https://www.calcalistech.com/ctechnews/article/hklf44yygl</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsgh2mhey2y</guid>
-<pubDate>Fri, 18 Sep 2026 14:56:13 +0000</pubDate>
-<description>MIND has raised $112 million to date and reached a $10 million annual revenue run rate just 18 months after beginning to sell its product, as demand for data loss prevention grows with the adoption of GenAI and AI agents.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" alt="" /></p><p>MIND has raised $112 million to date and reached a $10 million annual revenue run rate just 18 months after beginning to sell its product, as demand for data loss prevention grows with the adoption of GenAI and AI agents.</p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" medium="image" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" />
-</item>
-<item>
-<title>Source: Beijing-based Naive AI, which plans to release its first AI model as early as this month, is now valued at $1.4B after raising $400M in three rounds (Juro Osawa/The Information)</title>
-<link>https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsd3eyell2s</guid>
-<pubDate>Fri, 18 Sep 2026 13:56:00 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A German court says Meta is liable for fake ads posted by third parties on Instagram and Facebook and orders it to remove such content and pay damages (Linda Pasquini/Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsabvidln2k</guid>
-<pubDate>Fri, 18 Sep 2026 13:05:57 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech (Jie Ye-eun/The Korea Herald)</title>
-<link>https://www.koreaherald.com/article/10878747</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvs26hcsrt27</guid>
-<pubDate>Fri, 18 Sep 2026 11:16:39 +0000</pubDate>
-<description>SK hynix said Friday it had launched SK hynix Ventures, a corporate venture capital brand in Silicon Valley, as the memory chipmaker expands its investment acti</description>
-<content:encoded><![CDATA[<p><img src="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" alt="" /></p><p>SK hynix said Friday it had launched SK hynix Ventures, a corporate venture capital brand in Silicon Valley, as the memory chipmaker expands its investment acti</p>]]></content:encoded>
-<media:content url="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" medium="image" />
-<media:thumbnail url="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" />
-</item>
-<item>
-<title>Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrzva6w2h2w</guid>
-<pubDate>Fri, 18 Sep 2026 11:11:30 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The US Treasury sanctions Iranian crypto exchange BitBank, saying it sent hundreds of millions to the IRGC and helped Iran operate a Strait of Hormuz toll booth (Shaurya Malwa/CoinDesk)</title>
-<link>https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryqzmi572k</guid>
-<pubDate>Fri, 18 Sep 2026 10:51:15 +0000</pubDate>
-<description>From www.coindesk.com</description>
-<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: ECB President Christine Lagarde asked Greece to block Binance&#x27;s MiCA license in June at the last minute, aiming to protect the bank&#x27;s &quot;digital euro&quot; (Angus Berwick/Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryaflqeq2t</guid>
-<pubDate>Fri, 18 Sep 2026 10:41:57 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic life sciences head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)</title>
-<link>https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrxw3zwp72y</guid>
-<pubDate>Fri, 18 Sep 2026 10:36:12 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK (Financial Times)</title>
-<link>https://www.ft.com/content/ee1b5a66-24f2-49b8-b26f-895644ebe3f1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrwa4x5w524</guid>
-<pubDate>Fri, 18 Sep 2026 10:06:01 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent (Reuters)</title>
-<link>https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrvgazavg2n</guid>
-<pubDate>Fri, 18 Sep 2026 09:51:32 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Chinese DRAM leader CXMT is preparing to expand into flash memory, competing with Samsung and domestic rival YMTC amid an AI-driven memory shortage (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrr6xgog52r</guid>
-<pubDate>Fri, 18 Sep 2026 08:35:53 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The US CFTC exempts &quot;passive software&quot; providers from broker registration if they never hold user assets, expanding crypto and prediction market online trading (Lydia Beyoud/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-17/cftc-to-expand-crypto-predictions-trading-via-online-platforms</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrjygrmyw2w</guid>
-<pubDate>Fri, 18 Sep 2026 06:26:57 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>World rolls out World Money, a self-custodial financial &quot;super app&quot; in 150+ countries that combines stablecoin payments, trading, earning, and virtual accounts (Jason Shubnell/The Block)</title>
-<link>https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrimmnmde2d</guid>
-<pubDate>Fri, 18 Sep 2026 06:02:27 +0000</pubDate>
-<description>From www.theblock.co</description>
-<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Apple plans to launch Apple Pay in India next month with Axis Bank&#x27;s credit cards; Axis Bank is the fourth-largest credit card issuer in India (Reuters)</title>
-<link>https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrgub3zc724</guid>
-<pubDate>Fri, 18 Sep 2026 05:30:56 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrfrmttcq2t</guid>
-<pubDate>Fri, 18 Sep 2026 05:11:34 +0000</pubDate>
-<description>The agent initially launched earlier this month on iOS, Android, and the web, but now, you can use it on your Mac computer, as announced by CEO Mark Zuckerberg. With Muse on Mac, the agent can do things like organize files, fill out forms, and pull information from apps including Messages, Calendar, and Notes, Meta says. [Media: https://www.threads.com/share/Fir0cHsVh/]</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" alt="" /></p><p>The agent initially launched earlier this month on iOS, Android, and the web, but now, you can use it on your Mac computer, as announced by CEO Mark Zuckerberg. With Muse on Mac, the agent can do things like organize files, fill out forms, and pull information from apps including Messages, Calendar, and Notes, Meta says. [Media: https://www.threads.com/share/Fir0cHsVh/]</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&amp;strip=all&amp;crop=0,0.13712291199202,100,99.725754176016" />
-</item>
-<item>
-<title>Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its &quot;monorepo&quot; on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5 (Robert McMillan/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvre5bc4tk2n</guid>
-<pubDate>Fri, 18 Sep 2026 04:42:17 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>PrismML releases Bonsai 2 27B, which compresses Alibaba&#x27;s Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen&#x27;s benchmark scores (Julie Bort/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr6qsotxw2y</guid>
-<pubDate>Fri, 18 Sep 2026 03:05:50 +0000</pubDate>
-<description>If AI lab PrismML isn&#x27;t on your radar yet, it should be.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" alt="" /></p><p>If AI lab PrismML isn&#x27;t on your radar yet, it should be.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600" />
-</item>
-<item>
-<title>A federal judge denies OpenAI&#x27;s bid to see SpaceXAI&#x27;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review (Hassan Ali Kanu/Politico)</title>
-<link>https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvr35h2rea2s</guid>
-<pubDate>Fri, 18 Sep 2026 02:01:20 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)</title>
-<link>https://www.dwarkesh.com/p/noam-brown</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqzgx2wh626</guid>
-<pubDate>Fri, 18 Sep 2026 01:30:51 +0000</pubDate>
-<description>“We never want to be in a situation again where we underestimate the AI.”</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" alt="" /></p><p>“We never want to be in a situation again where we underestimate the AI.”</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!pbzI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216149332%2Fa3c93af3-89cf-40a6-9391-cf93f8ee707b%2Ftranscoded-1789652569.png" />
-</item>
-<item>
-<title>The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqw3muzku24</guid>
-<pubDate>Fri, 18 Sep 2026 00:30:50 +0000</pubDate>
-<description>The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" alt="" /></p><p>The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024" />
-</item>
-<item>
-<title>Anthropic says Claude &quot;leads&quot; 26% of its AI R&amp;D work, up from 1% in March, and &quot;collaborates&quot; on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqtl3pdpo2r</guid>
-<pubDate>Thu, 17 Sep 2026 23:45:47 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)</title>
-<link>https://claude.com/blog/projects-redesigned</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqok7n7642y</guid>
-<pubDate>Thu, 17 Sep 2026 22:15:49 +0000</pubDate>
-<description>A new experience for Claude projects, now available in beta in Claude Code</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" alt="" /></p><p>A new experience for Claude projects, now available in beta in Claude Code</p>]]></content:encoded>
-<media:content url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" medium="image" />
-<media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aac1eaf2091cb214f764427_og_projects-redesigned.jpg" />
-</item>
-<item>
-<title>OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)</title>
-<link>https://openai.com/index/astra-for-law</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqknhwxb626</guid>
-<pubDate>Thu, 17 Sep 2026 21:06:04 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic outlines metrics to track AI development at frontier labs: how much AI R&amp;D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)</title>
-<link>https://www.anthropic.com/institute/measuring-pace-of-ai-development</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqk3h6eod2y</guid>
-<pubDate>Thu, 17 Sep 2026 20:55:59 +0000</pubDate>
-<description>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" alt="" /></p><p>Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg" />
-</item>
-<item>
-<title>Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation (Micah Barkley/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvqh477s522d</guid>
-<pubDate>Thu, 17 Sep 2026 20:02:43 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
