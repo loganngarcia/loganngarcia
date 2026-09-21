@@ -5,8 +5,72 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 16:46:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 20:39:44 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: SoftBank&#x27;s SB Energy has delayed its IPO, originally planned for this month, as investors question the company&#x27;s sought-after valuation of $50B+ (Maureen Farrell/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2iddob442r</guid>
+<pubDate>Mon, 21 Sep 2026 19:51:14 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2gn25urc2y</guid>
+<pubDate>Mon, 21 Sep 2026 19:20:52 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sensor Tower: Muse was downloaded 902K+ times in the six days after its launch on Sept. 8, vs. Meta AI&#x27;s 773K in the same post-launch period; META jumps 12%+ (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2fsclm3q24</guid>
+<pubDate>Mon, 21 Sep 2026 19:05:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)</title>
+<link>https://openai.com/index/advisory-group-on-mathematics-and-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2dbkfzco2r</guid>
+<pubDate>Mon, 21 Sep 2026 18:20:45 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other&#x27;s models (The Information)</title>
+<link>https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2cz4c5na2y</guid>
+<pubDate>Mon, 21 Sep 2026 18:16:01 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says automated research could improve alignment, but &quot;fully autonomous RSI is not happening today&quot; and shouldn&#x27;t be pursued unless it can be done safely (OpenAI)</title>
+<link>https://openai.com/index/building-standards-next-phase-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2c726u5i2k</guid>
+<pubDate>Mon, 21 Sep 2026 18:01:27 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Ahead of Sam Altman&#x27;s UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems (Maria Curi/Axios)</title>
+<link>https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2a74myun2e</guid>
+<pubDate>Mon, 21 Sep 2026 17:25:42 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Intel, AMD, and Arm shares soar on potential CPU demand sparked by the popularity of Meta&#x27;s Muse; INTC jumps 12%+, AMD is up 8%+, and ARM 15%+ (Adam Clark/Barron&#x27;s Online)</title>
+<link>https://www.barrons.com/articles/intel-stock-price-arm-meta-muse-2a81cacf?st=DS1dmX&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw26u3su3224</guid>
+<pubDate>Mon, 21 Sep 2026 17:01:38 +0000</pubDate>
+<description>From www.barrons.com</description>
+<content:encoded><![CDATA[<p>From www.barrons.com</p>]]></content:encoded>
+</item>
 <item>
 <title>ShinyHunters hijacked the dark web site of cybercrime gang Cl0p, set an eight-figure extortion demand, describing the amount as &quot;2.333%&quot; of Cl0p&#x27;s net worth (Alexander Martin/The Record)</title>
 <link>https://therecord.media/shinyhunters-clop-cyberattack-website</link>
@@ -306,8 +370,8 @@
 <link>https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzbsnnfwt27</guid>
 <pubDate>Mon, 21 Sep 2026 08:21:51 +0000</pubDate>
-<description>Amazon says it has cut off Meta&#x27;s new Muse personal AI agent from shopping on Amazon.com on behalf of customers, citing user data security concerns. It&#x27;s part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" alt="" /></p><p>Amazon says it has cut off Meta&#x27;s new Muse personal AI agent from shopping on Amazon.com on behalf of customers, citing user data security concerns. It&#x27;s part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</p>]]></content:encoded>
+<description>Amazon says it has cut off Meta&#x27;s new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It&#x27;s part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" alt="" /></p><p>Amazon says it has cut off Meta&#x27;s new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It&#x27;s part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</p>]]></content:encoded>
 <media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" medium="image" />
 <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" />
 </item>
@@ -818,80 +882,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" alt="" /></p><p>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" />
-</item>
-<item>
-<title>Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)</title>
-<link>https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
-<pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
-<content:encoded><![CDATA[<p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p>]]></content:encoded>
-</item>
-<item>
-<title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
-<link>https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsttjs2qb2y</guid>
-<pubDate>Fri, 18 Sep 2026 18:55:50 +0000</pubDate>
-<description>States are taking data center and AI policy into their own hands absent federal action.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>States are taking data center and AI policy into their own hands absent federal action.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Sources: the US &quot;almost started a war&quot; after an AI-assisted report hallucinated that a Chinese ship was carrying nuclear weapons components in the Middle East (CNN)</title>
-<link>https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsqsr4wfo2k</guid>
-<pubDate>Fri, 18 Sep 2026 18:01:43 +0000</pubDate>
-<description>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</p>]]></content:encoded>
-<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
-<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" />
-</item>
-<item>
-<title>Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic&#x27;s calls to pace the frontier (Reuters)</title>
-<link>https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvspnhvvnf24</guid>
-<pubDate>Fri, 18 Sep 2026 17:40:52 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)</title>
-<link>https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsnyf4adw27</guid>
-<pubDate>Fri, 18 Sep 2026 17:11:11 +0000</pubDate>
-<description>The two labels filed a new, 45-page lawsuit in the U.S. District Court in the District of Massachusetts against the AI music-generation company.</description>
-<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>The two labels filed a new, 45-page lawsuit in the U.S. District Court in the District of Massachusetts against the AI music-generation company.</p>]]></content:encoded>
-<media:content url="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" medium="image" />
-<media:thumbnail url="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" />
-</item>
-<item>
-<title>Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)</title>
-<link>https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsmlqz2p526</guid>
-<pubDate>Fri, 18 Sep 2026 16:46:13 +0000</pubDate>
-<description>TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" alt="" /></p><p>TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" />
-</item>
-<item>
-<title>Disney hires former Character.AI CEO Karandeep Anand as its first CTO; about a year ago, Disney accused Character.AI of infringing its copyrights (Todd Spangler/Variety)</title>
-<link>https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsl734fzs2s</guid>
-<pubDate>Fri, 18 Sep 2026 16:21:14 +0000</pubDate>
-<description>Disney CEO Josh D&#x27;Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.</description>
-<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Disney CEO Josh D&#x27;Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.</p>]]></content:encoded>
-<media:content url="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" />
-<media:thumbnail url="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" />
-</item>
-<item>
-<title>Gov. Gavin Newsom signs an EO ordering a working group to provide a guide in two months with measures to boost California&#x27;s AI safety and security laws (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsjcktbkt24</guid>
-<pubDate>Fri, 18 Sep 2026 15:47:23 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
