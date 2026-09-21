@@ -5,8 +5,400 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 22:35:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 10:51:29 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b3ff87bb1309ea2a689d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzjktdxzw24</guid>
+<pubDate>Mon, 21 Sep 2026 10:40:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls" rel="related" type="text/html" />
+<description>DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with ...</p><p><a href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>After hacking incidents and the industry's existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ea4176acb8546de67f7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvziz6bgsl2e</guid>
+<pubDate>Mon, 21 Sep 2026 10:30:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
+<description>Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.</p><p><a href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ireland's DPC fines Google €403M over how it processed location data after complaints from European consumer rights groups, and gives it six months to comply (Olivia Fletcher/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/444712824b2ab814c30c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzi655j5f2t</guid>
+<pubDate>Mon, 21 Sep 2026 10:15:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach" rel="related" type="text/html" />
+<description>Ireland’s media watchdog has fined Alphabet Inc.’s Google over how the tech company processed location data after complaints from several European consumer rights organizations.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" alt="" /></p><p>Ireland’s media watchdog has fined Alphabet Inc.’s Google over how the tech company processed location data after complaints from several European consumer rights organizations.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis (Li Yuan/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5a1d169e32789f61a327.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzhnjvak22y</guid>
+<pubDate>Mon, 21 Sep 2026 10:06:22 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share" rel="related" type="text/html" />
+<description>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</p><p><a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Alibaba names senior AI researcher Dayiheng Liu as the head of its Qwen project, bringing clarity after multiple reorganization rounds earlier in 2026 (Juro Osawa/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2d2da568da67dad009ef.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzgsjrv432w</guid>
+<pubDate>Mon, 21 Sep 2026 09:51:16 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team" rel="related" type="text/html" />
+<description>Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter. Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization earlier this year, according to the people. Alibaba’s official website for its annual Apsara tech</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter. Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization earlier this year, according to the people. Alibaba’s official website for its annual Apsara tech</p><p><a href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
+<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work (Toby Sterling/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7522a3f2a26024c4a5d3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzf5dwi7y2y</guid>
+<pubDate>Mon, 21 Sep 2026 09:21:32 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/" rel="related" type="text/html" />
+<description>The relatively small number contrasts with forecasts for ‌a boom in the coming years, particularly in China, the world's largest market for industrial robots.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The relatively small number contrasts with forecasts for ‌a boom in the coming years, particularly in China, the world's largest market for industrial robots.</p><p><a href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>iPhone 18 Pro teardown: its SoC now sits outside the logic board for better cooling, the variable aperture is thoughtfully designed but hard to repair, and more (Elizabeth Chamberlain/iFixit News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/94683c6052726e8a6c62.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzecnlhnl2e</guid>
+<pubDate>Mon, 21 Sep 2026 09:06:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown" rel="related" type="text/html" />
+<description>We tore the iPhone’s first-ever variable aperture camera to pieces. But how difficult and expensive will repairs be if one tiny blade gets stuck?</description>
+<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" alt="" /></p><p>We tore the iPhone’s first-ever variable aperture camera to pieces. But how difficult and expensive will repairs be if one tiny blade gets stuck?</p><p><a href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" />
+<enclosure url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>PrimeBOT Launches Personal Robots at 19,999 Yuan, Betting on Apps and Companionship</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fb1554fcbc2eda592d6a.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/primebot-q1-t1-personal-robots-launch</guid>
+<pubDate>Mon, 21 Sep 2026 08:51:14 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/primebot-q1-t1-personal-robots-launch" rel="related" type="text/html" />
+<description>PrimeBOT opens Chinese sales of Q1 and T1, with October deliveries planned and a business model built around companionship, customization and future content revenue.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-t1-launch-S1vwKJhZRYNjes8ygnkKAHbjVQY2co.webp" alt="" /></p><p>PrimeBOT opens Chinese sales of Q1 and T1, with October deliveries planned and a business model built around companionship, customization and future content revenue.</p><p><a href="https://www.humanoidsdaily.com/news/primebot-q1-t1-personal-robots-launch">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-t1-launch-S1vwKJhZRYNjes8ygnkKAHbjVQY2co.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-t1-launch-S1vwKJhZRYNjes8ygnkKAHbjVQY2co.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-t1-launch-S1vwKJhZRYNjes8ygnkKAHbjVQY2co.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ffa85c28af8aa349d904.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzd53t2zz24</guid>
+<pubDate>Mon, 21 Sep 2026 08:45:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2" rel="related" type="text/html" />
+<description>Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out</p><p><a href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ce20b5919882b47862be.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzbsnnfwt27</guid>
+<pubDate>Mon, 21 Sep 2026 08:21:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/" rel="related" type="text/html" />
+<description>Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com on behalf of customers, citing user data security concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" alt="" /></p><p>Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com on behalf of customers, citing user data security concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</p><p><a href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" medium="image" type="image/png" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" />
+<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" type="image/png" length="0" />
+</item>
+<item>
+<title>South Korea reopens a program letting AI talent fulfill their military obligations by doing research in corporate labs instead of conventional military service (Jo He-rim/The Korea Herald)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c6498021f3c7dee2537b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzb6ohikb27</guid>
+<pubDate>Mon, 21 Sep 2026 08:10:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.koreaherald.com/article/10879596" rel="related" type="text/html" />
+<description>South Korea will allow AI researchers to fulfill their military obligations at large corporate laboratories from 2027, reopening a route closed for 14 years. Bu</description>
+<content:encoded><![CDATA[<p><img src="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" alt="" /></p><p>South Korea will allow AI researchers to fulfill their military obligations at large corporate laboratories from 2027, reopening a route closed for 14 years. Bu</p><p><a href="https://www.koreaherald.com/article/10879596">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" medium="image" type="image/png" />
+<media:thumbnail url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" />
+<enclosure url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" type="image/png" length="0" />
+</item>
+<item>
+<title>How the Clarity Act, heavily lobbied by Coinbase's Brian Armstrong and the crypto industry, and opposed by banks over stablecoin yields, collapsed in the Senate (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cbbc0cf90561484d677c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzadptkze2k</guid>
+<pubDate>Mon, 21 Sep 2026 07:55:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10?st=8EbDYo" rel="related" type="text/html" />
+<description>Coinbase CEO Brian Armstrong was at the center of a protracted fight over the role of digital assets in mainstream finance.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" alt="" /></p><p>Coinbase CEO Brian Armstrong was at the center of a protracted fight over the role of digital assets in mainstream finance.</p><p><a href="https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10?st=8EbDYo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Faraday Future Expands Robot Lineup With $9,990 Master Mini</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a1f6114e00638035a06d.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/faraday-future-master-mini-booster-robot-lineup</guid>
+<pubDate>Mon, 21 Sep 2026 07:40:17 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/faraday-future-master-mini-booster-robot-lineup" rel="related" type="text/html" />
+<description>Faraday Future adds nine configurations across five robot models, while its Master Mini documentation points to Booster hardware behind the $9,990 education humanoid.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-future-919-robot-lineup-kVePN15Rwl4kmjhoy35REtmukCfKVk.webp" alt="" /></p><p>Faraday Future adds nine configurations across five robot models, while its Master Mini documentation points to Booster hardware behind the $9,990 education humanoid.</p><p><a href="https://www.humanoidsdaily.com/news/faraday-future-master-mini-booster-robot-lineup">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-future-919-robot-lineup-kVePN15Rwl4kmjhoy35REtmukCfKVk.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-future-919-robot-lineup-kVePN15Rwl4kmjhoy35REtmukCfKVk.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-future-919-robot-lineup-kVePN15Rwl4kmjhoy35REtmukCfKVk.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>IFR Counts 7,000 Humanoid Sales in 2025—Many for Research</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59f2265dd36835df1150.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment</guid>
+<pubDate>Mon, 21 Sep 2026 07:01:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment" rel="related" type="text/html" />
+<description>Reuters reports IFR counted around 7,000 humanoid sales for industrial and professional use in 2025, highlighting the distinction between robot purchases and productive deployment.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" alt="" /></p><p>Reuters reports IFR counted around 7,000 humanoid sales for industrial and professional use in 2025, highlighting the distinction between robot purchases and productive deployment.</p><p><a href="https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Hyundai Eyes Czech Factory for Atlas Humanoid</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7d998ce777c7d8827d0e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe</guid>
+<pubDate>Mon, 21 Sep 2026 06:39:26 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe" rel="related" type="text/html" />
+<description>Hyundai’s Nošovice plant is discussing Atlas with Boston Dynamics and headquarters, but a European deployment date remains unannounced.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" alt="" /></p><p>Hyundai’s Nošovice plant is discussing Atlas with Boston Dynamics and headquarters, but a European deployment date remains unannounced.</p><p><a href="https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy (Zhang Shidong/South China Morning Post)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/edc1f364a1fc4aef104d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvz27xji3e26</guid>
+<pubDate>Mon, 21 Sep 2026 06:06:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.scmp.com/business/china-business/article/3368185/chinas-collection-stock-stamp-duty-jumps-more-80-ai-frenzy-boosts-trading" rel="related" type="text/html" />
+<description>Average daily trading values on mainland China’s stock markets rose 72 per cent in first eight months of the year.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" alt="" /></p><p>Average daily trading values on mainland China’s stock markets rose 72 per cent in first eight months of the year.</p><p><a href="https://www.scmp.com/business/china-business/article/3368185/chinas-collection-stock-stamp-duty-jumps-more-80-ai-frenzy-boosts-trading">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" />
+<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A researcher used GPT-6 Astra to decipher a WWI German radio transmission from 1918, one of the 50 famous unsolved ciphers listed on a German science blog (prinz)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1fc5f06ab4e0688ad83a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyzn25ce52s</guid>
+<pubDate>Mon, 21 Sep 2026 05:55:33 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio" rel="related" type="text/html" />
+<description>Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" alt="" /></p><p>Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.</p><p><a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" />
+<enclosure url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A detailed recap of the White House's 19-day standoff with Anthropic, where a jailbreak dispute led officials to bluntly order Dario Amodei to take Fable down (Politico)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9975431ca57ad753f90e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyxpwqm5s2w</guid>
+<pubDate>Mon, 21 Sep 2026 05:21:23 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212" rel="related" type="text/html" />
+<description>The president wanted to unleash AI. Then came Anthropic.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe4%252F29%252Fd245f3e746f08e33dbfcab910bbe%252Fwh-ai-anthropic-chairs.jpg" alt="" /></p><p>The president wanted to unleash AI. Then came Anthropic.</p><p><a href="https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe4%252F29%252Fd245f3e746f08e33dbfcab910bbe%252Fwh-ai-anthropic-chairs.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe4%252F29%252Fd245f3e746f08e33dbfcab910bbe%252Fwh-ai-anthropic-chairs.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fe4%252F29%252Fd245f3e746f08e33dbfcab910bbe%252Fwh-ai-anthropic-chairs.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Nine drone startups, including Eric Schmidt-founded Perennial, will split US DoD orders for 60,000 drones in a competition that requires no China-made parts (Steve LeVine/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8a3869dc23373b5ac6b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvywuwmd3624</guid>
+<pubDate>Mon, 21 Sep 2026 05:06:17 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition" rel="related" type="text/html" />
+<description>Last month, the Pentagon threw up its arms in frustration (metaphorically speaking) when most of the drone startups in competition for $300 million in contracts failed to produce aircraft that met a hard-and-fast specification: The drones could contain no Chinese-made components or materials.</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17846/ce601198-b215-4118-8813-1136580f143a-ueXw7i.jpeg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Last month, the Pentagon threw up its arms in frustration (metaphorically speaking) when most of the drone startups in competition for $300 million in contracts failed to produce aircraft that met a hard-and-fast specification: The drones could contain no Chinese-made components or materials.</p><p><a href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17846/ce601198-b215-4118-8813-1136580f143a-ueXw7i.jpeg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17846/ce601198-b215-4118-8813-1136580f143a-ueXw7i.jpeg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17846/ce601198-b215-4118-8813-1136580f143a-ueXw7i.jpeg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Hong Kong-based Qupital, which offers cross-border ecommerce financing to SMEs, raised a $300M Series C led by M Capital as it weighs a possible IPO (FinTech Global)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9bc799a6cc27f4c6476d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyuvfdtw72s</guid>
+<pubDate>Mon, 21 Sep 2026 04:30:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://fintech.global/2026/09/15/qupital-eyes-ipo-after-landmark-300m-series-c-round/" rel="related" type="text/html" />
+<description>Qupital, an AI-driven trade finance platform focused on cross-border e-commerce, has raised $300m in combined new capital, anchored by a Series C funding round aimed at accelerating its expansion into overseas markets. The financing was led by Asia-based asset manager M Capital, with additional asset-backed securities commitments from Mitsubishi UFJ Financial Group (MUFG) and Quester […]</description>
+<content:encoded><![CDATA[<p><img src="https://fintech.global/wp-content/uploads/2026/09/markus-winkler-w0xV13UdREk-unsplash-scaled.jpg" alt="" /></p><p>Qupital, an AI-driven trade finance platform focused on cross-border e-commerce, has raised $300m in combined new capital, anchored by a Series C funding round aimed at accelerating its expansion into overseas markets. The financing was led by Asia-based asset manager M Capital, with additional asset-backed securities commitments from Mitsubishi UFJ Financial Group (MUFG) and Quester […]</p><p><a href="https://fintech.global/2026/09/15/qupital-eyes-ipo-after-landmark-300m-series-c-round/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://fintech.global/wp-content/uploads/2026/09/markus-winkler-w0xV13UdREk-unsplash-scaled.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://fintech.global/wp-content/uploads/2026/09/markus-winkler-w0xV13UdREk-unsplash-scaled.jpg" />
+<enclosure url="https://fintech.global/wp-content/uploads/2026/09/markus-winkler-w0xV13UdREk-unsplash-scaled.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Altis Labs, whose AI model analyzes CT scans taken during oncology trials and produces predictions tied to patient survival, has raised a $25M Series A (Natalie Breymeyer/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd175c21faadec58533a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvytki6pnd2k</guid>
+<pubDate>Mon, 21 Sep 2026 04:06:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/biotech-deals/2026/09/17/altis-labs-series-a-ai-clinical-trial" rel="related" type="text/html" />
+<description>Altis Labs plans to use the Series A to expand its IPRO model across more cancer types.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FR3fo1blm7oqO5etwiDuvCSJrZCc%3D%2F1366x768%2Fsmart%2F2022%2F08%2F23%2F230145-1661295705871.jpg" alt="" /></p><p>Altis Labs plans to use the Series A to expand its IPRO model across more cancer types.</p><p><a href="https://www.axios.com/pro/biotech-deals/2026/09/17/altis-labs-series-a-ai-clinical-trial">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FR3fo1blm7oqO5etwiDuvCSJrZCc%3D%2F1366x768%2Fsmart%2F2022%2F08%2F23%2F230145-1661295705871.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FR3fo1blm7oqO5etwiDuvCSJrZCc%3D%2F1366x768%2Fsmart%2F2022%2F08%2F23%2F230145-1661295705871.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FR3fo1blm7oqO5etwiDuvCSJrZCc%3D%2F1366x768%2Fsmart%2F2022%2F08%2F23%2F230145-1661295705871.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: SoftBank is looking to issue $10B and €1B in debt for its OpenAI investment, in what would be one of the biggest junk bond sales ever (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9287c82f0cf3af037bd9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvysf6lppm26</guid>
+<pubDate>Mon, 21 Sep 2026 03:45:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet" rel="related" type="text/html" />
+<description>SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever, people familiar with the matter said Monday, as billionaire Masayoshi ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXzKpPpPZBIk%2Fv0%2F1200x800.jpg" alt="" /></p><p>SoftBank Group Corp. is seeking the equivalent of more than $11 billion in what would be one of the biggest junk bond deals ever, people familiar with the matter said Monday, as billionaire Masayoshi ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXzKpPpPZBIk%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXzKpPpPZBIk%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXzKpPpPZBIk%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Adaptive, which sells accounting software to construction contractors, raised a $30M Series B led by Tidemark, bringing its total raised to $57M (Ryan Lawler/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/749d7fca6baaf5963439.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyravyhmd2d</guid>
+<pubDate>Mon, 21 Sep 2026 03:25:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/fintech-deals/2026/09/17/adaptive-raises-30m-construction-accounting" rel="related" type="text/html" />
+<description>Contractors need an up-to-date view of a job's cost.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAeCpJi1e6atvVvheZwTxVd9uyuM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F13%2F1778691461002.jpeg" alt="" /></p><p>Contractors need an up-to-date view of a job's cost.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/09/17/adaptive-raises-30m-construction-accounting">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAeCpJi1e6atvVvheZwTxVd9uyuM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F13%2F1778691461002.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAeCpJi1e6atvVvheZwTxVd9uyuM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F13%2F1778691461002.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAeCpJi1e6atvVvheZwTxVd9uyuM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F05%2F13%2F1778691461002.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/46dd7d60525f58da5085.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyq7bwcij2w</guid>
+<pubDate>Mon, 21 Sep 2026 03:06:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>Last year, more than seven million new one-person companies were established in China.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21202219%2Fsocial" alt="" /></p><p>Last year, more than seven million new one-person companies were established in China.</p><p><a href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21202219%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21202219%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-21202219%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b5d0c5240a03bf9d08a9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyloy3rsb26</guid>
+<pubDate>Mon, 21 Sep 2026 01:46:06 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32" rel="related" type="text/html" />
+<description>Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart</p><p><a href="https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures (Natalie Breymeyer/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0eb13c14d36ce7d1cc6b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvylfpzvrh27</guid>
+<pubDate>Mon, 21 Sep 2026 01:40:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/biotech-deals/2026/09/15/mithrl-series-a-biopharma-ai" rel="related" type="text/html" />
+<description>Mithrl is betting drugmakers need AI infrastructure that can work across their existing scientific systems and data.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" alt="" /></p><p>Mithrl is betting drugmakers need AI infrastructure that can work across their existing scientific systems and data.</p><p><a href="https://www.axios.com/pro/biotech-deals/2026/09/15/mithrl-series-a-biopharma-ai">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>UK-based Unit1, which develops "hyper-realistic" digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others (Alex Lawson/The Guardian)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d034d73df335f4d9e28.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyj6tudrv2w</guid>
+<pubDate>Mon, 21 Sep 2026 01:01:17 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians" rel="related" type="text/html" />
+<description>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</description>
+<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" alt="" /></p><p>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</p><p><a href="https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" />
+<enclosure url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>China has made AI a national mission, but local workers' fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/30bc04a45666cbe09ee1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvydcev75c24</guid>
+<pubDate>Sun, 20 Sep 2026 23:15:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="related" type="text/html" />
+<description>A top-down tech revolution is harder to manage than a bottom-up one.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" alt="" /></p><p>A top-down tech revolution is harder to manage than a bottom-up one.</p><p><a href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" />
+<enclosure url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9a8f12e485244c6b0a.html</link>
@@ -282,10 +674,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax" rel="related" type="text/html" />
 <description>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing safety fears.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inqE3LN4YbhQ/v1/1200x800.jpg" alt="" /></p><p>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing safety fears.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inqE3LN4YbhQ/v1/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inqE3LN4YbhQ/v1/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inqE3LN4YbhQ/v1/1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" alt="" /></p><p>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing safety fears.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinqE3LN4YbhQ%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed (New York Times)</title>
@@ -582,230 +974,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18xp-uber-pcqf%2F18xp-uber-pcqf-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3b0af5e35773e61ac831.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt7ucrjdh2r</guid>
-<pubDate>Fri, 18 Sep 2026 22:31:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>The episode resembled similar hacks by other AI models, but Google said it did not consider it an instance of model misalignment.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-67656438%2Fsocial" alt="" /></p><p>The episode resembled similar hacks by other AI models, but Google said it did not consider it an instance of model misalignment.</p><p><a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-67656438%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-67656438%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-67656438%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/44475a3638d5fddaedbd.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt52nk56e2y</guid>
-<pubDate>Fri, 18 Sep 2026 21:40:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc?st=9H74nC&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Investors had expected the Claude maker to debut in October. The AI industry has been grappling with calls to slow down its pace of development.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-78751221%2Fsocial" alt="" /></p><p>Investors had expected the Claude maker to debut in October. The AI industry has been grappling with calls to slow down its pace of development.</p><p><a href="https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc?st=9H74nC&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-78751221%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-78751221%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-78751221%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation (Maria Armental/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/16a3ba9ba4a5e4f51459.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt3wzgxjm26</guid>
-<pubDate>Fri, 18 Sep 2026 21:20:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/pro/private-equity/ai-startup-angle-health-lands-600-million-for-2-7-billion-valuation-df77de76" rel="related" type="text/html" />
-<description>Founded by two ex-Palantir engineers, the startup aims to bring AI-platform power to small-business healthcare benefits.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-72452422%2Fsocial" alt="" /></p><p>Founded by two ex-Palantir engineers, the startup aims to bring AI-platform power to small-business healthcare benefits.</p><p><a href="https://www.wsj.com/pro/private-equity/ai-startup-angle-health-lands-600-million-for-2-7-billion-valuation-df77de76">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-72452422%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-72452422%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-72452422%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic is partnering with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments (Anthropic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/47b87cc27bae1888aaa2.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt2uwykgz2e</guid>
-<pubDate>Fri, 18 Sep 2026 21:01:54 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.anthropic.com/news/accenture-embedded-evaluation" rel="related" type="text/html" />
-<description>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</p><p><a href="https://www.anthropic.com/news/accenture-embedded-evaluation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
-<enclosure url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/75fe515366384554b483.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsz5f55uu2k</guid>
-<pubDate>Fri, 18 Sep 2026 20:30:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share" rel="related" type="text/html" />
-<description>The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.</p><p><a href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F18biz-anthropic-ipo-go-bzlw%2F18biz-anthropic-ipo-go-bzlw-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>London-based AI infrastructure startup Nscale files for a US IPO, reports H1 2026 revenue up 1,252% YoY to $140.6M, with a net loss of $1.02B, up from $368.9M (Jordan Novet/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/35dedfcde90da55f6b13.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsyujy5nn24</guid>
-<pubDate>Fri, 18 Sep 2026 20:25:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html" rel="related" type="text/html" />
-<description>Nscale is the latest artificial intelligence neocloud to turn to public markets.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" alt="" /></p><p>Nscale is the latest artificial intelligence neocloud to turn to public markets.</p><p><a href="https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google is testing a new version of its AI agent CC, pivoting the tool from an individual productivity assistant into a collaborative household management agent (Sarah Perez/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/96293117e2edc7c5f367.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsxzq3auy2s</guid>
-<pubDate>Fri, 18 Sep 2026 20:10:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/" rel="related" type="text/html" />
-<description>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" alt="" /></p><p>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</p><p><a href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" medium="image" type="image/webp" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" type="image/webp" length="0" />
-</item>
-<item>
-<title>Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fb8de3574a88e2e98617.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsvs72fgp2d</guid>
-<pubDate>Fri, 18 Sep 2026 19:30:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round" rel="related" type="text/html" />
-<description>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" alt="" /></p><p>Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.</p><p><a href="https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" />
-<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/7d7fa3eb980a963484b88dc6e702539fda68b6b7-1280x853.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/802486953da21839a5cb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsttjs2qb2y</guid>
-<pubDate>Fri, 18 Sep 2026 18:55:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force" rel="related" type="text/html" />
-<description>States are taking data center and AI policy into their own hands absent federal action.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>States are taking data center and AI policy into their own hands absent federal action.</p><p><a href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: the US "almost started a war" after an AI-assisted report hallucinated that a Chinese ship was carrying nuclear weapons components in the Middle East (CNN)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/176ec7b3e8f00f608e60.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsqsr4wfo2k</guid>
-<pubDate>Fri, 18 Sep 2026 18:01:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship" rel="related" type="text/html" />
-<description>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war</p><p><a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" />
-<enclosure url="https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&amp;q=w_800,c_fill" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f00eb8d67f66ad12d73b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvspnhvvnf24</guid>
-<pubDate>Fri, 18 Sep 2026 17:40:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/" rel="related" type="text/html" />
-<description>Europe's leading AI company ​Mistral and others have accused US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls for advanced developers to ‌slow down as Europe...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FKV6RATMBDRNF7MP3Q36IDFIPSI.jpg%3Fauth%3D1da91113293eb1cafe3c1de25909f364fa892f8343b0de78d62443072eaab1a5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Europe's leading AI company ​Mistral and others have accused US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls for advanced developers to ‌slow down as Europe...</p><p><a href="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FKV6RATMBDRNF7MP3Q36IDFIPSI.jpg%3Fauth%3D1da91113293eb1cafe3c1de25909f364fa892f8343b0de78d62443072eaab1a5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FKV6RATMBDRNF7MP3Q36IDFIPSI.jpg%3Fauth%3D1da91113293eb1cafe3c1de25909f364fa892f8343b0de78d62443072eaab1a5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FKV6RATMBDRNF7MP3Q36IDFIPSI.jpg%3Fauth%3D1da91113293eb1cafe3c1de25909f364fa892f8343b0de78d62443072eaab1a5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/51726eaf871b0ea47e3a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsnyf4adw27</guid>
-<pubDate>Fri, 18 Sep 2026 17:11:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/" rel="related" type="text/html" />
-<description>The two labels filed a new, 45-page lawsuit in the U.S. District Court in the District of Massachusetts against the AI music-generation company.</description>
-<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>The two labels filed a new, 45-page lawsuit in the U.S. District Court in the District of Massachusetts against the AI music-generation company.</p><p><a href="https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" medium="image" type="image/png" />
-<media:thumbnail url="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" />
-<enclosure url="https://variety.com/wp-content/uploads/2026/06/Suno_1-1.png?w=1000&amp;h=563&amp;crop=1" type="image/png" length="0" />
-</item>
-<item>
-<title>Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1df9d681963b7a40d168.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsmlqz2p526</guid>
-<pubDate>Fri, 18 Sep 2026 16:46:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/" rel="related" type="text/html" />
-<description>TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" alt="" /></p><p>TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.</p><p><a href="https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" />
-<enclosure url="https://media.wired.com/photos/6aac35420820a9282b5f1721/191:100/w_1280,c_limit/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Disney hires former Character.AI CEO Karandeep Anand as its first CTO; about a year ago, Disney accused Character.AI of infringing its copyrights (Todd Spangler/Variety)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2f00b8f361fcd60ee298.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsl734fzs2s</guid>
-<pubDate>Fri, 18 Sep 2026 16:21:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/" rel="related" type="text/html" />
-<description>Disney CEO Josh D'Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.</description>
-<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Disney CEO Josh D'Amaro hired Karandeep Anand, ex-CEO of Character.AI and former Facebook and Microsoft exec, as its first chief technology officer.</p><p><a href="https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" />
-<enclosure url="https://variety.com/wp-content/uploads/2026/09/Karandeep-Anand-Disney.jpg?w=1000&amp;h=563&amp;crop=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Gov. Gavin Newsom signs an EO ordering a working group to provide a guide in two months with measures to boost California's AI safety and security laws (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/24061434e53a7ad9fabe.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsjcktbkt24</guid>
-<pubDate>Fri, 18 Sep 2026 15:47:23 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california" rel="related" type="text/html" />
-<description>California Governor Gavin Newsom issued an executive order on Friday pushing to implement guardrails on artificial intelligence in the state that’s the epicenter of the technology’s boom.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3W3JthlrnN4%2Fv1%2F1200x800.jpg" alt="" /></p><p>California Governor Gavin Newsom issued an executive order on Friday pushing to implement guardrails on artificial intelligence in the state that’s the epicenter of the technology’s boom.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3W3JthlrnN4%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3W3JthlrnN4%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3W3JthlrnN4%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Mind, whose AI agents autonomously handle data loss prevention tasks, raised a $72M Series B, sources say at a $300M valuation, taking its total raised to $112M (Sophie Shulman/CTech)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/68b913c52ae42f4e6dd8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsgh2mhey2y</guid>
-<pubDate>Fri, 18 Sep 2026 14:56:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.calcalistech.com/ctechnews/article/hklf44yygl" rel="related" type="text/html" />
-<description>MIND has raised $112 million to date and reached a $10 million annual revenue run rate just 18 months after beginning to sell its product, as demand for data loss prevention grows with the adoption of GenAI and AI agents.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" alt="" /></p><p>MIND has raised $112 million to date and reached a $10 million annual revenue run rate just 18 months after beginning to sell its product, as demand for data loss prevention grows with the adoption of GenAI and AI agents.</p><p><a href="https://www.calcalistech.com/ctechnews/article/hklf44yygl">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" />
-<enclosure url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/16/SkM7yy00Kze/SkM7yy00Kze_0_18_1280_721_0_large.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Tesla Reportedly Begins New Optimus Supplier Audits in China</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2236d6f3118949fc25d8.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-supplier-audits-china</guid>
@@ -818,34 +986,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-fremont-factory.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-fremont-factory.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-fremont-factory.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Source: Beijing-based Naive AI, which plans to release its first AI model as early as this month, is now valued at $1.4B after raising $400M in three rounds (Juro Osawa/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/252d03d94899c4302476.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsd3eyell2s</guid>
-<pubDate>Fri, 18 Sep 2026 13:56:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation" rel="related" type="text/html" />
-<description>A secretive Chinese AI model startup founded in February by a Tsinghua University professor is now valued at more than $1.4 billion, after raising $400 million in three funding rounds from investors including Tencent, according to a person with direct knowledge of the matter. Beijing-based Naive ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17841/4879bea1-4cc3-4d6e-8b41-6860e8988648.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>A secretive Chinese AI model startup founded in February by a Tsinghua University professor is now valued at more than $1.4 billion, after raising $400 million in three funding rounds from investors including Tencent, according to a person with direct knowledge of the matter. Beijing-based Naive ...</p><p><a href="https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17841/4879bea1-4cc3-4d6e-8b41-6860e8988648.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17841/4879bea1-4cc3-4d6e-8b41-6860e8988648.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17841/4879bea1-4cc3-4d6e-8b41-6860e8988648.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A German court says Meta is liable for fake ads posted by third parties on Instagram and Facebook and orders it to remove such content and pay damages (Linda Pasquini/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0de6f64d007a44ce39de.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsabvidln2k</guid>
-<pubDate>Fri, 18 Sep 2026 13:05:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/" rel="related" type="text/html" />
-<description>A German court has ruled that Meta is liable for fake advertisements posted by third parties ​on its Instagram and Facebook platforms, and ordered the ‌U.S. tech giant to remove such content and pay d...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F25IMSBZMLROEBNUOMPYKFSOO6U.jpg%3Fauth%3D06146b44c36df6b302f58668c3ce2ff8a1fd43c4eec67f4aeda5a036db062e9d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A German court has ruled that Meta is liable for fake advertisements posted by third parties ​on its Instagram and Facebook platforms, and ordered the ‌U.S. tech giant to remove such content and pay d...</p><p><a href="https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F25IMSBZMLROEBNUOMPYKFSOO6U.jpg%3Fauth%3D06146b44c36df6b302f58668c3ce2ff8a1fd43c4eec67f4aeda5a036db062e9d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F25IMSBZMLROEBNUOMPYKFSOO6U.jpg%3Fauth%3D06146b44c36df6b302f58668c3ce2ff8a1fd43c4eec67f4aeda5a036db062e9d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F25IMSBZMLROEBNUOMPYKFSOO6U.jpg%3Fauth%3D06146b44c36df6b302f58668c3ce2ff8a1fd43c4eec67f4aeda5a036db062e9d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Spirit AI Predicts a Robot-Brain Breakthrough in 2027</title>
@@ -902,90 +1042,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech (Jie Ye-eun/The Korea Herald)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b92ed0ee2227e564b449.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvs26hcsrt27</guid>
-<pubDate>Fri, 18 Sep 2026 11:16:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.koreaherald.com/article/10878747" rel="related" type="text/html" />
-<description>SK hynix said Friday it had launched SK hynix Ventures, a corporate venture capital brand in Silicon Valley, as the memory chipmaker expands its investment acti</description>
-<content:encoded><![CDATA[<p><img src="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" alt="" /></p><p>SK hynix said Friday it had launched SK hynix Ventures, a corporate venture capital brand in Silicon Valley, as the memory chipmaker expands its investment acti</p><p><a href="https://www.koreaherald.com/article/10878747">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" />
-<enclosure url="https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.4fd0dc550214436a86d9ade7dabd70e5_P1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/769fdfb06b248fda827d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrzva6w2h2w</guid>
-<pubDate>Fri, 18 Sep 2026 11:11:30 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/" rel="related" type="text/html" />
-<description>Chipmaker SK Hynix's subsidiary Solidigm is considering building a NAND flash memory chip factory in the ​US, with upstate New York emerging as a leading candidate, three people familiar with the matt...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZQ2UGEVFMJJXRNBX4RUK67MUYM.jpg%3Fauth%3Dfc73c8a3a5dfb573c7cd36fc27e78322aa8b2d5cc4f500fa82c006e637a78f00%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chipmaker SK Hynix's subsidiary Solidigm is considering building a NAND flash memory chip factory in the ​US, with upstate New York emerging as a leading candidate, three people familiar with the matt...</p><p><a href="https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZQ2UGEVFMJJXRNBX4RUK67MUYM.jpg%3Fauth%3Dfc73c8a3a5dfb573c7cd36fc27e78322aa8b2d5cc4f500fa82c006e637a78f00%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZQ2UGEVFMJJXRNBX4RUK67MUYM.jpg%3Fauth%3Dfc73c8a3a5dfb573c7cd36fc27e78322aa8b2d5cc4f500fa82c006e637a78f00%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZQ2UGEVFMJJXRNBX4RUK67MUYM.jpg%3Fauth%3Dfc73c8a3a5dfb573c7cd36fc27e78322aa8b2d5cc4f500fa82c006e637a78f00%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The US Treasury sanctions Iranian crypto exchange BitBank, saying it sent hundreds of millions to the IRGC and helped Iran operate a Strait of Hormuz toll booth (Shaurya Malwa/CoinDesk)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc8180a60dd3a4256ed7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryqzmi572k</guid>
-<pubDate>Fri, 18 Sep 2026 10:51:15 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says" rel="related" type="text/html" />
-<description>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" alt="" /></p><p>The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.</p><p><a href="https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" />
-<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: ECB President Christine Lagarde asked Greece to block Binance's MiCA license in June at the last minute, aiming to protect the bank's "digital euro" (Angus Berwick/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/443032fd5c181b80a9aa.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvryaflqeq2t</guid>
-<pubDate>Fri, 18 Sep 2026 10:41:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d" rel="related" type="text/html" />
-<description>The ECB chief intervened to keep crypto’s biggest player, which pleaded guilty to financial-crime violations in the U.S., from operating in the EU.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-82387593%2Fsocial" alt="" /></p><p>The ECB chief intervened to keep crypto’s biggest player, which pleaded guilty to financial-crime violations in the U.S., from operating in the EU.</p><p><a href="https://www.wsj.com/finance/currencies/christine-lagarde-helped-block-binances-foothold-in-europe-d905c86d">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-82387593%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-82387593%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-82387593%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic life sciences head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/80ff9de7e3d1644a6e91.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrxw3zwp72y</guid>
-<pubDate>Fri, 18 Sep 2026 10:36:12 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/" rel="related" type="text/html" />
-<description>At a time when fears of AI are gripping the public, the startup has built a wet lab — or ​place for physical experiments — in the San Francisco Bay Area, two people familiar with the matter said.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FMEPMYDZZIRNTJJXOEOYU2N65NM.jpg%3Fauth%3D5562a23ffe3831bbd1db107d2b1aa18781c45d565c37f283a7a8cfab25b9e7cb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>At a time when fears of AI are gripping the public, the startup has built a wet lab — or ​place for physical experiments — in the San Francisco Bay Area, two people familiar with the matter said.</p><p><a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FMEPMYDZZIRNTJJXOEOYU2N65NM.jpg%3Fauth%3D5562a23ffe3831bbd1db107d2b1aa18781c45d565c37f283a7a8cfab25b9e7cb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FMEPMYDZZIRNTJJXOEOYU2N65NM.jpg%3Fauth%3D5562a23ffe3831bbd1db107d2b1aa18781c45d565c37f283a7a8cfab25b9e7cb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FMEPMYDZZIRNTJJXOEOYU2N65NM.jpg%3Fauth%3D5562a23ffe3831bbd1db107d2b1aa18781c45d565c37f283a7a8cfab25b9e7cb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d38a2f5c6b3c7ba9e973.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvrwa4x5w524</guid>
-<pubDate>Fri, 18 Sep 2026 10:06:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/ee1b5a66-24f2-49b8-b26f-895644ebe3f1" rel="related" type="text/html" />
-<description>Fintech’s chief executive says US market offers greater liquidity and more institutional investors</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb201810-b101-4f67-97c2-29f061cf240f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Fintech’s chief executive says US market offers greater liquidity and more institutional investors</p><p><a href="https://www.ft.com/content/ee1b5a66-24f2-49b8-b26f-895644ebe3f1">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb201810-b101-4f67-97c2-29f061cf240f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb201810-b101-4f67-97c2-29f061cf240f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb201810-b101-4f67-97c2-29f061cf240f.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning.</title>
@@ -1322,62 +1378,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-robot-vehicle-clip-9cupQLgckMGuJh0vJt9YslP7ZmOjNH.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-robot-vehicle-clip-9cupQLgckMGuJh0vJt9YslP7ZmOjNH.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-robot-vehicle-clip-9cupQLgckMGuJh0vJt9YslP7ZmOjNH.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Unitree launches G1+ with stronger motors, a moving neck and a $15,000 price</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b8248dc3bc781404739f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-launches-g1-plus-humanoid-with-stronger-motors-and-moving-neck</guid>
-<pubDate>Mon, 14 Sep 2026 14:16:37 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/unitree-launches-g1-plus-humanoid-with-stronger-motors-and-moving-neck" rel="related" type="text/html" />
-<description>Unitree’s G1+ adds two neck joints, stronger motors and revised sensing. The base model lists at $15,000 before tax and shipping.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1plus-moving-neck-Zw5CCGtO8YinfyDbIyglqZv3V52LFR.webp" alt="" /></p><p>Unitree’s G1+ adds two neck joints, stronger motors and revised sensing. The base model lists at $15,000 before tax and shipping.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-launches-g1-plus-humanoid-with-stronger-motors-and-moving-neck">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1plus-moving-neck-Zw5CCGtO8YinfyDbIyglqZv3V52LFR.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1plus-moving-neck-Zw5CCGtO8YinfyDbIyglqZv3V52LFR.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1plus-moving-neck-Zw5CCGtO8YinfyDbIyglqZv3V52LFR.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Sharpa Wave: the robotic hand used by NVIDIA and DeepMind</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7138fd406b5383d3b060.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/sharpa-wave-hand-guide</guid>
-<pubDate>Mon, 14 Sep 2026 14:11:33 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/features/sharpa-wave-hand-guide" rel="related" type="text/html" />
-<description>How Sharpa Wave gained a place in NVIDIA and DeepMind’s robotics programs, with a guide to its tactile sensing, specifications and software.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sharpawave-gemini-robotics-2-9B1ii3V2EjQq31BHhPBwW2vjVIHoWr.webp" alt="" /></p><p>How Sharpa Wave gained a place in NVIDIA and DeepMind’s robotics programs, with a guide to its tactile sensing, specifications and software.</p><p><a href="https://www.humanoidsdaily.com/features/sharpa-wave-hand-guide">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sharpawave-gemini-robotics-2-9B1ii3V2EjQq31BHhPBwW2vjVIHoWr.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sharpawave-gemini-robotics-2-9B1ii3V2EjQq31BHhPBwW2vjVIHoWr.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apollo-sharpawave-gemini-robotics-2-9B1ii3V2EjQq31BHhPBwW2vjVIHoWr.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Inside UBTECH’s 10,000-Unit Super Factory: How Robots Are Building Humanoids in Liuzhou</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8199ca3be68e612134fd.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou</guid>
-<pubDate>Sun, 13 Sep 2026 06:32:43 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou" rel="related" type="text/html" />
-<description>UBTECH has commissioned a 14,000-square-meter smart manufacturing facility in Guangxi engineered to produce a humanoid every 10 minutes, scaling up the industry’s hardware volume race.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" alt="" /></p><p>UBTECH has commissioned a 14,000-square-meter smart manufacturing facility in Guangxi engineered to produce a humanoid every 10 minutes, scaling up the industry’s hardware volume race.</p><p><a href="https://www.humanoidsdaily.com/news/inside-ubtech-s-10-000-unit-super-factory-how-robots-are-building-humanoids-in-liuzhou">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-walkers-hanging.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>The Humanoids of Europe: Built by Their Customers</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e8aeaff5266032bee805.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/the-humanoids-of-europe</guid>
-<pubDate>Sat, 12 Sep 2026 10:32:54 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/features/the-humanoids-of-europe" rel="related" type="text/html" />
-<description>While the coverage stays fixed on China and the United States, seven European companies have quietly signed deployment commitments running into the thousands of units. Europe's humanoid sector is being built by its buyers.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" alt="" /></p><p>While the coverage stays fixed on China and the United States, seven European companies have quietly signed deployment commitments running into the thousands of units. Europe's humanoid sector is being built by its buyers.</p><p><a href="https://www.humanoidsdaily.com/features/the-humanoids-of-europe">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoids-of-europe.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Flow Reasoning Models: A New Way for AI to Reason</title>
@@ -1954,20 +1954,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -1980,6 +1966,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
