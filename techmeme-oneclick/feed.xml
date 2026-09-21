@@ -5,8 +5,42 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 20:39:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 23:38:02 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A researcher says a flaw in Meta&#x27;s Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)</title>
+<link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2sxho3d624</guid>
+<pubDate>Mon, 21 Sep 2026 23:01:26 +0000</pubDate>
+<description>A simple ClickFix attack is only one way to completely hijack the new agent.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" alt="" /></p><p>A simple ClickFix attack is only one way to completely hijack the new agent.</p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" medium="image" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" />
+</item>
+<item>
+<title>British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect&#x27;s ChatGPT activity to police (Georgia Wells/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2sncv3j42s</guid>
+<pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &quot;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&quot; (Xiaomi)</title>
+<link>https://mimo.xiaomi.com/mimo-v2-6</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2q4uhugz27</guid>
+<pubDate>Mon, 21 Sep 2026 22:10:46 +0000</pubDate>
+<description>Introducing the MiMo-V2.6 series: frontier intelligence, all the modalities, built in public.</description>
+<content:encoded><![CDATA[<p>Introducing the MiMo-V2.6 series: frontier intelligence, all the modalities, built in public.</p>]]></content:encoded>
+</item>
+<item>
+<title>Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2lf5iajl2y</guid>
+<pubDate>Mon, 21 Sep 2026 20:45:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: SoftBank&#x27;s SB Energy has delayed its IPO, originally planned for this month, as investors question the company&#x27;s sought-after valuation of $50B+ (Maureen Farrell/New York Times)</title>
 <link>https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&amp;smid=nytcore-ios-share</link>
@@ -844,44 +878,6 @@
 <pubDate>Fri, 18 Sep 2026 21:20:57 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic is partnering with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments (Anthropic)</title>
-<link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt2uwykgz2e</guid>
-<pubDate>Fri, 18 Sep 2026 21:01:54 +0000</pubDate>
-<description>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
-</item>
-<item>
-<title>Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html?unlocked_article_code=1.CFE.v6V8.8Y6korTW-xQ_&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsz5f55uu2k</guid>
-<pubDate>Fri, 18 Sep 2026 20:30:49 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>London-based AI infrastructure startup Nscale files for a US IPO, reports H1 2026 revenue up 1,252% YoY to $140.6M, with a net loss of $1.02B, up from $368.9M (Jordan Novet/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsyujy5nn24</guid>
-<pubDate>Fri, 18 Sep 2026 20:25:52 +0000</pubDate>
-<description>Nscale is the latest artificial intelligence neocloud to turn to public markets.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" alt="" /></p><p>Nscale is the latest artificial intelligence neocloud to turn to public markets.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Google is testing a new version of its AI agent CC, pivoting the tool from an individual productivity assistant into a collaborative household management agent (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvsxzq3auy2s</guid>
-<pubDate>Fri, 18 Sep 2026 20:10:53 +0000</pubDate>
-<description>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" alt="" /></p><p>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" />
 </item>
 </channel>
 </rss>
