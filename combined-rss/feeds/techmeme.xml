@@ -5,8 +5,232 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 07:16:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 12:40:27 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute (Katherine Bindley/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f6b353cf1ee2247be069.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4ahq7u462y</guid>
+<pubDate>Tue, 22 Sep 2026 12:35:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The venture-capital firm is spending $35 million to back the two-year academy, with other Bay Area tech giants on board.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86596182%2Fsocial" alt="" /></p><p>The venture-capital firm is spending $35 million to back the two-year academy, with other Bay Area tech giants on board.</p><p><a href="https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86596182%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86596182%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86596182%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Cisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints (Lily Hay Newman/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/11d91986578dbb423b08.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw47wres2t27</guid>
+<pubDate>Tue, 22 Sep 2026 12:26:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/" rel="related" type="text/html" />
+<description>Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ab1b117c967476bab903a3e/191:100/w_1280,c_limit/Security_CommandCenter_v4.jpg" alt="" /></p><p>Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.</p><p><a href="https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ab1b117c967476bab903a3e/191:100/w_1280,c_limit/Security_CommandCenter_v4.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6ab1b117c967476bab903a3e/191:100/w_1280,c_limit/Security_CommandCenter_v4.jpg" />
+<enclosure url="https://media.wired.com/photos/6ab1b117c967476bab903a3e/191:100/w_1280,c_limit/Security_CommandCenter_v4.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Cognex agrees to acquire robotics and 3D computer vision company RealSense in a ~$600M deal, including $500M in cash; Intel spun off RealSense in July 2025 (Sophie Shulman/CTech)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33b76ffea75609e0570c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw47dun2yh2t</guid>
+<pubDate>Tue, 22 Sep 2026 12:15:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.calcalistech.com/ctechnews/article/s1tqir19fl" rel="related" type="text/html" />
+<description>The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg" alt="" /></p><p>The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.</p><p><a href="https://www.calcalistech.com/ctechnews/article/s1tqir19fl">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg" />
+<enclosure url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Binance acquires a $100M stake in Circle, and both companies sign a five-year deal that pays the crypto exchange to promote the USDC stablecoin on its platform (CoinDesk)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9f861b2551d13cde4b1b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw473lfq3m24</guid>
+<pubDate>Tue, 22 Sep 2026 12:11:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal" rel="related" type="text/html" />
+<description>Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" alt="" /></p><p>Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.</p><p><a href="https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" />
+<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/d9828d5a1dcf4e1f9551968a3a6c2c75a4fc3166-3657x2057.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1920&amp;h=1080&amp;q=75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>DoorDash agrees to a $131.5M settlement with NYC's DCWP to resolve a year-plus investigation into its compliance with the city's 2023 delivery driver pay law (Elias Schisgall/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/36ac1885bda9c7db99f3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw46krbmus24</guid>
+<pubDate>Tue, 22 Sep 2026 12:01:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The company said that the settlement includes $12.3 million in direct payments to delivery drivers on its platform.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-401183%2Fsocial" alt="" /></p><p>The company said that the settlement includes $12.3 million in direct payments to delivery drivers on its platform.</p><p><a href="https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-401183%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-401183%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-401183%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: DeepSeek and Moonshot are among the companies briefing the UN Security Council on AI risks and international security during the UN General Assembly (Laurie Chen/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/537efd13e423f87eea87.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw45z7ieqa2s</guid>
+<pubDate>Tue, 22 Sep 2026 11:51:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/" rel="related" type="text/html" />
+<description>DeepSeek and other Chinese AI firms including Moonshot have ​been invited to make statements.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP6B6KMJBVNLWZJGAA6BU275JZA.jpg%3Fauth%3D2345017028c154316a05acb4c430e85a2e86523b28dae396f7de30de5eb036ed%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>DeepSeek and other Chinese AI firms including Moonshot have ​been invited to make statements.</p><p><a href="https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP6B6KMJBVNLWZJGAA6BU275JZA.jpg%3Fauth%3D2345017028c154316a05acb4c430e85a2e86523b28dae396f7de30de5eb036ed%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP6B6KMJBVNLWZJGAA6BU275JZA.jpg%3Fauth%3D2345017028c154316a05acb4c430e85a2e86523b28dae396f7de30de5eb036ed%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP6B6KMJBVNLWZJGAA6BU275JZA.jpg%3Fauth%3D2345017028c154316a05acb4c430e85a2e86523b28dae396f7de30de5eb036ed%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: the Cyberspace Administration of China is investigating DeepSeek and Moonshot over alleged data leaks to Anthropic and has questioned employees (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6524d7c62ab2b0532966.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw454kzacj2d</guid>
+<pubDate>Tue, 22 Sep 2026 11:35:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic" rel="related" type="text/html" />
+<description>China’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data to Claude models, according to people with knowledge of the matter. In a 154-page report published on Sept. 10, Anthropic detailed how seven Chinese ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17859/85fb2b4c-82b6-465b-9cf3-fb35dd74a7d6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>China’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data to Claude models, according to people with knowledge of the matter. In a 154-page report published on Sept. 10, Anthropic detailed how seven Chinese ...</p><p><a href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17859/85fb2b4c-82b6-465b-9cf3-fb35dd74a7d6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17859/85fb2b4c-82b6-465b-9cf3-fb35dd74a7d6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17859/85fb2b4c-82b6-465b-9cf3-fb35dd74a7d6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free (Joel Khalili/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ee0851b3008f35fdb90.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw43yp3wyf2k</guid>
+<pubDate>Tue, 22 Sep 2026 11:15:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/" rel="related" type="text/html" />
+<description>In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg" alt="" /></p><p>In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.</p><p><a href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg" />
+<enclosure url="https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia (Mackenzie Hawkins/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c738f2b35e7cccb3036a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw42uuyvto2y</guid>
+<pubDate>Tue, 22 Sep 2026 10:55:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/nvidia-chips-donald-trump-turn-armenia-into-ai-hotspot" rel="related" type="text/html" />
+<description>During the Cold War, the Soviet Union’s smallest republic was an electronics and tech center for the Communist superpower. Now Armenia is on track to become one of the world’s top hubs for American AI...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWu5UYZvVAF0%2Fv0%2F1200x800.jpg" alt="" /></p><p>During the Cold War, the Soviet Union’s smallest republic was an electronics and tech center for the Communist superpower. Now Armenia is on track to become one of the world’s top hubs for American AI...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/nvidia-chips-donald-trump-turn-armenia-into-ai-hotspot">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWu5UYZvVAF0%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWu5UYZvVAF0%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWu5UYZvVAF0%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: multiple staff at the UK's AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/abaf60748ac7df1dd4b6.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3zr35mza2e</guid>
+<pubDate>Tue, 22 Sep 2026 10:35:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7" rel="related" type="text/html" />
+<description>Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd1b93f-093d-46a8-a4c1-684501267a81.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI</p><p><a href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd1b93f-093d-46a8-a4c1-684501267a81.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd1b93f-093d-46a8-a4c1-684501267a81.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd1b93f-093d-46a8-a4c1-684501267a81.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Finnish neocloud startup Verda raised $189M led by Emergence at a $1B+ valuation and aims to raise up to $1.5B in equity and debt in 2026 and up to $10B in 2027 (Paula Doenecke/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/947c4ee07e7d90fa112d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3ywbvsni2e</guid>
+<pubDate>Tue, 22 Sep 2026 10:20:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round" rel="related" type="text/html" />
+<description>Cloud startup Verda has raised $189 million in fresh financing, underscoring continued investor appetite for the infrastructure powering the artificial intelligence boom.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6OS56t6u.UQ%2Fv1%2F1200x800.jpg" alt="" /></p><p>Cloud startup Verda has raised $189 million in fresh financing, underscoring continued investor appetite for the infrastructure powering the artificial intelligence boom.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6OS56t6u.UQ%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6OS56t6u.UQ%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6OS56t6u.UQ%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>French pharma SaaS startup Biolevate raised a €30M Series A co-led by RAISE France and Orange Ventures, taking its total funding to €36M (Brock E.W. Turner/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8d4756454718b280e312.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3xulrcoa24</guid>
+<pubDate>Tue, 22 Sep 2026 10:01:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/health-tech-deals/2026/09/21/biolevate-34-million-series-a" rel="related" type="text/html" />
+<description>The Paris-based company is using the capital primarily for U.S. scale as investors continue to back AI-assisted drug discovery and pharma plays.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FtnnY0PfvJ0UX16Hsr0Vsp2C0UR4%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F08%2F11%2F1786467866169.jpeg" alt="" /></p><p>The Paris-based company is using the capital primarily for U.S. scale as investors continue to back AI-assisted drug discovery and pharma plays.</p><p><a href="https://www.axios.com/pro/health-tech-deals/2026/09/21/biolevate-34-million-series-a">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FtnnY0PfvJ0UX16Hsr0Vsp2C0UR4%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F08%2F11%2F1786467866169.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FtnnY0PfvJ0UX16Hsr0Vsp2C0UR4%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F08%2F11%2F1786467866169.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FtnnY0PfvJ0UX16Hsr0Vsp2C0UR4%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F08%2F11%2F1786467866169.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Chinese optical transceiver maker Ligent jumps 19% in its Hong Kong debut, giving it a ~$4.6B market cap, after raising ~$727M, the latest Hong Kong AI IPO (Sangmi Cha/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/93a76c40eb10b972163f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3xajmbjh2k</guid>
+<pubDate>Tue, 22 Sep 2026 09:50:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo" rel="related" type="text/html" />
+<description>Computing networks maker Ligent Technologies Inc.’s shares rose in their debut on the Hong Kong stock exchange on Tuesday after the company raised HK$5.7 billion ($727 million) in an initial public of...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIkZXLareTYs%2Fv0%2F1200x800.jpg" alt="" /></p><p>Computing networks maker Ligent Technologies Inc.’s shares rose in their debut on the Hong Kong stock exchange on Tuesday after the company raised HK$5.7 billion ($727 million) in an initial public of...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/ligent-technologies-to-debut-after-727-million-in-hong-kong-ipo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIkZXLareTYs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIkZXLareTYs%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIkZXLareTYs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Apple unveils Apple Music Hall, a live music venue in London's Battersea Power Station with a capacity of up to 600 people and two recording and mixing studios (David Phelan/Forbes)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/069ad27988ae75edc4d9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3srkndzm2s</guid>
+<pubDate>Tue, 22 Sep 2026 08:30:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/" rel="related" type="text/html" />
+<description>A new, highly customizable music venue in Battersea Power Station opens as part of a full production facility.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ab1af11a650782b71c40936%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" alt="" /></p><p>A new, highly customizable music venue in Battersea Power Station opens as part of a full production facility.</p><p><a href="https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ab1af11a650782b71c40936%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ab1af11a650782b71c40936%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ab1af11a650782b71c40936%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Polymarket is lobbying regulators in London, Brussels, and across the EU to be governed by financial services laws rather than local gambling rules (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/71511ea63b37f511ad87.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3ro2dcro2n</guid>
+<pubDate>Tue, 22 Sep 2026 08:10:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/ec52d0ab-3f68-476f-b308-b8e682d9c75b" rel="related" type="text/html" />
+<description>US prediction markets platform is seeking to be regulated as a financial services firm rather than under a patchwork of gambling legislation</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c53ff14-7b3b-4c79-9d67-add645763efb.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>US prediction markets platform is seeking to be regulated as a financial services firm rather than under a patchwork of gambling legislation</p><p><a href="https://www.ft.com/content/ec52d0ab-3f68-476f-b308-b8e682d9c75b">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c53ff14-7b3b-4c79-9d67-add645763efb.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c53ff14-7b3b-4c79-9d67-add645763efb.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c53ff14-7b3b-4c79-9d67-add645763efb.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Some universities have barred using AI detectors due to student-instructor distrust over false positives; some educators have just cancelled writing assignments (Will Oremus/The Atlantic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9909dc61496ea00217b7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3qlrpce52s</guid>
+<pubDate>Tue, 22 Sep 2026 07:51:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/?gift=NBdGSmKfDQzLc1B6N1F-gesKt22vfyUfDVIq3Mku0a8&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="related" type="text/html" />
+<description>Professors are tearing their hair out over AI detectors.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.theatlantic.com/thumbor/DjRWwcxAEqMS-EBhTX_tq9Db6Yc=/0x0:960x504/960x504/media/img/mt/2026/09/2026_09_16_Oremus_AiDetection_final_2/original.gif" alt="" /></p><p>Professors are tearing their hair out over AI detectors.</p><p><a href="https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/?gift=NBdGSmKfDQzLc1B6N1F-gesKt22vfyUfDVIq3Mku0a8&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.theatlantic.com/thumbor/DjRWwcxAEqMS-EBhTX_tq9Db6Yc=/0x0:960x504/960x504/media/img/mt/2026/09/2026_09_16_Oremus_AiDetection_final_2/original.gif" medium="image" type="image/gif" />
+<media:thumbnail url="https://cdn.theatlantic.com/thumbor/DjRWwcxAEqMS-EBhTX_tq9Db6Yc=/0x0:960x504/960x504/media/img/mt/2026/09/2026_09_16_Oremus_AiDetection_final_2/original.gif" />
+<enclosure url="https://cdn.theatlantic.com/thumbor/DjRWwcxAEqMS-EBhTX_tq9Db6Yc=/0x0:960x504/960x504/media/img/mt/2026/09/2026_09_16_Oremus_AiDetection_final_2/original.gif" type="image/gif" length="0" />
+</item>
 <item>
 <title>Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/456bb691c45dd0e47ee5.html</link>
@@ -100,10 +324,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032" rel="related" type="text/html" />
 <description>Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming ye...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fipxd_0MdFplk%2Fv0%2F1200x800.jpg" alt="" /></p><p>Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming ye...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fipxd_0MdFplk%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fipxd_0MdFplk%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fipxd_0MdFplk%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiR9hDiuafBdI%2Fv0%2F1200x800.jpg" alt="" /></p><p>Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming ye...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiR9hDiuafBdI%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiR9hDiuafBdI%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiR9hDiuafBdI%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)</title>
@@ -619,230 +843,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate (Kirsten Grind/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2f31ca50973f718ebc70.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzmeiijnk2d</guid>
-<pubDate>Mon, 21 Sep 2026 11:30:47 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html" rel="related" type="text/html" />
-<description>Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2FAI-HOUSE-Hillsborough-1-flph%2FAI-HOUSE-Hillsborough-1-flph-facebookJumbo.jpg" alt="" /></p><p>Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.</p><p><a href="https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2FAI-HOUSE-Hillsborough-1-flph%2FAI-HOUSE-Hillsborough-1-flph-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2FAI-HOUSE-Hillsborough-1-flph%2FAI-HOUSE-Hillsborough-1-flph-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2FAI-HOUSE-Hillsborough-1-flph%2FAI-HOUSE-Hillsborough-1-flph-facebookJumbo.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Pacing the frontier may be sincere, but it would also be strategically useful for frontier AI labs to have time to reduce overhangs caused by model advancement (Ben Thompson/Stratechery)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d1396182f341eca89b26.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzlu3moac24</guid>
-<pubDate>Mon, 21 Sep 2026 11:21:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://stratechery.com/2026/frontier-overhangs/" rel="related" type="text/html" />
-<description>Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.</description>
-<content:encoded><![CDATA[<p><img src="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" alt="" /></p><p>Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.</p><p><a href="https://stratechery.com/2026/frontier-overhangs/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" medium="image" type="image/png" />
-<media:thumbnail url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" />
-<enclosure url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments (Newley Purnell/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e7845847db24621c1889.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzkytyqp52t</guid>
-<pubDate>Mon, 21 Sep 2026 11:06:23 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show" rel="related" type="text/html" />
-<description>Opposition to data centers continues to mount in the US.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHymiO1wOLKs%2Fv0%2F1200x800.jpg" alt="" /></p><p>Opposition to data centers continues to mount in the US.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHymiO1wOLKs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHymiO1wOLKs%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHymiO1wOLKs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b3ff87bb1309ea2a689d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzjktdxzw24</guid>
-<pubDate>Mon, 21 Sep 2026 10:40:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls" rel="related" type="text/html" />
-<description>DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with ...</p><p><a href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17853/9f72f38a-2a44-4da9-a373-d78a9b07650f.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>After hacking incidents and the industry's existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ea4176acb8546de67f7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvziz6bgsl2e</guid>
-<pubDate>Mon, 21 Sep 2026 10:30:46 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.</p><p><a href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F20%2Fopinion%2F20klein-image%2F20klein-image-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Ireland's DPC fines Google €403M over how it processed location data after complaints from European consumer rights groups, and gives it six months to comply (Olivia Fletcher/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/444712824b2ab814c30c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzi655j5f2t</guid>
-<pubDate>Mon, 21 Sep 2026 10:15:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach" rel="related" type="text/html" />
-<description>Ireland’s media watchdog has fined Alphabet Inc.’s Google over how the tech company processed location data after complaints from several European consumer rights organizations.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" alt="" /></p><p>Ireland’s media watchdog has fined Alphabet Inc.’s Google over how the tech company processed location data after complaints from several European consumer rights organizations.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiOnQSsWEJZaw%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>As Xi Jinping visits Washington, Chinese economists warn that Beijing's heavy focus on AI comes at the expense of addressing a severe broader economic crisis (Li Yuan/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5a1d169e32789f61a327.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzhnjvak22y</guid>
-<pubDate>Mon, 21 Sep 2026 10:06:22 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share" rel="related" type="text/html" />
-<description>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</p><p><a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Alibaba names senior AI researcher Dayiheng Liu as the head of its Qwen project, bringing clarity after multiple reorganization rounds earlier in 2026 (Juro Osawa/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2d2da568da67dad009ef.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzgsjrv432w</guid>
-<pubDate>Mon, 21 Sep 2026 09:51:16 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team" rel="related" type="text/html" />
-<description>Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter. Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization earlier this year, according to the people. Alibaba’s official website for its annual Apsara tech</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter. Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization earlier this year, according to the people. Alibaba’s official website for its annual Apsara tech</p><p><a href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
-<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work (Toby Sterling/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7522a3f2a26024c4a5d3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzf5dwi7y2y</guid>
-<pubDate>Mon, 21 Sep 2026 09:21:32 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/" rel="related" type="text/html" />
-<description>The relatively small number contrasts with forecasts for ‌a boom in the coming years, particularly in China, the world's largest market for industrial robots.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The relatively small number contrasts with forecasts for ‌a boom in the coming years, particularly in China, the world's largest market for industrial robots.</p><p><a href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FYEF75UW4RVIQXKL4N3VA5IRKSQ.jpg%3Fauth%3D47ab044c216bfde5019438d2992c81b1957722be7a5c1f243269f1a2e49d6942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>iPhone 18 Pro teardown: its SoC now sits outside the logic board for better cooling, the variable aperture is thoughtfully designed but hard to repair, and more (Elizabeth Chamberlain/iFixit News)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/94683c6052726e8a6c62.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzecnlhnl2e</guid>
-<pubDate>Mon, 21 Sep 2026 09:06:36 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown" rel="related" type="text/html" />
-<description>We tore the iPhone’s first-ever variable aperture camera to pieces. But how difficult and expensive will repairs be if one tiny blade gets stuck?</description>
-<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" alt="" /></p><p>We tore the iPhone’s first-ever variable aperture camera to pieces. But how difficult and expensive will repairs be if one tiny blade gets stuck?</p><p><a href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" />
-<enclosure url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112933/iPhone-18-TD_50-3x2-1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ffa85c28af8aa349d904.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzd53t2zz24</guid>
-<pubDate>Mon, 21 Sep 2026 08:45:36 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2" rel="related" type="text/html" />
-<description>Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out</p><p><a href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ce20b5919882b47862be.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzbsnnfwt27</guid>
-<pubDate>Mon, 21 Sep 2026 08:21:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/" rel="related" type="text/html" />
-<description>Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" alt="" /></p><p>Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce.</p><p><a href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" medium="image" type="image/png" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" />
-<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png" type="image/png" length="0" />
-</item>
-<item>
-<title>South Korea reopens a program letting AI talent fulfill their military obligations by doing research in corporate labs instead of conventional military service (Jo He-rim/The Korea Herald)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c6498021f3c7dee2537b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzb6ohikb27</guid>
-<pubDate>Mon, 21 Sep 2026 08:10:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.koreaherald.com/article/10879596" rel="related" type="text/html" />
-<description>South Korea will allow AI researchers to fulfill their military obligations at large corporate laboratories from 2027, reopening a route closed for 14 years. Bu</description>
-<content:encoded><![CDATA[<p><img src="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" alt="" /></p><p>South Korea will allow AI researchers to fulfill their military obligations at large corporate laboratories from 2027, reopening a route closed for 14 years. Bu</p><p><a href="https://www.koreaherald.com/article/10879596">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" medium="image" type="image/png" />
-<media:thumbnail url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" />
-<enclosure url="https://wimg.heraldcorp.com/news/cms/2026/09/20/news-p.v1.20260920.80d32ae8dcf14d4fa9ac00e4bbb655c1_P1.png" type="image/png" length="0" />
-</item>
-<item>
-<title>How the Clarity Act, heavily lobbied by Coinbase's Brian Armstrong and the crypto industry, and opposed by banks over stablecoin yields, collapsed in the Senate (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cbbc0cf90561484d677c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzadptkze2k</guid>
-<pubDate>Mon, 21 Sep 2026 07:55:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10?st=8EbDYo" rel="related" type="text/html" />
-<description>Coinbase CEO Brian Armstrong was at the center of a protracted fight over the role of digital assets in mainstream finance.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" alt="" /></p><p>Coinbase CEO Brian Armstrong was at the center of a protracted fight over the role of digital assets in mainstream finance.</p><p><a href="https://www.wsj.com/finance/currencies/crypto-blew-its-big-momentand-the-blame-game-has-begun-dff66a10?st=8EbDYo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33523433%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy (Zhang Shidong/South China Morning Post)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/edc1f364a1fc4aef104d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvz27xji3e26</guid>
-<pubDate>Mon, 21 Sep 2026 06:06:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.scmp.com/business/china-business/article/3368185/chinas-collection-stock-stamp-duty-jumps-more-80-ai-frenzy-boosts-trading" rel="related" type="text/html" />
-<description>Average daily trading values on mainland China’s stock markets rose 72 per cent in first eight months of the year.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" alt="" /></p><p>Average daily trading values on mainland China’s stock markets rose 72 per cent in first eight months of the year.</p><p><a href="https://www.scmp.com/business/china-business/article/3368185/chinas-collection-stock-stamp-duty-jumps-more-80-ai-frenzy-boosts-trading">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" />
-<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/21/261eb37e-8248-4a80-85d3-82102fc24113_5dc977a4.jpg?itok=hc0Ryepf&amp;v=1789953619" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A researcher used GPT-6 Astra to decipher a WWI German radio transmission from 1918, one of the 50 famous unsolved ciphers listed on a German science blog (prinz)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1fc5f06ab4e0688ad83a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyzn25ce52s</guid>
-<pubDate>Mon, 21 Sep 2026 05:55:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio" rel="related" type="text/html" />
-<description>Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" alt="" /></p><p>Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.</p><p><a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
