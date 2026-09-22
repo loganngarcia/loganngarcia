@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 23:38:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 01:52:25 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b42cbc1dd79f119486b5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2vyjo5cc2s</guid>
+<pubDate>Mon, 21 Sep 2026 23:55:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0" rel="related" type="text/html" />
+<description>Shopify plans to allow Meta’s personal AI agent to complete purchases on behalf of users with the e-commerce platform’s roster of stores.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47498265%2Fsocial" alt="" /></p><p>Shopify plans to allow Meta’s personal AI agent to complete purchases on behalf of users with the e-commerce platform’s roster of stores.</p><p><a href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47498265%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47498265%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47498265%2Fsocial" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b2c543ac59e1c4518c6a.html</link>
@@ -69,10 +83,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
 <description>Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F21%2Fmultimedia%2F21biz-ipo-delay-qphb%2F21biz-ipo-delay-qphb-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.</p><p><a href="https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F21%2Fmultimedia%2F21biz-ipo-delay-qphb%2F21biz-ipo-delay-qphb-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F21%2Fmultimedia%2F21biz-ipo-delay-qphb%2F21biz-ipo-delay-qphb-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F21%2Fmultimedia%2F21biz-ipo-delay-qphb%2F21biz-ipo-delay-qphb-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/21/multimedia/21biz-ipo-delay-qphb/21biz-ipo-delay-qphb-facebookJumbo.jpg" alt="" /></p><p>Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.</p><p><a href="https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html?unlocked_article_code=1.C1E.5N5l.BVtYXR1eDBNX&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/21/multimedia/21biz-ipo-delay-qphb/21biz-ipo-delay-qphb-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/21/multimedia/21biz-ipo-delay-qphb/21biz-ipo-delay-qphb-facebookJumbo.jpg" />
+<enclosure url="https://static01.nyt.com/images/2026/09/21/multimedia/21biz-ipo-delay-qphb/21biz-ipo-delay-qphb-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight (Nichola Groom/Reuters)</title>
@@ -615,10 +629,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share" rel="related" type="text/html" />
 <description>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</p><p><a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F19%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.</p><p><a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fbusiness%2F00-newworld-ai%2F00-newworld-ai-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: Alibaba names senior AI researcher Dayiheng Liu as the head of its Qwen project, bringing clarity after multiple reorganization rounds earlier in 2026 (Juro Osawa/The Information)</title>
@@ -927,20 +941,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FxpVEjElMrbpoM3KT-7l0sNu0qjQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F03%2F12%2F1773341424584.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>UK-based Unit1, which develops "hyper-realistic" digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others (Alex Lawson/The Guardian)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d034d73df335f4d9e28.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyj6tudrv2w</guid>
-<pubDate>Mon, 21 Sep 2026 01:01:17 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians" rel="related" type="text/html" />
-<description>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" alt="" /></p><p>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</p><p><a href="https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" />
-<enclosure url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>X Square’s Robot Starts Work at Lululemon’s Wuhan Warehouse</title>
@@ -1951,6 +1951,20 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -1977,20 +1991,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
