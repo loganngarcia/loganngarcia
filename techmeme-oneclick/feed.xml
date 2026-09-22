@@ -5,8 +5,176 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 12:39:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 17:17:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn&#x27;t decided whether to release the product (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4ogspiqr2e</guid>
+<pubDate>Tue, 22 Sep 2026 16:45:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says Opus 5.5 matches Fable 5.1 &quot;on most tasks&quot; while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)</title>
+<link>https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4obyrkc62d</guid>
+<pubDate>Tue, 22 Sep 2026 16:43:11 +0000</pubDate>
+<description>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic&#x27;s benchmarks also put it ahead of OpenAI&#x27;s GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" alt="" /></p><p>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic&#x27;s benchmarks also put it ahead of OpenAI&#x27;s GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" medium="image" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" />
+</item>
+<item>
+<title>Anthropic launches Claude Opus 5.5, its first model since Dario Amodei&#x27;s &quot;pace the frontier&quot; essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4nxb5cy72e</guid>
+<pubDate>Tue, 22 Sep 2026 16:37:10 +0000</pubDate>
+<description>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4n23uztr22</guid>
+<pubDate>Tue, 22 Sep 2026 16:20:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In his UN General Assembly speech, President Trump says the US is &quot;officially&quot; renaming AI to &quot;super intelligence&quot; because &quot;artificial&quot; makes it sound fake (Richard Lawler/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4micx4xt22</guid>
+<pubDate>Tue, 22 Sep 2026 16:10:55 +0000</pubDate>
+<description>Super American Intelligence.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Super American Intelligence.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+</item>
+<item>
+<title>Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/sjxcxry9gl</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4kjkfzax2s</guid>
+<pubDate>Tue, 22 Sep 2026 15:35:49 +0000</pubDate>
+<description>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" alt="" /></p><p>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" />
+</item>
+<item>
+<title>Kalshi Klear, the company&#x27;s internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity (Davis Giangiulio/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4j4vgre726</guid>
+<pubDate>Tue, 22 Sep 2026 15:10:50 +0000</pubDate>
+<description>It&#x27;s the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" alt="" /></p><p>It&#x27;s the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Snorkel AI, which offers an &quot;agentic data development platform&quot; with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4hyzhjyv26</guid>
+<pubDate>Tue, 22 Sep 2026 14:50:47 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft lays off 268 Xbox employees across Halo Studios and other first-party studios, as part of an ongoing &quot;reset&quot; of its gaming business (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4gmhyfg226</guid>
+<pubDate>Tue, 22 Sep 2026 14:25:52 +0000</pubDate>
+<description>Deals to sell off Ninja Theory fell through over the summer.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Deals to sell off Ninja Theory fell through over the summer.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)</title>
+<link>https://www.theverge.com/tech/998566/beats-360-headphones-review</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4gdiqbyh27</guid>
+<pubDate>Tue, 22 Sep 2026 14:20:51 +0000</pubDate>
+<description>They protect against sweat and talkative gym bros.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>They protect against sweat and talkative gym bros.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir&#x27;s Maven (Katrina Manson/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4eeuvuwi26</guid>
+<pubDate>Tue, 22 Sep 2026 13:45:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)</title>
+<link>https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4dtgwqff2e</guid>
+<pubDate>Tue, 22 Sep 2026 13:36:05 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 (Julian Chokkattu/Wired)</title>
+<link>https://www.wired.com/story/adobe-premiere-now-on-android/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4dbdy4x622</guid>
+<pubDate>Tue, 22 Sep 2026 13:25:57 +0000</pubDate>
+<description>The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" alt="" /></p><p>The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" />
+</item>
+<item>
+<title>Apple quietly updates its press release to say new Photographic Styles texture and grain controls are limited to iPhone 18 Pro models and the iPhone Duo (Tim Hardwick/MacRumors)</title>
+<link>https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4cpjaghp22</guid>
+<pubDate>Tue, 22 Sep 2026 13:15:59 +0000</pubDate>
+<description>Apple&#x27;s new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company&#x27;s original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this month, its Newsroom press release said the new Texture and Grain controls would be &quot;available in iOS 27 on iPhone models that support the latest generation of Photographic Styles&quot;.</description>
+<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" alt="" /></p><p>Apple&#x27;s new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company&#x27;s original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this month, its Newsroom press release said the new Texture and Grain controls would be &quot;available in iOS 27 on iPhone models that support the latest generation of Photographic Styles&quot;.</p>]]></content:encoded>
+<media:content url="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" medium="image" />
+<media:thumbnail url="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" />
+</item>
+<item>
+<title>UK Prime Minister Andy Burnham says he plans to use the UK&#x27;s upcoming G20 presidency to broker a global AI governance deal, ahead of the UN General Assembly (Politico)</title>
+<link>https://www.politico.eu/article/uk-seeks-to-broker-global-ai-agreement-at-g20/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4c5fn4ev2w</guid>
+<pubDate>Tue, 22 Sep 2026 13:05:51 +0000</pubDate>
+<description>Andy Burnham says the U.K. is “uniquely positioned” to broker international cooperation in the wake of dire AI warnings.</description>
+<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" alt="" /></p><p>Andy Burnham says the U.K. is “uniquely positioned” to broker international cooperation in the wake of dire AI warnings.</p>]]></content:encoded>
+<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" medium="image" />
+<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" />
+</item>
+<item>
+<title>Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems (Mike Wheatley/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4bcg3vma2s</guid>
+<pubDate>Tue, 22 Sep 2026 12:50:46 +0000</pubDate>
+<description>Google&#x27;s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" alt="" /></p><p>Google&#x27;s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" />
+</item>
+<item>
+<title>Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4azicjj424</guid>
+<pubDate>Tue, 22 Sep 2026 12:45:46 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Baselayer, which uses AI to help financial institutions verify businesses and assess fraud risk, raised a $35M Series A led by M13, for ~$40M in total funding (Mary Ann Azevedo/Crunchbase News)</title>
+<link>https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4aqjafue27</guid>
+<pubDate>Tue, 22 Sep 2026 12:40:45 +0000</pubDate>
+<description>Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.</description>
+<content:encoded><![CDATA[<p><img src="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" alt="" /></p><p>Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.</p>]]></content:encoded>
+<media:content url="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" medium="image" />
+<media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" />
+</item>
 <item>
 <title>a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute (Katherine Bindley/Wall Street Journal)</title>
 <link>https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA&amp;reflink=desktopwebshare_permalink</link>
@@ -40,8 +208,8 @@
 <link>https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw473lfq3m24</guid>
 <pubDate>Tue, 22 Sep 2026 12:11:09 +0000</pubDate>
-<description>Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.</description>
-<content:encoded><![CDATA[<p>Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through its wallet infrastructure.</p>]]></content:encoded>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
 </item>
 <item>
 <title>DoorDash agrees to a $131.5M settlement with NYC&#x27;s DCWP to resolve a year-plus investigation into its compliance with the city&#x27;s 2023 delivery driver pay law (Elias Schisgall/Wall Street Journal)</title>
@@ -148,8 +316,8 @@
 <link>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3ljmwbsj24</guid>
 <pubDate>Tue, 22 Sep 2026 06:21:05 +0000</pubDate>
-<description>Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" alt="" /></p><p>Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</p>]]></content:encoded>
+<description>Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" alt="" /></p><p>Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" />
 </item>
@@ -716,162 +884,6 @@
 <pubDate>Mon, 21 Sep 2026 03:25:36 +0000</pubDate>
 <description>From www.axios.com</description>
 <content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Aided by AI, young people in China launched 7M+ one-person startups in 2025 to escape a bleak job market, up ~42% from 2024, as they face fierce competition (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyq7bwcij2w</guid>
-<pubDate>Mon, 21 Sep 2026 03:06:48 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)</title>
-<link>https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyloy3rsb26</guid>
-<pubDate>Mon, 21 Sep 2026 01:46:06 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures (Natalie Breymeyer/Axios)</title>
-<link>https://www.axios.com/pro/biotech-deals/2026/09/15/mithrl-series-a-biopharma-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvylfpzvrh27</guid>
-<pubDate>Mon, 21 Sep 2026 01:40:55 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others (Alex Lawson/The Guardian)</title>
-<link>https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvyj6tudrv2w</guid>
-<pubDate>Mon, 21 Sep 2026 01:01:17 +0000</pubDate>
-<description>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" alt="" /></p><p>Unit1 hopes to offer lower cost version of shows such as Abba Voyage, showcasing living and dead artists in any venue</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=cc2d3b916f599a4ba41051826329be38" />
-</item>
-<item>
-<title>China has made AI a national mission, but local workers&#x27; fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down (Michael Schuman/The Atlantic)</title>
-<link>https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvydcev75c24</guid>
-<pubDate>Sun, 20 Sep 2026 23:15:53 +0000</pubDate>
-<description>A top-down tech revolution is harder to manage than a bottom-up one.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" alt="" /></p><p>A top-down tech revolution is harder to manage than a bottom-up one.</p>]]></content:encoded>
-<media:content url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" medium="image" />
-<media:thumbnail url="https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg" />
-</item>
-<item>
-<title>Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)</title>
-<link>https://qwen.ai/blog?id=qwen-image-2.1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvy5xztqkk2r</guid>
-<pubDate>Sun, 20 Sep 2026 21:40:37 +0000</pubDate>
-<description>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" alt="" /></p><p>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" medium="image" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" />
-</item>
-<item>
-<title>Jensen Huang says AI leaders calling for regulation don&#x27;t want new legislation, but to be &quot;relieved of the laws we do have&quot; because of &quot;ulterior reasons&quot; (Truman Dickerson/Business Insider)</title>
-<link>https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxywyswzo2y</guid>
-<pubDate>Sun, 20 Sep 2026 20:10:34 +0000</pubDate>
-<description>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" alt="" /></p><p>Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe — and profitable.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)</title>
-<link>https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxskchscm27</guid>
-<pubDate>Sun, 20 Sep 2026 18:16:05 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003?st=UKxXYi</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxp6q4ors2s</guid>
-<pubDate>Sun, 20 Sep 2026 17:15:56 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)</title>
-<link>https://www.forbes.com/sites/josipamajic/2026/09/19/jev-cuts-ai-decision-costs-100x-and-vercel-cloudflare-rushed-to-add-it/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxkhc2fw424</guid>
-<pubDate>Sun, 20 Sep 2026 15:51:14 +0000</pubDate>
-<description>From www.forbes.com</description>
-<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple&#x27;s strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvxhpl2crv2s</guid>
-<pubDate>Sun, 20 Sep 2026 15:02:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)</title>
-<link>https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvx5utmifl2t</guid>
-<pubDate>Sun, 20 Sep 2026 12:06:10 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)</title>
-<link>https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwtsphs5w2k</guid>
-<pubDate>Sun, 20 Sep 2026 09:06:01 +0000</pubDate>
-<description>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</description>
-<content:encoded><![CDATA[<p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" alt="" /></p><p>As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.</p>]]></content:encoded>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" medium="image" />
-<media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3067x1725+717+186/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F09%2Fd81d1cb64598881b06a07e2c4faa%2F09-13-2026-jimena-peck-denver-editorial-photographer-0251.jpg" />
-</item>
-<item>
-<title>Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness (Sarah Neville/Financial Times)</title>
-<link>https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?accessToken=zwAAAaCzYrGnkc80MZsA-HRBGdOqKIN22B5xkA.MEUCIQDh5MyIZd4xQHpDt7lRWd_jRW8UVw0M6HVUaEFNZGGiyAIgNfC4GoPUJ52cIsx9jKfagefYGmp615EBL0zBHCHDLs8&amp;sharetype=gift&amp;token=16a91402-8400-4a83-acb8-176a14b47ba2&amp;syn-25a6b1a6=1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwjmdiyjn2r</guid>
-<pubDate>Sun, 20 Sep 2026 06:03:30 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Alibaba&#x27;s Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers (Ann Cao/South China Morning Post)</title>
-<link>https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwhtwlmph2t</guid>
-<pubDate>Sun, 20 Sep 2026 05:31:58 +0000</pubDate>
-<description>Tested on nearly 40,000 real-world exams, the model outperformed most radiologists, according to a new study published in Science.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&amp;v=1789736650" alt="" /></p><p>Tested on nearly 40,000 real-world exams, the model outperformed most radiologists, according to a new study published in Science.</p>]]></content:encoded>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&amp;v=1789736650" medium="image" />
-<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&amp;v=1789736650" />
-</item>
-<item>
-<title>Chinese DRAM chipmaker CXMT says its new fifth-gen technology platform enters mass production and unveils two 24Gb LPDDR5X phone memory products built on it (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwhba5elb2w</guid>
-<pubDate>Sun, 20 Sep 2026 05:21:30 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Polymarket CEO Shayne Coplan dismissed concerns after fraudsters tried to launder $10M+ from stolen cards to clean accounts via its wagers in February (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0?st=MJjszi&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwgorl7th22</guid>
-<pubDate>Sun, 20 Sep 2026 05:11:11 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta challenges Ofcom&#x27;s OSA categorization of WhatsApp and Instagram imposing additional regulations; Roblox and Quora are also challenging their categorization (Daniel Thomas/Financial Times)</title>
-<link>https://www.ft.com/content/c1ba743f-7330-4419-bc8d-a8b5ce4420a0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvwfdupqpv2w</guid>
-<pubDate>Sun, 20 Sep 2026 04:47:11 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
