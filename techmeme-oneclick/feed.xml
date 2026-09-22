@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 21 Sep 2026 23:38:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 01:51:44 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Shopify plans to allow Meta&#x27;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2vyjo5cc2s</guid>
+<pubDate>Mon, 21 Sep 2026 23:55:43 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A researcher says a flaw in Meta&#x27;s Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)</title>
 <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</link>
@@ -868,14 +876,6 @@
 <link>https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc?st=9H74nC&amp;reflink=desktopwebshare_permalink</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt52nk56e2y</guid>
 <pubDate>Fri, 18 Sep 2026 21:40:53 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation (Maria Armental/Wall Street Journal)</title>
-<link>https://www.wsj.com/pro/private-equity/ai-startup-angle-health-lands-600-million-for-2-7-billion-valuation-df77de76</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvt3wzgxjm26</guid>
-<pubDate>Fri, 18 Sep 2026 21:20:57 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
