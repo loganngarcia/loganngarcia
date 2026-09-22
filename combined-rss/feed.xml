@@ -5,8 +5,260 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 12:40:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 17:18:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn't decided whether to release the product (Mark Gurman/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/678b23a2e45f44e3b229.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4ogspiqr2e</guid>
+<pubDate>Tue, 22 Sep 2026 16:45:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop" rel="related" type="text/html" />
+<description>Apple Inc. is developing a screenless health and fitness tracker similar to Whoop Inc.’s wrist-worn device, part of an effort to rethink its smartwatch lineup and add new wearable technologies.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiL4E_RQR6ZJc%2Fv2%2F1200x800.jpg" alt="" /></p><p>Apple Inc. is developing a screenless health and fitness tracker similar to Whoop Inc.’s wrist-worn device, part of an effort to rethink its smartwatch lineup and add new wearable technologies.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiL4E_RQR6ZJc%2Fv2%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiL4E_RQR6ZJc%2Fv2%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiL4E_RQR6ZJc%2Fv2%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic says Opus 5.5 matches Fable 5.1 "on most tasks" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/985201ce87e02932c862.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4obyrkc62d</guid>
+<pubDate>Tue, 22 Sep 2026 16:43:11 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/" rel="related" type="text/html" />
+<description>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" alt="" /></p><p>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</p><p><a href="https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" medium="image" type="image/png" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" />
+<enclosure url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/04fa56f83f3a81fc2212.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4nxb5cy72e</guid>
+<pubDate>Tue, 22 Sep 2026 16:37:10 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity" rel="related" type="text/html" />
+<description>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/webp" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/webp" length="0" />
+</item>
+<item>
+<title>Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3071f330038ae8458484.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4n23uztr22</guid>
+<pubDate>Tue, 22 Sep 2026 16:20:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month" rel="related" type="text/html" />
+<description>SpaceXAI’s Grok Bot artificial intelligence agent has topped 400,000 weekly users roughly a month after it launched, a sign of modest early demand for a product that’s key to the AI ambitions of Elon ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFOoFE3PTvQg%2Fv1%2F1200x800.jpg" alt="" /></p><p>SpaceXAI’s Grok Bot artificial intelligence agent has topped 400,000 weekly users roughly a month after it launched, a sign of modest early demand for a product that’s key to the AI ambitions of Elon ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFOoFE3PTvQg%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFOoFE3PTvQg%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFOoFE3PTvQg%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>In his UN General Assembly speech, President Trump says the US is "officially" renaming AI to "super intelligence" because "artificial" makes it sound fake (Richard Lawler/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d6a730c146110e70a10.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4micx4xt22</guid>
+<pubDate>Tue, 22 Sep 2026 16:10:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence" rel="related" type="text/html" />
+<description>Super American Intelligence.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Super American Intelligence.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" type="image/png" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" type="image/png" length="0" />
+</item>
+<item>
+<title>Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6f4c2d3e968c5b1ee6ce.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4kjkfzax2s</guid>
+<pubDate>Tue, 22 Sep 2026 15:35:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.calcalistech.com/ctechnews/article/sjxcxry9gl" rel="related" type="text/html" />
+<description>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" alt="" /></p><p>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</p><p><a href="https://www.calcalistech.com/ctechnews/article/sjxcxry9gl">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" />
+<enclosure url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Kalshi Klear, the company's internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity (Davis Giangiulio/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/80a006cc86f6c3ba8277.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4j4vgre726</guid>
+<pubDate>Tue, 22 Sep 2026 15:10:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html" rel="related" type="text/html" />
+<description>It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" alt="" /></p><p>It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</p><p><a href="https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Snorkel AI, which offers an "agentic data development platform" with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b8383f8e7cb15db9718c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4hyzhjyv26</guid>
+<pubDate>Tue, 22 Sep 2026 14:50:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/" rel="related" type="text/html" />
+<description>Data startup Snorkel AI has raised $350 million in fresh funding at a $3.5 billion ​valuation, its CEO Alex Ratner told Reuters, as booming demand from frontier AI labs for increasingly complex traini...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F327NJVR4K5IGRFQ4E443RAI5DY.jpg%3Fauth%3Def5fbe85eaacd18cbc507495cc517a3927c33c5da9a7b4e5e698387142dc12ae%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Data startup Snorkel AI has raised $350 million in fresh funding at a $3.5 billion ​valuation, its CEO Alex Ratner told Reuters, as booming demand from frontier AI labs for increasingly complex traini...</p><p><a href="https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F327NJVR4K5IGRFQ4E443RAI5DY.jpg%3Fauth%3Def5fbe85eaacd18cbc507495cc517a3927c33c5da9a7b4e5e698387142dc12ae%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F327NJVR4K5IGRFQ4E443RAI5DY.jpg%3Fauth%3Def5fbe85eaacd18cbc507495cc517a3927c33c5da9a7b4e5e698387142dc12ae%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F327NJVR4K5IGRFQ4E443RAI5DY.jpg%3Fauth%3Def5fbe85eaacd18cbc507495cc517a3927c33c5da9a7b4e5e698387142dc12ae%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Microsoft lays off 268 Xbox employees across Halo Studios and other first-party studios, as part of an ongoing "reset" of its gaming business (Tom Warren/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a5fe1b8bd0b10157ff13.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4gmhyfg226</guid>
+<pubDate>Tue, 22 Sep 2026 14:25:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure" rel="related" type="text/html" />
+<description>Deals to sell off Ninja Theory fell through over the summer.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Deals to sell off Ninja Theory fell through over the summer.</p><p><a href="https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/png" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/png" length="0" />
+</item>
+<item>
+<title>Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e463ed30cba151cebab3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4gdiqbyh27</guid>
+<pubDate>Tue, 22 Sep 2026 14:20:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/998566/beats-360-headphones-review" rel="related" type="text/html" />
+<description>They protect against sweat and talkative gym bros.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>They protect against sweat and talkative gym bros.</p><p><a href="https://www.theverge.com/tech/998566/beats-360-headphones-review">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268724_Beats_360_headphones_AKrales_0054.jpg?quality=90&amp;strip=all&amp;crop=0%2C21.465968586387%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven (Katrina Manson/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/70f310e782f6dac6cd3b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4eeuvuwi26</guid>
+<pubDate>Tue, 22 Sep 2026 13:45:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ" rel="related" type="text/html" />
+<description>The changes include refining processes for vetting targets and adding open-source data feeds to better track civilian movement.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXkF_KdHe3HU%2Fv1%2F1200x800.jpg" alt="" /></p><p>The changes include refining processes for vetting targets and adding open-source data feeds to better track civilian movement.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXkF_KdHe3HU%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXkF_KdHe3HU%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiXkF_KdHe3HU%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9d4776e093f0bbb402f5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4dtgwqff2e</guid>
+<pubDate>Tue, 22 Sep 2026 13:36:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The likely absence of a Chinese corporate delegation highlights the low expectations for significant business results from the meeting.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-58149732%2Fsocial" alt="" /></p><p>The likely absence of a Chinese corporate delegation highlights the low expectations for significant business results from the meeting.</p><p><a href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-58149732%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-58149732%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-58149732%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 (Julian Chokkattu/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3c4eb6ffca17fd532c63.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4dbdy4x622</guid>
+<pubDate>Tue, 22 Sep 2026 13:25:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/adobe-premiere-now-on-android/" rel="related" type="text/html" />
+<description>The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" alt="" /></p><p>The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.</p><p><a href="https://www.wired.com/story/adobe-premiere-now-on-android/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" medium="image" type="image/png" />
+<media:thumbnail url="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" />
+<enclosure url="https://media.wired.com/photos/6ab131a7530447c2889b0342/191:100/w_1280,c_limit/Enhance%20Audio.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Apple quietly updates its press release to say new Photographic Styles texture and grain controls are limited to iPhone 18 Pro models and the iPhone Duo (Tim Hardwick/MacRumors)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/90db68aefec9fef84a52.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4cpjaghp22</guid>
+<pubDate>Tue, 22 Sep 2026 13:15:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/" rel="related" type="text/html" />
+<description>Apple's new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company's original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this month, its Newsroom press release said the new Texture and Grain controls would be "available in iOS 27 on iPhone models…</description>
+<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" alt="" /></p><p>Apple's new Texture and Grain controls for Photographic Styles are not available on iPhones other than the latest iPhone 18 Pro models and upcoming iPhone Duo, despite the company's original wording suggesting otherwise. When Apple announced the iPhone 18 Pro and iPhone 18 Pro Max earlier this month, its Newsroom press release said the new Texture and Grain controls would be "available in iOS 27 on iPhone models…</p><p><a href="https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" />
+<enclosure url="https://images.macrumors.com/t/T8R88zWOCCdhjpaGAm_2GW2zLEI=/3840x/article-new/2026/09/photographic-styles-3%402x.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>UK Prime Minister Andy Burnham says he plans to use the UK's upcoming G20 presidency to broker a global AI governance deal, ahead of the UN General Assembly (Politico)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ab1542ac645108dd6fbb.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4c5fn4ev2w</guid>
+<pubDate>Tue, 22 Sep 2026 13:05:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.politico.eu/article/uk-seeks-to-broker-global-ai-agreement-at-g20/" rel="related" type="text/html" />
+<description>Andy Burnham says the U.K. is “uniquely positioned” to broker international cooperation in the wake of dire AI warnings.</description>
+<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" alt="" /></p><p>Andy Burnham says the U.K. is “uniquely positioned” to broker international cooperation in the wake of dire AI warnings.</p><p><a href="https://www.politico.eu/article/uk-seeks-to-broker-global-ai-agreement-at-g20/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" />
+<enclosure url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2295897665-scaled.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems (Mike Wheatley/SiliconANGLE)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/23a193a493f9260b1555.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4bcg3vma2s</guid>
+<pubDate>Tue, 22 Sep 2026 12:50:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/" rel="related" type="text/html" />
+<description>Google's robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" alt="" /></p><p>Google's robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" medium="image" type="image/png" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" />
+<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7528c4ac899c9d278e78.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4azicjj424</guid>
+<pubDate>Tue, 22 Sep 2026 12:45:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round" rel="related" type="text/html" />
+<description>Heidi, an artificial intelligence startup which helps doctors automate clinical notes and other administrative work, raised $340 million to tap growing demand for AI tools that can make healthcare wor...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi47ZQObmPDJ4%2Fv0%2F1200x805.png" alt="" /></p><p>Heidi, an artificial intelligence startup which helps doctors automate clinical notes and other administrative work, raised $340 million to tap growing demand for AI tools that can make healthcare wor...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi47ZQObmPDJ4%2Fv0%2F1200x805.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi47ZQObmPDJ4%2Fv0%2F1200x805.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi47ZQObmPDJ4%2Fv0%2F1200x805.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Baselayer, which uses AI to help financial institutions verify businesses and assess fraud risk, raised a $35M Series A led by M13, for ~$40M in total funding (Mary Ann Azevedo/Crunchbase News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aa73e1862752180d660e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4aqjafue27</guid>
+<pubDate>Tue, 22 Sep 2026 12:40:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/" rel="related" type="text/html" />
+<description>Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.</description>
+<content:encoded><![CDATA[<p><img src="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" alt="" /></p><p>Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.</p><p><a href="https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" />
+<enclosure url="https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute (Katherine Bindley/Wall Street Journal)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f6b353cf1ee2247be069.html</link>
@@ -281,8 +533,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/" rel="related" type="text/html" />
-<description>Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" alt="" /></p><p>Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</p><p><a href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/">Open Original Article</a></p>]]></content:encoded>
+<description>Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" alt="" /></p><p>Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.</p><p><a href="https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" />
 <enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/Morphotonics.jpg?resize=1200,675" type="image/jpeg" length="0" />
@@ -379,8 +631,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios" rel="related" type="text/html" />
-<description>Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said. Xbox CEO Asha Sharma in July told staff she would eliminate 1,600 roles by the end of the year on top of 1,600 roles the company cut that month.</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said. Xbox CEO Asha Sharma in July told staff she would eliminate 1,600 roles by the end of the year on top of 1,600 roles the company cut that month.</p><p><a href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios">Open Original Article</a></p>]]></content:encoded>
+<description>Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said. After The Information reported the planned layoffs Monday, Xbox confirmed in a Tuesday blog post that it will cut 268 roles. The company said it</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said. After The Information reported the planned layoffs Monday, Xbox confirmed in a Tuesday blog post that it will cut 268 roles. The company said it</p><p><a href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
 <enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
@@ -675,258 +927,6 @@
 <media:content url="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" medium="image" type="image/png" />
 <media:thumbnail url="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" />
 <enclosure url="https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png" type="image/png" length="0" />
-</item>
-<item>
-<title>NYC-based Corridor, which uses AI to offer health benefits for small businesses, raised a $16M seed led by Bain Capital Ventures, following a $9M pre-seed (Brock E.W. Turner/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd7a17f8b808e7b5b267.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw222zpsme2s</guid>
-<pubDate>Mon, 21 Sep 2026 15:36:02 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures" rel="related" type="text/html" />
-<description>Investors are pouring money into the tech-powered benefits market.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FaUgcisTf5gWJ9hmSNeLQJISDr7A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F02%2F06%2F1770412832918.jpeg" alt="" /></p><p>Investors are pouring money into the tech-powered benefits market.</p><p><a href="https://www.axios.com/pro/health-tech-deals/2026/09/21/corridor-25m-bain-capital-ventures">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FaUgcisTf5gWJ9hmSNeLQJISDr7A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F02%2F06%2F1770412832918.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FaUgcisTf5gWJ9hmSNeLQJISDr7A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F02%2F06%2F1770412832918.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FaUgcisTf5gWJ9hmSNeLQJISDr7A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F02%2F06%2F1770412832918.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Z.AI open sources its coding harness ZCode and disables certain features after users said ZCode was uploading codebases onto overseas servers without consent (Laurie Chen/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d73f5a42560e810cd514.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzywoczmn2s</guid>
-<pubDate>Mon, 21 Sep 2026 15:15:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/" rel="related" type="text/html" />
-<description>Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant ​after some users reported it was uploading entire local code repositories onto overseas cloud ser...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fajo.prod.reuters.tv%2Fapi%2Fv2%2Fimg%2F6ab20564e4b06a3e5e80c4d8%3Fheight%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant ​after some users reported it was uploading entire local code repositories onto overseas cloud ser...</p><p><a href="https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fajo.prod.reuters.tv%2Fapi%2Fv2%2Fimg%2F6ab20564e4b06a3e5e80c4d8%3Fheight%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fajo.prod.reuters.tv%2Fapi%2Fv2%2Fimg%2F6ab20564e4b06a3e5e80c4d8%3Fheight%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fajo.prod.reuters.tv%2Fapi%2Fv2%2Fimg%2F6ab20564e4b06a3e5e80c4d8%3Fheight%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: OpenAI is developing features to counter SpaceX's Grok Bot "teammates", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e733ac78982b0aaeca89.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzwy3hkj624</guid>
-<pubDate>Mon, 21 Sep 2026 14:40:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse" rel="related" type="text/html" />
-<description>OpenAI pioneered AI that can take over web browsers and other applications on people’s behalf, and its ChatGPT app brought generative AI to consumers. Now that rivals like SpaceX and Meta are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17854/41bdc7a9-ea68-40a8-a9f2-c96bccac1f18-b5czvs.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>OpenAI pioneered AI that can take over web browsers and other applications on people’s behalf, and its ChatGPT app brought generative AI to consumers. Now that rivals like SpaceX and Meta are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing ...</p><p><a href="https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17854/41bdc7a9-ea68-40a8-a9f2-c96bccac1f18-b5czvs.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17854/41bdc7a9-ea68-40a8-a9f2-c96bccac1f18-b5czvs.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17854/41bdc7a9-ea68-40a8-a9f2-c96bccac1f18-b5czvs.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>Q&amp;A with Mark Gurman on the iPhone Duo, breaking Apple news, new AI-native devices, Tim Cook staying as executive chair, John Ternus, Johny Srouji, and more (Nilay Patel/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d201b38a61749025b99b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzwpobzp424</guid>
-<pubDate>Mon, 21 Sep 2026 14:36:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone" rel="related" type="text/html" />
-<description>Bloomberg’s chief Apple correspondent Mark Gurman on Siri, Tim Cook’s legacy, and what to expect from new CEO John Ternus.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Bloomberg’s chief Apple correspondent Mark Gurman on Siri, Tim Cook’s legacy, and what to expect from new CEO John Ternus.</p><p><a href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>US Treasury Secretary Scott Bessent says OpenAI's Hugging Face hacking incident is "the responsibility of the OpenAI management, not a bunch of agents" (Yash Roy/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0e2730cf9340a27c167.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzuhmbvyj2w</guid>
-<pubDate>Mon, 21 Sep 2026 13:55:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame" rel="related" type="text/html" />
-<description>Treasury Secretary Scott Bessent said the responsibility for the recent hacking incident involving OpenAI’s advanced artificial intelligence models was with that firm’s managers, while stopping short ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLFYhmXyA7xM%2Fv1%2F1200x800.jpg" alt="" /></p><p>Treasury Secretary Scott Bessent said the responsibility for the recent hacking incident involving OpenAI’s advanced artificial intelligence models was with that firm’s managers, while stopping short ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLFYhmXyA7xM%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLFYhmXyA7xM%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLFYhmXyA7xM%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Nscale's S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/abbe03301a4509cf0096.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztvpag7w2s</guid>
-<pubDate>Mon, 21 Sep 2026 13:45:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts" rel="related" type="text/html" />
-<description>Nscale’s 1,000-fold increase in contracts over the last three years is mainly due to two clients thirsty for artificial intelligence computing capacity: Microsoft Corp. and Anthropic PBC.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEBklUB9dCtI%2Fv1%2F1200x800.jpg" alt="" /></p><p>Nscale’s 1,000-fold increase in contracts over the last three years is mainly due to two clients thirsty for artificial intelligence computing capacity: Microsoft Corp. and Anthropic PBC.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEBklUB9dCtI%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEBklUB9dCtI%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEBklUB9dCtI%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>An interview with Google SVP of Devices Rick Osterloh on Googlebooks, which he calls "the ultimate focusing move" for Google, future Pixel Googlebooks, and more (David Pierce/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2e626434a6dbb41c80ab.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztmoydck24</guid>
-<pubDate>Mon, 21 Sep 2026 13:40:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history" rel="related" type="text/html" />
-<description>Don’t call it a Chromebook.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Don’t call it a Chromebook.</p><p><a href="https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta enters a voluntary access agreement granting the UK's Prospect trade union direct access to recruit its 5,000 UK employees, ahead of new UK employment laws (Delphine Strauss/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc4e11b2a77360538cbd.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvztef57so2n</guid>
-<pubDate>Mon, 21 Sep 2026 13:36:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79" rel="related" type="text/html" />
-<description>Greater worker representation expected in tech sector when new employment rights come into force next month</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34285ccc-c6a1-4337-af6a-f003c787ffad.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Greater worker representation expected in tech sector when new employment rights come into force next month</p><p><a href="https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34285ccc-c6a1-4337-af6a-f003c787ffad.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34285ccc-c6a1-4337-af6a-f003c787ffad.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34285ccc-c6a1-4337-af6a-f003c787ffad.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>MediaTek unveils the Dimensity CX C10 Max, a 3nm TSMC N3 flagship SoC launching alongside Google's new Googlebook lineup, with an 8-core CPU and 11-core GPU (Jake Roach/Tom's Hardware)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f9655b5ef82b2b6a8979.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzt33nwk32w</guid>
-<pubDate>Mon, 21 Sep 2026 13:30:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio" rel="related" type="text/html" />
-<description>The Dimensity CX C10 Max looks awfully similar to the Kompanio Ultra 910.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" alt="" /></p><p>The Dimensity CX C10 Max looks awfully similar to the Kompanio Ultra 910.</p><p><a href="https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" medium="image" type="image/png" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" />
-<enclosure url="https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Googlebook hardware hands-on: Intel Core Ultra Panther Lake or Qualcomm Snapdragon X/X1 Elite CPUs, 16GB to 64GB of RAM, high-resolution OLED displays, and more (Kyle Kucharski/ZDNET)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0ac04f3196910b64e8ca.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzsrzilx724</guid>
-<pubDate>Mon, 21 Sep 2026 13:25:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.zdnet.com/tech/googlebook-hands-on-acer-asus-dell-hp-lenovo-android-laptops/" rel="related" type="text/html" />
-<description>New Googlebooks from Acer, Asus, Dell, HP, and Lenovo are here - and they may be just what Android users have been waiting for.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" alt="" /></p><p>New Googlebooks from Acer, Asus, Dell, HP, and Lenovo are here - and they may be just what Android users have been waiting for.</p><p><a href="https://www.zdnet.com/tech/googlebook-hands-on-acer-asus-dell-hp-lenovo-android-laptops/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" />
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Googlebook-15-2.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Googlebook OS hands-on: core services like Gmail run as Trusted Web Activities via the Play Store, on-device AI via Gemini Nano, and Pixel-aligned UX elements (Abner Li/9to5Google)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ec5cc9521c7a38339dc3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzshf3xue2d</guid>
-<pubDate>Mon, 21 Sep 2026 13:19:47 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5google.com/2026/09/21/googlebook-os-hands-on/" rel="related" type="text/html" />
-<description>An overwhelming sense of familiarity struck me the first time I used a Googlebook. That was immediately followed by a...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>An overwhelming sense of familiarity struck me the first time I used a Googlebook. That was immediately followed by a...</p><p><a href="https://9to5google.com/2026/09/21/googlebook-os-hands-on/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-<enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Dell-XPS-Homescreen.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google's Googlebook OS, built on Android with a Material 3 Expressive and ChromeOS hybrid UI, offers deep Android 17 integration, 10 years of support, and more (Dominic Preston/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0f33111a6f51b4e8ee7e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzs7zurht22</guid>
-<pubDate>Mon, 21 Sep 2026 13:15:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast" rel="related" type="text/html" />
-<description>My next laptop might be a Googlebook.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" alt="" /></p><p>My next laptop might be a Googlebook.</p><p><a href="https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/googlebooks-04.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple Mac Studio (M5 Ultra) review: incredible benchmark scores, high base memory, and a generous number of ultra-fast Thunderbolt 5 ports, but very expensive (Steve Dent/Engadget)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2717b7c8cfc9a93273f5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzs5n76i524</guid>
-<pubDate>Mon, 21 Sep 2026 13:14:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/" rel="related" type="text/html" />
-<description>At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" alt="" /></p><p>At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.</p><p><a href="https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" />
-<enclosure url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Mac mini (late 2026) review: strong M6 performance, faster storage over the M4, and small footprint, but pricey storage and memory erode its value proposition (Brandon Hill/Tom's Hardware)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5dd821259975dc730c9f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzrx3pofg2d</guid>
-<pubDate>Mon, 21 Sep 2026 13:10:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review" rel="related" type="text/html" />
-<description>The Mac mini’s value proposition has evaporated.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" alt="" /></p><p>The Mac mini’s value proposition has evaporated.</p><p><a href="https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" />
-<enclosure url="https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google unveils Googlebook hardware, with flagship devices built by Acer, ASUS, Dell, HP, and Lenovo, offering deep Android and AI integration, starting at $899 (Abner Li/9to5Google)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cff950d2b60e6dfa5b25.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzrmb33ak2s</guid>
-<pubDate>Mon, 21 Sep 2026 13:04:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5google.com/2026/09/21/googlebook-launch/" rel="related" type="text/html" />
-<description>Following the May preview, Google today fully announced Googlebooks ahead of the consumer launch in October. Googlebook OS hands-on: It’s...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Following the May preview, Google today fully announced Googlebooks ahead of the consumer launch in October. Googlebook OS hands-on: It’s...</p><p><a href="https://9to5google.com/2026/09/21/googlebook-launch/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-<enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Crypto super PAC Fairshake plans to launch a $30M ad blitz against former Democratic Senator Sherrod Brown in the Ohio Senate race, after the Clarity Act failed (Theodore Schleifer/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/801dc66f6db8763233e4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzolzolbq2s</guid>
-<pubDate>Mon, 21 Sep 2026 12:10:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&amp;smid=url-share/" rel="related" type="text/html" />
-<description>Angry after the defeat of a major crypto bill last week, the industry is planning to spend $30 million against Sherrod Brown in Ohio.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F00pol-crypto-money-zpwq%2F00pol-crypto-money-zpwq-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Angry after the defeat of a major crypto bill last week, the industry is planning to spend $30 million against Sherrod Brown in Ohio.</p><p><a href="https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&amp;smid=url-share/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F00pol-crypto-money-zpwq%2F00pol-crypto-money-zpwq-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F00pol-crypto-money-zpwq%2F00pol-crypto-money-zpwq-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F18%2Fmultimedia%2F00pol-crypto-money-zpwq%2F00pol-crypto-money-zpwq-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>In its first thematic brief, the UN's Independent International Scientific Panel on AI urges governments to rein in AI agents before risks are fully understood (Robert Hart/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/94d0db2af44adcc2b8f4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvznrjetg526</guid>
-<pubDate>Mon, 21 Sep 2026 11:55:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle" rel="related" type="text/html" />
-<description>The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Filing: Oura is seeking to raise up to $2.2B in its US IPO, marketing 50M shares at $40 to $44 each, giving it a $14.1B valuation at the top of its range (Subrat Patnaik/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e2cdab3f8733f37e233f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzn72e6hv2y</guid>
-<pubDate>Mon, 21 Sep 2026 11:45:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo" rel="related" type="text/html" />
-<description>Health and fitness ring-maker Oura Inc. and some of its backers are seeking to raise as much as $2.2 billion in a US initial public offering.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" alt="" /></p><p>Health and fitness ring-maker Oura Inc. and some of its backers are seeking to raise as much as $2.2 billion in a US initial public offering.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiafOpidNIAUg%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>PrimeBOT Launches Personal Robots at 19,999 Yuan, Betting on Apps and Companionship</title>
