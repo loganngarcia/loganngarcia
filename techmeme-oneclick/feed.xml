@@ -5,8 +5,56 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 23 Sep 2026 15:36:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 19:13:16 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile (@openai)</title>
+<link>https://x.com/openai/status/2102808325742322002</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7h2hginh2a</guid>
+<pubDate>Wed, 23 Sep 2026 19:11:40 +0000</pubDate>
+<description>We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by …</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" alt="" /></p><p>We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by …</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" />
+</item>
+<item>
+<title>Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7fesxdow2a</guid>
+<pubDate>Wed, 23 Sep 2026 18:41:41 +0000</pubDate>
+<description>It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the ‘novel enzyme system.’</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the ‘novel enzyme system.’</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation (Kate Clark/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/anthropic-leaders-back-startup-developing-system-to-detect-biological-threats-88ef9f0a?st=S5V7SX&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw75jeauev2a</guid>
+<pubDate>Wed, 23 Sep 2026 16:21:03 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Disney raises Disney+ and Hulu prices, the fourth price hike in as many years; the ad-free tiers will each cost $21.49/month, an increase of $2.50 (Rick Porter/The Hollywood Reporter)</title>
+<link>https://www.hollywoodreporter.com/business/business-news/disney-plus-hulu-price-increases-september-2026-1236708364/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw74gzdffc2v</guid>
+<pubDate>Wed, 23 Sep 2026 16:01:51 +0000</pubDate>
+<description>Subscribing to a bundle is now almost exactly half the price of individual plans for each streamer.</description>
+<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/standalone_homepage_hero_5553866f-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" alt="" /></p><p>Subscribing to a bundle is now almost exactly half the price of individual plans for each streamer.</p>]]></content:encoded>
+<media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/standalone_homepage_hero_5553866f-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" medium="image" />
+<media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/standalone_homepage_hero_5553866f-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" />
+</item>
+<item>
+<title>Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its &quot;most expressive audio generation models yet&quot;, with support for more than 100 languages (Google)</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw73u4nrvb2v</guid>
+<pubDate>Wed, 23 Sep 2026 15:51:17 +0000</pubDate>
+<description>Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png" alt="" /></p><p>Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.</p>]]></content:encoded>
+<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png" medium="image" />
+<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png" />
+</item>
 <item>
 <title>Q&amp;A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more (Ezra Klein/New York Times)</title>
 <link>https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share</link>
@@ -150,14 +198,6 @@
 <pubDate>Wed, 23 Sep 2026 11:01:38 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Portuguese surveillance drone maker Tekever raised $580M ed by UC Investments at a $6.4B valuation, after securing a UK MOD contract worth £400M over 10 years (Henrique Almeida/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/drone-maker-tekever-seeks-deals-after-new-round-s-first-close</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6kjmhlyc2b</guid>
-<pubDate>Wed, 23 Sep 2026 10:41:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet (Richard Gere/Wall Street Journal)</title>
@@ -858,40 +898,6 @@
 <pubDate>Tue, 22 Sep 2026 03:25:43 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Source: Xbox plans to lay off hundreds of employees this week in its second major staff cut in 2026, as it also plans to consolidate several of its game studios (Aaron Holmes/The Information)</title>
-<link>https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw3b65xrom2y</guid>
-<pubDate>Tue, 22 Sep 2026 03:15:43 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>MiMo-V2.6-Pro ties Grok 4.7 (xHigh) and beats GLM-5.3 (max) on Artificial Analysis&#x27; Intelligence Index, making it the benchmark&#x27;s top-scoring open-weight model (Carl Franzen/VentureBeat)</title>
-<link>https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw35swndwp2y</guid>
-<pubDate>Tue, 22 Sep 2026 02:15:45 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Shopify plans to allow Meta&#x27;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2vyjo5cc2s</guid>
-<pubDate>Mon, 21 Sep 2026 23:55:43 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A researcher says a flaw in Meta&#x27;s Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)</title>
-<link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw2sxho3d624</guid>
-<pubDate>Mon, 21 Sep 2026 23:01:26 +0000</pubDate>
-<description>A simple ClickFix attack is only one way to completely hijack the new agent.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" alt="" /></p><p>A simple ClickFix attack is only one way to completely hijack the new agent.</p>]]></content:encoded>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" medium="image" />
-<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg" />
 </item>
 </channel>
 </rss>
