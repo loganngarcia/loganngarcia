@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 22:59:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 01:23:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more (Anna Washenko/Engadget)</title>
+<link>https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw5knufv3o24</guid>
+<pubDate>Wed, 23 Sep 2026 01:10:53 +0000</pubDate>
+<description>It will offer several privacy-focused options for users who aren’t automatically confirmed as adults.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/discord-rolls-out-its-revised-age-verification-policy/l-intro-1790108153.jpg" alt="" /></p><p>It will offer several privacy-focused options for users who aren’t automatically confirmed as adults.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/discord-rolls-out-its-revised-age-verification-policy/l-intro-1790108153.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/discord-rolls-out-its-revised-age-verification-policy/l-intro-1790108153.jpg" />
+</item>
+<item>
+<title>Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)</title>
+<link>http://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw5hcmiked2y</guid>
+<pubDate>Wed, 23 Sep 2026 00:10:55 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw5estzgwi27</guid>
+<pubDate>Tue, 22 Sep 2026 23:26:18 +0000</pubDate>
+<description>Web scraping startup Firecrawl closes $75M investment - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/unsplash-4-1.png" alt="" /></p><p>Web scraping startup Firecrawl closes $75M investment - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/unsplash-4-1.png" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/unsplash-4-1.png" />
+</item>
 <item>
 <title>Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)</title>
 <link>https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/</link>
@@ -864,30 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" alt="" /></p><p>Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.</p>]]></content:encoded>
 <media:content url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" medium="image" />
 <media:thumbnail url="https://stratechery.com/wp-content/uploads/2026/09/overhang-1.png" />
-</item>
-<item>
-<title>Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments (Newley Purnell/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzkytyqp52t</guid>
-<pubDate>Mon, 21 Sep 2026 11:06:23 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek&#x27;s biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)</title>
-<link>https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvzjktdxzw24</guid>
-<pubDate>Mon, 21 Sep 2026 10:40:39 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>After hacking incidents and the industry&#x27;s existential risk warnings, we need a regulatory ban on RSI, as competition drives unchecked autonomous acceleration (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mvziz6bgsl2e</guid>
-<pubDate>Mon, 21 Sep 2026 10:30:46 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
