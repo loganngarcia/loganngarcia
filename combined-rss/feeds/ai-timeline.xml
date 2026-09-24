@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 24 Sep 2026 10:29:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 15:27:09 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dream-RSI</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6e2bfa4cf75cc32c488f.html</link>
+<guid isPermaLink="false">combined:a16b2e7fbdfabd9c3e06c6c4dd4b5245d612f02b</guid>
+<pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/dream-rsi" rel="related" type="text/html" />
+<description>Plus more about Score Centering, Learning From Hard Problems, and FlashREINFORCE</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fe1216a0-f9b0-438e-9bd3-b1cccd5aa266/issue_126.jpg?t=1790168183" alt="" /></p><p>Plus more about Score Centering, Learning From Hard Problems, and FlashREINFORCE</p><p><a href="https://mail.bycloud.ai/p/dream-rsi">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fe1216a0-f9b0-438e-9bd3-b1cccd5aa266/issue_126.jpg?t=1790168183" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fe1216a0-f9b0-438e-9bd3-b1cccd5aa266/issue_126.jpg?t=1790168183" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fe1216a0-f9b0-438e-9bd3-b1cccd5aa266/issue_126.jpg?t=1790168183" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>DeepSeek-V4.1 Flash Brought Back Encoders!?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3f318e4b4a5d91b95d92.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Long Context Pre-Training w/ Lighthouse Attention</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/19ef3b5e1234ec0e5378.html</link>
-<guid isPermaLink="false">combined:b26d794f134b8cbfc9c1bfb18ad62407c583c9c7</guid>
-<pubDate>Tue, 19 May 2026 18:52:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/long-context-pre-training-w-lighthouse-attention" rel="related" type="text/html" />
-<description>plus more about Self-distilled Agentic RL, Embedded Language Flows, and Negation Neglect</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" alt="" /></p><p>plus more about Self-distilled Agentic RL, Embedded Language Flows, and Negation Neglect</p><p><a href="https://mail.bycloud.ai/p/long-context-pre-training-w-lighthouse-attention">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f41deaec-ab12-435c-88bd-a66dc986c8b9/issue_108.jpg?t=1779209302" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>

@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 24 Sep 2026 10:29:17 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 15:27:09 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>O-ID Raises $1.2M to Build Humanoids With Swappable Parts</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/64b880df35012e9db5ec.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/o-id-modular-humanoid-robot-funding</guid>
+<pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/o-id-modular-humanoid-robot-funding" rel="related" type="text/html" />
+<description>The Tokyo startup is designing modular industrial robots for on-site repairs in minutes, with Japanese automotive manufacturing and logistics as its first targets.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/o-id-modular-robot-prototype-VV6uGtW0D9yBwi6VSWPqXMeIqpAeet.webp" alt="" /></p><p>The Tokyo startup is designing modular industrial robots for on-site repairs in minutes, with Japanese automotive manufacturing and logistics as its first targets.</p><p><a href="https://www.humanoidsdaily.com/news/o-id-modular-humanoid-robot-funding">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/o-id-modular-robot-prototype-VV6uGtW0D9yBwi6VSWPqXMeIqpAeet.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/o-id-modular-robot-prototype-VV6uGtW0D9yBwi6VSWPqXMeIqpAeet.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/o-id-modular-robot-prototype-VV6uGtW0D9yBwi6VSWPqXMeIqpAeet.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>AGIBOT Brings 300-Plus Robots to Chimelong Theme Park</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3afa29f9b90bd4fd00cd.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kapex-robot-lg-max.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kapex-robot-lg-max.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kapex-robot-lg-max.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>AGIBOT Says A3 Ultra Is Going to Work in Hotels, Shops and Metro Inspection</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5f196cba54a49c3fba7.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-a3-ultra-hotels-shops-metro-inspection</guid>
-<pubDate>Thu, 17 Sep 2026 11:41:50 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agibot-a3-ultra-hotels-shops-metro-inspection" rel="related" type="text/html" />
-<description>AGIBOT’s latest promotional video highlights A3 Ultra deployments across service and inspection settings, with custom development still part of the equation.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" alt="" /></p><p>AGIBOT’s latest promotional video highlights A3 Ultra deployments across service and inspection settings, with custom development still part of the equation.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-a3-ultra-hotels-shops-metro-inspection">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" medium="image" type="image/png" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
