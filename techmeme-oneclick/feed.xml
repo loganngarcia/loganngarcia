@@ -5,8 +5,110 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 24 Sep 2026 05:30:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:26:51 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI says its AI agents &quot;took actions we did not intend&quot; when they tried to hack government and university websites, and it is working with the organizations (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwazuuf2dg2v</guid>
+<pubDate>Thu, 24 Sep 2026 10:21:14 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mark Carney, Emmanuel Macron, and other Western leaders are pushing to establish a global supervisory regime and &quot;technology stability&quot; body to govern AI (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwayzlcnvu2h</guid>
+<pubDate>Thu, 24 Sep 2026 10:05:58 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Delivery Hero co-founder and CEO Niklas Östberg reverses his decision to step down in 2027, as the company prepares for Uber&#x27;s €13B takeover and an asset sale (Financial Times)</title>
+<link>https://www.ft.com/content/1767ba03-05a2-4d69-83df-5aa0a6bf24e2</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwayi3n4kk2j</guid>
+<pubDate>Thu, 24 Sep 2026 09:56:11 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)</title>
+<link>https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaxn5dflz2b</guid>
+<pubDate>Thu, 24 Sep 2026 09:41:07 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: DeepSeek&#x27;s annualized revenue run rate hits $1B, up from less than $500M a few months ago, as it aims to finalize a ~$7.5B fundraise by late October (The Information)</title>
+<link>https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwax2surgm2e</guid>
+<pubDate>Thu, 24 Sep 2026 09:30:52 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources citing Firmus&#x27; IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/australias-firmus-expects-77-million-first-half-loss-it-plans-5-billion-ipo-2026-09-24/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwawgttmbb2k</guid>
+<pubDate>Thu, 24 Sep 2026 09:19:42 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says it made Claude.ai and the Claude desktop app&#x27;s core UX ~3x faster in August using an internal model to ship improvements &quot;in a two-week sprint&quot; (Anthropic)</title>
+<link>https://claude.dev/blog/how-we-made-claude-ai-faster/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwannbbyh62a</guid>
+<pubDate>Thu, 24 Sep 2026 06:42:14 +0000</pubDate>
+<description>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</description>
+<content:encoded><![CDATA[<p><img src="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" alt="" /></p><p>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</p>]]></content:encoded>
+<media:content url="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" medium="image" />
+<media:thumbnail url="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" />
+</item>
+<item>
+<title>Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China&#x27;s self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwamzm32762i</guid>
+<pubDate>Thu, 24 Sep 2026 06:31:14 +0000</pubDate>
+<description>Bonanza spills over to chip tool makers Naura and AMEC during first half</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Bonanza spills over to chip tool makers Naura and AMEC during first half</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+</item>
+<item>
+<title>Revolut is piloting a new POS system that uses facial recognition for payments at the UK coffee chain Kiss the Hippo, ahead of a full launch later this year (Charlie Wells/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwam6vbasu2j</guid>
+<pubDate>Thu, 24 Sep 2026 06:16:18 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Israeli foundry Tower Semiconductor says it will set up its largest production hub for optical communications chips in Japan as part of a planned $4B investment (Shuhei Ochiai/Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwalmz5e6e25</guid>
+<pubDate>Thu, 24 Sep 2026 06:06:18 +0000</pubDate>
+<description>$4bn investment aims to meet booming demand for AI server technology</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>$4bn investment aims to meet booming demand for AI server technology</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+</item>
+<item>
+<title>India&#x27;s food regulator initiates penal action against Amazon, Flipkart, Swiggy Instamart, Bigbasket, and Zepto over alleged misbranding and misleading claims (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwakje2xeh2k</guid>
+<pubDate>Thu, 24 Sep 2026 05:46:21 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Q&amp;A with Cisco President and CPO Jeetu Patel on its multibillion-dollar networking deals for AI infrastructure, competition from partners like Nvidia, and more (Rafe Rosner-Uddin/Financial Times)</title>
+<link>https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwakc32oth2i</guid>
+<pubDate>Thu, 24 Sep 2026 05:42:17 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-09-24/schneider-electric-said-near-deal-for-smart-device-firm-shelly</link>
@@ -800,116 +902,6 @@
 <content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/0no9te5e/production/6e78c3828308dbd521e5c34e96b26723080b7138-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" alt="" /></p><p>OpenAI is releasing a more budget-friendly version of its most powerful model. On Tuesday, the company unveiled GPT-6 Sol and GPT-6 Luna, the latest additions...</p>]]></content:encoded>
 <media:content url="https://cdn.sanity.io/images/0no9te5e/production/6e78c3828308dbd521e5c34e96b26723080b7138-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" medium="image" />
 <media:thumbnail url="https://cdn.sanity.io/images/0no9te5e/production/6e78c3828308dbd521e5c34e96b26723080b7138-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" />
-</item>
-<item>
-<title>OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol&#x27;s performance at ~1% of the cost (David Gewirtz/ZDNET)</title>
-<link>https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4thxbrwk2e</guid>
-<pubDate>Tue, 22 Sep 2026 18:15:59 +0000</pubDate>
-<description>GPT-6 Sol and Luna arrive less than three months after GPT-5.6, with OpenAI claiming major accuracy gains, dramatic cost reductions, and oddly revealing Claude comparisons across key benchmarks.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/2_1c8ba8.jpg" alt="" /></p><p>GPT-6 Sol and Luna arrive less than three months after GPT-5.6, with OpenAI claiming major accuracy gains, dramatic cost reductions, and oddly revealing Claude comparisons across key benchmarks.</p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/2_1c8ba8.jpg" medium="image" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/2_1c8ba8.jpg" />
-</item>
-<item>
-<title>Internal data: Meta&#x27;s Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)</title>
-<link>https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4svqpfy22w</guid>
-<pubDate>Tue, 22 Sep 2026 18:05:48 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)</title>
-<link>https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4rjlctov2k</guid>
-<pubDate>Tue, 22 Sep 2026 17:41:06 +0000</pubDate>
-<description>Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg" alt="" /></p><p>Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.</p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg" medium="image" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg" />
-</item>
-<item>
-<title>OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases (Rachel Metz/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4qxiwi7b2e</guid>
-<pubDate>Tue, 22 Sep 2026 17:31:00 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Apple is developing prototypes for a screenless health and fitness tracker similar to Whoop but hasn&#x27;t decided whether to release the product (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4ogspiqr2e</guid>
-<pubDate>Tue, 22 Sep 2026 16:45:52 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic says Opus 5.5 matches Fable 5.1 &quot;on most tasks&quot; while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)</title>
-<link>https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4obyrkc62d</guid>
-<pubDate>Tue, 22 Sep 2026 16:43:11 +0000</pubDate>
-<description>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic&#x27;s benchmarks also put it ahead of OpenAI&#x27;s GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" alt="" /></p><p>Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic&#x27;s benchmarks also put it ahead of OpenAI&#x27;s GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png" />
-</item>
-<item>
-<title>Anthropic launches Claude Opus 5.5, its first model since Dario Amodei&#x27;s &quot;pace the frontier&quot; essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4nxb5cy72e</guid>
-<pubDate>Tue, 22 Sep 2026 16:37:10 +0000</pubDate>
-<description>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Sources: in a London presentation, SpaceXAI says Grok Bot hit 418,000 users as of September 14, up 24% from the week prior; SpaceXAI launched it in mid-August (Edward Ludlow/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4n23uztr22</guid>
-<pubDate>Tue, 22 Sep 2026 16:20:52 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>In his UN General Assembly speech, President Trump says the US is &quot;officially&quot; renaming AI to &quot;super intelligence&quot; because &quot;artificial&quot; makes it sound fake (Richard Lawler/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4micx4xt22</guid>
-<pubDate>Tue, 22 Sep 2026 16:10:55 +0000</pubDate>
-<description>Super American Intelligence.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Super American Intelligence.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
-</item>
-<item>
-<title>Chamelio, which is building AI tools designed to execute routine legal workflows and escalate only the cases that require human judgment, raised a $26M Series A (CTech)</title>
-<link>https://www.calcalistech.com/ctechnews/article/sjxcxry9gl</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4kjkfzax2s</guid>
-<pubDate>Tue, 22 Sep 2026 15:35:49 +0000</pubDate>
-<description>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" alt="" /></p><p>Backed by Entrée Capital, the startup is building software designed to execute routine legal workflows and escalate only the cases that require human judgment.</p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" medium="image" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/BywByRk5zl/BywByRk5zl_0_270_3000_1689_0_large.jpg" />
-</item>
-<item>
-<title>Kalshi Klear, the company&#x27;s internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity (Davis Giangiulio/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4j4vgre726</guid>
-<pubDate>Tue, 22 Sep 2026 15:10:50 +0000</pubDate>
-<description>It&#x27;s the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" alt="" /></p><p>It&#x27;s the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108287688-1775518851832-gettyimages-2265177104-boivin-notitle260309_npZre.jpeg?v=1775518869&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Snorkel AI, which offers an &quot;agentic data development platform&quot; with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation (Krystal Hu/Reuters)</title>
-<link>https://www.reuters.com/legal/transactional/snorkel-ai-valued-35-billion-amid-surging-demand-complex-ai-training-data-2026-09-22/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw4hyzhjyv26</guid>
-<pubDate>Tue, 22 Sep 2026 14:50:47 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
