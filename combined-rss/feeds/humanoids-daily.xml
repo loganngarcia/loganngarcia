@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 24 Sep 2026 05:30:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:29:17 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AGIBOT Brings 300-Plus Robots to Chimelong Theme Park</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3afa29f9b90bd4fd00cd.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-chimelong-theme-park-300-robots</guid>
+<pubDate>Thu, 24 Sep 2026 07:27:21 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agibot-chimelong-theme-park-300-robots" rel="related" type="text/html" />
+<description>AGIBOT and Chimelong have launched a robot deployment spanning performances, visitor guidance and hotel services at the existing Spaceship Park in Zhuhai, alongside a joint tourism research institute.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-chimelong-robot-performance-4QYBwqMf8ibabA98Bu2QxezMveBLs2.webp" alt="" /></p><p>AGIBOT and Chimelong have launched a robot deployment spanning performances, visitor guidance and hotel services at the existing Spaceship Park in Zhuhai, alongside a joint tourism research institute.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-chimelong-theme-park-300-robots">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-chimelong-robot-performance-4QYBwqMf8ibabA98Bu2QxezMveBLs2.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-chimelong-robot-performance-4QYBwqMf8ibabA98Bu2QxezMveBLs2.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-chimelong-robot-performance-4QYBwqMf8ibabA98Bu2QxezMveBLs2.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Skild AI’s S1 Learns Soccer Through More Than 140 Years of Simulated Self-Play</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/39c110cdb3411f524c38.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" medium="image" type="image/png" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-a3-ultra-reception-F9vRvOdwZQPfB5u1hEcqO1QRx3I8hj.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Boston Dynamics IPO Unlikely in 2027, Hyundai Executive Says</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3bf1e5b488947598efb5.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/boston-dynamics-ipo-unlikely-2027</guid>
-<pubDate>Wed, 16 Sep 2026 18:46:27 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/boston-dynamics-ipo-unlikely-2027" rel="related" type="text/html" />
-<description>Reuters reports that a 2027 listing is unlikely. Hyundai’s published Atlas roadmap puts scaled factory applications later in the decade.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-ces-2026-TlKOAZoxlcIZvLz7WnMkVfhXVctsgn.jpg" alt="" /></p><p>Reuters reports that a 2027 listing is unlikely. Hyundai’s published Atlas roadmap puts scaled factory applications later in the decade.</p><p><a href="https://www.humanoidsdaily.com/news/boston-dynamics-ipo-unlikely-2027">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-ces-2026-TlKOAZoxlcIZvLz7WnMkVfhXVctsgn.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-ces-2026-TlKOAZoxlcIZvLz7WnMkVfhXVctsgn.jpg" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-ces-2026-TlKOAZoxlcIZvLz7WnMkVfhXVctsgn.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
