@@ -5,8 +5,26 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 05:28:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:27:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies (Ashley Gold/Semafor)</title>
+<link>https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdi3pjart2e</guid>
+<pubDate>Fri, 25 Sep 2026 09:40:55 +0000</pubDate>
+<description>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+</item>
+<item>
+<title>Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)</title>
+<link>https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwd5hntnth2i</guid>
+<pubDate>Fri, 25 Sep 2026 06:30:45 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#x27;s AI push (Reuters)</title>
 <link>https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/</link>
@@ -874,24 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://cdn.tech.eu/uploads/2026/09/smart-896.png" alt="" /></p><p>Basecamp says it will use the funding to train a new generation of its AI models.</p>]]></content:encoded>
 <media:content url="https://cdn.tech.eu/uploads/2026/09/smart-896.png" medium="image" />
 <media:thumbnail url="https://cdn.tech.eu/uploads/2026/09/smart-896.png" />
-</item>
-<item>
-<title>Bessemer raised $5.75B, allocating $4B to growth-stage funding, including young companies raising large rounds at high valuations, and $1.75B for early-stage (Natasha Mascarenhas/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/bessemer-raises-5-75-billion-in-new-funds-expands-growth-efforts</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6t6apbhf2j</guid>
-<pubDate>Wed, 23 Sep 2026 13:15:53 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)</title>
-<link>https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6smovu4b2j</guid>
-<pubDate>Wed, 23 Sep 2026 13:06:04 +0000</pubDate>
-<description>OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" alt="" /></p><p>OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" />
 </item>
 </channel>
 </rss>
