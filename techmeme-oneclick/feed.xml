@@ -5,8 +5,68 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:26:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:40:30 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#x27;t publicly listed&quot; and &quot;most&quot; of the images have been removed (@openai)</title>
+<link>https://x.com/openai/status/2103587050347995581</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwet4gyrj32v</guid>
+<pubDate>Fri, 25 Sep 2026 22:30:51 +0000</pubDate>
+<description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" />
+</item>
+<item>
+<title>FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability (Reuters)</title>
+<link>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwepibgllg2m</guid>
+<pubDate>Fri, 25 Sep 2026 21:25:53 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)</title>
+<link>https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweo5b3qne2y</guid>
+<pubDate>Fri, 25 Sep 2026 21:01:49 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-25/smart-ring-maker-oura-s-ipo-is-about-four-times-oversubscribed</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwenaohlis2b</guid>
+<pubDate>Fri, 25 Sep 2026 20:45:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (Dylan Freedman/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html?unlocked_article_code=1.D1E.TERU.qXYkI2fp0Pp9&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwemqcghan2j</guid>
+<pubDate>Fri, 25 Sep 2026 20:36:41 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A US appeals court rules that Kalshi&#x27;s sports contracts are not &quot;swaps&quot; subject only to CFTC regulation, allowing states to regulate them under gambling laws (Jonathan Stempel/Reuters)</title>
+<link>https://www.reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwemg263bv2v</guid>
+<pubDate>Fri, 25 Sep 2026 20:30:57 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at Holograms, Meta&#x27;s take on Apple Vision Pro&#x27;s Personas, launching with a shoulders-up version this fall for WhatsApp calls on Ray-Ban Display glasses (David Heaney/UploadVR)</title>
+<link>https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwekrn6cza2f</guid>
+<pubDate>Fri, 25 Sep 2026 20:01:38 +0000</pubDate>
+<description>Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" alt="" /></p><p>Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" />
+</item>
 <item>
 <title>Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices (Zac Bowden/Windows Central)</title>
 <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
@@ -725,9 +785,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwa2docgkb2v</guid>
 <pubDate>Thu, 24 Sep 2026 00:56:51 +0000</pubDate>
 <description>They&#x27;re a notable improvement over the company&#x27;s earlier attempts at digital likeness.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/metas-holographic-avatars-are-here-and-theyre-surprisingly-real/l-intro-1790207568.jpg" alt="" /></p><p>They&#x27;re a notable improvement over the company&#x27;s earlier attempts at digital likeness.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/metas-holographic-avatars-are-here-and-theyre-surprisingly-real/l-intro-1790207568.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/metas-holographic-avatars-are-here-and-theyre-surprisingly-real/l-intro-1790207568.jpg" />
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" alt="" /></p><p>They&#x27;re a notable improvement over the company&#x27;s earlier attempts at digital likeness.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" />
 </item>
 <item>
 <title>Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support (Jay Peters/The Verge)</title>
@@ -826,70 +886,6 @@
 <pubDate>Wed, 23 Sep 2026 22:31:01 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Colorado-based Enveda, which uses AI to discover new drugs in the natural world, raised a $311M Series E at a $2B valuation, double its valuation a year ago (Marina Temkin/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7qs6ksrm2m</guid>
-<pubDate>Wed, 23 Sep 2026 22:06:00 +0000</pubDate>
-<description>The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800" alt="" /></p><p>The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Sam Altman and Dario Amodei tell the UN Security Council that governments and industry should coordinate on AI safety standards and critical decisions (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7pogvy5n2h</guid>
-<pubDate>Wed, 23 Sep 2026 21:46:01 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Flock Safety is weighing a potential sale and has held preliminary talks with outside advisers (Rohan Goswami/Semafor)</title>
-<link>https://www.semafor.com/article/09/23/2026/flock-safety-weighs-selling-itself</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7otner6j2e</guid>
-<pubDate>Wed, 23 Sep 2026 21:31:02 +0000</pubDate>
-<description>The license-plate reader and surveillance company has come under scrutiny for alleged misuse of its data.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/3c95b6ea54f09c786b45bdfebfe9650785ef39dd-5000x3335.jpg?rect=0,356,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The license-plate reader and surveillance company has come under scrutiny for alleged misuse of its data.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/3c95b6ea54f09c786b45bdfebfe9650785ef39dd-5000x3335.jpg?rect=0,356,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/3c95b6ea54f09c786b45bdfebfe9650785ef39dd-5000x3335.jpg?rect=0,356,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files (The Age)</title>
-<link>https://www.theage.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7nytnkmc2b</guid>
-<pubDate>Wed, 23 Sep 2026 21:16:02 +0000</pubDate>
-<description>No penalty has been imposed on US artificial intelligence corporation OpenAI after one of its AI agents infiltrated Medicare in June.</description>
-<content:encoded><![CDATA[<p><img src="https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e" alt="" /></p><p>No penalty has been imposed on US artificial intelligence corporation OpenAI after one of its AI agents infiltrated Medicare in June.</p>]]></content:encoded>
-<media:content url="https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e" medium="image" />
-<media:thumbnail url="https://static.ffx.io/images/$zoom_0.1214767392182451%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6b53c6726879a3a97640669cca773e43a801e43e" />
-</item>
-<item>
-<title>Source: 1789 Capital, where Donald Trump Jr. is a partner, is in talks to raise $3B for its second growth fund and has already raised $2B of that target amount (Rebecca Torrence/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/trump-jr-s-1789-capital-in-talks-to-raise-3-billion-in-new-funds</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7knl7tuo2k</guid>
-<pubDate>Wed, 23 Sep 2026 20:16:03 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A sample of FBI data allegedly stolen by ShinyHunters includes granular detail on officials&#x27; job assignments on China, Russia, cartels, cyber, and other issues (Reuters)</title>
-<link>https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7ixrmwkq2v</guid>
-<pubDate>Wed, 23 Sep 2026 19:45:58 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile (@openai)</title>
-<link>https://x.com/openai/status/2102808325742322002</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7h2hginh2a</guid>
-<pubDate>Wed, 23 Sep 2026 19:11:40 +0000</pubDate>
-<description>We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by …</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" alt="" /></p><p>We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by …</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/media/HS6thMWXwAAILwF?format=webp&amp;name=large" />
 </item>
 </channel>
 </rss>
