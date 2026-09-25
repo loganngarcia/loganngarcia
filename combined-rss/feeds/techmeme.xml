@@ -5,8 +5,106 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:27:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:41:51 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI says the 53 images its agents uploaded were on "image-hosting sites as links that weren't publicly listed" and "most" of the images have been removed (@openai)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8c7dca64ad8759c7ef44.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwet4gyrj32v</guid>
+<pubDate>Fri, 25 Sep 2026 22:30:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/openai/status/2103587050347995581" rel="related" type="text/html" />
+<description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p><p><a href="https://x.com/openai/status/2103587050347995581">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" />
+<enclosure url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with "wills and desires", suggesting developers hold liability (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/28d0ab9a9045487e353e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwepibgllg2m</guid>
+<pubDate>Fri, 25 Sep 2026 21:25:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/" rel="related" type="text/html" />
+<description>US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as ​autonomous actors that "break loose" with "wills and desires of their own," suggesting the ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI2U2G7EDWVPRJGXAOPPTQYCPLI.jpg%3Fauth%3D487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as ​autonomous actors that "break loose" with "wills and desires of their own," suggesting the ...</p><p><a href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI2U2G7EDWVPRJGXAOPPTQYCPLI.jpg%3Fauth%3D487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI2U2G7EDWVPRJGXAOPPTQYCPLI.jpg%3Fauth%3D487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI2U2G7EDWVPRJGXAOPPTQYCPLI.jpg%3Fauth%3D487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/187bd726895ae1462e06.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweo5b3qne2y</guid>
+<pubDate>Fri, 25 Sep 2026 21:01:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/" rel="related" type="text/html" />
+<description>Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEBNP3ANCCZINDCX23OXIIJFEFE.jpg%3Fauth%3D8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Two months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter ...</p><p><a href="https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEBNP3ANCCZINDCX23OXIIJFEFE.jpg%3Fauth%3D8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEBNP3ANCCZINDCX23OXIIJFEFE.jpg%3Fauth%3D8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEBNP3ANCCZINDCX23OXIIJFEFE.jpg%3Fauth%3D8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/579ecf31a6e59759817d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwenaohlis2b</guid>
+<pubDate>Fri, 25 Sep 2026 20:45:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-25/smart-ring-maker-oura-s-ipo-is-about-four-times-oversubscribed" rel="related" type="text/html" />
+<description>Health and fitness ring-maker Oura Inc.’s initial public offering raising as much as $2.2 billion has drawn about four times as many orders as there are shares available, according to people familiar ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZ_AtD8jjg1U%2Fv1%2F1200x799.jpg" alt="" /></p><p>Health and fitness ring-maker Oura Inc.’s initial public offering raising as much as $2.2 billion has drawn about four times as many orders as there are shares available, according to people familiar ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-25/smart-ring-maker-oura-s-ipo-is-about-four-times-oversubscribed">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZ_AtD8jjg1U%2Fv1%2F1200x799.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZ_AtD8jjg1U%2Fv1%2F1200x799.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZ_AtD8jjg1U%2Fv1%2F1200x799.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (Dylan Freedman/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/667e9a7737415a6c90d2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwemqcghan2j</guid>
+<pubDate>Fri, 25 Sep 2026 20:36:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html?unlocked_article_code=1.D1E.TERU.qXYkI2fp0Pp9&amp;smid=url-share" rel="related" type="text/html" />
+<description>A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F25%2Fmultimedia%2F25biz-openai-details-sam-altman-fmvc%2F25biz-openai-details-sam-altman-fmvc-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.</p><p><a href="https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html?unlocked_article_code=1.D1E.TERU.qXYkI2fp0Pp9&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F25%2Fmultimedia%2F25biz-openai-details-sam-altman-fmvc%2F25biz-openai-details-sam-altman-fmvc-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F25%2Fmultimedia%2F25biz-openai-details-sam-altman-fmvc%2F25biz-openai-details-sam-altman-fmvc-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F25%2Fmultimedia%2F25biz-openai-details-sam-altman-fmvc%2F25biz-openai-details-sam-altman-fmvc-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A US appeals court rules that Kalshi's sports contracts are not "swaps" subject only to CFTC regulation, allowing states to regulate them under gambling laws (Jonathan Stempel/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd4a3e13ccf7c0ed337c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwemg263bv2v</guid>
+<pubDate>Fri, 25 Sep 2026 20:30:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25/" rel="related" type="text/html" />
+<description>A US appeals court on Friday ruled against the ‌prediction markets operator Kalshi, saying Ohio and Tennessee can regulate its so-called event contracts under their gambling laws.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVX72KSXL55PZHL262RFXXC4KIM.jpg%3Fauth%3Def4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A US appeals court on Friday ruled against the ‌prediction markets operator Kalshi, saying Ohio and Tennessee can regulate its so-called event contracts under their gambling laws.</p><p><a href="https://www.reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVX72KSXL55PZHL262RFXXC4KIM.jpg%3Fauth%3Def4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVX72KSXL55PZHL262RFXXC4KIM.jpg%3Fauth%3Def4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVX72KSXL55PZHL262RFXXC4KIM.jpg%3Fauth%3Def4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A look at Holograms, Meta's take on Apple Vision Pro's Personas, launching with a shoulders-up version this fall for WhatsApp calls on Ray-Ban Display glasses (David Heaney/UploadVR)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0fb0f70325151ac8b72f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwekrn6cza2f</guid>
+<pubDate>Fri, 25 Sep 2026 20:01:38 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/" rel="related" type="text/html" />
+<description>Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" alt="" /></p><p>Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.</p><p><a href="https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" medium="image" type="image/png" />
+<media:thumbnail url="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" />
+<enclosure url="https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png" type="image/png" length="0" />
+</item>
 <item>
 <title>Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices (Zac Bowden/Windows Central)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4692bb4bba3b5cd3ded5.html</link>
@@ -43,8 +141,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/" rel="related" type="text/html" />
-<description>A jury in Santa Fe, New Mexico, found on Friday that Meta Platforms misled the state's residents, in a case stemming from allegations that political consulting firm Cambridge Analytica, which had work...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEI75G2ZKTBLJPANATEDWZ6G3CQ.jpg%3Fauth%3D690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A jury in Santa Fe, New Mexico, found on Friday that Meta Platforms misled the state's residents, in a case stemming from allegations that political consulting firm Cambridge Analytica, which had work...</p><p><a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/">Open Original Article</a></p>]]></content:encoded>
+<description>A jury in Santa Fe, New Mexico, found on Friday that Meta ​Platforms misled the state's residents in a case arising from allegations that a political consulting firm involved in Donald Trump's 2016 pr...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEI75G2ZKTBLJPANATEDWZ6G3CQ.jpg%3Fauth%3D690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A jury in Santa Fe, New Mexico, found on Friday that Meta ​Platforms misled the state's residents in a case arising from allegations that a political consulting firm involved in Donald Trump's 2016 pr...</p><p><a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEI75G2ZKTBLJPANATEDWZ6G3CQ.jpg%3Fauth%3D690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEI75G2ZKTBLJPANATEDWZ6G3CQ.jpg%3Fauth%3D690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FEI75G2ZKTBLJPANATEDWZ6G3CQ.jpg%3Fauth%3D690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -748,104 +846,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Companies are increasingly using AI benchmarking services to aggregate public job listings and other payroll data to identify under- and over-paid employees (Callum Borchers/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1e5ba2196ab739c09ba9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb2pf24uk2e</guid>
-<pubDate>Thu, 24 Sep 2026 10:36:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>New services allow employers to pinpoint who is being paid too much or too little.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-75278220%2Fsocial" alt="" /></p><p>New services allow employers to pinpoint who is being paid too much or too little.</p><p><a href="https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-75278220%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-75278220%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-75278220%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI says its AI agents "took actions we did not intend" when they tried to hack government and university websites, and it is working with the organizations (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f5da12411cf8d40d9dcd.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwazuuf2dg2v</guid>
-<pubDate>Thu, 24 Sep 2026 10:21:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share" rel="related" type="text/html" />
-<description>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2F23biz-openai-hacks-kzbc%2F23biz-openai-hacks-kzbc-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</p><p><a href="https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2F23biz-openai-hacks-kzbc%2F23biz-openai-hacks-kzbc-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2F23biz-openai-hacks-kzbc%2F23biz-openai-hacks-kzbc-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F23%2Fmultimedia%2F23biz-openai-hacks-kzbc%2F23biz-openai-hacks-kzbc-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Mark Carney, Emmanuel Macron, and other Western leaders are pushing to establish a global supervisory regime and "technology stability" body to govern AI (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6b38950a61e9487be6d7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwayzlcnvu2h</guid>
-<pubDate>Thu, 24 Sep 2026 10:05:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>An island meeting and texts between the leaders of Canada, France and Norway reveal an emerging alliance: “We’re in.”</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86369812%2Fsocial" alt="" /></p><p>An island meeting and texts between the leaders of Canada, France and Norway reveal an emerging alliance: “We’re in.”</p><p><a href="https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86369812%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86369812%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-86369812%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Delivery Hero co-founder and CEO Niklas Östberg reverses his decision to step down in 2027, as the company prepares for Uber's €13B takeover and an asset sale (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b6ea97d85b806c8f70b7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwayi3n4kk2j</guid>
-<pubDate>Thu, 24 Sep 2026 09:56:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/1767ba03-05a2-4d69-83df-5aa0a6bf24e2" rel="related" type="text/html" />
-<description>‘Teflon’ Niklas Östberg to guide German food delivery group through asset sales and a new future under its US rival</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7727f816-f946-4115-8079-ee8e821a6bfa.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>‘Teflon’ Niklas Östberg to guide German food delivery group through asset sales and a new future under its US rival</p><p><a href="https://www.ft.com/content/1767ba03-05a2-4d69-83df-5aa0a6bf24e2">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7727f816-f946-4115-8079-ee8e821a6bfa.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7727f816-f946-4115-8079-ee8e821a6bfa.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7727f816-f946-4115-8079-ee8e821a6bfa.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/230192496f81011a0aad.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaxn5dflz2b</guid>
-<pubDate>Thu, 24 Sep 2026 09:41:07 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Data-center spending is greater than that for canals, railroads and grid combined—creating jobs and stock-market wealth, while boosting inflation and crowding out housing.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81923968%2Fsocial" alt="" /></p><p>Data-center spending is greater than that for canals, railroads and grid combined—creating jobs and stock-market wealth, while boosting inflation and crowding out housing.</p><p><a href="https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81923968%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81923968%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81923968%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: DeepSeek's annualized revenue run rate hits $1B, up from less than $500M a few months ago, as it aims to finalize a ~$7.5B fundraise by late October (The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5feb454e629438b96fc0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwax2surgm2e</guid>
-<pubDate>Thu, 24 Sep 2026 09:30:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising" rel="related" type="text/html" />
-<description>DeepSeek’s annualized revenue run rate has hit $1 billion, more than double the rate of a few months ago, buoyed by a recent price hike as well as continued popularity of its models, according to two people with direct knowledge of the matter. The latest revenue figure, shared by CEO Liang ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17878/dae26cb4-bf9a-41d1-b81d-3ed63b5ad2c4.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>DeepSeek’s annualized revenue run rate has hit $1 billion, more than double the rate of a few months ago, buoyed by a recent price hike as well as continued popularity of its models, according to two people with direct knowledge of the matter. The latest revenue figure, shared by CEO Liang ...</p><p><a href="https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17878/dae26cb4-bf9a-41d1-b81d-3ed63b5ad2c4.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17878/dae26cb4-bf9a-41d1-b81d-3ed63b5ad2c4.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17878/dae26cb4-bf9a-41d1-b81d-3ed63b5ad2c4.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b0ea1985972fc9079cbe.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwawgttmbb2k</guid>
-<pubDate>Thu, 24 Sep 2026 09:19:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/transactional/australias-firmus-expects-77-million-first-half-loss-it-plans-5-billion-ipo-2026-09-24/" rel="related" type="text/html" />
-<description>Australian data centre operator Firmus expects to lose $77 million in the current half, according to two people familiar with a draft prospectus, as the ​firm prepares for a $5 billion initial public ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FESXVU3E4JFMNJG4E6VQKDKZTDY.jpg%3Fauth%3Df40a612189c63f889032e840e9faac7ee9ee13017baaeb49a869fa2ca929da5b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Australian data centre operator Firmus expects to lose $77 million in the current half, according to two people familiar with a draft prospectus, as the ​firm prepares for a $5 billion initial public ...</p><p><a href="https://www.reuters.com/legal/transactional/australias-firmus-expects-77-million-first-half-loss-it-plans-5-billion-ipo-2026-09-24/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FESXVU3E4JFMNJG4E6VQKDKZTDY.jpg%3Fauth%3Df40a612189c63f889032e840e9faac7ee9ee13017baaeb49a869fa2ca929da5b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FESXVU3E4JFMNJG4E6VQKDKZTDY.jpg%3Fauth%3Df40a612189c63f889032e840e9faac7ee9ee13017baaeb49a869fa2ca929da5b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FESXVU3E4JFMNJG4E6VQKDKZTDY.jpg%3Fauth%3Df40a612189c63f889032e840e9faac7ee9ee13017baaeb49a869fa2ca929da5b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
