@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 00:47:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 05:28:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#x27;s AI push (Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwczthnplg2f</guid>
+<pubDate>Fri, 25 Sep 2026 05:25:46 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (Stephanie Palazzolo/The Information)</title>
+<link>https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcslj4jzs2b</guid>
+<pubDate>Fri, 25 Sep 2026 03:16:03 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcqmwpltg2a</guid>
+<pubDate>Fri, 25 Sep 2026 02:41:03 +0000</pubDate>
+<description>Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Massachusetts&#x27; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&amp;smid=bs-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcnb3eypp2f</guid>
+<pubDate>Fri, 25 Sep 2026 01:40:44 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Report: insurers claim hospitals&#x27; AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&amp;smid=nytcore-android-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwclcktefs2k</guid>
+<pubDate>Fri, 25 Sep 2026 01:05:47 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)</title>
 <link>https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic</link>
@@ -775,9 +817,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6zd5xopc2a</guid>
 <pubDate>Wed, 23 Sep 2026 15:06:00 +0000</pubDate>
 <description>Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#x27;s Claude or Amazon&#x27;s own Quick assistant.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" alt="" /></p><p>Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#x27;s Claude or Amazon&#x27;s own Quick assistant.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" />
+<content:encoded><![CDATA[<p><img src="https://www.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" alt="" /></p><p>Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic&#x27;s Claude or Amazon&#x27;s own Quick assistant.</p>]]></content:encoded>
+<media:content url="https://www.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" medium="image" />
+<media:thumbnail url="https://www.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg" />
 </item>
 <item>
 <title>Coachella promoter Goldenvoice renews its livestreaming partnership with YouTube through 2030, choosing it over competing bids from Netflix and Amazon (Lucas Shaw/Bloomberg)</title>
@@ -850,52 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" alt="" /></p><p>OpenAI is hiring influencers to create content that portrays AI as cool and helpful, not scary. Here&#x27;s an inside look at its marketing strategy.</p>]]></content:encoded>
 <media:content url="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" medium="image" />
 <media:thumbnail url="https://i.insider.com/6ab26f10d15f8a572974903e?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Ema, which uses AI agents to automate corporate processes across HR, IT, and finance, raised a $77M Series B led by Creaegis, taking its total funding to $140M (Jagmeet Singh/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6qfhp5vh2a</guid>
-<pubDate>Wed, 23 Sep 2026 12:26:14 +0000</pubDate>
-<description>Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671" alt="" /></p><p>Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671" />
-</item>
-<item>
-<title>OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)</title>
-<link>https://www.bbc.com/news/articles/c90kly26d7pzo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6psxcqju2e</guid>
-<pubDate>Wed, 23 Sep 2026 12:15:53 +0000</pubDate>
-<description>Ukraine will get access to OpenAI&#x27;s advanced GPT 5.6 Sol model under the deal - a rival to Anthropic&#x27;s Mythos and Fable</description>
-<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg" alt="" /></p><p>Ukraine will get access to OpenAI&#x27;s advanced GPT 5.6 Sol model under the deal - a rival to Anthropic&#x27;s Mythos and Fable</p>]]></content:encoded>
-<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg" medium="image" />
-<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg" />
-</item>
-<item>
-<title>Carnegie China: China passed the US as the top destination for elite AI talent in 2025, rising from 2022&#x27;s 27.1% share to 40.6%; the US fell from 46.4% to 34.2% (Claudia Chong/The Information)</title>
-<link>https://www.theinformation.com/briefings/china-leads-u-s-top-ai-talent-study-finds</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6pb2owa32e</guid>
-<pubDate>Wed, 23 Sep 2026 12:05:52 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The UK CMA proposes rules requiring Google and Android OEMs to offer search choice screens on first use and via yearly prompts, new AI assistant rules, and more (Steve Dent/Engadget)</title>
-<link>https://www.engadget.com/2266226/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6o5iargy25</guid>
-<pubDate>Wed, 23 Sep 2026 11:45:58 +0000</pubDate>
-<description>UK regulator is trying to introduce more search choices where Google has the tightest control: Android and Chrome.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/l-intro-1790162368.jpg" alt="" /></p><p>UK regulator is trying to introduce more search choices where Google has the tightest control: Android and Chrome.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/l-intro-1790162368.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/uk-competition-watchdog-wants-to-give-android-and-chrome-users-more-search-engine-choices/l-intro-1790162368.jpg" />
-</item>
-<item>
-<title>A Facebook co-founder proposes creating an &quot;Office of AI Supervision&quot; to embed teams inside frontier AI labs, with a three-year term to avoid regulatory capture (Chris Hughes/Financial Times)</title>
-<link>https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6m76prjz2i</guid>
-<pubDate>Wed, 23 Sep 2026 11:11:08 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
