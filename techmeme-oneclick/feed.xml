@@ -5,8 +5,32 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 24 Sep 2026 22:37:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 00:47:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwchx7k7qo2h</guid>
+<pubDate>Fri, 25 Sep 2026 00:05:44 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says &quot;user funds are safe&quot; (Matthew Brockett/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcedzommw2v</guid>
+<pubDate>Thu, 24 Sep 2026 23:01:20 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)</title>
+<link>https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcdi65b3q2m</guid>
+<pubDate>Thu, 24 Sep 2026 22:45:45 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)</title>
 <link>https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e</link>
@@ -872,30 +896,6 @@
 <pubDate>Wed, 23 Sep 2026 11:11:08 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life (Damien Cave/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6lo7ayll2j</guid>
-<pubDate>Wed, 23 Sep 2026 11:01:38 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet (Richard Gere/Wall Street Journal)</title>
-<link>https://www.wsj.com/opinion/beijing-turns-ai-against-tibetans-worldwide-a95c6132?st=ybtPN4&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6jxbl6dg2e</guid>
-<pubDate>Wed, 23 Sep 2026 10:30:55 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Analysis: 30 Chinese tech stocks with the largest overseas revenue exposure returned 36% YTD, outperforming the 8% return from domestically dependent peers (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw6jfgwkle2i</guid>
-<pubDate>Wed, 23 Sep 2026 10:20:57 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
