@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 05:29:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:29:07 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies (Ashley Gold/Semafor)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e939e712fa60f7219346.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdi3pjart2e</guid>
+<pubDate>Fri, 25 Sep 2026 09:40:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety" rel="related" type="text/html" />
+<description>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</p><p><a href="https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+<enclosure url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Analysts See a PEEK Boom in Humanoid Robots. Kingfa’s Robotics Lead Says Most of It Is Hype</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/12ce4953c8d136012a5c.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/peek-humanoid-robots-barclays-kingfa-hype</guid>
+<pubDate>Fri, 25 Sep 2026 06:47:02 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/peek-humanoid-robots-barclays-kingfa-hype" rel="related" type="text/html" />
+<description>Barclays says one million humanoids by 2030 could mean 10,000 tons of PEEK demand. Kingfa’s robotics technical lead questions most current applications, highlighting the gap between today’s designs and future forecasts.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/peek-pellets-ai-generated-illustration-9jAJiR0zC78OfngsoblJT8RfTMFxRe.webp" alt="" /></p><p>Barclays says one million humanoids by 2030 could mean 10,000 tons of PEEK demand. Kingfa’s robotics technical lead questions most current applications, highlighting the gap between today’s designs and future forecasts.</p><p><a href="https://www.humanoidsdaily.com/news/peek-humanoid-robots-barclays-kingfa-hype">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/peek-pellets-ai-generated-illustration-9jAJiR0zC78OfngsoblJT8RfTMFxRe.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/peek-pellets-ai-generated-illustration-9jAJiR0zC78OfngsoblJT8RfTMFxRe.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/peek-pellets-ai-generated-illustration-9jAJiR0zC78OfngsoblJT8RfTMFxRe.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/41a41803275c5518799f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwd5hntnth2i</guid>
+<pubDate>Fri, 25 Sep 2026 06:30:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900" rel="related" type="text/html" />
+<description>It is true that these numbers can hide some sleight of hand</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8500ac-6a34-4838-b862-b1a099652030.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>It is true that these numbers can hide some sleight of hand</p><p><a href="https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8500ac-6a34-4838-b862-b1a099652030.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8500ac-6a34-4838-b862-b1a099652030.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf8500ac-6a34-4838-b862-b1a099652030.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/png" length="0" />
+</item>
 <item>
 <title>Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a9d336b1f3b8bde4ff36.html</link>
@@ -141,11 +183,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/" rel="related" type="text/html" />
-<description>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares su...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHFYU5PVWCZJN7CW5URLEYXBGVA.jpg%3Fauth%3D2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares su...</p><p><a href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHFYU5PVWCZJN7CW5URLEYXBGVA.jpg%3Fauth%3D2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHFYU5PVWCZJN7CW5URLEYXBGVA.jpg%3Fauth%3D2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHFYU5PVWCZJN7CW5URLEYXBGVA.jpg%3Fauth%3D2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+<description>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares surging 22% in extended trading.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares surging 22% in extended trading.</p><p><a href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
+<enclosure url="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)</title>
@@ -876,34 +918,6 @@
 <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5KrG4TnUmqAhgDo0zdLrUk/5dda4aa9e8fe694141b9fff6926ca82e/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
 </item>
 <item>
-<title>SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0d252ac1025ee563b1cb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaaqg5v3a2j</guid>
-<pubDate>Thu, 24 Sep 2026 02:51:21 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push" rel="related" type="text/html" />
-<description>Billionaire Masayoshi Son’s SoftBank Group Corp. pushed through the largest corporate junk-bond offering on record, dangling yields above anything it’s paid before in an effort to fund its massive AI ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMLZ8FLRX.5w%2Fv0%2F1200x800.jpg" alt="" /></p><p>Billionaire Masayoshi Son’s SoftBank Group Corp. pushed through the largest corporate junk-bond offering on record, dangling yields above anything it’s paid before in an effort to fund its massive AI ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMLZ8FLRX.5w%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMLZ8FLRX.5w%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiMLZ8FLRX.5w%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend (Christian Robles/Nextgov/FCW)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f6087effaa018c206c4a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwa73xx7nw2v</guid>
-<pubDate>Thu, 24 Sep 2026 02:22:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/" rel="related" type="text/html" />
-<description>Sen. Josh Hawley, R-Mo., criticized makers of automatic license plate readers for relying on agency customers to self-police the systems for instances of wrongdoing.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" alt="" /></p><p>Sen. Josh Hawley, R-Mo., criticized makers of automatic license plate readers for relying on agency customers to self-police the systems for instances of wrongdoing.</p><p><a href="https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" />
-<enclosure url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Skild AI’s S1 Learns Soccer Through More Than 140 Years of Simulated Self-Play</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/39c110cdb3411f524c38.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/skild-ai-s1-learns-soccer-through-140-years-of-simulated-self-play</guid>
@@ -1378,20 +1392,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>XPENG’s XPACE Trains IRON With Human Videos and Simulated Mistakes</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c3e94088681e23b24aa9.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-xpace-iron-human-videos-simulated-recovery</guid>
-<pubDate>Thu, 17 Sep 2026 14:17:20 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/xpeng-xpace-iron-human-videos-simulated-recovery" rel="related" type="text/html" />
-<description>XPENG’s XPACE combines human demonstrations and simulated recoveries to improve IRON’s manipulation skills, with gains in small real-robot tests.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-xpace-iron-green-apple-K3o8iUrC7QCIGs3WoK19iWdzI4o46G.webp" alt="" /></p><p>XPENG’s XPACE combines human demonstrations and simulated recoveries to improve IRON’s manipulation skills, with gains in small real-robot tests.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-xpace-iron-human-videos-simulated-recovery">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-xpace-iron-green-apple-K3o8iUrC7QCIGs3WoK19iWdzI4o46G.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-xpace-iron-green-apple-K3o8iUrC7QCIGs3WoK19iWdzI4o46G.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-xpace-iron-green-apple-K3o8iUrC7QCIGs3WoK19iWdzI4o46G.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>DeepSeek-V4.1 Flash Brought Back Encoders!?</title>
@@ -1968,18 +1968,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
@@ -1996,18 +1996,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
