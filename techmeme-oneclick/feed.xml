@@ -5,8 +5,66 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 00:53:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 05:49:22 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)</title>
+<link>https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfl5bkyxg2f</guid>
+<pubDate>Sat, 26 Sep 2026 05:40:48 +0000</pubDate>
+<description>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</description>
+<content:encoded><![CDATA[<p><img src="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" alt="" /></p><p>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</p>]]></content:encoded>
+<media:content url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" medium="image" />
+<media:thumbnail url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" />
+</item>
+<item>
+<title>Russia has increased targeted strikes on Ukrainian data centers, disrupting internet access for ~100K Kyiv residents on Wednesday and Thursday (Christopher Miller/Financial Times)</title>
+<link>https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfklxri4h2a</guid>
+<pubDate>Sat, 26 Sep 2026 05:31:08 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Palantir and 8VC cofounder Joe Lonsdale, an investor in Anthropic, says AI companies are attempting to sway public policy by warning of existential AI risks (Joe Brock/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfj6om2ch2i</guid>
+<pubDate>Sat, 26 Sep 2026 05:05:48 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness (Peter Blumberg/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-26/deel-dealt-fresh-setbacks-in-rippling-case-over-alleged-spying</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfi2y3yim2e</guid>
+<pubDate>Sat, 26 Sep 2026 04:45:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)</title>
+<link>https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfg4fdoye2m</guid>
+<pubDate>Sat, 26 Sep 2026 04:10:50 +0000</pubDate>
+<description>Research on aligning AI with human values and intent, and reports documenting model failures.</description>
+<content:encoded><![CDATA[<p>Research on aligning AI with human values and intent, and reports documenting model failures.</p>]]></content:encoded>
+</item>
+<item>
+<title>Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#x27;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft (Reuters)</title>
+<link>https://www.reuters.com/legal/government/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-2026-09-26/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfbp5bae42b</guid>
+<pubDate>Sat, 26 Sep 2026 02:51:50 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/us-lawmakers-aim-keep-chinas-datacenter-tech-out-sensitive-government-systems-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwf3t7xtds2e</guid>
+<pubDate>Sat, 26 Sep 2026 01:06:45 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Researchers: OpenAI&#x27;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#x27;s knowledge and tried to hack the Education Dept. site (New York Times)</title>
 <link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&amp;smid=nytcore-android-share</link>
@@ -568,10 +626,8 @@
 <link>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwazuuf2dg2v</guid>
 <pubDate>Thu, 24 Sep 2026 10:21:14 +0000</pubDate>
-<description>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" alt="" /></p><p>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" medium="image" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" />
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Mark Carney, Emmanuel Macron, and other Western leaders are pushing to establish a global supervisory regime and &quot;technology stability&quot; body to govern AI (Wall Street Journal)</title>
@@ -824,68 +880,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Your Muse avatar, on video.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
-</item>
-<item>
-<title>Meta VR Glasses hands-on: supremely comfortable to wear, excellent for multitasking, immersive content looks beautiful, and relatively low cost (Hamish Hector/TechRadar)</title>
-<link>https://www.techradar.com/computing/virtual-reality-augmented-reality/ive-worn-metas-vr-glasses-and-theyre-coming-to-eat-the-apple-vision-pros-lunch-for-one-big-reason-theyre-1-6-the-weight</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7z7yp2im25</guid>
-<pubDate>Thu, 24 Sep 2026 00:36:54 +0000</pubDate>
-<description>Meta is coming for the Vision Pro&#x27;s lunch</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-2560-80.jpg" alt="" /></p><p>Meta is coming for the Vision Pro&#x27;s lunch</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-2560-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-2560-80.jpg" />
-</item>
-<item>
-<title>Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year&#x27;s end (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7y2ydw3x2j</guid>
-<pubDate>Thu, 24 Sep 2026 00:16:12 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7wz5cjyz2b</guid>
-<pubDate>Wed, 23 Sep 2026 23:57:16 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year (Cheyenne MacDonald/Engadget)</title>
-<link>https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7w62bp372y</guid>
-<pubDate>Wed, 23 Sep 2026 23:42:07 +0000</pubDate>
-<description>After a free trial it&#x27;ll cost $150 to add on, or require a Meta One subscription.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg" alt="" /></p><p>After a free trial it&#x27;ll cost $150 to add on, or require a Meta One subscription.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg" />
-</item>
-<item>
-<title>Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjA3MCwiZXhwIjoxNzkwODEwODcwLCJhcnRpY2xlSWQiOiJUTFRSSlNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.hXsz9wMYJVpq_nttgDMcCxqL6zymd_-tNR1p7fbMD5A</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7vthubzs2v</guid>
-<pubDate>Wed, 23 Sep 2026 23:36:12 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Court docs: OpenAI says Apple&#x27;s ChatGPT integration to power Apple Intelligence on iPhones &quot;dramatically underperformed&quot; after it launched in 2024 (Michael Acton/Financial Times)</title>
-<link>https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7uhvz7562f</guid>
-<pubDate>Wed, 23 Sep 2026 23:11:51 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A live blog of Meta Connect 2026, where a new pair of Meta Glasses without cameras onboard and a new VR headset are expected (Engadget)</title>
-<link>https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7tn2g3k32a</guid>
-<pubDate>Wed, 23 Sep 2026 22:56:49 +0000</pubDate>
-<description>More smart glasses and possibly a VR headset are expected today</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" alt="" /></p><p>More smart glasses and possibly a VR headset are expected today</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" />
 </item>
 </channel>
 </rss>
