@@ -5,8 +5,32 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 25 Sep 2026 22:40:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 00:53:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Researchers: OpenAI&#x27;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#x27;s knowledge and tried to hack the Education Dept. site (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&amp;smid=nytcore-android-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwey6psldx2b</guid>
+<pubDate>Sat, 26 Sep 2026 00:01:36 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison (Brian Krebs/Krebs on Security)</title>
+<link>https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweut4mbaw2e</guid>
+<pubDate>Fri, 25 Sep 2026 23:01:25 +0000</pubDate>
+<description>From krebsonsecurity.com</description>
+<content:encoded><![CDATA[<p>From krebsonsecurity.com</p>]]></content:encoded>
+</item>
+<item>
+<title>TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met (Gnaneshwar Rajan/Reuters)</title>
+<link>https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweuj3by4e2b</guid>
+<pubDate>Fri, 25 Sep 2026 22:55:48 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#x27;t publicly listed&quot; and &quot;most&quot; of the images have been removed (@openai)</title>
 <link>https://x.com/openai/status/2103587050347995581</link>
@@ -544,8 +568,10 @@
 <link>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwazuuf2dg2v</guid>
 <pubDate>Thu, 24 Sep 2026 10:21:14 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" alt="" /></p><p>In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-openai-hacks-kzbc/23biz-openai-hacks-kzbc-facebookJumbo.jpg" />
 </item>
 <item>
 <title>Mark Carney, Emmanuel Macron, and other Western leaders are pushing to establish a global supervisory regime and &quot;technology stability&quot; body to govern AI (Wall Street Journal)</title>
@@ -860,32 +886,6 @@
 <content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" alt="" /></p><p>More smart glasses and possibly a VR headset are expected today</p>]]></content:encoded>
 <media:content url="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" medium="image" />
 <media:thumbnail url="https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg" />
-</item>
-<item>
-<title>Source: a CoreWeave-tied data center raised $1.1B in junk bonds at 98.5 cents on the dollar to yield 9.25%, ~2.7 percentage points above similarly rated debt (Gowri Gurumurthy/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/coreweave-tied-data-center-raises-1-1-billion-in-junk-bonds</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7tddz56s2i</guid>
-<pubDate>Wed, 23 Sep 2026 22:51:24 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft unveils the $1,149+ Surface Pro 12-inch and the $1,199+ Surface Laptop 13-inch with Snapdragon X2 Plus, and a new Surface Mouse with built-in haptics (Zac Bowden/Windows Central)</title>
-<link>https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7srzou2u2k</guid>
-<pubDate>Wed, 23 Sep 2026 22:41:43 +0000</pubDate>
-<description>The company is launching its new &quot;entry premium&quot; Surface Pro and Surface Laptop, both starting at over $1,000.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F-2560-80.jpg" alt="" /></p><p>The company is launching its new &quot;entry premium&quot; Surface Pro and Surface Laptop, both starting at over $1,000.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F-2560-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F-2560-80.jpg" />
-</item>
-<item>
-<title>Microsoft plans to invest more than $10B through 2030 in Saudi Arabia, Kuwait, Qatar, and the UAE, including a $7.9B UAE investment it announced last year (Mark Bergen/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/microsoft-pledges-to-spend-additional-2-billion-in-gulf-region</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7s6vwvdk25</guid>
-<pubDate>Wed, 23 Sep 2026 22:31:01 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
