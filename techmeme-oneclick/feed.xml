@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 05:49:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:19:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfnwp4mud2y</guid>
+<pubDate>Sat, 26 Sep 2026 06:30:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)</title>
 <link>https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/</link>
@@ -95,9 +103,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwet4gyrj32v</guid>
 <pubDate>Fri, 25 Sep 2026 22:30:51 +0000</pubDate>
 <description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" />
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" />
 </item>
 <item>
 <title>FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability (Reuters)</title>
@@ -870,16 +878,6 @@
 <content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" alt="" /></p><p>They&#x27;re a notable improvement over the company&#x27;s earlier attempts at digital likeness.</p>]]></content:encoded>
 <media:content url="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" medium="image" />
 <media:thumbnail url="https://www.engadget.com/img/gallery/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/l-intro-1790374045.jpg" />
-</item>
-<item>
-<title>Meta says users will be able to video chat with Muse, agents will get their own email addresses, and Muse will get computer use on Mac and smart glasses support (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mw7zqv3tpt2k</guid>
-<pubDate>Thu, 24 Sep 2026 00:46:20 +0000</pubDate>
-<description>Your Muse avatar, on video.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Your Muse avatar, on video.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
 </item>
 </channel>
 </rss>
