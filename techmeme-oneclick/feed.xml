@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 17:59:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 21:00:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwh2o2opki2e</guid>
+<pubDate>Sat, 26 Sep 2026 19:51:17 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot; (Anthony Ha/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgwi4lbsh2f</guid>
+<pubDate>Sat, 26 Sep 2026 18:36:23 +0000</pubDate>
+<description>Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" alt="" /></p><p>Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" />
+</item>
+<item>
+<title>A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#x27;s&quot; tech (Ashley Capoot/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgv3xzuk22e</guid>
+<pubDate>Sat, 26 Sep 2026 18:11:42 +0000</pubDate>
+<description>A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" alt="" /></p><p>A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" />
+</item>
 <item>
 <title>Bitget CEO Gracy Chen says she suspects North Korean attackers exploited a backend system used to process wallet transactions to drain $387M from the platform (Camila Grigera Naón/Fortune)</title>
 <link>https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/</link>
@@ -844,32 +872,6 @@
 <pubDate>Thu, 24 Sep 2026 03:51:16 +0000</pubDate>
 <description>From www.theinformation.com</description>
 <content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)</title>
-<link>https://openai.com/index/introducing-mentalhealthbench/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwac4yhlf52y</guid>
-<pubDate>Thu, 24 Sep 2026 03:16:17 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaaqg5v3a2j</guid>
-<pubDate>Thu, 24 Sep 2026 02:51:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend (Christian Robles/Nextgov/FCW)</title>
-<link>https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwa73xx7nw2v</guid>
-<pubDate>Thu, 24 Sep 2026 02:22:01 +0000</pubDate>
-<description>Sen. Josh Hawley, R-Mo., criticized makers of automatic license plate readers for relying on agency customers to self-police the systems for instances of wrongdoing.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" alt="" /></p><p>Sen. Josh Hawley, R-Mo., criticized makers of automatic license plate readers for relying on agency customers to self-police the systems for instances of wrongdoing.</p>]]></content:encoded>
-<media:content url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" medium="image" />
-<media:thumbnail url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/open-graph.jpg" />
 </item>
 </channel>
 </rss>
