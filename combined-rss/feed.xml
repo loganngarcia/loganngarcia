@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 05:51:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:47:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tesla Reportedly Builds Hundreds of Optimus Robots a Week</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0fdd59135dc6e7cf193.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report</guid>
+<pubDate>Sat, 26 Sep 2026 09:31:20 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report" rel="related" type="text/html" />
+<description>The Information reports a roughly tenfold Optimus production increase, but says current V3 units are not the final customer version and details hardware, supplier and AI challenges.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" alt="" /></p><p>The Information reports a roughly tenfold Optimus production increase, but says current V3 units are not the final customer version and details hardware, supplier and AI challenges.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Asimov Open-Sources the Training Code Behind Its Humanoid’s Walk</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9c57877092b0abcfe0af.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training</guid>
+<pubDate>Sat, 26 Sep 2026 08:37:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training" rel="related" type="text/html" />
+<description>The Asimov 1 release exposes locomotion rewards, actuator settings and simulation training code, giving developers tools to adapt the walking controller for the open-source humanoid.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" alt="" /></p><p>The Asimov 1 release exposes locomotion rewards, actuator settings and simulation training code, giving developers tools to adapt the walking controller for the open-source humanoid.</p><p><a href="https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>AGIBOT Has Built 20,000 Robots—Twice Its March Total</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/756048755d5adfceca03.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone</guid>
+<pubDate>Sat, 26 Sep 2026 08:35:42 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone" rel="related" type="text/html" />
+<description>AGIBOT says cumulative robot production has reached 20,000, with its latest milestone machine delivered to Chimelong. Recent checkpoints suggest roughly 5,000 additional units per quarter across a mixed fleet.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" alt="" /></p><p>AGIBOT says cumulative robot production has reached 20,000, with its latest milestone machine delivered to Chimelong. Recent checkpoints suggest roughly 5,000 additional units per quarter across a mixed fleet.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f10333159b8e05113c6d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfnwp4mud2y</guid>
+<pubDate>Sat, 26 Sep 2026 06:30:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE" rel="related" type="text/html" />
+<description>When a group of 15 Google DeepMind employees and alumni met for a breakfast this month in central London, the conversation quickly turned to how to raise money for an artificial intelligence startup.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" alt="" /></p><p>When a group of 15 Google DeepMind employees and alumni met for a breakfast this month in central London, the conversation quickly turned to how to raise money for an artificial intelligence startup.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6dfc210d00e3c0b4909b.html</link>
@@ -156,10 +212,10 @@
 <category>Techmeme</category>
 <atom:link href="https://x.com/openai/status/2103587050347995581" rel="related" type="text/html" />
 <description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p><p><a href="https://x.com/openai/status/2103587050347995581">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" />
-<enclosure url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p><p><a href="https://x.com/openai/status/2103587050347995581">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" />
+<enclosure url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with "wills and desires", suggesting developers hold liability (Reuters)</title>
@@ -862,20 +918,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/o-id-modular-robot-prototype-VV6uGtW0D9yBwi6VSWPqXMeIqpAeet.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ead974917c633de5957.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbeqnyak32b</guid>
-<pubDate>Thu, 24 Sep 2026 13:35:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.</p><p><a href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Dream-RSI</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6e2bfa4cf75cc32c488f.html</link>
 <guid isPermaLink="false">combined:a16b2e7fbdfabd9c3e06c6c4dd4b5245d612f02b</guid>
@@ -1338,34 +1380,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01WiBmdpYSfUD29R4a_!!6000000000594-2-tps-1060-636.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Lumos Says NexCore Can Teach Robots New Skills in Days</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2940d0a9478232515e5.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days</guid>
-<pubDate>Fri, 18 Sep 2026 08:52:36 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days" rel="related" type="text/html" />
-<description>Lumos pitches NexCore as a faster route from task descriptions to factory-ready robot skills, citing Mitsubishi Electric applications but offering limited benchmark detail.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" alt="" /></p><p>Lumos pitches NexCore as a faster route from task descriptions to factory-ready robot skills, citing Mitsubishi Electric applications but offering limited benchmark detail.</p><p><a href="https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Brett Adcock Says Figure 04 Will Be Figure’s Biggest Hardware Leap</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7dcecb1dbddf75bf5cd4.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04</guid>
-<pubDate>Fri, 18 Sep 2026 08:17:37 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04" rel="related" type="text/html" />
-<description>On RoboStrategy, Figure’s CEO outlines four chapters for humanoid robotics, explains the limits of Helix 2.5 and teases a major Figure 04 redesign.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" alt="" /></p><p>On RoboStrategy, Figure’s CEO outlines four chapters for humanoid robotics, explains the limits of Helix 2.5 and teases a major Figure 04 redesign.</p><p><a href="https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" type="image/webp" length="0" />
-</item>
-<item>
 <title>Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery.</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3195ca010f5c230c590c.html</link>
 <guid isPermaLink="false">combined:fb46c939de61db0ef8d6ec8b75d28c4c985f1593</guid>
@@ -1378,20 +1392,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i1/O1CN01OvSn2RXYZRD29R4a_!!6000000000892-2-tps-1060-636.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/962f4b4749ca66bf8846.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes</guid>
-<pubDate>Thu, 17 Sep 2026 18:53:35 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes" rel="related" type="text/html" />
-<description>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" alt="" /></p><p>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</p><p><a href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>DeepSeek-V4.1 Flash Brought Back Encoders!?</title>
@@ -1968,18 +1968,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
@@ -1996,18 +1996,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>

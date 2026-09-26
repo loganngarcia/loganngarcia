@@ -5,8 +5,50 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 05:51:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:47:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tesla Reportedly Builds Hundreds of Optimus Robots a Week</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0fdd59135dc6e7cf193.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report</guid>
+<pubDate>Sat, 26 Sep 2026 09:31:20 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report" rel="related" type="text/html" />
+<description>The Information reports a roughly tenfold Optimus production increase, but says current V3 units are not the final customer version and details hardware, supplier and AI challenges.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" alt="" /></p><p>The Information reports a roughly tenfold Optimus production increase, but says current V3 units are not the final customer version and details hardware, supplier and AI challenges.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-production-hundreds-per-week-report">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-fremont-editorial-collage-KBHvUF6m1Htx4jbCpGx5QUnLcWbAiF.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Asimov Open-Sources the Training Code Behind Its Humanoid’s Walk</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9c57877092b0abcfe0af.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training</guid>
+<pubDate>Sat, 26 Sep 2026 08:37:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training" rel="related" type="text/html" />
+<description>The Asimov 1 release exposes locomotion rewards, actuator settings and simulation training code, giving developers tools to adapt the walking controller for the open-source humanoid.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" alt="" /></p><p>The Asimov 1 release exposes locomotion rewards, actuator settings and simulation training code, giving developers tools to adapt the walking controller for the open-source humanoid.</p><p><a href="https://www.humanoidsdaily.com/news/asimov-open-source-locomotion-policy-training">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asomiv-locomotion-policy.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>AGIBOT Has Built 20,000 Robots—Twice Its March Total</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/756048755d5adfceca03.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone</guid>
+<pubDate>Sat, 26 Sep 2026 08:35:42 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone" rel="related" type="text/html" />
+<description>AGIBOT says cumulative robot production has reached 20,000, with its latest milestone machine delivered to Chimelong. Recent checkpoints suggest roughly 5,000 additional units per quarter across a mixed fleet.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" alt="" /></p><p>AGIBOT says cumulative robot production has reached 20,000, with its latest milestone machine delivered to Chimelong. Recent checkpoints suggest roughly 5,000 additional units per quarter across a mixed fleet.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-20000-robots-production-milestone">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-20000.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Analysts See a PEEK Boom in Humanoid Robots. Kingfa’s Robotics Lead Says Most of It Is Hype</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/12ce4953c8d136012a5c.html</link>
@@ -454,48 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Lumos Says NexCore Can Teach Robots New Skills in Days</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2940d0a9478232515e5.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days</guid>
-<pubDate>Fri, 18 Sep 2026 08:52:36 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days" rel="related" type="text/html" />
-<description>Lumos pitches NexCore as a faster route from task descriptions to factory-ready robot skills, citing Mitsubishi Electric applications but offering limited benchmark detail.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" alt="" /></p><p>Lumos pitches NexCore as a faster route from task descriptions to factory-ready robot skills, citing Mitsubishi Electric applications but offering limited benchmark detail.</p><p><a href="https://www.humanoidsdaily.com/news/lumos-nexcore-robot-skills-weeks-to-days">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lumos-nexcore-skill-evolution-fZt0vKCJufOh602uSRslFtip7XY0Qb.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Brett Adcock Says Figure 04 Will Be Figure’s Biggest Hardware Leap</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7dcecb1dbddf75bf5cd4.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04</guid>
-<pubDate>Fri, 18 Sep 2026 08:17:37 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04" rel="related" type="text/html" />
-<description>On RoboStrategy, Figure’s CEO outlines four chapters for humanoid robotics, explains the limits of Helix 2.5 and teases a major Figure 04 redesign.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" alt="" /></p><p>On RoboStrategy, Figure’s CEO outlines four chapters for humanoid robotics, explains the limits of Helix 2.5 and teases a major Figure 04 redesign.</p><p><a href="https://www.humanoidsdaily.com/news/brett-adcock-four-chapters-figure-04">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-helix-2-5-three-home-tasks-QZqpBStAa2EAKvfF40SfxRalu4do0W.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Figure’s Helix 2.5 Takes on Chores in 30 Unseen Homes</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/962f4b4749ca66bf8846.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes</guid>
-<pubDate>Thu, 17 Sep 2026 18:53:35 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes" rel="related" type="text/html" />
-<description>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" alt="" /></p><p>Figure reports 56% full-task success for Helix 2.5 across 30 unfamiliar homes, testing whether human-data pretraining transfers to household chores.</p><p><a href="https://www.humanoidsdaily.com/news/figure-helix-2-5-30-unseen-homes">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-helix-2-5-home-towel-6BRwuHvCOE0yhKL1YX6VMxgTklBM7w.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

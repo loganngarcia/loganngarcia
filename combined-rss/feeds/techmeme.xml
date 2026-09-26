@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 05:51:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:47:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f10333159b8e05113c6d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfnwp4mud2y</guid>
+<pubDate>Sat, 26 Sep 2026 06:30:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE" rel="related" type="text/html" />
+<description>When a group of 15 Google DeepMind employees and alumni met for a breakfast this month in central London, the conversation quickly turned to how to raise money for an artificial intelligence startup.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" alt="" /></p><p>When a group of 15 Google DeepMind employees and alumni met for a breakfast this month in central London, the conversation quickly turned to how to raise money for an artificial intelligence startup.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUP9EhvG4ozo%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6dfc210d00e3c0b4909b.html</link>
@@ -156,10 +170,10 @@
 <category>Techmeme</category>
 <atom:link href="https://x.com/openai/status/2103587050347995581" rel="related" type="text/html" />
 <description>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p><p><a href="https://x.com/openai/status/2103587050347995581">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" />
-<enclosure url="https://pbs.twimg.com/card_img/2101726931813326848/1LCQarxX?format=webp&amp;name=medium" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" alt="" /></p><p>We’ve shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn’t have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l…</p><p><a href="https://x.com/openai/status/2103587050347995581">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" />
+<enclosure url="https://pbs.twimg.com/card_img/2103065007848087553/zoTwaTQF?format=webp&amp;name=medium" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with "wills and desires", suggesting developers hold liability (Reuters)</title>
@@ -832,20 +846,6 @@
 <media:content url="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" medium="image" type="image/png" />
 <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" />
 <enclosure url="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6ead974917c633de5957.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbeqnyak32b</guid>
-<pubDate>Thu, 24 Sep 2026 13:35:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.</p><p><a href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F24%2Fmultimedia%2FGOOGLE-SPACE-still-promo-hmbp%2FGOOGLE-SPACE-still-promo-hmbp-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
