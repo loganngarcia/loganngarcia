@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 27 Sep 2026 01:45:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 13:00:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>HD Hyundai Wants Humanoid AI to Upgrade Its Existing Factory Robots</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3aba9ee98a8cc40e19cb.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hd-hyundai-humanoid-ai-factory-robots</guid>
+<pubDate>Sun, 27 Sep 2026 12:11:43 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/hd-hyundai-humanoid-ai-factory-robots" rel="related" type="text/html" />
+<description>HD Hyundai Robotics plans to bring humanoid perception and manipulation technology to existing factory robots, alongside hand development with AIDIN and its Persona AI welding partnership.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aidin-robotic-hand-hd-hyundai-c9A6ztUL0SbecaddBvsOGaX0ln3aHb.webp" alt="" /></p><p>HD Hyundai Robotics plans to bring humanoid perception and manipulation technology to existing factory robots, alongside hand development with AIDIN and its Persona AI welding partnership.</p><p><a href="https://www.humanoidsdaily.com/news/hd-hyundai-humanoid-ai-factory-robots">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aidin-robotic-hand-hd-hyundai-c9A6ztUL0SbecaddBvsOGaX0ln3aHb.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aidin-robotic-hand-hd-hyundai-c9A6ztUL0SbecaddBvsOGaX0ln3aHb.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aidin-robotic-hand-hd-hyundai-c9A6ztUL0SbecaddBvsOGaX0ln3aHb.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Tesla Reportedly Builds Hundreds of Optimus Robots a Week</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0fdd59135dc6e7cf193.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-media-gallery.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-media-gallery.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/optimus-media-gallery.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Watney Raises $80 Million to Put Robots to Work in Data Centers</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b6569fd2bab83ca1363f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/watney-80-million-data-center-robots</guid>
-<pubDate>Fri, 18 Sep 2026 11:56:11 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/watney-80-million-data-center-robots" rel="related" type="text/html" />
-<description>Watney’s Series A takes funding above $100 million as it targets data-center work, starting with cabling, and claims more than 99.99% reliability.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" alt="" /></p><p>Watney’s Series A takes funding above $100 million as it targets data-center work, starting with cabling, and claims more than 99.99% reliability.</p><p><a href="https://www.humanoidsdaily.com/news/watney-80-million-data-center-robots">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/watney-funding-round.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
