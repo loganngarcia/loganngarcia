@@ -5,8 +5,62 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 27 Sep 2026 01:42:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 07:08:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwi4r4o4cq2e</guid>
+<pubDate>Sun, 27 Sep 2026 06:01:27 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital (Brian Danga/The Block)</title>
+<link>https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwi3dx4ycb2v</guid>
+<pubDate>Sun, 27 Sep 2026 05:36:12 +0000</pubDate>
+<description>The funding follows HIFI&#x27;s role in DTCC&#x27;s July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.</description>
+<content:encoded><![CDATA[<p><img src="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" alt="" /></p><p>The funding follows HIFI&#x27;s role in DTCC&#x27;s July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.</p>]]></content:encoded>
+<media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" medium="image" />
+<media:thumbnail url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" />
+</item>
+<item>
+<title>PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners (Mike Wheatley/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhyjxfgoo2v</guid>
+<pubDate>Sun, 27 Sep 2026 04:45:52 +0000</pubDate>
+<description>Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" alt="" /></p><p>Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" />
+</item>
+<item>
+<title>Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners (FinTech Global)</title>
+<link>https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhxp54nwy2j</guid>
+<pubDate>Sun, 27 Sep 2026 04:30:52 +0000</pubDate>
+<description>Numeral, the AI-driven sales tax compliance platform, has closed a $100m Series C round as businesses face a widening set of tax obligations across markets and product types. Insight Partners led the round. Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork also took part. Numeral plans to spend the capital on faster product […]</description>
+<content:encoded><![CDATA[<p><img src="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" alt="" /></p><p>Numeral, the AI-driven sales tax compliance platform, has closed a $100m Series C round as businesses face a widening set of tax obligations across markets and product types. Insight Partners led the round. Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork also took part. Numeral plans to spend the capital on faster product […]</p>]]></content:encoded>
+<media:content url="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" medium="image" />
+<media:thumbnail url="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" />
+</item>
+<item>
+<title>Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)</title>
+<link>https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhtry42472m</guid>
+<pubDate>Sun, 27 Sep 2026 03:20:52 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhtji5yda2b</guid>
+<pubDate>Sun, 27 Sep 2026 03:16:07 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts (Tom Wilson/Financial Times)</title>
 <link>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32</link>
@@ -820,58 +874,6 @@
 <content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>$4bn investment aims to meet booming demand for AI server technology</p>]]></content:encoded>
 <media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
 <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-</item>
-<item>
-<title>India&#x27;s food regulator initiates penal action against Amazon, Flipkart, Swiggy Instamart, Bigbasket, and Zepto over alleged misbranding and misleading claims (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwakje2xeh2k</guid>
-<pubDate>Thu, 24 Sep 2026 05:46:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Cisco President and CPO Jeetu Patel on its multibillion-dollar networking deals for AI infrastructure, competition from partners like Nvidia, and more (Rafe Rosner-Uddin/Financial Times)</title>
-<link>https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwakc32oth2i</guid>
-<pubDate>Thu, 24 Sep 2026 05:42:17 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Schneider Electric is nearing a deal to acquire Bulgaria-based smart home device maker Shelly Group at a €1.27B valuation, excluding debt (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/schneider-electric-said-near-deal-for-smart-device-firm-shelly</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwah64zwi62y</guid>
-<pubDate>Thu, 24 Sep 2026 04:46:24 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AI agents, including those from OpenAI, attempted to hack UNM&#x27;s digital library, Data USA, and the Australian Institute of Health and Welfare in May and June (Transluce)</title>
-<link>https://transluce.org/agent-activity</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwagx2b4ij25</guid>
-<pubDate>Thu, 24 Sep 2026 04:42:26 +0000</pubDate>
-<description>We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.</description>
-<content:encoded><![CDATA[<p><img src="https://transluce.org/cards/urlquery-agent-activity-social.png" alt="" /></p><p>We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.</p>]]></content:encoded>
-<media:content url="https://transluce.org/cards/urlquery-agent-activity-social.png" medium="image" />
-<media:thumbnail url="https://transluce.org/cards/urlquery-agent-activity-social.png" />
-</item>
-<item>
-<title>Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwag4ejziu2h</guid>
-<pubDate>Thu, 24 Sep 2026 04:27:31 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)</title>
-<link>https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaeqozurq2e</guid>
-<pubDate>Thu, 24 Sep 2026 04:03:05 +0000</pubDate>
-<description>Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus...</p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
 </item>
 </channel>
 </rss>
