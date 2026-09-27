@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 26 Sep 2026 23:30:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 01:42:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts (Tom Wilson/Financial Times)</title>
+<link>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhjqap4jw2a</guid>
+<pubDate>Sun, 27 Sep 2026 00:20:57 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)</title>
 <link>https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/</link>
@@ -864,14 +872,6 @@
 <content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus...</p>]]></content:encoded>
 <media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
 <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Google DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released &quot;much earlier&quot; than the end of the year (Laura Bratton/The Information)</title>
-<link>https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwae3km4og2f</guid>
-<pubDate>Thu, 24 Sep 2026 03:51:16 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
