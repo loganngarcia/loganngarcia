@@ -5,15 +5,41 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 27 Sep 2026 12:59:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 17:39:13 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: China&#x27;s government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases (Qianer Liu/The Information)</title>
+<link>https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj7e6gslb2m</guid>
+<pubDate>Sun, 27 Sep 2026 16:20:34 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)</title>
+<link>https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj57wud7v2b</guid>
+<pubDate>Sun, 27 Sep 2026 15:42:24 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj2vx4dcu2i</guid>
+<pubDate>Sun, 27 Sep 2026 15:01:02 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals (Lily Kuo/New York Times)</title>
 <link>https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&amp;smid=url-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwiniqfbgp2j</guid>
 <pubDate>Sun, 27 Sep 2026 11:01:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/27/multimedia/27int-china-ai-safety-01-cphf/27int-china-ai-safety-01-cphf-facebookJumbo.jpg" alt="" /></p><p>In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-china-ai-safety-01-cphf/27int-china-ai-safety-01-cphf-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/27/multimedia/27int-china-ai-safety-01-cphf/27int-china-ai-safety-01-cphf-facebookJumbo.jpg" />
 </item>
 <item>
 <title>How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)</title>
@@ -844,34 +870,6 @@
 <pubDate>Thu, 24 Sep 2026 09:19:42 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic says it made Claude.ai and the Claude desktop app&#x27;s core UX ~3x faster in August using an internal model to ship improvements &quot;in a two-week sprint&quot; (Anthropic)</title>
-<link>https://claude.dev/blog/how-we-made-claude-ai-faster/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwannbbyh62a</guid>
-<pubDate>Thu, 24 Sep 2026 06:42:14 +0000</pubDate>
-<description>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</description>
-<content:encoded><![CDATA[<p><img src="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" alt="" /></p><p>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</p>]]></content:encoded>
-<media:content url="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" medium="image" />
-<media:thumbnail url="https://claude.dev/blog/how-we-made-claude-ai-faster/og.png" />
-</item>
-<item>
-<title>Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China&#x27;s self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)</title>
-<link>https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwamzm32762i</guid>
-<pubDate>Thu, 24 Sep 2026 06:31:14 +0000</pubDate>
-<description>Bonanza spills over to chip tool makers Naura and AMEC during first half</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Bonanza spills over to chip tool makers Naura and AMEC during first half</p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F6%2F2%2F13142660-1-eng-GB%2F47690be811df-20260923N-AMEC-Wuxi-booth-.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-</item>
-<item>
-<title>Revolut is piloting a new POS system that uses facial recognition for payments at the UK coffee chain Kiss the Hippo, ahead of a full launch later this year (Charlie Wells/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-23/revolut-is-bringing-facial-recognition-checkout-to-uk-businesses</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwam6vbasu2j</guid>
-<pubDate>Thu, 24 Sep 2026 06:16:18 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
