@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 27 Sep 2026 20:23:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 23:14:16 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How AI&#x27;s acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwjs455zvl25</guid>
+<pubDate>Sun, 27 Sep 2026 21:56:05 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more (Shirin Ghaffary/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/newsletters/2026-09-24/microsoft-s-suleyman-says-industry-needs-red-line-for-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDI4OTM3OCwiZXhwIjoxNzkwODk0MTc4LCJhcnRpY2xlSWQiOiJUTFZWQ05LSVVQU1MwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.tuaYuOGB4U9EUjwbUA1dnmwfr2Q0gcQ2azhGCaTIXT4</link>
@@ -36,8 +44,10 @@
 <link>https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj57wud7v2b</guid>
 <pubDate>Sun, 27 Sep 2026 15:42:24 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>The dinner is an indication of thawing relations between Anthropic and the administration,</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/S8ImEENBrjQlE20NWDUru4OLoWg=/0x209:5381x3236/1366x768/2026/09/27/1790521984596.jpeg" alt="" /></p><p>The dinner is an indication of thawing relations between Anthropic and the administration,</p>]]></content:encoded>
+<media:content url="https://images.axios.com/S8ImEENBrjQlE20NWDUru4OLoWg=/0x209:5381x3236/1366x768/2026/09/27/1790521984596.jpeg" medium="image" />
+<media:thumbnail url="https://images.axios.com/S8ImEENBrjQlE20NWDUru4OLoWg=/0x209:5381x3236/1366x768/2026/09/27/1790521984596.jpeg" />
 </item>
 <item>
 <title>Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; (Mark Gurman/Bloomberg)</title>
@@ -98,8 +108,10 @@
 <link>https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhtry42472m</guid>
 <pubDate>Sun, 27 Sep 2026 03:20:52 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>The massive scale of security incidents points to control problems for AI companies.</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/b9BbuwrPG6fO9BSYyOLqAcMyUZM=/0x0:1920x1080/1366x768/2026/02/04/1770232055847.jpeg" alt="" /></p><p>The massive scale of security incidents points to control problems for AI companies.</p>]]></content:encoded>
+<media:content url="https://images.axios.com/b9BbuwrPG6fO9BSYyOLqAcMyUZM=/0x0:1920x1080/1366x768/2026/02/04/1770232055847.jpeg" medium="image" />
+<media:thumbnail url="https://images.axios.com/b9BbuwrPG6fO9BSYyOLqAcMyUZM=/0x0:1920x1080/1366x768/2026/02/04/1770232055847.jpeg" />
 </item>
 <item>
 <title>Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)</title>
@@ -160,8 +172,10 @@
 <link>https://www.reuters.com/world/americas/brazils-lula-bans-online-betting-operations-reelection-race-tightens-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgprea3z52b</guid>
 <pubDate>Sat, 26 Sep 2026 16:36:17 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Brazil&#x27;s President Luiz Inacio Lula da Silva on Friday announced a ban on online betting operations in Latin ‌America&#x27;s largest economy and unveiled a new debt relief program aimed at households, the latest in a series of measures introduced ahead of next month&#x27;s election.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/BQDGIG3DRVM7TL3FMJDC3T5CDE.jpg?auth=ee8a6ea611e485420c13d0500c303bd8efcc5abd1aca314a52678e7202fb8b43&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Brazil&#x27;s President Luiz Inacio Lula da Silva on Friday announced a ban on online betting operations in Latin ‌America&#x27;s largest economy and unveiled a new debt relief program aimed at households, the latest in a series of measures introduced ahead of next month&#x27;s election.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/BQDGIG3DRVM7TL3FMJDC3T5CDE.jpg?auth=ee8a6ea611e485420c13d0500c303bd8efcc5abd1aca314a52678e7202fb8b43&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/BQDGIG3DRVM7TL3FMJDC3T5CDE.jpg?auth=ee8a6ea611e485420c13d0500c303bd8efcc5abd1aca314a52678e7202fb8b43&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Sources: YouTube, TikTok, and Meta&#x27;s Instagram and Facebook decline to run paid ads for Alex Gibney&#x27;s Musk documentary, citing &quot;political content&quot; (Steven Zeitchik/The Hollywood Reporter)</title>
@@ -196,8 +210,10 @@
 <link>https://www.axios.com/2026/09/26/us-china-ai-si-deal</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgiitwhez2v</guid>
 <pubDate>Sat, 26 Sep 2026 14:26:15 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>The &quot;Super Intelligence Dialogue&quot; will meet by November, the White House said.</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/Hh1Jo9nPZb06rqHhMQY0qvMUnt4=/0x26:3653x2080/1366x768/2026/09/26/1790421225769.jpeg" alt="" /></p><p>The &quot;Super Intelligence Dialogue&quot; will meet by November, the White House said.</p>]]></content:encoded>
+<media:content url="https://images.axios.com/Hh1Jo9nPZb06rqHhMQY0qvMUnt4=/0x26:3653x2080/1366x768/2026/09/26/1790421225769.jpeg" medium="image" />
+<media:thumbnail url="https://images.axios.com/Hh1Jo9nPZb06rqHhMQY0qvMUnt4=/0x26:3653x2080/1366x768/2026/09/26/1790421225769.jpeg" />
 </item>
 <item>
 <title>Walmart CEO John Furner says the company won&#x27;t use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper&#x27;s identity (Gregory Meyer/Financial Times)</title>
@@ -246,8 +262,10 @@
 <link>https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfj6om2ch2i</guid>
 <pubDate>Sat, 26 Sep 2026 05:05:48 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Joe Lonsdale, an investor in Anthropic and the co-founder of technology company Palantir , said ​on Friday that efforts by some leading artificial intelligence companies to warn of existential risks from AI amounted to a dangerous ‌attempt to shape public policy.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/3XGNE6LV55MVTIRPMO63AGUDXA.jpg?auth=85b93478d02181ad09c6639b5ab94d7cbd7df16f89b7308f82678e3377c93704&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Joe Lonsdale, an investor in Anthropic and the co-founder of technology company Palantir , said ​on Friday that efforts by some leading artificial intelligence companies to warn of existential risks from AI amounted to a dangerous ‌attempt to shape public policy.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/3XGNE6LV55MVTIRPMO63AGUDXA.jpg?auth=85b93478d02181ad09c6639b5ab94d7cbd7df16f89b7308f82678e3377c93704&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/3XGNE6LV55MVTIRPMO63AGUDXA.jpg?auth=85b93478d02181ad09c6639b5ab94d7cbd7df16f89b7308f82678e3377c93704&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness (Peter Blumberg/Bloomberg)</title>
@@ -270,16 +288,20 @@
 <link>https://www.reuters.com/legal/government/shinyhunters-hackers-expanded-attacks-oracles-peoplesoft-google-says-2026-09-26/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfbp5bae42b</guid>
 <pubDate>Sat, 26 Sep 2026 02:51:50 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Google&#x27;s cybersecurity unit said on Friday that hacking group ShinyHunters has renewed &quot;mass exploitation&quot; of a security flaw in Oracle&#x27;s ​PeopleSoft software, after skirting defenses put up following attacks in ‌the summer.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/BSW2XCW235M4BPTXGV4JMEBOYM.jpg?auth=a567f6d60bfcae3ec44d94afd6cc94a3c353b110249900fe70ce1671be4fe68c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Google&#x27;s cybersecurity unit said on Friday that hacking group ShinyHunters has renewed &quot;mass exploitation&quot; of a security flaw in Oracle&#x27;s ​PeopleSoft software, after skirting defenses put up following attacks in ‌the summer.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/BSW2XCW235M4BPTXGV4JMEBOYM.jpg?auth=a567f6d60bfcae3ec44d94afd6cc94a3c353b110249900fe70ce1671be4fe68c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/BSW2XCW235M4BPTXGV4JMEBOYM.jpg?auth=a567f6d60bfcae3ec44d94afd6cc94a3c353b110249900fe70ce1671be4fe68c&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)</title>
 <link>https://www.reuters.com/legal/litigation/us-lawmakers-aim-keep-chinas-datacenter-tech-out-sensitive-government-systems-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwf3t7xtds2e</guid>
 <pubDate>Sat, 26 Sep 2026 01:06:45 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>A bipartisan group of US lawmakers introduced legislation on Friday to bar the federal government from equipping sensitive government systems with Chinese-made components used ​to transmit data in AI data centers.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/Q35CD3IBOZLVVKO6UN2CAPVL5E.jpg?auth=5630eedc7f485dc4d45a0167b33a1f9e7725382144e68d969fb1187df0cfa757&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>A bipartisan group of US lawmakers introduced legislation on Friday to bar the federal government from equipping sensitive government systems with Chinese-made components used ​to transmit data in AI data centers.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/Q35CD3IBOZLVVKO6UN2CAPVL5E.jpg?auth=5630eedc7f485dc4d45a0167b33a1f9e7725382144e68d969fb1187df0cfa757&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/Q35CD3IBOZLVVKO6UN2CAPVL5E.jpg?auth=5630eedc7f485dc4d45a0167b33a1f9e7725382144e68d969fb1187df0cfa757&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Researchers: OpenAI&#x27;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#x27;s knowledge and tried to hack the Education Dept. site (New York Times)</title>
@@ -302,8 +324,10 @@
 <link>https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweuj3by4e2b</guid>
 <pubDate>Fri, 25 Sep 2026 22:55:48 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>TikTok and its Chinese parent company, ​ByteDance, have reached ‌a settlement with Alabama over allegations they designed ​the platform ​to addict children and misled ⁠consumers about its ​safety, marking the ​company&#x27;s first deal with a state as it fights ​similar claims nationwide.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/C62X2A5T4NOOPIHKFKVJMHBHMY.jpg?auth=9ba4100aff01c323bc552ce1a880e600ba3d4a006b16209da1e10bb1d9bf34fc&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>TikTok and its Chinese parent company, ​ByteDance, have reached ‌a settlement with Alabama over allegations they designed ​the platform ​to addict children and misled ⁠consumers about its ​safety, marking the ​company&#x27;s first deal with a state as it fights ​similar claims nationwide.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/C62X2A5T4NOOPIHKFKVJMHBHMY.jpg?auth=9ba4100aff01c323bc552ce1a880e600ba3d4a006b16209da1e10bb1d9bf34fc&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/C62X2A5T4NOOPIHKFKVJMHBHMY.jpg?auth=9ba4100aff01c323bc552ce1a880e600ba3d4a006b16209da1e10bb1d9bf34fc&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#x27;t publicly listed&quot; and &quot;most&quot; of the images have been removed (@openai)</title>
@@ -320,16 +344,20 @@
 <link>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwepibgllg2m</guid>
 <pubDate>Fri, 25 Sep 2026 21:25:53 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as ​autonomous actors that &quot;break loose&quot; with &quot;wills and desires of their own,&quot; suggesting the developers who instruct agents would be the ones liable ‌for harm.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/I2U2G7EDWVPRJGXAOPPTQYCPLI.jpg?auth=487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as ​autonomous actors that &quot;break loose&quot; with &quot;wills and desires of their own,&quot; suggesting the developers who instruct agents would be the ones liable ‌for harm.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/I2U2G7EDWVPRJGXAOPPTQYCPLI.jpg?auth=487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/I2U2G7EDWVPRJGXAOPPTQYCPLI.jpg?auth=487c4ee321033e0ccf28c31988688c1479747696e8297b96cc9cfeb151a4d905&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)</title>
 <link>https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweo5b3qne2y</guid>
 <pubDate>Fri, 25 Sep 2026 21:01:49 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>The latest example came when OpenAI said its agents leaked 53 images from ChatGPT users.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/EBNP3ANCCZINDCX23OXIIJFEFE.jpg?auth=8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>The latest example came when OpenAI said its agents leaked 53 images from ChatGPT users.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/EBNP3ANCCZINDCX23OXIIJFEFE.jpg?auth=8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/EBNP3ANCCZINDCX23OXIIJFEFE.jpg?auth=8a88e3262d3e77a4be3d70d994e53afe8f6d5279c1a93648222385cb7d251cd5&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)</title>
@@ -352,8 +380,10 @@
 <link>https://www.reuters.com/business/finance/us-appeals-court-rules-against-kalshi-says-states-can-regulate-prediction-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwemg263bv2v</guid>
 <pubDate>Fri, 25 Sep 2026 20:30:57 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>A US appeals court on Friday ruled against the prediction markets operator Kalshi, ‌saying Ohio and Tennessee can regulate its so-called event contracts under their gambling laws.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/VX72KSXL55PZHL262RFXXC4KIM.jpg?auth=ef4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>A US appeals court on Friday ruled against the prediction markets operator Kalshi, ‌saying Ohio and Tennessee can regulate its so-called event contracts under their gambling laws.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/VX72KSXL55PZHL262RFXXC4KIM.jpg?auth=ef4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/VX72KSXL55PZHL262RFXXC4KIM.jpg?auth=ef4533f02a81afa8f3e7fca3e2d422f8d21f3dc375986d8157ba94e5dbb78825&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>A look at Holograms, Meta&#x27;s take on Apple Vision Pro&#x27;s Personas, launching with a shoulders-up version this fall for WhatsApp calls on Ray-Ban Display glasses (David Heaney/UploadVR)</title>
@@ -390,8 +420,10 @@
 <link>https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mweeeexfj72a</guid>
 <pubDate>Fri, 25 Sep 2026 18:06:51 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>A jury in Santa Fe, New Mexico, found on Friday that Meta ​Platforms misled the state&#x27;s residents in a case arising from allegations that a political consulting firm involved in Donald Trump&#x27;s 2016 presidential campaign obtained data from ‌millions of Facebook users without their consent.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/EI75G2ZKTBLJPANATEDWZ6G3CQ.jpg?auth=690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>A jury in Santa Fe, New Mexico, found on Friday that Meta ​Platforms misled the state&#x27;s residents in a case arising from allegations that a political consulting firm involved in Donald Trump&#x27;s 2016 presidential campaign obtained data from ‌millions of Facebook users without their consent.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/EI75G2ZKTBLJPANATEDWZ6G3CQ.jpg?auth=690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/EI75G2ZKTBLJPANATEDWZ6G3CQ.jpg?auth=690d41aa3c3429e6fb5695c053e189950d0354242ab83423669cce521aab8994&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>President Trump says Scott Bessent is not &quot;going to be Super Intelligence (SI) Czar&quot;, because &quot;he doesn&#x27;t want to&quot; and Trump wants to keep him at the Treasury (Dan Mangan/CNBC)</title>
@@ -408,8 +440,10 @@
 <link>https://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwebjhvz7o2e</guid>
 <pubDate>Fri, 25 Sep 2026 17:16:01 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Solidigm supplies solid-state drives used in servers, cloud infrastructure and data centers for artificial intelligence.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/HR33KIWMU5MEBM5EGWMX6ENVUA.jpg?auth=5c82dd98432e0647db349b0111b2a913754738a9e8d866cf55a8ef697117486a&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Solidigm supplies solid-state drives used in servers, cloud infrastructure and data centers for artificial intelligence.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/HR33KIWMU5MEBM5EGWMX6ENVUA.jpg?auth=5c82dd98432e0647db349b0111b2a913754738a9e8d866cf55a8ef697117486a&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/HR33KIWMU5MEBM5EGWMX6ENVUA.jpg?auth=5c82dd98432e0647db349b0111b2a913754738a9e8d866cf55a8ef697117486a&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>A federal appeals court upholds DOD&#x27;s Anthropic blacklisting, finding Claude&#x27;s integration with DOD systems is &quot;a statutorily covered national-security risk&quot; (Ashley Capoot/CNBC)</title>
@@ -452,8 +486,10 @@
 <link>https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdu4k2uh62b</guid>
 <pubDate>Fri, 25 Sep 2026 13:16:08 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>&quot;There&#x27;s never been a weapon as powerful.&quot;</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/Z_7bZbAztx_ymd5EJsgvDNH7XUY=/0x166:4000x2416/1366x768/2026/09/25/1790340610418.jpeg" alt="" /></p><p>&quot;There&#x27;s never been a weapon as powerful.&quot;</p>]]></content:encoded>
+<media:content url="https://images.axios.com/Z_7bZbAztx_ymd5EJsgvDNH7XUY=/0x166:4000x2416/1366x768/2026/09/25/1790340610418.jpeg" medium="image" />
+<media:thumbnail url="https://images.axios.com/Z_7bZbAztx_ymd5EJsgvDNH7XUY=/0x166:4000x2416/1366x768/2026/09/25/1790340610418.jpeg" />
 </item>
 <item>
 <title>Microsoft launches its Copilot &quot;super app&quot;, bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)</title>
@@ -496,8 +532,10 @@
 <link>https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwczthnplg2f</guid>
 <pubDate>Fri, 25 Sep 2026 05:25:46 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>AI filmmaker Zhu Zhili has fielded calls from officials in cities and industrial parks across China, all with the same pitch: ‌bring your AI film business here.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/7KAZHH4QKJLFRLKXBATEGZQUBY.jpg?auth=b8b24705f61654d20748efaed8de6ba9ed9f457aa0f11e1bd4afef2b35fd7d3b&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>AI filmmaker Zhu Zhili has fielded calls from officials in cities and industrial parks across China, all with the same pitch: ‌bring your AI film business here.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/7KAZHH4QKJLFRLKXBATEGZQUBY.jpg?auth=b8b24705f61654d20748efaed8de6ba9ed9f457aa0f11e1bd4afef2b35fd7d3b&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/7KAZHH4QKJLFRLKXBATEGZQUBY.jpg?auth=b8b24705f61654d20748efaed8de6ba9ed9f457aa0f11e1bd4afef2b35fd7d3b&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (Stephanie Palazzolo/The Information)</title>
@@ -538,8 +576,10 @@
 <link>https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwchx7k7qo2h</guid>
 <pubDate>Fri, 25 Sep 2026 00:05:44 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>It&#x27;s the first for the Genie platform as the company pushes into AI tooling for general work.</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/4_inl9a9-BCFRrg8eShJr8f1Vls=/1366x768/smart/2024/12/16/202620-1734380780473.jpg" alt="" /></p><p>It&#x27;s the first for the Genie platform as the company pushes into AI tooling for general work.</p>]]></content:encoded>
+<media:content url="https://images.axios.com/4_inl9a9-BCFRrg8eShJr8f1Vls=/1366x768/smart/2024/12/16/202620-1734380780473.jpg" medium="image" />
+<media:thumbnail url="https://images.axios.com/4_inl9a9-BCFRrg8eShJr8f1Vls=/1366x768/smart/2024/12/16/202620-1734380780473.jpg" />
 </item>
 <item>
 <title>Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says &quot;user funds are safe&quot; (Matthew Brockett/Bloomberg)</title>
@@ -570,8 +610,10 @@
 <link>https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc6qarezl2h</guid>
 <pubDate>Thu, 24 Sep 2026 21:20:47 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares surging 22% in extended trading.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Akamai Technologies signed an $11.6 billion cloud services deal with Anthropic on ​Thursday, and issued a warrant that could give the AI lab ‌up to 5% stake in the cloud company, sending its shares surging 22% in extended trading.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/HFYU5PVWCZJN7CW5URLEYXBGVA.jpg?auth=2a4277f490dd5fe4aed03ae351698d81384def7ea1278c3d7eefd221c53cff05&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)</title>
@@ -722,8 +764,10 @@
 <link>https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbiesu3qh2j</guid>
 <pubDate>Thu, 24 Sep 2026 14:40:41 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+<description>Inside the MAGA effort to target Anthropic&#x27;s Dario Amodei.</description>
+<content:encoded><![CDATA[<p><img src="https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg" alt="" /></p><p>Inside the MAGA effort to target Anthropic&#x27;s Dario Amodei.</p>]]></content:encoded>
+<media:content url="https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg" medium="image" />
+<media:thumbnail url="https://images.axios.com/S-eVrQNX69ZyMSR4Iu5sBjrBDw0=/0x0:1920x1080/1366x768/2026/09/23/1790194223976.jpeg" />
 </item>
 <item>
 <title>OpenAI discovered the Australian breach in August but didn&#x27;t alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)</title>
@@ -782,8 +826,10 @@
 <link>https://www.reuters.com/technology/qualcomm-apple-extend-licensing-agreement-chips-2026-09-24/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb7pmdqda2v</guid>
 <pubDate>Thu, 24 Sep 2026 12:05:40 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>Qualcomm said ​on Thursday Apple has extended its patent-licensing agreement with ‌the chip designer, even as the iPhone maker looks to cut its reliance on the company&#x27;s modem chips.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Qualcomm said ​on Thursday Apple has extended its patent-licensing agreement with ‌the chip designer, even as the iPhone maker looks to cut its reliance on the company&#x27;s modem chips.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Dallas-based enterprise browser security startup Island raised $400M led by Evolution Equity Partners at a $6.4B valuation and plans to grow its staff to 1,500 (Samantha Subin/CNBC)</title>
@@ -808,8 +854,10 @@
 <link>https://www.reuters.com/business/retail-consumer/amazon-bets-3-billion-indias-fast-delivery-boom-sources-say-2026-09-24/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb4xoyypf2a</guid>
 <pubDate>Thu, 24 Sep 2026 11:16:30 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+<description>US e-commerce retailer Amazon will invest $3 billion to expand ​its India quick commerce business by 2030, two sources said, its biggest bet yet on a sector where rivals have raced ahead by ‌popularising deliveries within minutes.</description>
+<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/GWDAXFBFAVLW5CKP4Q6MN4HZIE.jpg?auth=2ee7fa1509c0669a7a7dcd66189938a2f9de24a49de0189d0167921e6f66e68d&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>US e-commerce retailer Amazon will invest $3 billion to expand ​its India quick commerce business by 2030, two sources said, its biggest bet yet on a sector where rivals have raced ahead by ‌popularising deliveries within minutes.</p>]]></content:encoded>
+<media:content url="https://www.reuters.com/resizer/v2/GWDAXFBFAVLW5CKP4Q6MN4HZIE.jpg?auth=2ee7fa1509c0669a7a7dcd66189938a2f9de24a49de0189d0167921e6f66e68d&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" />
+<media:thumbnail url="https://www.reuters.com/resizer/v2/GWDAXFBFAVLW5CKP4Q6MN4HZIE.jpg?auth=2ee7fa1509c0669a7a7dcd66189938a2f9de24a49de0189d0167921e6f66e68d&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
 </item>
 <item>
 <title>Tencent launches TenPayGo, a payment app for foreign visitors to China that lets them pay tens of millions of merchants via Visa, Mastercard, and Apple Pay (Bloomberg)</title>
@@ -860,14 +908,6 @@
 <pubDate>Thu, 24 Sep 2026 09:56:11 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)</title>
-<link>https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=hqeLCw&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwaxn5dflz2b</guid>
-<pubDate>Thu, 24 Sep 2026 09:41:07 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
