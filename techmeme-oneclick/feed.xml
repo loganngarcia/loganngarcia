@@ -5,8 +5,240 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 28 Sep 2026 07:43:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:03:17 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO (Harshita Mary Varghese/Reuters)</title>
+<link>https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlnvcqbi22y</guid>
+<pubDate>Mon, 28 Sep 2026 15:46:01 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)</title>
+<link>https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlkjkim7r2a</guid>
+<pubDate>Mon, 28 Sep 2026 14:45:45 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwljya54bb2y</guid>
+<pubDate>Mon, 28 Sep 2026 14:36:04 +0000</pubDate>
+<description>Modulate deploys its models to detect deepfake, fraud and scam</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" alt="" /></p><p>Modulate deploys its models to detect deepfake, fraud and scam</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" />
+</item>
+<item>
+<title>An OpenAI agent security executive discusses the Hugging Face incident, OpenAI&#x27;s response, sandboxing improvements, alignment, &quot;reasonable paranoia&quot;, and more (Joe/@joedaroo)</title>
+<link>https://x.com/joedaroo/status/2104335929293127851</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwljfo6krx2a</guid>
+<pubDate>Mon, 28 Sep 2026 14:25:41 +0000</pubDate>
+<description>Its not just the f*cking sandbox</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" alt="" /></p><p>Its not just the f*cking sandbox</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" />
+</item>
+<item>
+<title>AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending &quot;intelligence explosion&quot; and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlitqe5j52v</guid>
+<pubDate>Mon, 28 Sep 2026 14:15:39 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)</title>
+<link>https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlicli7bw2v</guid>
+<pubDate>Mon, 28 Sep 2026 14:06:04 +0000</pubDate>
+<description>From apnews.com</description>
+<content:encoded><![CDATA[<p>From apnews.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia&#x27;s CUDA-based hardware (Kyt Dotson/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/09/28/physical-ai-custom-chip-producer-sima-ai-raises-150m-at-1-45b-valuation/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlgv43q752b</guid>
+<pubDate>Mon, 28 Sep 2026 13:40:38 +0000</pubDate>
+<description>Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" alt="" /></p><p>Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" />
+</item>
+<item>
+<title>Quartermaster, which builds a SmartMast for ships to relay real-time maritime data, raised a $140M Series B, with $100M in equity, after a $43M Series A in May (Sean O&#x27;Kane/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlgdbiv2l2j</guid>
+<pubDate>Mon, 28 Sep 2026 13:30:39 +0000</pubDate>
+<description>The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" alt="" /></p><p>The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" />
+</item>
+<item>
+<title>Cyber defense tech company RedLattice plans to go public via the Bold Eagle Acquisition Corp. SPAC, in a deal valuing RedLattice at ~$1.25B including debt (Liana Baker/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-to-merge-with-bold-eagle-spac</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlfreh2hp2a</guid>
+<pubDate>Mon, 28 Sep 2026 13:20:38 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)</title>
+<link>https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwleb5ogjp2m</guid>
+<pubDate>Mon, 28 Sep 2026 12:53:41 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mark Zuckerberg unveils Meta Enterprise Platform, its &quot;next major pillar of our business&quot; to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it (Meghan Bobrowsky/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwldsqjpey2h</guid>
+<pubDate>Mon, 28 Sep 2026 12:45:37 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Artificial Analysis launches the Cyber Index Alliance in partnership with Collinear, IBM, Nvidia, and Vercel to benchmark AI agents on cyber defense tasks (Artificial Analysis)</title>
+<link>https://artificialanalysis.ai/articles/artificial-analysis-cyber-index</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwldbeaupx2b</guid>
+<pubDate>Mon, 28 Sep 2026 12:35:54 +0000</pubDate>
+<description>The Artificial Analysis Cyber Index Alliance brings together industry partners to set a new standard for evaluating how AI models perform on enterprise cyber defense tasks. The Alliance launches alongside the Artificial Analysis Cyber Index, which combines three partner-contributed and open benchmarks to evaluate how well agents find and fix vulnerabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://artificialanalysiscdn.com/article-assets/2026/artificial-analysis-cyber-index-v8.jpg" alt="" /></p><p>The Artificial Analysis Cyber Index Alliance brings together industry partners to set a new standard for evaluating how AI models perform on enterprise cyber defense tasks. The Alliance launches alongside the Artificial Analysis Cyber Index, which combines three partner-contributed and open benchmarks to evaluate how well agents find and fix vulnerabilities.</p>]]></content:encoded>
+<media:content url="https://artificialanalysiscdn.com/article-assets/2026/artificial-analysis-cyber-index-v8.jpg" medium="image" />
+<media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/artificial-analysis-cyber-index-v8.jpg" />
+</item>
+<item>
+<title>AI agents are the ultimate Aggregators; they reveal apps as a means, not an end, and offering them is tech&#x27;s biggest prize, with Meta and Microsoft well-poised (Ben Thompson/Stratechery)</title>
+<link>https://stratechery.com/2026/apps-agents-and-aggregation/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlazbkqcj2i</guid>
+<pubDate>Mon, 28 Sep 2026 11:55:35 +0000</pubDate>
+<description>Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech’s biggest prize.</description>
+<content:encoded><![CDATA[<p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2026/09/apps-agents-aggregation-1.png?fit=600%2C340&amp;ssl=1" alt="" /></p><p>Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech’s biggest prize.</p>]]></content:encoded>
+<media:content url="https://i0.wp.com/stratechery.com/wp-content/uploads/2026/09/apps-agents-aggregation-1.png?fit=600%2C340&amp;ssl=1" medium="image" />
+<media:thumbnail url="https://i0.wp.com/stratechery.com/wp-content/uploads/2026/09/apps-agents-aggregation-1.png?fit=600%2C340&amp;ssl=1" />
+</item>
+<item>
+<title>Nvidia increases its share buyback program by $150B to $235B, aiming to complete the process through fiscal 2028; NVDA is up 20% in 2026 (Amy Thomson/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwla6hrdsx2v</guid>
+<pubDate>Mon, 28 Sep 2026 11:40:36 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Blackstone, OpenAI, QTS, and SoftBank partner with key US unions to launch the American Infrastructure Alliance, aiming to create data center standards in 2027 (Hans Nichols/Axios)</title>
+<link>https://www.axios.com/2026/09/28/ai-industry-unions-data-centers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwl6isz73v2v</guid>
+<pubDate>Mon, 28 Sep 2026 11:10:35 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Litigation funder Burford Capital says it stands to gain up to $1.4B after a US jury ruled against Apple in a patent case, awarding $5.7B in damages to Taction (Stefania Palma/Financial Times)</title>
+<link>https://www.ft.com/content/13051aaf-3e1e-41ff-9e0d-b48ff9a0249e</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwl546tlxx2y</guid>
+<pubDate>Mon, 28 Sep 2026 10:45:38 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: China expands its foreign travel restrictions to include the direct relatives, such as spouses and children, of certain key AI and chip executives (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwl4ktleiw2a</guid>
+<pubDate>Mon, 28 Sep 2026 10:35:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with ASML CEO Christophe Fouquet on the company&#x27;s 42-year history, its complex supply chains across 2,000 companies, US export bans, AI, and more (Patrick Jenkins/Financial Times)</title>
+<link>https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwl3pgxgoy2b</guid>
+<pubDate>Mon, 28 Sep 2026 10:20:37 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Uber removes its branding from Uber Safari 4x4 vehicles in Nairobi National Park due to safety concerns and fierce pushback from local guides and tour operators (Caroline Kimeu/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/hospitality/uber-kenya-safari-630e8bd7?st=5Q1hEd&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwl2mpnmc32b</guid>
+<pubDate>Mon, 28 Sep 2026 10:01:11 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Alexandr Wang says Meta built Muse &quot;to help people build the world they want&quot;, offering &quot;every person on earth ... a second mind beyond their own&quot; (Alexandr Wang/@alexandr_wang)</title>
+<link>https://x.com/alexandr_wang/status/2103551714536439951</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkzzs555a25</guid>
+<pubDate>Mon, 28 Sep 2026 09:50:36 +0000</pubDate>
+<description>Why We&#x27;re Building Muse</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HTFQcRdbUAABLTe?format=webp&amp;name=large" alt="" /></p><p>Why We&#x27;re Building Muse</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HTFQcRdbUAABLTe?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HTFQcRdbUAABLTe?format=webp&amp;name=large" />
+</item>
+<item>
+<title>The Dutch government is testing DAWO, a NixOS-based digital work environment covering the OS, office suite, and more, after Microsoft cut off the ICC in 2025 (Sourav Rudra/It&#x27;s FOSS)</title>
+<link>https://itsfoss.com/news/netherlands-dawo-initiative/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkz7jzrt52e</guid>
+<pubDate>Mon, 28 Sep 2026 09:35:55 +0000</pubDate>
+<description>Eight municipalities are already testing DAWO, the government&#x27;s NixOS-powered work environment.</description>
+<content:encoded><![CDATA[<p><img src="https://itsfoss.com/content/images/2026/09/netherlands-dawo-banner.png" alt="" /></p><p>Eight municipalities are already testing DAWO, the government&#x27;s NixOS-powered work environment.</p>]]></content:encoded>
+<media:content url="https://itsfoss.com/content/images/2026/09/netherlands-dawo-banner.png" medium="image" />
+<media:thumbnail url="https://itsfoss.com/content/images/2026/09/netherlands-dawo-banner.png" />
+</item>
+<item>
+<title>Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping, made up of OpenShell for CPUs and Sentry for network chips (Kif Leswing/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/28/nvidia-releases.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkynfjs5z2e</guid>
+<pubDate>Mon, 28 Sep 2026 09:25:47 +0000</pubDate>
+<description>Nvidia says its new software could have prevented OpenAI&#x27;s Hugging Face incident.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia says its new software could have prevented OpenAI&#x27;s Hugging Face incident.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>NXP and TSMC affiliate Vanguard inaugurate their joint advanced chip fab in Singapore, targeting mass production in early 2027 and eyeing a second facility (Cheng Ting-Fang/Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/tech/semiconductors/tsmc-affiliate-already-eyes-expansion-as-first-singapore-plant-sells-out</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkwxici332e</guid>
+<pubDate>Mon, 28 Sep 2026 08:55:38 +0000</pubDate>
+<description>Chipmaker VIS plans 2nd facility as initial one opens instantly full due to AI demand</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F4%2F6%2F13236471-1-eng-GB%2F107488506add-c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Chipmaker VIS plans 2nd facility as initial one opens instantly full due to AI demand</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F4%2F6%2F13236471-1-eng-GB%2F107488506add-c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F4%2F6%2F13236471-1-eng-GB%2F107488506add-c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+</item>
+<item>
+<title>Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the &quot;bipartisan psychosis&quot; over data centers (The Washington Sun)</title>
+<link>https://www.washingtonsun.com/national/ai-bros-are-partying-data-center</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkw4kyfzq2j</guid>
+<pubDate>Mon, 28 Sep 2026 08:40:35 +0000</pubDate>
+<description>Hundreds gathered at a bitcoin-themed bar in D.C. to counterprogram the national backlash against data centers and AI.</description>
+<content:encoded><![CDATA[<p><img src="https://static.washingtonsun.com/dims4/default/e60f542/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F61%2F12f8b24e4ee58187770bb6ddb93f%2Findustrial.JPG" alt="" /></p><p>Hundreds gathered at a bitcoin-themed bar in D.C. to counterprogram the national backlash against data centers and AI.</p>]]></content:encoded>
+<media:content url="https://static.washingtonsun.com/dims4/default/e60f542/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F61%2F12f8b24e4ee58187770bb6ddb93f%2Findustrial.JPG" medium="image" />
+<media:thumbnail url="https://static.washingtonsun.com/dims4/default/e60f542/2147483647/strip/true/crop/6240x3510+0+325/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F61%2F12f8b24e4ee58187770bb6ddb93f%2Findustrial.JPG" />
+</item>
+<item>
+<title>A profile of South Korea deputy PM Bae Kyung-hoon, an AI evangelist and a former AI researcher leading lavishly funded programs to make AI ubiquitous nationwide (Daniel Tudor/Financial Times)</title>
+<link>https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e?accessToken=zwAAAaDhYp8Bkc8sXmhiZbZFadOMA0ZOaG6ojg.MEQCIE-YTZhEZ3QfvDYycE_KNw2U5e2PLJ2sSUUB8KHB3D-wAiAB98RAEoQ0qRmtEjTgcwETuTVXkwStdrpzxYuVsDU5Vg&amp;sharetype=gift&amp;token=63f0039a-07e7-448a-838a-ba83bb78e597</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkugzloj42b</guid>
+<pubDate>Mon, 28 Sep 2026 08:10:38 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Q&amp;A with Cloudflare CEO Matthew Prince on bot traffic potentially reaching 1000x human traffic, reviving HTTP 402 to charge bots, blocking Google, and more (Nilay Patel/The Verge)</title>
+<link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwktd6asfk2f</guid>
+<pubDate>Mon, 28 Sep 2026 07:50:35 +0000</pubDate>
+<description>Making money is easy. Making it go to the right people is hard.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Making money is easy. Making it go to the right people is hard.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
 <item>
 <title>A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons (Georgia Wells/Wall Street Journal)</title>
 <link>https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b?st=3hXhHo</link>
@@ -286,10 +518,8 @@
 <link>https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfl5bkyxg2f</guid>
 <pubDate>Sat, 26 Sep 2026 05:40:48 +0000</pubDate>
-<description>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</description>
-<content:encoded><![CDATA[<p><img src="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" alt="" /></p><p>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</p>]]></content:encoded>
-<media:content url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" medium="image" />
-<media:thumbnail url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" />
+<description>From www.alleywatch.com</description>
+<content:encoded><![CDATA[<p>From www.alleywatch.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Russia has increased targeted strikes on Ukrainian data centers, disrupting internet access for ~100K Kyiv residents on Wednesday and Thursday (Christopher Miller/Financial Times)</title>
@@ -640,234 +870,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" alt="" /></p><p>The AI avatar can transition between 97 languages.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" />
-</item>
-<item>
-<title>Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith (Todd Bishop/GeekWire)</title>
-<link>https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc4iwjrde2f</guid>
-<pubDate>Thu, 24 Sep 2026 20:40:54 +0000</pubDate>
-<description>Microsoft is moving communications out of its marketing group and under Vice Chair and President Brad Smith, as CEO Satya Nadella calls for a fundamentally new approach that makes employees a bigger part of how the company tells its story.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/06/satya-build-2026.jpg" alt="" /></p><p>Microsoft is moving communications out of its marketing group and under Vice Chair and President Brad Smith, as CEO Satya Nadella calls for a fundamentally new approach that makes employees a bigger part of how the company tells its story.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/06/satya-build-2026.jpg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/06/satya-build-2026.jpg" />
-</item>
-<item>
-<title>Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself (Katie Roof/Business Insider)</title>
-<link>https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc47qwtsx2b</guid>
-<pubDate>Thu, 24 Sep 2026 20:35:46 +0000</pubDate>
-<description>The startup has raised nearly $800 million over the past year, from investors including Nvidia, Thrive Capital, Kleiner Perkins, a16z, and Sequoia Capital.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ab3dfefeb72254112679932?width=1200&amp;format=jpeg" alt="" /></p><p>The startup has raised nearly $800 million over the past year, from investors including Nvidia, Thrive Capital, Kleiner Perkins, a16z, and Sequoia Capital.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ab3dfefeb72254112679932?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ab3dfefeb72254112679932?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>The Fed unveils stablecoin proposals, including requiring some issuers to fully back tokens with permissible reserve assets, such as short-term Treasury bills (Megan Howard/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc3nxwlma2a</guid>
-<pubDate>Thu, 24 Sep 2026 20:25:50 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc3452wa72v</guid>
-<pubDate>Thu, 24 Sep 2026 20:15:51 +0000</pubDate>
-<description>Get ready for AI games in your Instagram feed.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.4422539850274%2C100%2C93.115492029945&amp;w=1200" alt="" /></p><p>Get ready for AI games in your Instagram feed.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.4422539850274%2C100%2C93.115492029945&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.4422539850274%2C100%2C93.115492029945&amp;w=1200" />
-</item>
-<item>
-<title>The US files an application with the EU&#x27;s General Court in support of X&#x27;s effort to annul a 2025 €120M DSA fine, arguing the EU engaged in regulatory overreach (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/us-seeks-to-join-musk-in-court-fight-with-eu-over-x-fine</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbyugsa2n2a</guid>
-<pubDate>Thu, 24 Sep 2026 19:35:45 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation (The Information)</title>
-<link>https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbxhr3kpd2v</guid>
-<pubDate>Thu, 24 Sep 2026 19:10:46 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html?unlocked_article_code=1.DlE.p-P8.iqgKy3PC4zrE&amp;smid=re-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbvabxa6h2h</guid>
-<pubDate>Thu, 24 Sep 2026 18:30:48 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>In a default judgment, a US federal judge awards Nintendo of America $4.5M in damages in its lawsuit against a Reddit moderator who sold pirated Switch games (Nicole Carpenter/Aftermath)</title>
-<link>https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbufeyyyn2y</guid>
-<pubDate>Thu, 24 Sep 2026 18:15:45 +0000</pubDate>
-<description>The court entered a default judgement in favor of Nintendo</description>
-<content:encoded><![CDATA[<p><img src="https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG5pbnRlbmRvJTIwc3dpdGNofGVufDB8fHx8MTc5MDIxMTQ2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000" alt="" /></p><p>The court entered a default judgement in favor of Nintendo</p>]]></content:encoded>
-<media:content url="https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG5pbnRlbmRvJTIwc3dpdGNofGVufDB8fHx8MTc5MDIxMTQ2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000" medium="image" />
-<media:thumbnail url="https://images.unsplash.com/photo-1585427795543-33cf23ea2853?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG5pbnRlbmRvJTIwc3dpdGNofGVufDB8fHx8MTc5MDIxMTQ2Nnww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000" />
-</item>
-<item>
-<title>Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)</title>
-<link>https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbsgsk7c22k</guid>
-<pubDate>Thu, 24 Sep 2026 17:40:45 +0000</pubDate>
-<description>The price tag is significantly higher than previously known.</description>
-<content:encoded><![CDATA[<p><img src="https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg" alt="" /></p><p>The price tag is significantly higher than previously known.</p>]]></content:encoded>
-<media:content url="https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg" medium="image" />
-<media:thumbnail url="https://static.washingtonsun.com/dims4/default/20a9fb0/2147483647/strip/true/crop/4500x2531+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F3a%2F9de8050f4750b3d0066f0092a434%2Fap25006783508147.jpg" />
-</item>
-<item>
-<title>Sources: the White House asked OpenAI and Anthropic not to share new models with UK&#x27;s AISI until US reviews them; Anthropic appears to have agreed (Politico)</title>
-<link>https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbrlz54vl2a</guid>
-<pubDate>Thu, 24 Sep 2026 17:25:46 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon rolls out multichannel tools in Seller Central, letting US sellers manage eBay, Shopify, TikTok and Walmart sales alongside their Amazon businesses (Todd Bishop/GeekWire)</title>
-<link>https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbpwcaz432v</guid>
-<pubDate>Thu, 24 Sep 2026 16:55:44 +0000</pubDate>
-<description>Mary Beth Westmoreland, Amazon&#x27;s VP of Worldwide Selling Partner Experience, speaks Tuesday morning at Amazon Accelerate at the Seattle Convention Center.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/mary-beth-2026.jpg" alt="" /></p><p>Mary Beth Westmoreland, Amazon&#x27;s VP of Worldwide Selling Partner Experience, speaks Tuesday morning at Amazon Accelerate at the Seattle Convention Center.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/09/mary-beth-2026.jpg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/mary-beth-2026.jpg" />
-</item>
-<item>
-<title>Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbng2nmp22i</guid>
-<pubDate>Thu, 24 Sep 2026 16:10:52 +0000</pubDate>
-<description>Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675" alt="" /></p><p>Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675" />
-</item>
-<item>
-<title>New York AG Letitia James sues Polymarket US, alleging that the site is illegally running a gambling operation, as part of NY&#x27;s crackdown on prediction markets (Kevin T. Dugan/Wall Street Journal)</title>
-<link>https://www.wsj.com/us-news/law/ny-sues-polymarket-in-escalating-crackdown-on-prediction-markets-80d1aba6?st=GqkH7s&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbmc2ddzy2v</guid>
-<pubDate>Thu, 24 Sep 2026 15:50:43 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>At a White House summit, Xi Jinping says the US and China share the &quot;capability and responsibility&quot; to manage AI for good and calls for healthy competition (Financial Times)</title>
-<link>https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbk2l2xtf2i</guid>
-<pubDate>Thu, 24 Sep 2026 15:10:45 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Gen Digital, created by the 2022 merger of NortonLifeLock and Avast, has made a takeover offer for GoDaddy, which has a market cap of $12.2B (Oliver Barnes/Financial Times)</title>
-<link>https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbj7rkbbr2e</guid>
-<pubDate>Thu, 24 Sep 2026 14:55:46 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: a White House memo paints effective altruism as a fringe, dangerous cult that &quot;built the AI-doom pipeline&quot; and places Dario Amodei at its foundation (Axios)</title>
-<link>https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbiesu3qh2j</guid>
-<pubDate>Thu, 24 Sep 2026 14:40:41 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI discovered the Australian breach in August but didn&#x27;t alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)</title>
-<link>https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbgyqubqd2j</guid>
-<pubDate>Thu, 24 Sep 2026 14:16:03 +0000</pubDate>
-<description>OpenAI didn’t tell Australia about the hack for weeks — raising serious questions about how it handles rogue AI incidents</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" alt="" /></p><p>OpenAI didn’t tell Australia about the hack for weeks — raising serious questions about how it handles rogue AI incidents</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!ka44!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45f5723f-c2f6-4afc-83dd-f369c325cff3_1920x1080.png" />
-</item>
-<item>
-<title>Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbeqnyak32b</guid>
-<pubDate>Thu, 24 Sep 2026 13:35:44 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders (Isabella Simonetti/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbe6qkd5x2f</guid>
-<pubDate>Thu, 24 Sep 2026 13:25:42 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs (The Information)</title>
-<link>https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbdoezk7z25</guid>
-<pubDate>Thu, 24 Sep 2026 13:16:34 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbbzb2ete2j</guid>
-<pubDate>Thu, 24 Sep 2026 12:46:50 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>ASML&#x27;s European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips (Anton Shilov/Tom&#x27;s Hardware)</title>
-<link>https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwbbgkujrv2k</guid>
-<pubDate>Thu, 24 Sep 2026 12:36:24 +0000</pubDate>
-<description>Subsidies for fabs do not help.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg" alt="" /></p><p>Subsidies for fabs do not help.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg" />
-</item>
-<item>
-<title>Qualcomm says it has extended its global licensing pact with Apple, starting in April 2027; the partnership has been shaped by an April 2019 settlement (Akash Sriram/Reuters)</title>
-<link>https://www.reuters.com/technology/qualcomm-apple-extend-licensing-agreement-chips-2026-09-24/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb7pmdqda2v</guid>
-<pubDate>Thu, 24 Sep 2026 12:05:40 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Dallas-based enterprise browser security startup Island raised $400M led by Evolution Equity Partners at a $6.4B valuation and plans to grow its staff to 1,500 (Samantha Subin/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb6dpgwwf2h</guid>
-<pubDate>Thu, 24 Sep 2026 11:41:07 +0000</pubDate>
-<description>Island faces an increasingly competitive cybersecurity market fueled by demand for agentic Ai defenses</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108367139-1790197212351-ISL018_V1-0007_B001C001_260210MO01844594_v01_1.jpg?v=1790197316&amp;w=1920&amp;h=1080" alt="" /></p><p>Island faces an increasingly competitive cybersecurity market fueled by demand for agentic Ai defenses</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108367139-1790197212351-ISL018_V1-0007_B001C001_260210MO01844594_v01_1.jpg?v=1790197316&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108367139-1790197212351-ISL018_V1-0007_B001C001_260210MO01844594_v01_1.jpg?v=1790197316&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Industry group TechNet files a comment with the US DHS urging the White House to withdraw its proposal to charge $103,265 for most new H-1B visa applications (Wall Street Journal)</title>
-<link>https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8?st=sA44Gd&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb5ioo7v32y</guid>
-<pubDate>Thu, 24 Sep 2026 11:26:00 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Amazon plans to invest $1B into its Indian quick commerce operations by the end of 2027, and another $2B by 2030, as it battles local rivals (Reuters)</title>
-<link>https://www.reuters.com/business/retail-consumer/amazon-bets-3-billion-indias-fast-delivery-boom-sources-say-2026-09-24/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb4xoyypf2a</guid>
-<pubDate>Thu, 24 Sep 2026 11:16:30 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
