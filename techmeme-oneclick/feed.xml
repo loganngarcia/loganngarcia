@@ -5,8 +5,42 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 28 Sep 2026 01:43:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 07:43:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons (Georgia Wells/Wall Street Journal)</title>
+<link>https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b?st=3hXhHo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkmdmvl7i2v</guid>
+<pubDate>Mon, 28 Sep 2026 05:45:34 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The US DHS says it will &quot;revolutionize&quot; its FOIA process by using AI to handle certain types of requests and recommend what information should be redacted (Nate Jones/Washington Post)</title>
+<link>https://www.washingtonpost.com/investigations/2026/09/26/government-is-enlisting-ai-help-decide-what-public-records-you-get-see/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkwMzk1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkxNzc3NTk5LCJpYXQiOjE3OTAzOTUyMDAsImp0aSI6ImY4YjYzZWIwLWJmNDgtNDVkYS1iZmNhLWMyZTNkZjNmNWVmZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzA5LzI2L2dvdmVybm1lbnQtaXMtZW5saXN0aW5nLWFpLWhlbHAtZGVjaWRlLXdoYXQtcHVibGljLXJlY29yZHMteW91LWdldC1zZWUvIn0.zAu4NheqwA4cR4iQ78X-6GRIXdN-rkdANBumxe8sjh8&amp;itid=gfta</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkipevtpm2e</guid>
+<pubDate>Mon, 28 Sep 2026 04:40:33 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Citrix confirms two critical NetScaler zero-day RCE vulnerabilities are being exploited in attacks, says it has released security updates to fix the flaws (Lawrence Abrams/BleepingComputer)</title>
+<link>https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkejbacka25</guid>
+<pubDate>Mon, 28 Sep 2026 03:25:33 +0000</pubDate>
+<description>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" alt="" /></p><p>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.</p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" medium="image" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" />
+</item>
+<item>
+<title>Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A (Zachery Eanes/Axios)</title>
+<link>https://www.axios.com/local/raleigh/2026/09/22/ramona-optics-making-advanced-microscopes-raises-usd25m</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkam3paid2e</guid>
+<pubDate>Mon, 28 Sep 2026 02:15:33 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
 <item>
 <title>NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M (Lauren Hirsch/New York Times)</title>
 <link>https://www.nytimes.com/2026/09/24/business/dealbook/precision-neuroscience-brain-bill-ackman.html?unlocked_article_code=1.EVE.VF1e.2NNoHTbE5qfN&amp;smid=url-share</link>
@@ -834,40 +868,6 @@
 <pubDate>Thu, 24 Sep 2026 11:16:30 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tencent launches TenPayGo, a payment app for foreign visitors to China that lets them pay tens of millions of merchants via Visa, Mastercard, and Apple Pay (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb3tgilna2e</guid>
-<pubDate>Thu, 24 Sep 2026 10:56:13 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>VFX company DNEG&#x27;s AI unit Brahma, whose customers include Warner Bros. and the NBA, raised $150M led by Indian PE firm Multiples at a $2B post-money valuation (Priyanka Salve/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/24/enterprise-ai-brahma-fundraise-dneg-dune.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb3cbh5vp2v</guid>
-<pubDate>Thu, 24 Sep 2026 10:46:37 +0000</pubDate>
-<description>Brahma, an Indian enterprise AI content start-up that is backed by the visual effects studio behind Dune, has raised funds at a $2 billion valuation.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" alt="" /></p><p>Brahma, an Indian enterprise AI content start-up that is backed by the visual effects studio behind Dune, has raised funds at a $2 billion valuation.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108366171-17900842402026-09-22t100031z_640030611_rc2gx1aa1t14_rtrmadp_0_usa-bonds-ai.jpeg?v=1790084261&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Companies are increasingly using AI benchmarking services to aggregate public job listings and other payroll data to identify under- and over-paid employees (Callum Borchers/Wall Street Journal)</title>
-<link>https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwb2pf24uk2e</guid>
-<pubDate>Thu, 24 Sep 2026 10:36:03 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says its AI agents &quot;took actions we did not intend&quot; when they tried to hack government and university websites, and it is working with the organizations (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwazuuf2dg2v</guid>
-<pubDate>Thu, 24 Sep 2026 10:21:14 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
