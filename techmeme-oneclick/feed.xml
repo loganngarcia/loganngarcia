@@ -5,8 +5,82 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 28 Sep 2026 16:03:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:54:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AMD agrees to acquire Fei-Fei Li&#x27;s World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm54affps2a</guid>
+<pubDate>Mon, 28 Sep 2026 20:18:19 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/blockchain-com-is-said-to-target-500-million-ipo-this-year</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm2yzqk5j2b</guid>
+<pubDate>Mon, 28 Sep 2026 19:40:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia&#x27;s $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm267lvvv2b</guid>
+<pubDate>Mon, 28 Sep 2026 19:25:44 +0000</pubDate>
+<description>Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" alt="" /></p><p>Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlysknjys25</guid>
+<pubDate>Mon, 28 Sep 2026 19:01:20 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlvtfyln42v</guid>
+<pubDate>Mon, 28 Sep 2026 18:08:07 +0000</pubDate>
+<description>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" alt="" /></p><p>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" />
+</item>
+<item>
+<title>Google says it will migrate Gems, which let users create custom versions of Gemini, to &quot;skills&quot;, starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)</title>
+<link>https://9to5google.com/2026/09/27/gemini-gems-skills/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlulvwbgt2b</guid>
+<pubDate>Mon, 28 Sep 2026 17:46:02 +0000</pubDate>
+<description>In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.”</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.”</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Jensen Huang says AI model distillation is &quot;competition&quot;; Scott Bessent described it as &quot;theft&quot; in July and threatened sanctions against overseas companies (Kai Nicol-Schwarz/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlsmoqlry25</guid>
+<pubDate>Mon, 28 Sep 2026 17:10:40 +0000</pubDate>
+<description>Nvidia CEO Jensen Huang argued that AI model distillation is &quot;competition&quot;. U.S. Treasury Secretary Scott Bessent has called it &quot;theft.&quot;</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia CEO Jensen Huang argued that AI model distillation is &quot;competition&quot;. U.S. Treasury Secretary Scott Bessent has called it &quot;theft.&quot;</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models (AI Security Institute)</title>
+<link>https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwloylvcdc2y</guid>
+<pubDate>Mon, 28 Sep 2026 16:05:45 +0000</pubDate>
+<description>Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" alt="" /></p><p>Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models</p>]]></content:encoded>
+<media:content url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" medium="image" />
+<media:thumbnail url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" />
+</item>
 <item>
 <title>Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO (Harshita Mary Varghese/Reuters)</title>
 <link>https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</link>
@@ -518,8 +592,10 @@
 <link>https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfl5bkyxg2f</guid>
 <pubDate>Sat, 26 Sep 2026 05:40:48 +0000</pubDate>
-<description>From www.alleywatch.com</description>
-<content:encoded><![CDATA[<p>From www.alleywatch.com</p>]]></content:encoded>
+<description>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</description>
+<content:encoded><![CDATA[<p><img src="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" alt="" /></p><p>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</p>]]></content:encoded>
+<media:content url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" medium="image" />
+<media:thumbnail url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" />
 </item>
 <item>
 <title>Russia has increased targeted strikes on Ukrainian data centers, disrupting internet access for ~100K Kyiv residents on Wednesday and Thursday (Christopher Miller/Financial Times)</title>
@@ -804,72 +880,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Massachusetts&#x27; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&amp;smid=bs-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcnb3eypp2f</guid>
-<pubDate>Fri, 25 Sep 2026 01:40:44 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Report: insurers claim hospitals&#x27; AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&amp;smid=nytcore-android-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwclcktefs2k</guid>
-<pubDate>Fri, 25 Sep 2026 01:05:47 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwchx7k7qo2h</guid>
-<pubDate>Fri, 25 Sep 2026 00:05:44 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says &quot;user funds are safe&quot; (Matthew Brockett/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-24/bitget-says-351-million-affected-in-breach-halts-withdrawals</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcedzommw2v</guid>
-<pubDate>Thu, 24 Sep 2026 23:01:20 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)</title>
-<link>https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcdi65b3q2m</guid>
-<pubDate>Thu, 24 Sep 2026 22:45:45 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcbsnro462k</guid>
-<pubDate>Thu, 24 Sep 2026 22:15:49 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours (Harshita Mary Varghese/Reuters)</title>
-<link>https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc6qarezl2h</guid>
-<pubDate>Thu, 24 Sep 2026 21:20:47 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwc53gngpc2b</guid>
-<pubDate>Thu, 24 Sep 2026 20:51:15 +0000</pubDate>
-<description>The AI avatar can transition between 97 languages.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" alt="" /></p><p>The AI avatar can transition between 97 languages.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;strip=all&amp;crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&amp;w=1200" />
 </item>
 </channel>
 </rss>
