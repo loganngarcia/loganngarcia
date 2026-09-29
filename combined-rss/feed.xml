@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:13:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:27:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Self-Play Pretraining with Zero Data</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/22f31e29b789169b3f00.html</link>
+<guid isPermaLink="false">combined:bfa99765111230f191e70cf5232f3cd84e9c773a</guid>
+<pubDate>Tue, 29 Sep 2026 18:44:15 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/self-play-pretraining-with-zero-data" rel="related" type="text/html" />
+<description>Plus more about Memory Attention, JEPA-Anything, and Contrastive World Models</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" alt="" /></p><p>Plus more about Memory Attention, JEPA-Anything, and Contrastive World Models</p><p><a href="https://mail.bycloud.ai/p/self-play-pretraining-with-zero-data">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>AGIBOT Says 100 X2 Humanoids Are Working Across 100 ASD Retail Stores</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/433871b677f40783ac33.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-asd-100-x2-retail-stores</guid>
+<pubDate>Tue, 29 Sep 2026 17:28:26 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agibot-asd-100-x2-retail-stores" rel="related" type="text/html" />
+<description>The cookware retailer is using X2 robots for greetings and product recommendations, while human staff handle transactions. A three-day livestream offers a look at selected stores.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-asd-retail-hero-srl8pOCGU9yZ5AvBek7OysoQJWMNDN.webp" alt="" /></p><p>The cookware retailer is using X2 robots for greetings and product recommendations, while human staff handle transactions. A three-day livestream offers a look at selected stores.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-asd-100-x2-retail-stores">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-asd-retail-hero-srl8pOCGU9yZ5AvBek7OysoQJWMNDN.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-asd-retail-hero-srl8pOCGU9yZ5AvBek7OysoQJWMNDN.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-x2-asd-retail-hero-srl8pOCGU9yZ5AvBek7OysoQJWMNDN.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Chestnut Launches Aero Hand and Aero UMI, Pairing Dexterous Hardware With Its Data Collector</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f7f68df07ba51ad3746e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/chestnut-aero-hand-umi-iros-2026</guid>
+<pubDate>Tue, 29 Sep 2026 17:10:11 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/chestnut-aero-hand-umi-iros-2026" rel="related" type="text/html" />
+<description>The IROS 2026 launch pairs an 18-DOF robotic hand with a wearable capture and teleoperation rig, aiming to reduce the gap between human demonstrations and robot execution.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/chestnut-aero-hand-umi-hero-C0G1jNIkOWfojOY9gGWIChNppOCBHG.webp" alt="" /></p><p>The IROS 2026 launch pairs an 18-DOF robotic hand with a wearable capture and teleoperation rig, aiming to reduce the gap between human demonstrations and robot execution.</p><p><a href="https://www.humanoidsdaily.com/news/chestnut-aero-hand-umi-iros-2026">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/chestnut-aero-hand-umi-hero-C0G1jNIkOWfojOY9gGWIChNppOCBHG.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/chestnut-aero-hand-umi-hero-C0G1jNIkOWfojOY9gGWIChNppOCBHG.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/chestnut-aero-hand-umi-hero-C0G1jNIkOWfojOY9gGWIChNppOCBHG.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Dyna Reveals Taku Robot and Dyna-2.1 With an Hour-Long Autonomous Laundry Demo</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c00287342d2ea2e3c5e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/dyna-taku-dyna-2-1-autonomous-laundry</guid>
+<pubDate>Tue, 29 Sep 2026 16:28:51 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/dyna-taku-dyna-2-1-autonomous-laundry" rel="related" type="text/html" />
+<description>Dyna’s new wheeled semi-humanoid combines manipulation, whole-body control and workflow reasoning. Customer-site deployment is the next step after its uncut laundry demonstration.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" alt="" /></p><p>Dyna’s new wheeled semi-humanoid combines manipulation, whole-body control and workflow reasoning. Customer-site deployment is the next step after its uncut laundry demonstration.</p><p><a href="https://www.humanoidsdaily.com/news/dyna-taku-dyna-2-1-autonomous-laundry">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>T-Robotics to Lead KRW 4.5 Billion Humanoid Project for Korean Display Factories</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e6875c3d7387860ecd7a.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/t-robotics-humanoid-display-factory-project</guid>
+<pubDate>Tue, 29 Sep 2026 14:11:50 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/t-robotics-humanoid-display-factory-project" rel="related" type="text/html" />
+<description>The project pairs T-Robotics with KAIST and a major display manufacturer for development and production-line trials through 2030, adding an industrial application to South Korea’s humanoid push.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp" alt="" /></p><p>The project pairs T-Robotics with KAIST and a major display manufacturer for development and production-line trials through 2030, adding an industrial application to South Korea’s humanoid push.</p><p><a href="https://www.humanoidsdaily.com/news/t-robotics-humanoid-display-factory-project">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/t-robotics-tr-works-hero-i1cf7crlOtlQZS1OORlxrjcdJamAGl.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns (Clare Duffy/CNN)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e7f52d578063a0489e29.html</link>
@@ -30,10 +100,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/" rel="related" type="text/html" />
 <description>Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with ​six partners, according to a confidential IPO prospectus seen by Reuters — a plan that ranks amo...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FPQZFWGAUENNCVI532M7WCACFHE.jpg%3Fauth%3Db5e3551bf6333f1b49fc81dfb6bea213de956cacefeede54dcf2fbe77a0e088c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with ​six partners, according to a confidential IPO prospectus seen by Reuters — a plan that ranks amo...</p><p><a href="https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FPQZFWGAUENNCVI532M7WCACFHE.jpg%3Fauth%3Db5e3551bf6333f1b49fc81dfb6bea213de956cacefeede54dcf2fbe77a0e088c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FPQZFWGAUENNCVI532M7WCACFHE.jpg%3Fauth%3Db5e3551bf6333f1b49fc81dfb6bea213de956cacefeede54dcf2fbe77a0e088c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FPQZFWGAUENNCVI532M7WCACFHE.jpg%3Fauth%3Db5e3551bf6333f1b49fc81dfb6bea213de956cacefeede54dcf2fbe77a0e088c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with ​six partners, according to a confidential IPO prospectus seen by Reuters — a plan that ranks amo...</p><p><a href="https://www.reuters.com/business/anthropics-518-billion-ai-buildout-hinges-largely-deals-that-cannot-be-canceled-2026-09-29/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FCM7HZKH2SJOM5NIZSR5UD2HCLQ.jpg%3Fauth%3Da1dbbf3550a045cd0558e1f9ab9be80487f29eb6038d4a89d2aea933f7f838ec%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Investigation: McDonald's is utilizing an AI pricing engine across nearly 14,000 restaurants to generate location-specific "optimal prices" for menu items (Waylon Cunningham/Reuters)</title>
@@ -240,10 +310,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots" rel="related" type="text/html" />
 <description>Google is contesting an attempt by the European Union to make it open up its Android operating system to artificial-intelligence rivals and give search data to competing providers.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_l0djj03mrw/v0/1200x800.jpg" alt="" /></p><p>Google is contesting an attempt by the European Union to make it open up its Android operating system to artificial-intelligence rivals and give search data to competing providers.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_l0djj03mrw/v0/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_l0djj03mrw/v0/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_l0djj03mrw/v0/1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_l0djj03mrw%2Fv0%2F1200x800.jpg" alt="" /></p><p>Google is contesting an attempt by the European Union to make it open up its Android operating system to artificial-intelligence rivals and give search data to competing providers.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_l0djj03mrw%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_l0djj03mrw%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_l0djj03mrw%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: six independent advisory board experts resigned from the Global Internet Forum to Counter Terrorism, as Meta and others push for structural changes (Paresh Dave/Wired)</title>
@@ -1296,62 +1366,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-future-919-robot-lineup-kVePN15Rwl4kmjhoy35REtmukCfKVk.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>IFR Counts 7,000 Humanoid Sales in 2025—Many for Research</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59f2265dd36835df1150.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment</guid>
-<pubDate>Mon, 21 Sep 2026 07:01:06 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment" rel="related" type="text/html" />
-<description>Reuters reports IFR counted around 7,000 humanoid sales for industrial and professional use in 2025, highlighting the distinction between robot purchases and productive deployment.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" alt="" /></p><p>Reuters reports IFR counted around 7,000 humanoid sales for industrial and professional use in 2025, highlighting the distinction between robot purchases and productive deployment.</p><p><a href="https://www.humanoidsdaily.com/news/ifr-humanoid-sales-2025-research-deployment">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-humanoid-robots-factory-6roDIJIu1vuEsQzWlBzcHohlGVZSeY.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Hyundai Eyes Czech Factory for Atlas Humanoid</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7d998ce777c7d8827d0e.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe</guid>
-<pubDate>Mon, 21 Sep 2026 06:39:26 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe" rel="related" type="text/html" />
-<description>Hyundai’s Nošovice plant is discussing Atlas with Boston Dynamics and headquarters, but a European deployment date remains unannounced.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" alt="" /></p><p>Hyundai’s Nošovice plant is discussing Atlas with Boston Dynamics and headquarters, but a European deployment date remains unannounced.</p><p><a href="https://www.humanoidsdaily.com/news/hyundai-atlas-czech-factory-europe">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-ces-2026-reveal-Dk7MdKOg2kerMeDCpcXZYPtEMJboGM.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>X Square’s Robot Starts Work at Lululemon’s Wuhan Warehouse</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1c6ebdff98265df282df.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse</guid>
-<pubDate>Sun, 20 Sep 2026 19:02:02 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse" rel="related" type="text/html" />
-<description>X Square says its QUANTA X1 Pro is handling parcels at lululemon’s new Wuhan distribution center, adding a named warehouse deployment to its logistics push.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" alt="" /></p><p>X Square says its QUANTA X1 Pro is handling parcels at lululemon’s new Wuhan distribution center, adding a named warehouse deployment to its logistics push.</p><p><a href="https://www.humanoidsdaily.com/news/x-square-robot-lululemon-wuhan-warehouse">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xsquare-lululemon-wuhan-uJYDDk3M36i8bEWr8DKgafTTp0QZIH.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Why Ningbo Matters to Tesla’s Optimus Ambitions</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/585b6cffa9f113be94f0.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus</guid>
-<pubDate>Sun, 20 Sep 2026 16:11:02 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus" rel="related" type="text/html" />
-<description>Tesla’s reported supplier audits put Ningbo’s automotive expertise in focus, as Georg Stieler highlights the Yangtze River Delta’s role in humanoid robotics.</description>
-<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" alt="" /></p><p>Tesla’s reported supplier audits put Ningbo’s automotive expertise in focus, as Georg Stieler highlights the Yangtze River Delta’s role in humanoid robotics.</p><p><a href="https://www.humanoidsdaily.com/news/why-ningbo-matters-tesla-optimus">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" />
-<enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fc9a8f12e485244c6b0a.html</link>
 <guid isPermaLink="false">combined:6e738b4db2be531c77a4ea8a005bda61bbcc0806</guid>
@@ -1968,20 +1982,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
 <guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
@@ -1994,6 +1994,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
@@ -2064,20 +2078,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN013MqZ6I1aTeRGXyxAB_!!6000000003331-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Generative Recursive Reasoning</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3013444be87ebbe353cb.html</link>
-<guid isPermaLink="false">combined:a5d4ad8f1871a005e81f04250d856d781346ab4e</guid>
-<pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/generative-recursive-reasoning" rel="related" type="text/html" />
-<description>plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" alt="" /></p><p>plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization</p><p><a href="https://mail.bycloud.ai/p/generative-recursive-reasoning">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Qwen3.7: The Agent Frontier</title>

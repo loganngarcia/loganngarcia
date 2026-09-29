@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:13:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:27:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Self-Play Pretraining with Zero Data</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/22f31e29b789169b3f00.html</link>
+<guid isPermaLink="false">combined:bfa99765111230f191e70cf5232f3cd84e9c773a</guid>
+<pubDate>Tue, 29 Sep 2026 18:44:15 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/self-play-pretraining-with-zero-data" rel="related" type="text/html" />
+<description>Plus more about Memory Attention, JEPA-Anything, and Contrastive World Models</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" alt="" /></p><p>Plus more about Memory Attention, JEPA-Anything, and Contrastive World Models</p><p><a href="https://mail.bycloud.ai/p/self-play-pretraining-with-zero-data">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8f9635e0-3ff9-4cbf-9fda-b2e12aacff4d/issue_127.jpg?t=1790700690" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Dream-RSI</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6e2bfa4cf75cc32c488f.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Generative Recursive Reasoning</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3013444be87ebbe353cb.html</link>
-<guid isPermaLink="false">combined:a5d4ad8f1871a005e81f04250d856d781346ab4e</guid>
-<pubDate>Tue, 26 May 2026 20:30:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/generative-recursive-reasoning" rel="related" type="text/html" />
-<description>plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" alt="" /></p><p>plus more on the Benefits of Subword Tokenization, HRM-Text, Probabilistic Tiny Recursive Model, and Vector Policy Optimization</p><p><a href="https://mail.bycloud.ai/p/generative-recursive-reasoning">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/6151bd3c-f265-463e-a2f0-41f67cb0ed49/issue_109.jpg?t=1779825232" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
