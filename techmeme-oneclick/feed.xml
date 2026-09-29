@@ -5,8 +5,84 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 28 Sep 2026 21:54:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 01:27:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources on how SoftBank&#x27;s $11B junk bond sale landed, despite investor questions about OpenAI&#x27;s listing timeline, data center plans, and SB Energy&#x27;s delayed IPO (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-28/a-23-trillion-market-swayed-softbank-in-hunt-for-more-ai-debt</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmn4qfcai2v</guid>
+<pubDate>Tue, 29 Sep 2026 01:04:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers (Echo Wang/Reuters)</title>
+<link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmmrjyuca2m</guid>
+<pubDate>Tue, 29 Sep 2026 00:58:40 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IPO filing: Anthropic&#x27;s seven co-founders will initially have 50.1% of the total voting power through a new &quot;Founder LLC&quot; aimed at serving the common good (Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmlaa2svx2y</guid>
+<pubDate>Tue, 29 Sep 2026 00:31:06 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sen. Blumenthal-led report: Tether&#x27;s USDT is central to Iran&#x27;s shadow banking system; 87% of 757 &quot;terrorism&quot;-related wallets predominantly transacted in USDT (Sarah Wynn/The Block)</title>
+<link>https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmkeura672f</guid>
+<pubDate>Tue, 29 Sep 2026 00:15:48 +0000</pubDate>
+<description>From www.theblock.co</description>
+<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
+</item>
+<item>
+<title>Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmjdmtp4u2f</guid>
+<pubDate>Mon, 28 Sep 2026 23:57:12 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist (Garrett Downs/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmjba4rlx2y</guid>
+<pubDate>Mon, 28 Sep 2026 23:55:52 +0000</pubDate>
+<description>The proposal joins a chorus of other measures being put forward in Congress as the body mulls how to regulate AI.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108368847-1790610558721-gettyimages-2292801324-khanna_178_090326.jpeg?v=1790610581&amp;w=1920&amp;h=1080" alt="" /></p><p>The proposal joins a chorus of other measures being put forward in Congress as the body mulls how to regulate AI.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108368847-1790610558721-gettyimages-2292801324-khanna_178_090326.jpeg?v=1790610581&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108368847-1790610558721-gettyimages-2292801324-khanna_178_090326.jpeg?v=1790610581&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Internal memo: FBI said it is &quot;operating under the premise&quot; that a threat actor stole PII of all employees; ShinyHunters set a Tuesday deadline tied to demands (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html?unlocked_article_code=1.ElE.OIHB.J2rMk-_i6AeP&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmhub63wd2a</guid>
+<pubDate>Mon, 28 Sep 2026 23:30:43 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Artificial Analysis&#x27; Intelligence Index: Sonnet 5.5 (max) ranks above GPT-6 Astra (max) and behind only Opus 5.5 (max) but has the highest token use of them all (Artificial Analysis)</title>
+<link>https://artificialanalysis.ai/articles/claude-sonnet-5-5</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmggqcbav2b</guid>
+<pubDate>Mon, 28 Sep 2026 23:05:15 +0000</pubDate>
+<description>Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" />
+</item>
+<item>
+<title>OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn&#x27;t quite meet its safety bar; it had been targeting an October release (Maxwell Zeff/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmehkdybh2e</guid>
+<pubDate>Mon, 28 Sep 2026 22:29:55 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>AMD agrees to acquire Fei-Fei Li&#x27;s World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion</link>
@@ -802,84 +878,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594" alt="" /></p><p>The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594" />
-</item>
-<item>
-<title>Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints (The Information)</title>
-<link>https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdw3xd6g62j</guid>
-<pubDate>Fri, 25 Sep 2026 13:51:36 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Bill Gates warns about the catastrophic risk posed by &quot;people with ill intent using the latest AI tools&quot;, which are powerful enough to &quot;cause a billion deaths&quot; (Herb Scribner/Axios)</title>
-<link>https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdu4k2uh62b</guid>
-<pubDate>Fri, 25 Sep 2026 13:16:08 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft launches its Copilot &quot;super app&quot;, bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdqqves5o2e</guid>
-<pubDate>Fri, 25 Sep 2026 12:15:56 +0000</pubDate>
-<description>The new Copilot merges AI chat, coding, and Autopilot agents.﻿</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/New-Copilot.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>The new Copilot merges AI chat, coding, and Autopilot agents.﻿</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/New-Copilot.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/New-Copilot.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
-</item>
-<item>
-<title>Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle&#x27;s AI risks (Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdnfnbk762f</guid>
-<pubDate>Fri, 25 Sep 2026 11:15:57 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies (Ashley Gold/Semafor)</title>
-<link>https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwdi3pjart2e</guid>
-<pubDate>Fri, 25 Sep 2026 09:40:55 +0000</pubDate>
-<description>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>President Donald Trump’s call to leave AI “exactly where it is” contrasts even with Chinese leader Xi Jinping.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/6359210abb8aae6847fa8833fb293d43e3329042-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)</title>
-<link>https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwd5hntnth2i</guid>
-<pubDate>Fri, 25 Sep 2026 06:30:45 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#x27;s AI push (Reuters)</title>
-<link>https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwczthnplg2f</guid>
-<pubDate>Fri, 25 Sep 2026 05:25:46 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (Stephanie Palazzolo/The Information)</title>
-<link>https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcslj4jzs2b</guid>
-<pubDate>Fri, 25 Sep 2026 03:16:03 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwcqmwpltg2a</guid>
-<pubDate>Fri, 25 Sep 2026 02:41:03 +0000</pubDate>
-<description>Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
 </item>
 </channel>
 </rss>
