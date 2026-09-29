@@ -5,8 +5,292 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:10:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 23:05:57 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross&#x27; fair use defense for AI training (Blake Brittain/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwowpwu6tq2v</guid>
+<pubDate>Tue, 29 Sep 2026 23:02:04 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)</title>
+<link>https://www.reuters.com/business/chip-startup-efficient-computer-raises-100-million-650-million-valuation-2026-09-29/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwovkdkrao2a</guid>
+<pubDate>Tue, 29 Sep 2026 22:41:02 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse (Anthropic)</title>
+<link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwovb5yd4f2m</guid>
+<pubDate>Tue, 29 Sep 2026 22:35:54 +0000</pubDate>
+<description>GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
+</item>
+<item>
+<title>President Trump signs an executive order requiring federal government agencies to refer to AI as &quot;Super Intelligence&quot; or &quot;SI&quot; in all official communications (Michael Shepard/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwotujxbif2a</guid>
+<pubDate>Tue, 29 Sep 2026 22:10:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees (Reuters)</title>
+<link>https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwotlrsqho2v</guid>
+<pubDate>Tue, 29 Sep 2026 22:06:03 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mark Zuckerberg says the voluntary &quot;accord&quot; on AI standards that tech executives agreed to includes internal risk reviews and external auditors (Axios)</title>
+<link>https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoqs2zhx22v</guid>
+<pubDate>Tue, 29 Sep 2026 21:15:53 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Trump says he signed a &quot;morally binding&quot; AI doc with AI leaders; Mike Johnson calls it a statement of principles that are &quot;voluntary on behalf of the industry&quot; (Samantha Subin/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwonysxnah2y</guid>
+<pubDate>Tue, 29 Sep 2026 20:25:58 +0000</pubDate>
+<description>The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&amp;w=1920&amp;h=1080" alt="" /></p><p>The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369794-1790713950915-108369794-1790711674658-gettyimages-2297244120-AFP_C9Q83W4_1.jpeg?v=1790713979&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>After lunch with AI leaders, Trump rejects new federal AI rules, says &quot;we automatically have regulation&quot; via DOJ and FBI but &quot;self-regulation is very important&quot; (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/trump-set-to-host-nvidia-anthropic-ceos-to-discuss-ai-risks</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwongwiq3i2a</guid>
+<pubDate>Tue, 29 Sep 2026 20:15:58 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)</title>
+<link>https://www.baseten.co/blog/baseten-openai-partnership/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwolzzad5o2m</guid>
+<pubDate>Tue, 29 Sep 2026 19:50:50 +0000</pubDate>
+<description>Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.</description>
+<content:encoded><![CDATA[<p><img src="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" alt="" /></p><p>Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.</p>]]></content:encoded>
+<media:content url="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" medium="image" />
+<media:thumbnail url="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" />
+</item>
+<item>
+<title>Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&amp;smid=bs-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwokeiljda2a</guid>
+<pubDate>Tue, 29 Sep 2026 19:20:55 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoi6rc54e2a</guid>
+<pubDate>Tue, 29 Sep 2026 18:41:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests (Maximilian Schreiner/The Decoder)</title>
+<link>https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwohl4ucse2e</guid>
+<pubDate>Tue, 29 Sep 2026 18:30:56 +0000</pubDate>
+<description>OpenAI&#x27;s new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company&#x27;s own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" alt="" /></p><p>OpenAI&#x27;s new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company&#x27;s own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission.</p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" medium="image" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" />
+</item>
+<item>
+<title>OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwohewyyyn25</guid>
+<pubDate>Tue, 29 Sep 2026 18:27:28 +0000</pubDate>
+<description>OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" alt="" /></p><p>OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" />
+</item>
+<item>
+<title>General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding (Dean Takahashi/GamesBeat)</title>
+<link>https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwogq7cdiv2m</guid>
+<pubDate>Tue, 29 Sep 2026 18:15:52 +0000</pubDate>
+<description>General Intuition has raised another $220 million at a $6.2 billion valuation as the company starts making models available for training AI.</description>
+<content:encoded><![CDATA[<p><img src="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" alt="" /></p><p>General Intuition has raised another $220 million at a $6.2 billion valuation as the company starts making models available for training AI.</p>]]></content:encoded>
+<media:content url="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" medium="image" />
+<media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" />
+</item>
+<item>
+<title>OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT (Paul Sawers/The New Stack)</title>
+<link>https://thenewstack.io/sign-in-with-chatgpt/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwogjdoueh2e</guid>
+<pubDate>Tue, 29 Sep 2026 18:12:02 +0000</pubDate>
+<description>ChatGPT subscribers can now easily use their plan allowance in Devin, Amp, Warp, OpenClaw, and other third-party tools.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" alt="" /></p><p>ChatGPT subscribers can now easily use their plan allowance in Devin, Amp, Warp, OpenClaw, and other third-party tools.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" />
+</item>
+<item>
+<title>OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)</title>
+<link>https://thenewstack.io/openai-decision-api-luna/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwofe2xxs32b</guid>
+<pubDate>Tue, 29 Sep 2026 17:51:12 +0000</pubDate>
+<description>OpenAI&#x27;s Decision API, built on its small Luna model, returns predefined answers with confidence scores in 150 milliseconds. Pricing is still unknown.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" alt="" /></p><p>OpenAI&#x27;s Decision API, built on its small Luna model, returns predefined answers with confidence scores in 150 milliseconds. Pricing is still unknown.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" />
+</item>
+<item>
+<title>OpenAI announces ChatGPT Space, a collaborative workspace for users and ChatGPT and Dots, available on Pro, Business and Enterprise plans (Kris Holt/Engadget)</title>
+<link>https://www.engadget.com/2272248/chatgpt-space-for-work/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwof2mvxzl25</guid>
+<pubDate>Tue, 29 Sep 2026 17:45:55 +0000</pubDate>
+<description>ChatGPT is coming to Slack and Microsoft Teams too.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" alt="" /></p><p>ChatGPT is coming to Slack and Microsoft Teams too.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" />
+</item>
+<item>
+<title>Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoewibkpc2v</guid>
+<pubDate>Tue, 29 Sep 2026 17:43:36 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android (Reece Rogers/Wired)</title>
+<link>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoeiofqho2k</guid>
+<pubDate>Tue, 29 Sep 2026 17:35:52 +0000</pubDate>
+<description>These cute agents are designed to connect to your apps and tackle multistep tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" alt="" /></p><p>These cute agents are designed to connect to your apps and tackle multistep tasks.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" />
+</item>
+<item>
+<title>OpenAI announces a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast speed tier (Igor Bonifacic/Engadget)</title>
+<link>https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoech7d3x2v</guid>
+<pubDate>Tue, 29 Sep 2026 17:32:24 +0000</pubDate>
+<description>How long until every other AI company does the same?</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" alt="" /></p><p>How long until every other AI company does the same?</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" />
+</item>
+<item>
+<title>OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoe7pwzkh2y</guid>
+<pubDate>Tue, 29 Sep 2026 17:30:52 +0000</pubDate>
+<description>OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" alt="" /></p><p>OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" />
+</item>
+<item>
+<title>OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra&#x27;s standard prices, in Work and Codex (OpenAI)</title>
+<link>https://openai.com/index/introducing-gpt-6-1-sol/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwodty66l42a</guid>
+<pubDate>Tue, 29 Sep 2026 17:24:18 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI announces Dots, always-on agents powered by GPT-6 Astra with its own cloud computer, available in ChatGPT on web, mobile, and desktop to Pro users (Rachel Metz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwodffqzy32b</guid>
+<pubDate>Tue, 29 Sep 2026 17:16:09 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI repeatedly dismissed internal warnings about inadequate monitoring of testing, prioritizing fast releases without additional security protocols (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwod5exmwv2b</guid>
+<pubDate>Tue, 29 Sep 2026 17:11:40 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A livestream of the OpenAI DevDay 2026 keynote (OpenAI on YouTube)</title>
+<link>https://www.youtube.com/watch?v=Fls_onRviPM</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoclhrisj2k</guid>
+<pubDate>Tue, 29 Sep 2026 17:01:39 +0000</pubDate>
+<description>From www.youtube.com</description>
+<content:encoded><![CDATA[<p>From www.youtube.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A live blog of the OpenAI DevDay 2026 keynote, where Sam Altman is expected to announce ChatGPT and Codex updates (Engadget)</title>
+<link>https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoce2natw2i</guid>
+<pubDate>Tue, 29 Sep 2026 16:57:30 +0000</pubDate>
+<description>CEO Sam Altman is expected to take the stage today.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/openai-dev-day-live-blog-chatgpt-news/l-intro-1790704126.jpg" alt="" /></p><p>CEO Sam Altman is expected to take the stage today.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/openai-dev-day-live-blog-chatgpt-news/l-intro-1790704126.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/openai-dev-day-live-blog-chatgpt-news/l-intro-1790704126.jpg" />
+</item>
+<item>
+<title>Mark Gurman: Apple considered replacing ~5,000 AppleCare customer service workers with AI-powered agents, but it has put those plans on hold indefinitely (Joe Rossignol/MacRumors)</title>
+<link>https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoauhav6p2b</guid>
+<pubDate>Tue, 29 Sep 2026 16:30:53 +0000</pubDate>
+<description>Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg&#x27;s Mark Gurman. The report said that Apple believed that AI-powered phone and web agents could take over some of the responsibilities performed by the employees who would have been let go, but Apple is no longer &quot;currently looking to take such a step&quot;.</description>
+<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/hRtyIsD0YLlMa26vgMiRg69_5HE=/2250x/article-new/2023/08/Apple-Support-App-General-Feature.jpg" alt="" /></p><p>Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg&#x27;s Mark Gurman. The report said that Apple believed that AI-powered phone and web agents could take over some of the responsibilities performed by the employees who would have been let go, but Apple is no longer &quot;currently looking to take such a step&quot;.</p>]]></content:encoded>
+<media:content url="https://images.macrumors.com/t/hRtyIsD0YLlMa26vgMiRg69_5HE=/2250x/article-new/2023/08/Apple-Support-App-General-Feature.jpg" medium="image" />
+<media:thumbnail url="https://images.macrumors.com/t/hRtyIsD0YLlMa26vgMiRg69_5HE=/2250x/article-new/2023/08/Apple-Support-App-General-Feature.jpg" />
+</item>
+<item>
+<title>IPO prospectus: Anthropic has agreements to pay SpaceX up to $84.5B to use its Nvidia-based compute through 2029, mostly cancellable with a 90-day notice period (Grace Kay/The Information)</title>
+<link>https://www.theinformation.com/briefings/anthropic-discloses-84-5-billion-spacex-compute-agreements</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwo6dyriku2m</guid>
+<pubDate>Tue, 29 Sep 2026 15:45:53 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)</title>
+<link>https://thehill.com/homenews/administration/6117728-trump-launches-ai-government-website/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwo5snf7tu2v</guid>
+<pubDate>Tue, 29 Sep 2026 15:36:11 +0000</pubDate>
+<description>From thehill.com</description>
+<content:encoded><![CDATA[<p>From thehill.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: John Ternus is moving to overhaul Apple to accelerate product development and create a leaner organization with a greater focus on engineering (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/apple-s-new-ceo-moves-to-overhaul-company-to-run-faster-and-leaner?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDY5NDk4NiwiZXhwIjoxNzkxMjk5Nzg2LCJhcnRpY2xlSWQiOiJUTTMzNUxLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.KFGEydCKPxmKC3i9zoFSxY8tOf8ZEWg4OiSi_L1yAb4</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwo5blkszi2b</guid>
+<pubDate>Tue, 29 Sep 2026 15:26:38 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Miami-based Jeeves, which launched stablecoin-based payments earlier this year, raised a $110M Series C led by CoinFund, with participation from a16z and others (Maria Clara Cobo/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-29/jeeves-raises-110-million-from-a16z-coinbase-for-crypto-push</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwo2ytjczb2a</guid>
+<pubDate>Tue, 29 Sep 2026 14:45:57 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI&#x27;s ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025 (Madison Mills/Axios)</title>
+<link>https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnzvxsihl2e</guid>
+<pubDate>Tue, 29 Sep 2026 14:26:27 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
 <item>
 <title>In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns (Clare Duffy/CNN)</title>
 <link>http://www.cnn.com/2026/09/29/tech/apple-iceblock-app-removal-raskin</link>
@@ -38,8 +322,8 @@
 <link>https://fortune.com/2026/09/29/elise-ai-4-billion-valuation-funding-round-housing-unicorn-andreessen-bessemer/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnqwn4p6s2b</guid>
 <pubDate>Tue, 29 Sep 2026 11:45:46 +0000</pubDate>
-<description>&quot;The industries where AI matters most are still not the ones getting the most attention,&quot; says CEO Minna Song.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/66bb9b30955b01c3294e2834.webp?resize=1200,600" alt="" /></p><p>&quot;The industries where AI matters most are still not the ones getting the most attention,&quot; says CEO Minna Song.</p>]]></content:encoded>
+<description>“The industries where AI matters most are still not the ones getting the most attention,” says CEO Minna Song.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/66bb9b30955b01c3294e2834.webp?resize=1200,600" alt="" /></p><p>“The industries where AI matters most are still not the ones getting the most attention,” says CEO Minna Song.</p>]]></content:encoded>
 <media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/66bb9b30955b01c3294e2834.webp?resize=1200,600" medium="image" />
 <media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/66bb9b30955b01c3294e2834.webp?resize=1200,600" />
 </item>
@@ -612,282 +896,6 @@
 <pubDate>Mon, 28 Sep 2026 04:40:33 +0000</pubDate>
 <description>From www.washingtonpost.com</description>
 <content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Citrix confirms two critical NetScaler zero-day RCE vulnerabilities are being exploited in attacks, says it has released security updates to fix the flaws (Lawrence Abrams/BleepingComputer)</title>
-<link>https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkejbacka25</guid>
-<pubDate>Mon, 28 Sep 2026 03:25:33 +0000</pubDate>
-<description>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.</description>
-<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" alt="" /></p><p>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.</p>]]></content:encoded>
-<media:content url="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" medium="image" />
-<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg" />
-</item>
-<item>
-<title>Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A (Zachery Eanes/Axios)</title>
-<link>https://www.axios.com/local/raleigh/2026/09/22/ramona-optics-making-advanced-microscopes-raises-usd25m</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwkam3paid2e</guid>
-<pubDate>Mon, 28 Sep 2026 02:15:33 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M (Lauren Hirsch/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/24/business/dealbook/precision-neuroscience-brain-bill-ackman.html?unlocked_article_code=1.EVE.VF1e.2NNoHTbE5qfN&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwk4puqbkk2v</guid>
-<pubDate>Mon, 28 Sep 2026 01:06:05 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#x27;s AI workloads (Financial Times)</title>
-<link>https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwk2ibxaqr2b</guid>
-<pubDate>Mon, 28 Sep 2026 00:26:03 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How AI&#x27;s acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwjs455zvl25</guid>
-<pubDate>Sun, 27 Sep 2026 21:56:05 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more (Shirin Ghaffary/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/newsletters/2026-09-24/microsoft-s-suleyman-says-industry-needs-red-line-for-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDI4OTM3OCwiZXhwIjoxNzkwODk0MTc4LCJhcnRpY2xlSWQiOiJUTFZWQ05LSVVQU1MwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.tuaYuOGB4U9EUjwbUA1dnmwfr2Q0gcQ2azhGCaTIXT4</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwjjozeanq2b</guid>
-<pubDate>Sun, 27 Sep 2026 19:25:35 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Jaan Tallinn, who led Anthropic&#x27;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives (Kate Clark/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwjeo3sve22a</guid>
-<pubDate>Sun, 27 Sep 2026 17:55:36 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: China&#x27;s government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases (Qianer Liu/The Information)</title>
-<link>https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj7e6gslb2m</guid>
-<pubDate>Sun, 27 Sep 2026 16:20:34 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)</title>
-<link>https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj57wud7v2b</guid>
-<pubDate>Sun, 27 Sep 2026 15:42:24 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwj2vx4dcu2i</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:02 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals (Lily Kuo/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html?unlocked_article_code=1.EVE.h8tG.lRHxbBc3XBI8&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwiniqfbgp2j</guid>
-<pubDate>Sun, 27 Sep 2026 11:01:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwi4r4o4cq2e</guid>
-<pubDate>Sun, 27 Sep 2026 06:01:27 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital (Brian Danga/The Block)</title>
-<link>https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwi3dx4ycb2v</guid>
-<pubDate>Sun, 27 Sep 2026 05:36:12 +0000</pubDate>
-<description>The funding follows HIFI&#x27;s role in DTCC&#x27;s July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.</description>
-<content:encoded><![CDATA[<p><img src="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" alt="" /></p><p>The funding follows HIFI&#x27;s role in DTCC&#x27;s July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.</p>]]></content:encoded>
-<media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" medium="image" />
-<media:thumbnail url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/04/20260409_Tokens_News.jpg" />
-</item>
-<item>
-<title>PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners (Mike Wheatley/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhyjxfgoo2v</guid>
-<pubDate>Sun, 27 Sep 2026 04:45:52 +0000</pubDate>
-<description>Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" alt="" /></p><p>Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-23-09-08-49.png" />
-</item>
-<item>
-<title>Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners (FinTech Global)</title>
-<link>https://fintech.global/2026/09/24/numerals-100m-series-c-bets-on-sales-tax-complexity/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhxp54nwy2j</guid>
-<pubDate>Sun, 27 Sep 2026 04:30:52 +0000</pubDate>
-<description>Numeral, the AI-driven sales tax compliance platform, has closed a $100m Series C round as businesses face a widening set of tax obligations across markets and product types. Insight Partners led the round. Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork also took part. Numeral plans to spend the capital on faster product […]</description>
-<content:encoded><![CDATA[<p><img src="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" alt="" /></p><p>Numeral, the AI-driven sales tax compliance platform, has closed a $100m Series C round as businesses face a widening set of tax obligations across markets and product types. Insight Partners led the round. Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork also took part. Numeral plans to spend the capital on faster product […]</p>]]></content:encoded>
-<media:content url="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" medium="image" />
-<media:thumbnail url="https://fintech.global/wp-content/uploads/2026/09/kelly-sikkema-xoU52jUVUXA-unsplash-1-scaled.jpg" />
-</item>
-<item>
-<title>Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)</title>
-<link>https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhtry42472m</guid>
-<pubDate>Sun, 27 Sep 2026 03:20:52 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/openai-agents-used-aggressive-techniques-to-access-u-n-website-522c70ff?st=os5ZgA</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhtji5yda2b</guid>
-<pubDate>Sun, 27 Sep 2026 03:16:07 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts (Tom Wilson/Financial Times)</title>
-<link>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwhjqap4jw2a</guid>
-<pubDate>Sun, 27 Sep 2026 00:20:57 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)</title>
-<link>https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwh2o2opki2e</guid>
-<pubDate>Sat, 26 Sep 2026 19:51:17 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot; (Anthony Ha/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgwi4lbsh2f</guid>
-<pubDate>Sat, 26 Sep 2026 18:36:23 +0000</pubDate>
-<description>Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" alt="" /></p><p>Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024" />
-</item>
-<item>
-<title>A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#x27;s&quot; tech (Ashley Capoot/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgv3xzuk22e</guid>
-<pubDate>Sat, 26 Sep 2026 18:11:42 +0000</pubDate>
-<description>A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" alt="" /></p><p>A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Bitget CEO Gracy Chen says she suspects North Korean attackers exploited a backend system used to process wallet transactions to drain $387M from the platform (Camila Grigera Naón/Fortune)</title>
-<link>https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgtxlsa262m</guid>
-<pubDate>Sat, 26 Sep 2026 17:51:21 +0000</pubDate>
-<description>Hackers exploited Bitget’s wallet backend, using a flaw that made fraudulent withdrawals look legitimate.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291692264_be5882-e1790357416812.jpg?resize=1200,600" alt="" /></p><p>Hackers exploited Bitget’s wallet backend, using a flaw that made fraudulent withdrawals look legitimate.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291692264_be5882-e1790357416812.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291692264_be5882-e1790357416812.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Brazil&#x27;s Lula da Silva signs an EO banning online betting; app stores and telecom providers must block platforms on Oct. 6; Congress has 120 days to approve it (Reuters)</title>
-<link>https://www.reuters.com/world/americas/brazils-lula-bans-online-betting-operations-reelection-race-tightens-2026-09-25/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgprea3z52b</guid>
-<pubDate>Sat, 26 Sep 2026 16:36:17 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: YouTube, TikTok, and Meta&#x27;s Instagram and Facebook decline to run paid ads for Alex Gibney&#x27;s Musk documentary, citing &quot;political content&quot; (Steven Zeitchik/The Hollywood Reporter)</title>
-<link>https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgnvjgylj2m</guid>
-<pubDate>Sat, 26 Sep 2026 16:02:49 +0000</pubDate>
-<description>YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing “political” content. X won&#x27;t even take Bleecker Street&#x27;s calls. The distributor is appealing.</description>
-<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/muskzi.jpg?w=1440&amp;h=810&amp;crop=1" alt="" /></p><p>YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing “political” content. X won&#x27;t even take Bleecker Street&#x27;s calls. The distributor is appealing.</p>]]></content:encoded>
-<media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/muskzi.jpg?w=1440&amp;h=810&amp;crop=1" medium="image" />
-<media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/09/muskzi.jpg?w=1440&amp;h=810&amp;crop=1" />
-</item>
-<item>
-<title>Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwglu4ziub2k</guid>
-<pubDate>Sat, 26 Sep 2026 15:26:15 +0000</pubDate>
-<description>After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799" alt="" /></p><p>After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799" />
-</item>
-<item>
-<title>Sources: Monzo is in talks to be acquired by Nubank parent Nu Holdings in a deal valuing it at £8B-£10B; Monzo also discussed selling a ~15% stake to PE firms (Laith Al-Khalaf/Financial Times)</title>
-<link>https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgkq2cm672b</guid>
-<pubDate>Sat, 26 Sep 2026 15:06:04 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The US and China create a &quot;Super Intelligence Dialogue&quot; on AI risks and a separate AI incident hotline, likened to a Cold War-era &quot;red telephone&quot; (Ben Berkowitz/Axios)</title>
-<link>https://www.axios.com/2026/09/26/us-china-ai-si-deal</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgiitwhez2v</guid>
-<pubDate>Sat, 26 Sep 2026 14:26:15 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Walmart CEO John Furner says the company won&#x27;t use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper&#x27;s identity (Gregory Meyer/Financial Times)</title>
-<link>https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwgfqahqrk2v</guid>
-<pubDate>Sat, 26 Sep 2026 13:36:42 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined (Financial Times)</title>
-<link>https://www.ft.com/content/ae9eedd2-4530-47e4-be4b-242d0e2a6253?accessToken=zwAAAaDcJpABkdOunu3SRTBH5NO-SyQtDipiUw.MEQCIFk256zxGpHouwFGWxIVeSLdO_L22MHgsBEmYZpxA6EsAiBo4Z2UJTZj1B5XNEV49fdXaKgR8UWW1DDvN-3nOtz53w&amp;sharetype=gift&amp;token=1732a34b-af86-4567-b005-c86646a16670</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwg2samn5x2m</guid>
-<pubDate>Sat, 26 Sep 2026 10:20:58 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfnwp4mud2y</guid>
-<pubDate>Sat, 26 Sep 2026 06:30:49 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)</title>
-<link>https://www.alleywatch.com/2026/09/confido-raises-55m-to-scale-its-ai-infrastructure-across-the-cpg-commercial-cycle/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfl5bkyxg2f</guid>
-<pubDate>Sat, 26 Sep 2026 05:40:48 +0000</pubDate>
-<description>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</description>
-<content:encoded><![CDATA[<p><img src="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" alt="" /></p><p>For decades, CPG software recorded the work but never did it, says Confido Cofounder and CEO Justin Hunter. Closing that gap between logging a problem and actually fixing it is what convinced 250+ CPG brands, from Dude Wipes to Unilever, to run their back office through Confido. The company just closed a $55M Series B led by Insight Partners, bringing total funding to $77M, on the back of 5x year-over-year growth. See what happens when finance, sales, and operations finally run on the same system.</p>]]></content:encoded>
-<media:content url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" medium="image" />
-<media:thumbnail url="https://www.alleywatch.com/wp-content/uploads/2026/09/confido_cpg-back-office-automation-ai-financial-operations-platform_funding.jpg" />
-</item>
-<item>
-<title>Russia has increased targeted strikes on Ukrainian data centers, disrupting internet access for ~100K Kyiv residents on Wednesday and Thursday (Christopher Miller/Financial Times)</title>
-<link>https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwfklxri4h2a</guid>
-<pubDate>Sat, 26 Sep 2026 05:31:08 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
