@@ -5,8 +5,188 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 30 Sep 2026 08:25:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 15:05:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)</title>
+<link>https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqlqqesvi2k</guid>
+<pubDate>Wed, 30 Sep 2026 14:50:58 +0000</pubDate>
+<description>Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.</description>
+<content:encoded><![CDATA[<p><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" alt="" /></p><p>Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.</p>]]></content:encoded>
+<media:content url="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" />
+</item>
+<item>
+<title>Instagram rolls out a conversational AI video editing assistant for Edits, its dedicated CapCut competitor, after an initial preview at a creator event in June (Amanda Silberling/TechCrunch)</title>
+<link>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqlhsadng2e</guid>
+<pubDate>Wed, 30 Sep 2026 14:45:59 +0000</pubDate>
+<description>This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" alt="" /></p><p>This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" />
+</item>
+<item>
+<title>The UK&#x27;s MI5 issues a rare espionage alert urging UK universities to cut ties with the China General Technology Research Institute, which funded AI research (Financial Times)</title>
+<link>https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqkvvzskf2k</guid>
+<pubDate>Wed, 30 Sep 2026 14:35:59 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information (New York Post)</title>
+<link>https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqjs3mprz2v</guid>
+<pubDate>Wed, 30 Sep 2026 14:15:56 +0000</pubDate>
+<description>FTC Chairman Andrew Ferguson launched the investigation before one of the AI models went rogue during a test — in what’s since been dubbed the “Hugging Face incident” — but the ag…</description>
+<content:encoded><![CDATA[<p><img src="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" alt="" /></p><p>FTC Chairman Andrew Ferguson launched the investigation before one of the AI models went rogue during a test — in what’s since been dubbed the “Hugging Face incident” — but the ag…</p>]]></content:encoded>
+<media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" medium="image" />
+<media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" />
+</item>
+<item>
+<title>Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform (Dave Lee/Bloomberg)</title>
+<link>https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqjjb5cxz2b</guid>
+<pubDate>Wed, 30 Sep 2026 14:11:00 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amazon says Fire TV now offers integrated live content from 40+ apps, like YouTube TV and DirecTV, and plans a Music app with podcasts and concerts in the fall (Mariella Moon/Engadget)</title>
+<link>https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqgqluoaj25</guid>
+<pubDate>Wed, 30 Sep 2026 13:21:25 +0000</pubDate>
+<description>The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" alt="" /></p><p>The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" />
+</item>
+<item>
+<title>Amazon unveils a faster, slimmer $60 Fire TV Stick 4K, simplifies its Fire TV Stick lineup, and plans to roll out an upgraded Alexa+ living room hub in November (Chris Welch/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqggsa6pf2y</guid>
+<pubDate>Wed, 30 Sep 2026 13:15:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>DoorDash unveils new retail partnerships to deliver clothing and footwear; Macy&#x27;s is listing products directly on the DoorDash app for two-hour delivery (Sarah Nassauer/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?st=znc4wz&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqg6czodo2h</guid>
+<pubDate>Wed, 30 Sep 2026 13:11:12 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>DoorDash opens US waitlists for an Apple Messages-integrated AI agent for ordering and a B2B API allowing assistants like Slack bots to execute bulk orders (Natalie Lung/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqfuth2el2b</guid>
+<pubDate>Wed, 30 Sep 2026 13:05:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely (The Information)</title>
+<link>https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqf2534ow2y</guid>
+<pubDate>Wed, 30 Sep 2026 12:50:57 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tinder rolls out Group Hangouts in select US markets, letting a user form a group of three to 15 friends around shared activities, as it courts younger users (Samantha Kelly/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-30/tinder-launches-group-hangouts-feature-to-take-the-pressure-off-first-dates</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqei6k7cm2b</guid>
+<pubDate>Wed, 30 Sep 2026 12:40:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Samsung Galaxy Tab S12 Ultra review: the new $1,400 tablet is an iPad Pro rival with a great OLED display, battery life, and performance, but it is pricey (Sam Rutherford/Engadget)</title>
+<link>https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqd3qrrkf2b</guid>
+<pubDate>Wed, 30 Sep 2026 12:16:04 +0000</pubDate>
+<description>Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that’s the price you’ll have to pay for the best Android tablet.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg" alt="" /></p><p>Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that’s the price you’ll have to pay for the best Android tablet.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg" />
+</item>
+<item>
+<title>Sources and filings: Situational Awareness lacked an investment risk team; after the sell-off, the SEC sent subpoenas to major banks about trades they financed (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html?unlocked_article_code=1.FFE.GiDS.LqjrTgU6TJAj&amp;smid=nytcore-android-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqakw6cjq2e</guid>
+<pubDate>Wed, 30 Sep 2026 11:30:52 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>GPU cloud provider GMI Cloud raised $668M, including $223M in equity led by ARCHIV with participation from Nvidia and $445M in credit led by Taiwanese bank CTBC (Phoebe Liu/The Information)</title>
+<link>https://www.theinformation.com/briefings/exclusive-gpu-cloud-provider-gmi-raises-668-million-nvidia-others</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq7hieuar2i</guid>
+<pubDate>Wed, 30 Sep 2026 11:11:03 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Documents: 20+ studies since 2025 show Chinese-powered AI agents displaying deceptive behavior, unprompted replication, and barrier circumvention in testing (Reuters)</title>
+<link>https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq6mdygpb2f</guid>
+<pubDate>Wed, 30 Sep 2026 10:55:53 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Pioneering Silicon Valley VC Bill Draper died on September 8 at age 98; he began investing in the 1960s, with successful bets like Activision, Skype, and Qume (Alex Williams/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq62mvseg2i</guid>
+<pubDate>Wed, 30 Sep 2026 10:45:58 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Apple is set to launch its smart home expansion on October 13, featuring a 6&quot; smart home hub with an iMac G4-inspired design and a HomePod mini refresh (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq5hhio742b</guid>
+<pubDate>Wed, 30 Sep 2026 10:35:15 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI and Anthropic-aligned super PACs have spent $55.7M on the US midterms so far; of 95 ads, all avoided reference to data centers and only some mentioned AI (New York Times)</title>
+<link>https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq4o3xkox2j</guid>
+<pubDate>Wed, 30 Sep 2026 10:21:04 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sam Altman says OpenAI will not pursue an IPO until it can make confident safety claims about its AI models, but waiting too long would be &quot;bad for the world&quot; (Hayden Field/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq3mb6eqa2a</guid>
+<pubDate>Wed, 30 Sep 2026 10:02:09 +0000</pubDate>
+<description>﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Sources: Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies (New York Times)</title>
+<link>https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwq2gmmh4e25</guid>
+<pubDate>Wed, 30 Sep 2026 09:41:05 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A book excerpt details the Sam Altman-Dario Amodei feud, and Greg Brockman and Ilya Sutskever&#x27;s 2017 plan to auction rights to OpenAI&#x27;s future AGI to countries (Kevin Roose/The Atlantic)</title>
+<link>https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/?gift=NBdGSmKfDQzLc1B6N1F-gR86rCuc-uApZuhS700CyK8&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwpwjdjmkc2b</guid>
+<pubDate>Wed, 30 Sep 2026 08:31:02 +0000</pubDate>
+<description>From www.theatlantic.com</description>
+<content:encoded><![CDATA[<p>From www.theatlantic.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Outmarket, which uses AI to help insurance agencies and brokers automate their tedious paperwork, raised a $34.5M Series B, a source says at a $335M valuation (Marina Temkin/TechCrunch)</title>
 <link>https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/</link>
@@ -706,194 +886,6 @@
 <pubDate>Mon, 28 Sep 2026 23:30:43 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Artificial Analysis&#x27; Intelligence Index: Sonnet 5.5 (max) ranks above GPT-6 Astra (max) and behind only Opus 5.5 (max) but has the highest token use of them all (Artificial Analysis)</title>
-<link>https://artificialanalysis.ai/articles/claude-sonnet-5-5</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmggqcbav2b</guid>
-<pubDate>Mon, 28 Sep 2026 23:05:15 +0000</pubDate>
-<description>Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Anthropic&#x27;s new Sonnet model scores 56, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we have measured</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/999ebbf1268783eb424dbfee102630eea457f176-1254x1254.png?w=1200&amp;auto=format" />
-</item>
-<item>
-<title>OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn&#x27;t quite meet its safety bar; it had been targeting an October release (Maxwell Zeff/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwmehkdybh2e</guid>
-<pubDate>Mon, 28 Sep 2026 22:29:55 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AMD agrees to acquire Fei-Fei Li&#x27;s World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm54affps2a</guid>
-<pubDate>Mon, 28 Sep 2026 20:18:19 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-28/blockchain-com-is-said-to-target-500-million-ipo-this-year</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm2yzqk5j2b</guid>
-<pubDate>Mon, 28 Sep 2026 19:40:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia&#x27;s $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwm267lvvv2b</guid>
-<pubDate>Mon, 28 Sep 2026 19:25:44 +0000</pubDate>
-<description>Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" alt="" /></p><p>Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlysknjys25</guid>
-<pubDate>Mon, 28 Sep 2026 19:01:20 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlvtfyln42v</guid>
-<pubDate>Mon, 28 Sep 2026 18:08:07 +0000</pubDate>
-<description>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</description>
-<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" alt="" /></p><p>Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.</p>]]></content:encoded>
-<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" medium="image" />
-<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg" />
-</item>
-<item>
-<title>Google says it will migrate Gems, which let users create custom versions of Gemini, to &quot;skills&quot;, starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)</title>
-<link>https://9to5google.com/2026/09/27/gemini-gems-skills/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlulvwbgt2b</guid>
-<pubDate>Mon, 28 Sep 2026 17:46:02 +0000</pubDate>
-<description>In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.”</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.”</p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Jensen Huang says AI model distillation is &quot;competition&quot;; Scott Bessent described it as &quot;theft&quot; in July and threatened sanctions against overseas companies (Kai Nicol-Schwarz/CNBC)</title>
-<link>https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlsmoqlry25</guid>
-<pubDate>Mon, 28 Sep 2026 17:10:40 +0000</pubDate>
-<description>Nvidia CEO Jensen Huang argued that AI model distillation is &quot;competition&quot;. U.S. Treasury Secretary Scott Bessent has called it &quot;theft.&quot;</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia CEO Jensen Huang argued that AI model distillation is &quot;competition&quot;. U.S. Treasury Secretary Scott Bessent has called it &quot;theft.&quot;</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>In simulated testing, GPT-6 Astra conducted unsanctioned supply-chain attacks, when prompted only to perform a cyber eval, more often than earlier OpenAI models (AI Security Institute)</title>
-<link>https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwloylvcdc2y</guid>
-<pubDate>Mon, 28 Sep 2026 16:05:45 +0000</pubDate>
-<description>Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" alt="" /></p><p>Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models</p>]]></content:encoded>
-<media:content url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" medium="image" />
-<media:thumbnail url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6aba84e46db07d709b7c886a_Copy%20of%20Metacard%20(18).png" />
-</item>
-<item>
-<title>Meta says MongoDB CEO Chirantan Desai will serve as Chief Enterprise Platform Officer; MongoDB appoints ex-CEO Dev Ittycheria as interim CEO (Harshita Mary Varghese/Reuters)</title>
-<link>https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlnvcqbi22y</guid>
-<pubDate>Mon, 28 Sep 2026 15:46:01 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)</title>
-<link>https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlkjkim7r2a</guid>
-<pubDate>Mon, 28 Sep 2026 14:45:45 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwljya54bb2y</guid>
-<pubDate>Mon, 28 Sep 2026 14:36:04 +0000</pubDate>
-<description>Modulate deploys its models to detect deepfake, fraud and scam</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" alt="" /></p><p>Modulate deploys its models to detect deepfake, fraud and scam</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675" />
-</item>
-<item>
-<title>An OpenAI agent security executive discusses the Hugging Face incident, OpenAI&#x27;s response, sandboxing improvements, alignment, &quot;reasonable paranoia&quot;, and more (Joe/@joedaroo)</title>
-<link>https://x.com/joedaroo/status/2104335929293127851</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwljfo6krx2a</guid>
-<pubDate>Mon, 28 Sep 2026 14:25:41 +0000</pubDate>
-<description>Its not just the f*cking sandbox</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" alt="" /></p><p>Its not just the f*cking sandbox</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/media/HTQTvrnbYAAVg_-?format=webp&amp;name=large" />
-</item>
-<item>
-<title>AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending &quot;intelligence explosion&quot; and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlitqe5j52v</guid>
-<pubDate>Mon, 28 Sep 2026 14:15:39 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)</title>
-<link>https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlicli7bw2v</guid>
-<pubDate>Mon, 28 Sep 2026 14:06:04 +0000</pubDate>
-<description>From apnews.com</description>
-<content:encoded><![CDATA[<p>From apnews.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia&#x27;s CUDA-based hardware (Kyt Dotson/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/09/28/physical-ai-custom-chip-producer-sima-ai-raises-150m-at-1-45b-valuation/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlgv43q752b</guid>
-<pubDate>Mon, 28 Sep 2026 13:40:38 +0000</pubDate>
-<description>Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" alt="" /></p><p>Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2025/05/A-computer-chip-with-a-brain-etched-into-the-surface-at-a-34-angle-with-a-multitude-of-nanowires-ex.jpeg" />
-</item>
-<item>
-<title>Quartermaster, which builds a SmartMast for ships to relay real-time maritime data, raised a $140M Series B, with $100M in equity, after a $43M Series A in May (Sean O&#x27;Kane/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlgdbiv2l2j</guid>
-<pubDate>Mon, 28 Sep 2026 13:30:39 +0000</pubDate>
-<description>The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" alt="" /></p><p>The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715" />
-</item>
-<item>
-<title>Cyber defense tech company RedLattice plans to go public via the Bold Eagle Acquisition Corp. SPAC, in a deal valuing RedLattice at ~$1.25B including debt (Liana Baker/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-28/defense-tech-firm-redlattice-to-merge-with-bold-eagle-spac</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwlfreh2hp2a</guid>
-<pubDate>Mon, 28 Sep 2026 13:20:38 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)</title>
-<link>https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwleb5ogjp2m</guid>
-<pubDate>Mon, 28 Sep 2026 12:53:41 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mark Zuckerberg unveils Meta Enterprise Platform, its &quot;next major pillar of our business&quot; to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it (Meghan Bobrowsky/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwldsqjpey2h</guid>
-<pubDate>Mon, 28 Sep 2026 12:45:37 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
