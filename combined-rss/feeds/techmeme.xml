@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 30 Sep 2026 23:37:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:24:37 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Matthias Bastian/The Decoder)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be0dfeac61ef169d1dd8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrrzv6xjv25</guid>
+<pubDate>Thu, 01 Oct 2026 02:16:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/" rel="related" type="text/html" />
+<description>Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" alt="" /></p><p>Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later.</p><p><a href="https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" medium="image" type="image/png" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" />
+<enclosure url="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Grindr agrees to acquire PurposeMed, owner of HIV-prevention telehealth provider Freddie, for $250M, its first major acquisition as it expands into a gay hub (Elias Schisgall/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/409bc0addbc9ded0995b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrpacyfei25</guid>
+<pubDate>Thu, 01 Oct 2026 01:26:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/grindr-agrees-to-buy-hiv-prevention-telehealth-provider-freddie-for-250-million-fa957bea" rel="related" type="text/html" />
+<description>The gay dating-app’s first major acquisition reflects a broader expansion into the healthcare business.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69529659%2Fsocial" alt="" /></p><p>The gay dating-app’s first major acquisition reflects a broader expansion into the healthcare business.</p><p><a href="https://www.wsj.com/business/grindr-agrees-to-buy-hiv-prevention-telehealth-provider-freddie-for-250-million-fa957bea">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69529659%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69529659%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69529659%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cd311859e25a34936431.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrmgwdydt2v</guid>
+<pubDate>Thu, 01 Oct 2026 00:36:03 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs" rel="related" type="text/html" />
+<description>Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices. Google is now back to being one of the top three labs in intelligence achieved</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices. Google is now back to being one of the top three labs in intelligence achieved</p><p><a href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" medium="image" type="image/png" />
+<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" />
+<enclosure url="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" type="image/png" length="0" />
+</item>
+<item>
+<title>California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/51001256b40337f7b0c4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrl2oejjx2v</guid>
+<pubDate>Thu, 01 Oct 2026 00:11:18 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html" rel="related" type="text/html" />
+<description>California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" alt="" /></p><p>California Governor Gavin Newsom has banned 'robo-bosses' from firing workers, the first U.S. state with such a law.</p><p><a href="https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4e3b9d9fba67bd6d67b0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrk7er3kt2j</guid>
+<pubDate>Wed, 30 Sep 2026 23:56:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/briefings/exclusive-metas-muse-tops-3-million-weekly-users" rel="related" type="text/html" />
+<description>Meta Platforms’ Muse now has more than 3 million users who give the AI agent at least one prompt a week, according to internal data reviewed by The Information, giving the product a sizable active audience just weeks after its launch. That figure is a subset of a broader group totaling more than 4 million who use the AI assistant in some way at least once a week, according to the figures.</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Meta Platforms’ Muse now has more than 3 million users who give the AI agent at least one prompt a week, according to internal data reviewed by The Information, giving the product a sizable active audience just weeks after its launch. That figure is a subset of a broader group totaling more than 4 million who use the AI assistant in some way at least once a week, according to the figures.</p><p><a href="https://www.theinformation.com/briefings/exclusive-metas-muse-tops-3-million-weekly-users">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
+<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a "distraction" at OpenAI (New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/19560833db92f74eb25a.html</link>
@@ -155,11 +225,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-30/stripe-visa-backed-consortium-launches-dollar-stablecoin" rel="related" type="text/html" />
-<description>Open Standard, a company backed by more than 100 corporations, including Visa Inc., Stripe Inc., and Mastercard Inc., issued a US dollar-pegged stablecoin on Wednesday, marking one of the more ambitio...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiScsNTf8JGq8%2Fv0%2F1200x800.jpg" alt="" /></p><p>Open Standard, a company backed by more than 100 corporations, including Visa Inc., Stripe Inc., and Mastercard Inc., issued a US dollar-pegged stablecoin on Wednesday, marking one of the more ambitio...</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-30/stripe-visa-backed-consortium-launches-dollar-stablecoin">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiScsNTf8JGq8%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiScsNTf8JGq8%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiScsNTf8JGq8%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+<description>Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers (Ben Weiss/Bloomberg)</description>
+<content:encoded><![CDATA[<p>Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers (Ben Weiss/Bloomberg)</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-30/stripe-visa-backed-consortium-launches-dollar-stablecoin">Open Original Article</a></p>]]></content:encoded>
 </item>
 <item>
 <title>Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering (Edward Ludlow/Bloomberg)</title>
@@ -506,10 +573,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home" rel="related" type="text/html" />
 <description>Apple Inc. plans to make its long-delayed push into the smart-home market on Oct. 13, marking a critical product expansion for the company under new Chief Executive Officer John Ternus.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQwYS19BNhac/v9/1200x800.jpg" alt="" /></p><p>Apple Inc. plans to make its long-delayed push into the smart-home market on Oct. 13, marking a critical product expansion for the company under new Chief Executive Officer John Ternus.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQwYS19BNhac/v9/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQwYS19BNhac/v9/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQwYS19BNhac/v9/1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQwYS19BNhac%2Fv9%2F1200x800.jpg" alt="" /></p><p>Apple Inc. plans to make its long-delayed push into the smart-home market on Oct. 13, marking a critical product expansion for the company under new Chief Executive Officer John Ternus.</p><p><a href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQwYS19BNhac%2Fv9%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQwYS19BNhac%2Fv9%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQwYS19BNhac%2Fv9%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>OpenAI and Anthropic-aligned super PACs have spent $55.7M on the US midterms so far; of 95 ads, all avoided reference to data centers and only some mentioned AI (New York Times)</title>
@@ -520,10 +587,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz" rel="related" type="text/html" />
 <description>See how groups aligned with Anthropic and OpenAI have funneled major money into the fight for control of Congress.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-largeHorizontalJumbo-v5.png" alt="" /></p><p>See how groups aligned with Anthropic and OpenAI have funneled major money into the fight for control of Congress.</p><p><a href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-largeHorizontalJumbo-v5.png" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-largeHorizontalJumbo-v5.png" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-largeHorizontalJumbo-v5.png" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-facebookJumbo-v6.png%3Fgift%3D1" alt="" /></p><p>See how groups aligned with Anthropic and OpenAI have funneled major money into the fight for control of Congress.</p><p><a href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-facebookJumbo-v6.png%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-facebookJumbo-v6.png%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2F2026-09-08-ai-candidates-index%2F2026-09-08-ai-candidates-index-facebookJumbo-v6.png%3Fgift%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sam Altman says OpenAI will not pursue an IPO until it can make confident safety claims about its AI models, but waiting too long would be "bad for the world" (Hayden Field/The Verge)</title>
@@ -776,76 +843,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTEAUPVXW2BOZRKEC43TQO2HSCM.jpg%3Fauth%3D9477a5ee7545c8018da772cd12937b502ac22d519a24c4565cf48528f4017d3f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTEAUPVXW2BOZRKEC43TQO2HSCM.jpg%3Fauth%3D9477a5ee7545c8018da772cd12937b502ac22d519a24c4565cf48528f4017d3f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTEAUPVXW2BOZRKEC43TQO2HSCM.jpg%3Fauth%3D9477a5ee7545c8018da772cd12937b502ac22d519a24c4565cf48528f4017d3f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9d8849c46b7c1b70a23e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwozhk77372e</guid>
-<pubDate>Tue, 29 Sep 2026 23:51:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/" rel="related" type="text/html" />
-<description>President Donald Trump released a document on Tuesday that his administration cast as an accord ​on artificial intelligence and which he said earlier was signed by ‌him and tech executives that he met...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7NRXMD47BMMJHFZF5TGUEVO2U.jpg%3Fauth%3Dfcf4e78ed3af75e261cc9ae2567223ae019f5f0a01f9743d3191a448c927ded4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>President Donald Trump released a document on Tuesday that his administration cast as an accord ​on artificial intelligence and which he said earlier was signed by ‌him and tech executives that he met...</p><p><a href="https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7NRXMD47BMMJHFZF5TGUEVO2U.jpg%3Fauth%3Dfcf4e78ed3af75e261cc9ae2567223ae019f5f0a01f9743d3191a448c927ded4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7NRXMD47BMMJHFZF5TGUEVO2U.jpg%3Fauth%3Dfcf4e78ed3af75e261cc9ae2567223ae019f5f0a01f9743d3191a448c927ded4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7NRXMD47BMMJHFZF5TGUEVO2U.jpg%3Fauth%3Dfcf4e78ed3af75e261cc9ae2567223ae019f5f0a01f9743d3191a448c927ded4%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a282104f05e19f4ad0e4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoxipokls2e</guid>
-<pubDate>Tue, 29 Sep 2026 23:15:55 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/" rel="related" type="text/html" />
-<description>Amazon Ads launches Full-Funnel Campaigns, DVA+ and expanded Amazon Ads Agent at its flagship ads conference Amazon UnBoxed</description>
-<content:encoded><![CDATA[<p><img src="https://digiday.com/wp-content/uploads/sites/3/2025/11/amazon-playbook-digiday.jpg" alt="" /></p><p>Amazon Ads launches Full-Funnel Campaigns, DVA+ and expanded Amazon Ads Agent at its flagship ads conference Amazon UnBoxed</p><p><a href="https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://digiday.com/wp-content/uploads/sites/3/2025/11/amazon-playbook-digiday.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://digiday.com/wp-content/uploads/sites/3/2025/11/amazon-playbook-digiday.jpg" />
-<enclosure url="https://digiday.com/wp-content/uploads/sites/3/2025/11/amazon-playbook-digiday.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training (Blake Brittain/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/06555b9c777c6873c9cf.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwowpwu6tq2v</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/" rel="related" type="text/html" />
-<description>A US appeals court on Tuesday upheld a ruling for information services company Thomson Reuters in ​its copyright dispute with former legal-research rival Ross Intelligence over Ross' alleged misuse of...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTRABIGIFYZLHVOQTKFY5PYDZPA.jpg%3Fauth%3Dcd9d577b6b4c7821a8611ee9c378367aeb54abcdf39b709773e7f7f9167caa4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A US appeals court on Tuesday upheld a ruling for information services company Thomson Reuters in ​its copyright dispute with former legal-research rival Ross Intelligence over Ross' alleged misuse of...</p><p><a href="https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTRABIGIFYZLHVOQTKFY5PYDZPA.jpg%3Fauth%3Dcd9d577b6b4c7821a8611ee9c378367aeb54abcdf39b709773e7f7f9167caa4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTRABIGIFYZLHVOQTKFY5PYDZPA.jpg%3Fauth%3Dcd9d577b6b4c7821a8611ee9c378367aeb54abcdf39b709773e7f7f9167caa4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTRABIGIFYZLHVOQTKFY5PYDZPA.jpg%3Fauth%3Dcd9d577b6b4c7821a8611ee9c378367aeb54abcdf39b709773e7f7f9167caa4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/db766134f4dc7ca6fa09.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwovkdkrao2a</guid>
-<pubDate>Tue, 29 Sep 2026 22:41:02 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/chip-startup-efficient-computer-raises-100-million-650-million-valuation-2026-09-29/" rel="related" type="text/html" />
-<description>Efficient Computer, a chip startup spun out ​of Carnegie Mellon University, on Tuesday said it has raised $97 million in ‌additional funding, bringing its valuation to $650 million.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Efficient Computer, a chip startup spun out ​of Carnegie Mellon University, on Tuesday said it has raised $97 million in ‌additional funding, bringing its valuation to $650 million.</p><p><a href="https://www.reuters.com/business/chip-startup-efficient-computer-raises-100-million-650-million-valuation-2026-09-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F466BJJQ7PVGY5O53NZ3KL65MHM.png%3Fauth%3Db9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse (Anthropic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/80e4ef842b12917f0321.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwovb5yd4f2m</guid>
-<pubDate>Tue, 29 Sep 2026 22:35:54 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities" rel="related" type="text/html" />
-<description>GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.</description>
-<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>GLM-5.3 can autonomously build end-to-end cyber exploits, but unlike other frontier models, it was released without meaningful safeguards to limit misuse.</p><p><a href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
-<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
