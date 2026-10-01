@@ -5,8 +5,54 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 30 Sep 2026 23:33:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:22:54 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Matthias Bastian/The Decoder)</title>
+<link>https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrrzv6xjv25</guid>
+<pubDate>Thu, 01 Oct 2026 02:16:08 +0000</pubDate>
+<description>Gemini 4 Argon is Google&#x27;s first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can&#x27;t keep up with Anthropic&#x27;s Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" alt="" /></p><p>Gemini 4 Argon is Google&#x27;s first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can&#x27;t keep up with Anthropic&#x27;s Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later.</p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" medium="image" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png" />
+</item>
+<item>
+<title>Grindr agrees to acquire PurposeMed, owner of HIV-prevention telehealth provider Freddie, for $250M, its first major acquisition as it expands into a gay hub (Elias Schisgall/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/grindr-agrees-to-buy-hiv-prevention-telehealth-provider-freddie-for-250-million-fa957bea</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrpacyfei25</guid>
+<pubDate>Thu, 01 Oct 2026 01:26:02 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)</title>
+<link>https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrmgwdydt2v</guid>
+<pubDate>Thu, 01 Oct 2026 00:36:03 +0000</pubDate>
+<description>Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices. Google is now back to being one of the top three labs in intelligence achieved</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices. Google is now back to being one of the top three labs in intelligence achieved</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ecc76a3d5df6cfea69339d37bf1cda4d2ce1cb86-1254x1254.png?w=1200&amp;auto=format" />
+</item>
+<item>
+<title>California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)</title>
+<link>https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrl2oejjx2v</guid>
+<pubDate>Thu, 01 Oct 2026 00:11:18 +0000</pubDate>
+<description>California Governor Gavin Newsom has banned &#x27;robo-bosses&#x27; from firing workers, the first U.S. state with such a law.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" alt="" /></p><p>California Governor Gavin Newsom has banned &#x27;robo-bosses&#x27; from firing workers, the first U.S. state with such a law.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Internal data: Meta&#x27;s Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)</title>
+<link>https://www.theinformation.com/briefings/exclusive-metas-muse-tops-3-million-weekly-users</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrk7er3kt2j</guid>
+<pubDate>Wed, 30 Sep 2026 23:56:02 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a &quot;distraction&quot; at OpenAI (New York Times)</title>
 <link>https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share</link>
@@ -844,48 +890,6 @@
 <content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/59a72cd2826be7e1e72f407ba3a515ec43697227/546_44_4210_3370/master/4210.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0c92b09e04de7a9aa71a1822d47b9589" alt="" /></p><p>Freedom of information request finds six-month trial cost £320,000, used almost 100 police hours and led to just one – incorrect – alert</p>]]></content:encoded>
 <media:content url="https://i.guim.co.uk/img/media/59a72cd2826be7e1e72f407ba3a515ec43697227/546_44_4210_3370/master/4210.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0c92b09e04de7a9aa71a1822d47b9589" medium="image" />
 <media:thumbnail url="https://i.guim.co.uk/img/media/59a72cd2826be7e1e72f407ba3a515ec43697227/546_44_4210_3370/master/4210.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0c92b09e04de7a9aa71a1822d47b9589" />
-</item>
-<item>
-<title>OpenAI is adopting a structured &quot;safety case&quot; documentation framework modeled after industries like aviation and nuclear power to govern frontier RL training (OpenAI)</title>
-<link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnpb2ixh52m</guid>
-<pubDate>Tue, 29 Sep 2026 11:15:48 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nvidia is in early-stage talks with insurance companies to structure risk-mitigation products to protect lenders against loan defaults by neoclouds (Financial Times)</title>
-<link>https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnoozm7gl2f</guid>
-<pubDate>Tue, 29 Sep 2026 11:05:43 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Censorship monitor EngelliWeb says X blocked nearly 500 accounts in Turkey, including those of journalists, economists, and academics, after court orders (Inci Ozbek/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnnuadthd2j</guid>
-<pubDate>Tue, 29 Sep 2026 10:50:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Shein reports Q2 revenue up 0.9% YoY to $11B and net income down 66% to $228M, in its first report since a Hong Kong IPO; its stock is ~30% below its IPO price (Tracy Qu/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/retail/sheins-earnings-disappoint-sending-stock-lower-6d3d9e62?st=kb2hX3&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnndoijfo2i</guid>
-<pubDate>Tue, 29 Sep 2026 10:41:29 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI reopens sign-ups for its $200/month Pro tier while halving the API credits provided per dollar to encourage pay-per-use, and removes the five-hour cap (Matthias Bastian/The Decoder)</title>
-<link>https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwnmj5ctgk2m</guid>
-<pubDate>Tue, 29 Sep 2026 10:26:38 +0000</pubDate>
-<description>OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI&#x27;s shift from subsidized flat-rate plans toward usage-based billing.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png" alt="" /></p><p>OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI&#x27;s shift from subsidized flat-rate plans toward usage-based billing.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png" />
 </item>
 </channel>
 </rss>
