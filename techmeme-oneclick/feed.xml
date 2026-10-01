@@ -5,8 +5,156 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 01 Oct 2026 09:14:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 16:30:06 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Memo: Ryan Roslansky, previously LinkedIn CEO who became Office and Teams head in 2025, is leaving after ~18 years at Microsoft, triggering an exec reshuffle (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtax5tvnt2t</guid>
+<pubDate>Thu, 01 Oct 2026 16:15:42 +0000</pubDate>
+<description>Ryan Roslansky is leaving after nearly 18 years at LinkedIn and Microsoft.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" alt="" /></p><p>Ryan Roslansky is leaving after nearly 18 years at LinkedIn and Microsoft.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" />
+</item>
+<item>
+<title>Sources: Anthropic has taken the unusual step of ending customers&#x27; discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations (Kevin McLaughlin/The Information)</title>
+<link>https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwta5m72b42h</guid>
+<pubDate>Thu, 01 Oct 2026 16:01:25 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Volantis, which aims to use vertical-cavity surface-emitting lasers, used in the iPhone&#x27;s Face ID, to transmit data between AI and memory chips, raised $88M (Stephen Nellis/Reuters)</title>
+<link>https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt7bnbrnr23</guid>
+<pubDate>Thu, 01 Oct 2026 15:45:46 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In a Q&amp;A, Trump discusses Dario Amodei&#x27;s views differing greatly from &quot;what is portrayed in the media&quot;, meetings with AI leaders, &quot;Super Intelligence&quot;, and more (Time)</title>
+<link>https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt5lu7zcl2h</guid>
+<pubDate>Thu, 01 Oct 2026 15:15:42 +0000</pubDate>
+<description>The U.S. President discussed the war in Iran, press freedom, AI, and more ahead of the midterm elections.</description>
+<content:encoded><![CDATA[<p><img src="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" alt="" /></p><p>The U.S. President discussed the war in Iran, press freedom, AI, and more ahead of the midterm elections.</p>]]></content:encoded>
+<media:content url="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" medium="image" />
+<media:thumbnail url="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" />
+</item>
+<item>
+<title>Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt47q7nuu2h</guid>
+<pubDate>Thu, 01 Oct 2026 14:51:01 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged (Adrian Diaconescu/PhoneArena)</title>
+<link>https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsxq5bttm2y</guid>
+<pubDate>Thu, 01 Oct 2026 13:30:43 +0000</pubDate>
+<description>From www.phonearena.com</description>
+<content:encoded><![CDATA[<p>From www.phonearena.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic&#x27;s $125.2B, five-year TPU lease commitment (Reuters)</title>
+<link>https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsx6btdue2u</guid>
+<pubDate>Thu, 01 Oct 2026 13:20:44 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote (Cameron Faulkner/The Verge)</title>
+<link>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwswmdf3gl2u</guid>
+<pubDate>Thu, 01 Oct 2026 13:10:41 +0000</pubDate>
+<description>You can get them with aluminum cases.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" alt="" /></p><p>You can get them with aluminum cases.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" />
+</item>
+<item>
+<title>A profile of Nubank founder David Vélez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US (Gabi Marques/Colossus)</title>
+<link>https://colossus.com/article/david-velez-nubank/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsvrjzc542q</guid>
+<pubDate>Thu, 01 Oct 2026 12:55:42 +0000</pubDate>
+<description>After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United St</description>
+<content:encoded><![CDATA[<p><img src="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" alt="" /></p><p>After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United St</p>]]></content:encoded>
+<media:content url="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" medium="image" />
+<media:thumbnail url="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" />
+</item>
+<item>
+<title>Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers&#x27; patents to sue Micron (Anton Shilov/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwssqhfzwh2j</guid>
+<pubDate>Thu, 01 Oct 2026 12:01:25 +0000</pubDate>
+<description>Some of YMTC&#x27;s patents can actually belong to Micron, the company alleges.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/rLdmamuAMwt9xYh95KDrTn-1600-80.jpg" alt="" /></p><p>Some of YMTC&#x27;s patents can actually belong to Micron, the company alleges.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/rLdmamuAMwt9xYh95KDrTn-1600-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rLdmamuAMwt9xYh95KDrTn-1600-80.jpg" />
+</item>
+<item>
+<title>Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation (Anzar Mehraj/Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/ai-cybersecurity-startup-armadin-valued-over-25-billion-after-new-funding-round-2026-10-01/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsrlferzc2u</guid>
+<pubDate>Thu, 01 Oct 2026 11:40:41 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth (David Yaffe-Bellany/New York Times)</title>
+<link>https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsp2vep3k2a</guid>
+<pubDate>Thu, 01 Oct 2026 10:55:40 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: EU regulators are questioning Binance over its use of a legal exemption to continue serving customers in the region despite failing to secure a license (Financial Times)</title>
+<link>https://www.ft.com/content/534b6887-63ac-49c7-a816-a81edd2e8de1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsoa46q7z25</guid>
+<pubDate>Thu, 01 Oct 2026 10:40:41 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with Paragon Solutions CEO Andrew Boyd, who says the US spyware maker lacks visibility into customer targeting data and has no &quot;kill switch&quot; (Kim Zetter/Wired)</title>
+<link>https://www.wired.com/story/the-secrets-of-the-us-spyware-king/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsnoawppm2a</guid>
+<pubDate>Thu, 01 Oct 2026 10:30:42 +0000</pubDate>
+<description>In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aba97561391d3eb891b72a2/191:100/w_1280,c_limit/Security_The%20Secret%20Truth%20of%20the%20US%E2%80%99s%20Most%20Transparent%20Spyware%20Maker_v1.jpg" alt="" /></p><p>In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6aba97561391d3eb891b72a2/191:100/w_1280,c_limit/Security_The%20Secret%20Truth%20of%20the%20US%E2%80%99s%20Most%20Transparent%20Spyware%20Maker_v1.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6aba97561391d3eb891b72a2/191:100/w_1280,c_limit/Security_The%20Secret%20Truth%20of%20the%20US%E2%80%99s%20Most%20Transparent%20Spyware%20Maker_v1.jpg" />
+</item>
+<item>
+<title>Google partners with talent agency Range Media to launch 100 Zeros, a rotating fund designed to shape positive onscreen depictions of tech and test AI tools (Brooks Barnes/New York Times)</title>
+<link>https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsmtv75a52j</guid>
+<pubDate>Thu, 01 Oct 2026 10:15:58 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028 (Financial Times)</title>
+<link>https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwslpgt2se2v</guid>
+<pubDate>Thu, 01 Oct 2026 09:55:34 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Huawei plans moderate smartphone price increases to counter an average $200 per-unit cost hike driven by rising memory component costs, and unveils new handsets (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-01/huawei-predicts-more-smartphone-price-hikes-due-to-memory-crunch</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwskus6oce2m</guid>
+<pubDate>Thu, 01 Oct 2026 09:40:40 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A profile of Xbox CEO Asha Sharma, who insists that &quot;Xbox is not for sale&quot; despite mass layoffs and divested studios since inheriting the flailing division (Zachary Small/New York Times)</title>
 <link>https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html?unlocked_article_code=1.FFE.3j4o.dae9CYU4odK1&amp;smid=url-share</link>
@@ -153,9 +301,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrl2oejjx2v</guid>
 <pubDate>Thu, 01 Oct 2026 00:11:18 +0000</pubDate>
 <description>California Governor Gavin Newsom has banned &#x27;robo-bosses&#x27; from firing workers, the first U.S. state with such a law.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" alt="" /></p><p>California Governor Gavin Newsom has banned &#x27;robo-bosses&#x27; from firing workers, the first U.S. state with such a law.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108364889-1789736603272-gettyimages-2228237243-AA_08082025_2362699.jpeg?v=1789736677&amp;w=1920&amp;h=1080" />
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108370992-1790860740700-gettyimages-2296055003-20090101260922-99-726740.jpeg?v=1790860853&amp;w=1920&amp;h=1080" alt="" /></p><p>California Governor Gavin Newsom has banned &#x27;robo-bosses&#x27; from firing workers, the first U.S. state with such a law.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108370992-1790860740700-gettyimages-2296055003-20090101260922-99-726740.jpeg?v=1790860853&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108370992-1790860740700-gettyimages-2296055003-20090101260922-99-726740.jpeg?v=1790860853&amp;w=1920&amp;h=1080" />
 </item>
 <item>
 <title>Internal data: Meta&#x27;s Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)</title>
@@ -207,9 +355,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrahrjati2k</guid>
 <pubDate>Wed, 30 Sep 2026 21:01:46 +0000</pubDate>
 <description>Micron is up over 500% in the past year as the company benefits from soaring AI demand.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&amp;w=1920&amp;h=1080" alt="" /></p><p>Micron is up over 500% in the past year as the company benefits from soaring AI demand.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790699202&amp;w=1920&amp;h=1080" />
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790862984&amp;w=1920&amp;h=1080" alt="" /></p><p>Micron is up over 500% in the past year as the company benefits from soaring AI demand.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790862984&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369539-1790699148394-gettyimages-2297196411-AFP_C9PF6K9.jpeg?v=1790862984&amp;w=1920&amp;h=1080" />
 </item>
 <item>
 <title>DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars (Luke Fountain/CNBC)</title>
@@ -730,162 +878,6 @@
 <pubDate>Tue, 29 Sep 2026 20:15:58 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)</title>
-<link>https://www.baseten.co/blog/baseten-openai-partnership/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwolzzad5o2m</guid>
-<pubDate>Tue, 29 Sep 2026 19:50:50 +0000</pubDate>
-<description>Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.</description>
-<content:encoded><![CDATA[<p><img src="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" alt="" /></p><p>Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.</p>]]></content:encoded>
-<media:content url="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" medium="image" />
-<media:thumbnail url="https://www.datocms-assets.com/104802/1790694227-full-color-logo-2.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200" />
-</item>
-<item>
-<title>Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&amp;smid=bs-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwokeiljda2a</guid>
-<pubDate>Tue, 29 Sep 2026 19:20:55 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-29/some-oura-ipo-investors-were-said-to-push-back-citing-valuation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoi6rc54e2a</guid>
-<pubDate>Tue, 29 Sep 2026 18:41:55 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI prices GPT-6.1 Sol at $2/1M input and $10/1M output tokens, the same as GPT-6 Sol and Claude Sonnet 5.5, and says it performs well on safety tests (Maximilian Schreiner/The Decoder)</title>
-<link>https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwohl4ucse2e</guid>
-<pubDate>Tue, 29 Sep 2026 18:30:56 +0000</pubDate>
-<description>OpenAI&#x27;s new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company&#x27;s own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" alt="" /></p><p>OpenAI&#x27;s new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company&#x27;s own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/09/gpt_61_sol.png" />
-</item>
-<item>
-<title>OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwohewyyyn25</guid>
-<pubDate>Tue, 29 Sep 2026 18:27:28 +0000</pubDate>
-<description>OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" alt="" /></p><p>OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690" />
-</item>
-<item>
-<title>General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $220M at a $6.2B valuation, for $650M+ in total funding (Dean Takahashi/GamesBeat)</title>
-<link>https://gamesbeat.com/general-intuition-raises-another-220m-at-6-2b-valuation-for-training-models-with-game-data/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwogq7cdiv2m</guid>
-<pubDate>Tue, 29 Sep 2026 18:15:52 +0000</pubDate>
-<description>General Intuition has raised another $220 million at a $6.2 billion valuation as the company starts making models available for training AI.</description>
-<content:encoded><![CDATA[<p><img src="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" alt="" /></p><p>General Intuition has raised another $220 million at a $6.2 billion valuation as the company starts making models available for training AI.</p>]]></content:encoded>
-<media:content url="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" medium="image" />
-<media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2025/10/general_intuition_banner.jpg" />
-</item>
-<item>
-<title>OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT (Paul Sawers/The New Stack)</title>
-<link>https://thenewstack.io/sign-in-with-chatgpt/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwogjdoueh2e</guid>
-<pubDate>Tue, 29 Sep 2026 18:12:02 +0000</pubDate>
-<description>ChatGPT subscribers can now easily use their plan allowance in Devin, Amp, Warp, OpenClaw, and other third-party tools.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" alt="" /></p><p>ChatGPT subscribers can now easily use their plan allowance in Devin, Amp, Warp, OpenClaw, and other third-party tools.</p>]]></content:encoded>
-<media:content url="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" medium="image" />
-<media:thumbnail url="https://cdn.thenewstack.io/media/2026/09/872fa997-feat.png" />
-</item>
-<item>
-<title>OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)</title>
-<link>https://thenewstack.io/openai-decision-api-luna/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwofe2xxs32b</guid>
-<pubDate>Tue, 29 Sep 2026 17:51:12 +0000</pubDate>
-<description>OpenAI&#x27;s Decision API, built on its small Luna model, returns predefined answers with confidence scores in 150 milliseconds. Pricing is still unknown.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" alt="" /></p><p>OpenAI&#x27;s Decision API, built on its small Luna model, returns predefined answers with confidence scores in 150 milliseconds. Pricing is still unknown.</p>]]></content:encoded>
-<media:content url="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" medium="image" />
-<media:thumbnail url="https://cdn.thenewstack.io/media/2026/09/8bc9597f-screenshot-2026-09-29-at-13.59.37.png" />
-</item>
-<item>
-<title>OpenAI announces ChatGPT Space, a collaborative workspace for users and ChatGPT and Dots, available on Pro, Business and Enterprise plans (Kris Holt/Engadget)</title>
-<link>https://www.engadget.com/2272248/chatgpt-space-for-work/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwof2mvxzl25</guid>
-<pubDate>Tue, 29 Sep 2026 17:45:55 +0000</pubDate>
-<description>ChatGPT is coming to Slack and Microsoft Teams too.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" alt="" /></p><p>ChatGPT is coming to Slack and Microsoft Teams too.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/chatgpt-space-for-work/l-intro-1790702303.jpg" />
-</item>
-<item>
-<title>Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDcwMzYzNiwiZXhwIjoxNzkxMzA4NDM2LCJhcnRpY2xlSWQiOiJUTTRTTFpLSzNOWUEwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.7HTfC-MuSDvHseE_-WELh_56bNEsYQo0SCqnHZoE0BE</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoewibkpc2v</guid>
-<pubDate>Tue, 29 Sep 2026 17:43:36 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says users can message Dots through ChatGPT, Slack, and Microsoft Teams and join a waitlist to text via iMessage or RCS messaging on Android (Reece Rogers/Wired)</title>
-<link>https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoeiofqho2k</guid>
-<pubDate>Tue, 29 Sep 2026 17:35:52 +0000</pubDate>
-<description>These cute agents are designed to connect to your apps and tackle multistep tasks.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" alt="" /></p><p>These cute agents are designed to connect to your apps and tackle multistep tasks.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6abbcee9422fade848ea964d/191:100/w_1280,c_limit/Dots%20Hero%20Image.png" />
-</item>
-<item>
-<title>OpenAI announces a $500/month Pro plan, offering its highest usage allowance and access to its new Ultrafast speed tier (Igor Bonifacic/Engadget)</title>
-<link>https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoech7d3x2v</guid>
-<pubDate>Tue, 29 Sep 2026 17:32:24 +0000</pubDate>
-<description>How long until every other AI company does the same?</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" alt="" /></p><p>How long until every other AI company does the same?</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/openai-adds-500-pro-subscription-nerfs-its-existing-200-tier/l-intro-1790697735.jpg" />
-</item>
-<item>
-<title>OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoe7pwzkh2y</guid>
-<pubDate>Tue, 29 Sep 2026 17:30:52 +0000</pubDate>
-<description>OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" alt="" /></p><p>OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" />
-</item>
-<item>
-<title>OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra&#x27;s standard prices, in Work and Codex (OpenAI)</title>
-<link>https://openai.com/index/introducing-gpt-6-1-sol/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwodty66l42a</guid>
-<pubDate>Tue, 29 Sep 2026 17:24:18 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI announces Dots, always-on agents powered by GPT-6 Astra with its own cloud computer, available in ChatGPT on web, mobile, and desktop to Pro users (Rachel Metz/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwodffqzy32b</guid>
-<pubDate>Tue, 29 Sep 2026 17:16:09 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI repeatedly dismissed internal warnings about inadequate monitoring of testing, prioritizing fast releases without additional security protocols (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwod5exmwv2b</guid>
-<pubDate>Tue, 29 Sep 2026 17:11:40 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A livestream of the OpenAI DevDay 2026 keynote (OpenAI on YouTube)</title>
-<link>https://www.youtube.com/watch?v=Fls_onRviPM</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwoclhrisj2k</guid>
-<pubDate>Tue, 29 Sep 2026 17:01:39 +0000</pubDate>
-<description>From www.youtube.com</description>
-<content:encoded><![CDATA[<p>From www.youtube.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
