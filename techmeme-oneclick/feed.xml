@@ -5,8 +5,74 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 02 Oct 2026 18:28:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:28:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Apple releases an update for iPhone 18 Pro Max devices on AT&amp;T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)</title>
+<link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwdd5pi5t2g</guid>
+<pubDate>Fri, 02 Oct 2026 21:36:11 +0000</pubDate>
+<description>Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular...</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5 (Karissa Bell/Engadget)</title>
+<link>https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwas244ql2w</guid>
+<pubDate>Fri, 02 Oct 2026 20:50:50 +0000</pubDate>
+<description>The company also created its own smart home device, the Muse Home Link</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" alt="" /></p><p>The company also created its own smart home device, the Muse Home Link</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" />
+</item>
+<item>
+<title>Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles (Ashley Gold/Semafor)</title>
+<link>https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww7fwu4kf2x</guid>
+<pubDate>Fri, 02 Oct 2026 20:26:10 +0000</pubDate>
+<description>“Unfortunately, the arrangement didn’t work out as planned,” a Meta spokesperson told Semafor.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>“Unfortunately, the arrangement didn’t work out as planned,” a Meta spokesperson told Semafor.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+</item>
+<item>
+<title>Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)</title>
+<link>https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww5zzpbo426</guid>
+<pubDate>Fri, 02 Oct 2026 20:01:36 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and &quot;we were at a trillion tokens per day about a week ago&quot; (Elias Schisgall/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww42lhrmw2n</guid>
+<pubDate>Fri, 02 Oct 2026 19:26:08 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tavus unveils Griffin, the &quot;first Human Interaction Model&quot;, which it says passed the &quot;video Turing test&quot;, with 48% of users thinking it was human in live chats (@tavus)</title>
+<link>https://x.com/tavus/status/2105704169009246248</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvztfisxd22</guid>
+<pubDate>Fri, 02 Oct 2026 18:46:19 +0000</pubDate>
+<description>Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA&#x27;s benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM).</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" alt="" /></p><p>Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA&#x27;s benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM).</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" />
+</item>
+<item>
+<title>Apple says it is adding additional controls around &quot;Full Disk Access&quot; on macOS as AI agents have increased &quot;the risks associated with this level of access&quot; (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvyxot2vg2x</guid>
+<pubDate>Fri, 02 Oct 2026 18:30:49 +0000</pubDate>
+<description>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" alt="" /></p><p>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" />
+</item>
 <item>
 <title>Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K Frontier Deployed Engineers by 2028, starting with Accenture, Bain, others (Anthropic)</title>
 <link>https://www.anthropic.com/news/claude-frontier-academy</link>
@@ -828,70 +894,6 @@
 <pubDate>Wed, 30 Sep 2026 15:15:56 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)</title>
-<link>https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqlqqesvi2k</guid>
-<pubDate>Wed, 30 Sep 2026 14:50:58 +0000</pubDate>
-<description>Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.</description>
-<content:encoded><![CDATA[<p><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" alt="" /></p><p>Mark Chen on what the firm is doing to make its models safe, how a slowdown would work, and why the world is better off with OpenAI in it.</p>]]></content:encoded>
-<media:content url="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26167311184201.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Instagram rolls out a conversational AI video editing assistant for Edits, its dedicated CapCut competitor, after an initial preview at a creator event in June (Amanda Silberling/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqlhsadng2e</guid>
-<pubDate>Wed, 30 Sep 2026 14:45:59 +0000</pubDate>
-<description>This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" alt="" /></p><p>This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801" />
-</item>
-<item>
-<title>The UK&#x27;s MI5 issues a rare espionage alert urging UK universities to cut ties with the China General Technology Research Institute, which funded AI research (Financial Times)</title>
-<link>https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqkvvzskf2k</guid>
-<pubDate>Wed, 30 Sep 2026 14:35:59 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information (New York Post)</title>
-<link>https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqjs3mprz2v</guid>
-<pubDate>Wed, 30 Sep 2026 14:15:56 +0000</pubDate>
-<description>FTC Chairman Andrew Ferguson launched the investigation before one of the AI models went rogue during a test — in what’s since been dubbed the “Hugging Face incident” — but the ag…</description>
-<content:encoded><![CDATA[<p><img src="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" alt="" /></p><p>FTC Chairman Andrew Ferguson launched the investigation before one of the AI models went rogue during a test — in what’s since been dubbed the “Hugging Face incident” — but the ag…</p>]]></content:encoded>
-<media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" medium="image" />
-<media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2026/09/143151024.jpg?quality=75&amp;strip=all&amp;w=1200" />
-</item>
-<item>
-<title>Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform (Dave Lee/Bloomberg)</title>
-<link>https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqjjb5cxz2b</guid>
-<pubDate>Wed, 30 Sep 2026 14:11:00 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon says Fire TV now offers integrated live content from 40+ apps, like YouTube TV and DirecTV, and plans a Music app with podcasts and concerts in the fall (Mariella Moon/Engadget)</title>
-<link>https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqgqluoaj25</guid>
-<pubDate>Wed, 30 Sep 2026 13:21:25 +0000</pubDate>
-<description>The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" alt="" /></p><p>The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg" />
-</item>
-<item>
-<title>Amazon unveils a faster, slimmer $60 Fire TV Stick 4K, simplifies its Fire TV Stick lineup, and plans to roll out an upgraded Alexa+ living room hub in November (Chris Welch/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqggsa6pf2y</guid>
-<pubDate>Wed, 30 Sep 2026 13:15:56 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
