@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 01 Oct 2026 21:15:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 00:51:26 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022-23; a median 55% still say it&#x27;s good (Pew Research Center)</title>
+<link>https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwu4mcvoeu2t</guid>
+<pubDate>Fri, 02 Oct 2026 00:30:43 +0000</pubDate>
+<description>Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics.</description>
+<content:encoded><![CDATA[<p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" alt="" /></p><p>Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics.</p>]]></content:encoded>
+<media:content url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" medium="image" />
+<media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" />
+</item>
+<item>
+<title>A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can&#x27;t fully contain agents (Matthew Green/A Few Thoughts ...)</title>
+<link>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtzb2wplx2n</guid>
+<pubDate>Thu, 01 Oct 2026 23:30:44 +0000</pubDate>
+<description>Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…</description>
+<content:encoded><![CDATA[<p><img src="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" alt="" /></p><p>Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…</p>]]></content:encoded>
+<media:content url="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" medium="image" />
+<media:thumbnail url="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" />
+</item>
+<item>
+<title>California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models (Jaspreet Singh/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtygf4xll2f</guid>
+<pubDate>Thu, 01 Oct 2026 23:15:49 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash (Microsoft AI)</title>
+<link>https://microsoft.ai/news/our-first-streaming-transcription-model/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtxmw3fdp2j</guid>
+<pubDate>Thu, 01 Oct 2026 23:01:34 +0000</pubDate>
+<description>From microsoft.ai</description>
+<content:encoded><![CDATA[<p><img src="https://microsoft.ai/wp-content/uploads/2026/10/voice_agents_header.webp" alt="" /></p><p>From microsoft.ai</p>]]></content:encoded>
+<media:content url="https://microsoft.ai/wp-content/uploads/2026/10/voice_agents_header.webp" medium="image" />
+<media:thumbnail url="https://microsoft.ai/wp-content/uploads/2026/10/voice_agents_header.webp" />
+</item>
+<item>
+<title>New Mexico asks a judge to order Meta to pay up to $40B after a jury found it willfully deceived customers, in what could be the biggest US court penalty ever (KRQE)</title>
+<link>https://www.krqe.com/news/new-mexico/new-mexico-court-to-rule-on-penalties-meta-faces-in-privacy-violation-case/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtwqnxxh32t</guid>
+<pubDate>Thu, 01 Oct 2026 22:45:46 +0000</pubDate>
+<description>From www.krqe.com</description>
+<content:encoded><![CDATA[<p>From www.krqe.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions (Amy Mackinnon/Financial Times)</title>
+<link>https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtw6t67me26</guid>
+<pubDate>Thu, 01 Oct 2026 22:35:48 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: some of the information that the three OpenAI employees allegedly mishandled pertained to OpenAI&#x27;s infrastructure architecture (Rachel Metz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwttx7vfxo26</guid>
+<pubDate>Thu, 01 Oct 2026 21:55:45 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Lyft agrees to pay $272.5M to settle California claims that it mislabeled drivers as independent contractors rather than employees between 2016 and 2020 (Daniel Wiessner/Reuters)</title>
+<link>https://www.reuters.com/business/lyft-will-pay-2725-million-settle-california-driver-wage-theft-claims-2026-10-01/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwttfcvquk2n</guid>
+<pubDate>Thu, 01 Oct 2026 21:45:45 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>OpenAI launches two ChatGPT shopping features: a virtual try-on tool for clothing and accessories, and a Favorites feature to save products to a user&#x27;s Library (Sarah Perez/TechCrunch)</title>
 <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
@@ -406,8 +476,10 @@
 <link>https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwriaqgk3z2a</guid>
 <pubDate>Wed, 30 Sep 2026 23:21:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/30/multimedia/30biz-openai-pac-mclh/30biz-openai-pac-mclh-facebookJumbo.jpg" alt="" /></p><p>Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/30/multimedia/30biz-openai-pac-mclh/30biz-openai-pac-mclh-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/30/multimedia/30biz-openai-pac-mclh/30biz-openai-pac-mclh-facebookJumbo.jpg" />
 </item>
 <item>
 <title>Sources: Trump&#x27;s AI accord grew out of a talk between Zuckerberg and House Speaker Mike Johnson; Zuckerberg circulated a draft, and Huang helped build support (Ashley Gold/Semafor)</title>
@@ -810,76 +882,6 @@
 <pubDate>Wed, 30 Sep 2026 05:25:57 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>US Health Secretary RFK Jr. says AI can offer &quot;a second opinion that is much better informed than any doctor in the country&quot; and &quot;free us from medical tyranny&quot; (Sheryl Gay Stolberg/New York Times)</title>
-<link>https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html?unlocked_article_code=1.FFE.fFTw.3NNOEp4UVzwd&amp;smid=bs-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwplvcria62f</guid>
-<pubDate>Wed, 30 Sep 2026 05:20:52 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>DeepSeek says it has partnered with Huawei to develop programming tools for Huawei&#x27;s Ascend chips, including TileLang, an open-source CUDA alternative (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwpkstz4n52b</guid>
-<pubDate>Wed, 30 Sep 2026 05:01:36 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple Pay launches in India, letting eligible Axis Bank Visa and Mastercard credit cardholders add their cards to Apple Wallet on iPhone, iPad, and Apple Watch (Dhruv Mohan/The Economic Times)</title>
-<link>https://economictimes.indiatimes.com/magazines/panache/apple-pay-launches-in-india-iphone-xr-and-later-supported-apple-pay-vp-jennifer-bailey-on-why-now/articleshow/134571017.cms</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwpk7s2tm22y</guid>
-<pubDate>Wed, 30 Sep 2026 04:50:56 +0000</pubDate>
-<description>Apple Pay has finally launched in India, more than a decade after its US debut. The service is initially available on iPhone, iPad and Apple Watch for eligible Axis Bank Visa and Mastercard credit cards, allowing users to make contactless payments and pay on apps and websites. Apple says it views Apple Pay as complementary to UPI, while highlighting convenience, privacy and security as key features.</description>
-<content:encoded><![CDATA[<p><img src="https://img.etimg.com/thumb/msid-134571059,width-1200,height-630,imgsize-58400,overlay-etpanache/articleshow.jpg" alt="" /></p><p>Apple Pay has finally launched in India, more than a decade after its US debut. The service is initially available on iPhone, iPad and Apple Watch for eligible Axis Bank Visa and Mastercard credit cards, allowing users to make contactless payments and pay on apps and websites. Apple says it views Apple Pay as complementary to UPI, while highlighting convenience, privacy and security as key features.</p>]]></content:encoded>
-<media:content url="https://img.etimg.com/thumb/msid-134571059,width-1200,height-630,imgsize-58400,overlay-etpanache/articleshow.jpg" medium="image" />
-<media:thumbnail url="https://img.etimg.com/thumb/msid-134571059,width-1200,height-630,imgsize-58400,overlay-etpanache/articleshow.jpg" />
-</item>
-<item>
-<title>A profile of Mariano-Florentino Cuéllar, Anthropic&#x27;s first global affairs chief, who had helped shape California&#x27;s first AI safety law in 2025 (Brandon Pho/Mission Local)</title>
-<link>https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwpglhvnba2m</guid>
-<pubDate>Wed, 30 Sep 2026 03:45:53 +0000</pubDate>
-<description>He was a California Supreme Court justice and Carnegie Endowment president. Now, Tino Cuéllar is Anthropic’s global face.</description>
-<content:encoded><![CDATA[<p><img src="https://missionlocal.org/wp-content/uploads/2026/09/Untitled-design-26.jpg" alt="" /></p><p>He was a California Supreme Court justice and Carnegie Endowment president. Now, Tino Cuéllar is Anthropic’s global face.</p>]]></content:encoded>
-<media:content url="https://missionlocal.org/wp-content/uploads/2026/09/Untitled-design-26.jpg" medium="image" />
-<media:thumbnail url="https://missionlocal.org/wp-content/uploads/2026/09/Untitled-design-26.jpg" />
-</item>
-<item>
-<title>A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber (Jeff John Roberts/Fortune)</title>
-<link>https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwpbkilnkh2a</guid>
-<pubDate>Wed, 30 Sep 2026 02:15:52 +0000</pubDate>
-<description>The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/Travis-Kalanick-social-image.jpg?resize=1200,600" alt="" /></p><p>The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Travis-Kalanick-social-image.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/Travis-Kalanick-social-image.jpg?resize=1200,600" />
-</item>
-<item>
-<title>An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI&#x27;s risks, the effects AI will have on jobs, and more (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html?unlocked_article_code=1.E1E._RE1.5q4j8Ds1se8H&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwp6j2as552e</guid>
-<pubDate>Wed, 30 Sep 2026 01:21:22 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwp3xq47rb2i</guid>
-<pubDate>Wed, 30 Sep 2026 00:35:54 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)</title>
-<link>https://www.reuters.com/legal/government/robinhood-allow-24-hour-weekend-trading-us-stocks-industry-shifts-wider-access-2026-09-29/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwp22kbpvh2b</guid>
-<pubDate>Wed, 30 Sep 2026 00:01:41 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
