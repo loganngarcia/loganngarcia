@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 16:11:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 19:16:13 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: ShinyHunters member Saif al-Din Khader, aka &quot;Rey,&quot; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach (Reuters)</title>
+<link>https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwydkxcqxy26</guid>
+<pubDate>Sat, 03 Oct 2026 16:45:52 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>YouTube says it is adjusting its Shorts recommendations to prioritize &quot;original content&quot; and reduce the reach of channels re-uploading others&#x27; content (Andrew Romero/9to5Google)</title>
 <link>https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/</link>
@@ -900,14 +908,6 @@
 <content:encoded><![CDATA[<p><img src="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The Meta CEO started thinking about what became the Tuesday White House pact during last week’s state dinner, a source familiar told Semafor.</p>]]></content:encoded>
 <media:content url="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
 <media:thumbnail url="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it&#x27;s important to be honest (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrevkqzqf2y</guid>
-<pubDate>Wed, 30 Sep 2026 22:21:04 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
