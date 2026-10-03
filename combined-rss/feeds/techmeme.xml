@@ -5,8 +5,106 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 01:21:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 06:49:57 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents (Robert McMillan/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/177053936697f23d18d7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxbi7qyfc2d</guid>
+<pubDate>Sat, 03 Oct 2026 06:35:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>Swarm chasers hunt for clues of bad behavior. Their work is our starkest understanding yet of what happens when AI goes wrong.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" alt="" /></p><p>Swarm chasers hunt for clues of bad behavior. Their work is our starkest understanding yet of what happens when AI goes wrong.</p><p><a href="https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture "frontline intelligence" (Mike Wheatley/SiliconANGLE)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c2d15f030b00bc668847.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx7cctg2k2u</guid>
+<pubDate>Sat, 03 Oct 2026 05:56:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/" rel="related" type="text/html" />
+<description>Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" alt="" /></p><p>Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" medium="image" type="image/png" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" />
+<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M (Meir Orbach/CTech)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/13cae3e696b3dcbdb94b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx6oqso6a2o</guid>
+<pubDate>Sat, 03 Oct 2026 05:45:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx" rel="related" type="text/html" />
+<description>The Israeli startup, which was founded by former Granulate executives and employs 17 people, built technology designed to reduce idle GPU capacity when AI demand changes.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" alt="" /></p><p>The Israeli startup, which was founded by former Granulate executives and employs 17 people, built technology designed to reduce idle GPU capacity when AI demand changes.</p><p><a href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" />
+<enclosure url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: TSMC is exploring plans to work with Elon Musk's Terafab project as it mulls a presence in Texas, adding to its existing plans to expand in Arizona (Tim Culpan/Culpium)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33c3017eea7f95364479.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx5txb2da2x</guid>
+<pubDate>Sat, 03 Oct 2026 05:30:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to" rel="related" type="text/html" />
+<description>[Exclusive] Taiwanese foundry giant may use Terafab as anchor client for a future Texas semiconductor factory</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" alt="" /></p><p>[Exclusive] Taiwanese foundry giant may use Terafab as anchor client for a future Texas semiconductor factory</p><p><a href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" />
+<enclosure url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M (Ram Iyer/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7c2570d9f8b665796f85.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx4ru4zpe22</guid>
+<pubDate>Sat, 03 Oct 2026 05:11:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/" rel="related" type="text/html" />
+<description>The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" alt="" /></p><p>The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.</p><p><a href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Onsemi revises its Synaptics acquisition to a ~$5.7B all-cash offer, down from the ~$7B all-stock deal announced in June, after Synaptics received another bid (Elias Schisgall/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/27072489495acc88c4a0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx3do6gxv2d</guid>
+<pubDate>Sat, 03 Oct 2026 04:45:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/deals/on-semicondcutor-to-buy-synaptics-for-cash-not-stock-in-downsized-deal-d2781e36?st=pFKYnf&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>ON Semiconductor said it will pay $123 a share for Synaptics, giving the deal a value of around $5.7 billion.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" alt="" /></p><p>ON Semiconductor said it will pay $123 a share for Synaptics, giving the deal a value of around $5.7 billion.</p><p><a href="https://www.wsj.com/business/deals/on-semicondcutor-to-buy-synaptics-for-cash-not-stock-in-downsized-deal-d2781e36?st=pFKYnf&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A US judge rules an officer's use of Flock to search a car's license plate was a form of "indiscriminate mass surveillance", and violated the Fourth Amendment (Jason Koebler/404 Media)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aa96827495cc51ab624b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwqzzddf22g</guid>
+<pubDate>Sat, 03 Oct 2026 01:41:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/" rel="related" type="text/html" />
+<description>Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" alt="" /></p><p>Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.</p><p><a href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" medium="image" type="image/png" />
+<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" />
+<enclosure url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" type="image/png" length="0" />
+</item>
 <item>
 <title>Supabase raised $150M led by Singapore's GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum (Maria Deutscher/SiliconANGLE)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be59b303ca39253ed5f3.html</link>
@@ -748,104 +846,6 @@
 <media:content url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
 <media:thumbnail url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
 <enclosure url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>Volantis, which aims to use vertical-cavity surface-emitting lasers, used in the iPhone's Face ID, to transmit data between AI and memory chips, raised $88M (Stephen Nellis/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2cf8646179324b730dc6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt7bnbrnr23</guid>
-<pubDate>Thu, 01 Oct 2026 15:45:46 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/" rel="related" type="text/html" />
-<description>San Francisco-based semiconductor startup Volantis on Thursday said it has raised $88 million in venture capital in an effort to solve a key challenge ​for AI chips by tapping a technology that is alr...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>San Francisco-based semiconductor startup Volantis on Thursday said it has raised $88 million in venture capital in an effort to solve a key challenge ​for AI chips by tapping a technology that is alr...</p><p><a href="https://www.reuters.com/business/volantis-raises-88-million-tech-connect-ai-memory-chips-2026-10-01/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>In a Q&amp;A, Trump discusses Dario Amodei's views differing greatly from "what is portrayed in the media", meetings with AI leaders, "Super Intelligence", and more (Time)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1959d02b074863dd31c0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt5lu7zcl2h</guid>
-<pubDate>Thu, 01 Oct 2026 15:15:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/" rel="related" type="text/html" />
-<description>The U.S. President discussed the war in Iran, press freedom, AI, and more ahead of the midterm elections.</description>
-<content:encoded><![CDATA[<p><img src="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" alt="" /></p><p>The U.S. President discussed the war in Iran, press freedom, AI, and more ahead of the midterm elections.</p><p><a href="https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" />
-<enclosure url="https://static.time.com/v3/assets/bltea6093859af6183b/blte01f158e081bde28/6abd8c0e0ce84a2787fa92c7/Winters_Time_Trump_12_v1_1.jpg?branch=production&amp;width=1800&amp;quality=75&amp;auto=webp&amp;crop=16:9" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z (Chris Metinko/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9fb61dfecd490c6fc697.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwt47q7nuu2h</guid>
-<pubDate>Thu, 01 Oct 2026 14:51:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking" rel="related" type="text/html" />
-<description>The startup's private agentic defined networking platform is launching into open beta.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Ft92XgSia7fzyvMgwvfkCCfeGzkE%3D%2F1366x768%2Fsmart%2F2024%2F02%2F29%2F195101-1709236261985.jpg" alt="" /></p><p>The startup's private agentic defined networking platform is launching into open beta.</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/01/doxxnet-a16z-lyon-networking">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Ft92XgSia7fzyvMgwvfkCCfeGzkE%3D%2F1366x768%2Fsmart%2F2024%2F02%2F29%2F195101-1709236261985.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Ft92XgSia7fzyvMgwvfkCCfeGzkE%3D%2F1366x768%2Fsmart%2F2024%2F02%2F29%2F195101-1709236261985.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Ft92XgSia7fzyvMgwvfkCCfeGzkE%3D%2F1366x768%2Fsmart%2F2024%2F02%2F29%2F195101-1709236261985.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged (Adrian Diaconescu/PhoneArena)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dda2bc883f18a801ae0f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsxq5bttm2y</guid>
-<pubDate>Thu, 01 Oct 2026 13:30:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747" rel="related" type="text/html" />
-<description>In line with recent rumors and expectations, the ultra-high-end Galaxy S26 trio has become more expensive than ever before in the US.</description>
-<content:encoded><![CDATA[<p><img src="https://m-cdn.phonearena.com/images/article/183747-wide-two_1200/Samsung-has-officially-increased-the-US-Galaxy-S26-S26-Plus-and-S26-Ultra-prices.jpg" alt="" /></p><p>In line with recent rumors and expectations, the ultra-high-end Galaxy S26 trio has become more expensive than ever before in the US.</p><p><a href="https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://m-cdn.phonearena.com/images/article/183747-wide-two_1200/Samsung-has-officially-increased-the-US-Galaxy-S26-S26-Plus-and-S26-Ultra-prices.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://m-cdn.phonearena.com/images/article/183747-wide-two_1200/Samsung-has-officially-increased-the-US-Galaxy-S26-S26-Plus-and-S26-Ultra-prices.jpg" />
-<enclosure url="https://m-cdn.phonearena.com/images/article/183747-wide-two_1200/Samsung-has-officially-increased-the-US-Galaxy-S26-S26-Plus-and-S26-Ultra-prices.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic's $125.2B, five-year TPU lease commitment (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e2451e80a1f843d71404.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsx6btdue2u</guid>
-<pubDate>Thu, 01 Oct 2026 13:20:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/" rel="related" type="text/html" />
-<description>Anthropic stands to become the largest ​customer in Broadcom’s chip design business next year.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLGWPGDELBFJ5NNDZN3HIGFLY7U.jpg%3Fauth%3D6b51c214bbe98814ba60390bdc968c9540e515de260bae1e2e555b9ec35254bc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic stands to become the largest ​customer in Broadcom’s chip design business next year.</p><p><a href="https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLGWPGDELBFJ5NNDZN3HIGFLY7U.jpg%3Fauth%3D6b51c214bbe98814ba60390bdc968c9540e515de260bae1e2e555b9ec35254bc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLGWPGDELBFJ5NNDZN3HIGFLY7U.jpg%3Fauth%3D6b51c214bbe98814ba60390bdc968c9540e515de260bae1e2e555b9ec35254bc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLGWPGDELBFJ5NNDZN3HIGFLY7U.jpg%3Fauth%3D6b51c214bbe98814ba60390bdc968c9540e515de260bae1e2e555b9ec35254bc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote (Cameron Faulkner/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bbadd8214e6cb9846d1b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwswmdf3gl2u</guid>
-<pubDate>Thu, 01 Oct 2026 13:10:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh" rel="related" type="text/html" />
-<description>You can get them with aluminum cases.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" alt="" /></p><p>You can get them with aluminum cases.</p><p><a href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011600.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Nubank founder David Vélez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US (Gabi Marques/Colossus)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0b972de7323701219c5e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsvrjzc542q</guid>
-<pubDate>Thu, 01 Oct 2026 12:55:42 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://colossus.com/article/david-velez-nubank/" rel="related" type="text/html" />
-<description>After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United St</description>
-<content:encoded><![CDATA[<p><img src="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" alt="" /></p><p>After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United St</p><p><a href="https://colossus.com/article/david-velez-nubank/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" medium="image" type="image/png" />
-<media:thumbnail url="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" />
-<enclosure url="https://colossus.com/wp-content/uploads/2026/09/Velez-preview-card.png" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
