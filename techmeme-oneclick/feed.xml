@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 19:16:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 22:10:45 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#x27; safety approaches; time for trial and error&#x27;s over (David Robinson/The Atlantic)</title>
+<link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwyq5rh72x22</guid>
+<pubDate>Sat, 03 Oct 2026 20:31:09 +0000</pubDate>
+<description>From www.theatlantic.com</description>
+<content:encoded><![CDATA[<p>From www.theatlantic.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: ShinyHunters member Saif al-Din Khader, aka &quot;Rey,&quot; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach (Reuters)</title>
 <link>https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/</link>
@@ -898,16 +906,6 @@
 <pubDate>Wed, 30 Sep 2026 23:21:00 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Trump&#x27;s AI accord grew out of a talk between Zuckerberg and House Speaker Mike Johnson; Zuckerberg circulated a draft, and Huang helped build support (Ashley Gold/Semafor)</title>
-<link>https://www.semafor.com/article/09/30/2026/how-zuckerberg-shaped-trumps-ai-industry-pledge</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwrgc33qaq2v</guid>
-<pubDate>Wed, 30 Sep 2026 22:45:58 +0000</pubDate>
-<description>The Meta CEO started thinking about what became the Tuesday White House pact during last week’s state dinner, a source familiar told Semafor.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The Meta CEO started thinking about what became the Tuesday White House pact during last week’s state dinner, a source familiar told Semafor.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/207f8cb38d2e1a658f6ecbcd51f1020e3e77fd40-1888x1361.jpg?rect=0,186,1888,991&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
 </item>
 </channel>
 </rss>
