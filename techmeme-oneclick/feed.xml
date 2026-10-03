@@ -5,8 +5,58 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 02 Oct 2026 22:28:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 01:20:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Supabase raised $150M led by Singapore&#x27;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum (Maria Deutscher/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwo7aaduo2g</guid>
+<pubDate>Sat, 03 Oct 2026 00:50:51 +0000</pubDate>
+<description>Database startup Supabase raises $150M, acquires Turso - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" alt="" /></p><p>Database startup Supabase raises $150M, acquires Turso - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" />
+</item>
+<item>
+<title>David Robinson, who worked on OpenAI&#x27;s Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)</title>
+<link>https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwl6hdq2f2l</guid>
+<pubDate>Fri, 02 Oct 2026 23:56:43 +0000</pubDate>
+<description>David Robinson, a leader on OpenAI&#x27;s Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI&#x27;s Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" />
+</item>
+<item>
+<title>Leaked Slack messages show OpenAI employees&#x27; pushback in June to Greg Brockman&#x27;s Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)</title>
+<link>https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwktwwsnr2s</guid>
+<pubDate>Fri, 02 Oct 2026 23:50:51 +0000</pubDate>
+<description>A set of internal Slack messages details the politics at one of the world’s most powerful AI companies.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>A set of internal Slack messages details the politics at one of the world’s most powerful AI companies.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+</item>
+<item>
+<title>Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)</title>
+<link>https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwj73r3za2x</guid>
+<pubDate>Fri, 02 Oct 2026 23:21:18 +0000</pubDate>
+<description>The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" alt="" /></p><p>The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" />
+</item>
+<item>
+<title>Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch (Michael Kan/PCMag)</title>
+<link>https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwi3n7yb622</guid>
+<pubDate>Fri, 02 Oct 2026 23:01:28 +0000</pubDate>
+<description>Despite lowering the memory, the 64GB DGX Spark models will start at $4,999, or $1,000 more than the 128GB version at launch.</description>
+<content:encoded><![CDATA[<p><img src="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" alt="" /></p><p>Despite lowering the memory, the 64GB DGX Spark models will start at $4,999, or $1,000 more than the 128GB version at launch.</p>]]></content:encoded>
+<media:content url="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" medium="image" />
+<media:thumbnail url="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" />
+</item>
 <item>
 <title>Apple releases an update for iPhone 18 Pro Max devices on AT&amp;T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)</title>
 <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
@@ -850,50 +900,6 @@
 <content:encoded><![CDATA[<p><img src="https://gamesbeat.com/wp-content/uploads/2026/09/CSCALE-WHITE-ON-BLACK-BACKGROUND-1200x675-1.jpg" alt="" /></p><p>CScale exited stealth today and announced $145 million in funding to accelerate development and commercialization of optical interconnect for gigawatt-scale AI.</p>]]></content:encoded>
 <media:content url="https://gamesbeat.com/wp-content/uploads/2026/09/CSCALE-WHITE-ON-BLACK-BACKGROUND-1200x675-1.jpg" medium="image" />
 <media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2026/09/CSCALE-WHITE-ON-BLACK-BACKGROUND-1200x675-1.jpg" />
-</item>
-<item>
-<title>Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)</title>
-<link>https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqqrroz5t2v</guid>
-<pubDate>Wed, 30 Sep 2026 16:21:02 +0000</pubDate>
-<description>Intended to help with biosecurity, it works with a popular AI protein design tool.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg" alt="" /></p><p>Intended to help with biosecurity, it works with a popular AI protein design tool.</p>]]></content:encoded>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg" medium="image" />
-<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg" />
-</item>
-<item>
-<title>Berlin-based Restate, which provides a durable execution engine to make software workflows resilient to crashes, raised a $20M Series A led by Singular (Marina Temkin/TechCrunch)</title>
-<link>https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqpwsla552v</guid>
-<pubDate>Wed, 30 Sep 2026 16:05:57 +0000</pubDate>
-<description>Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/06/founders.jpg?resize=1200,800" alt="" /></p><p>Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/06/founders.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/founders.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Alex Stamos is joining Cognition as its new chief security officer; he most recently oversaw security at AI security startup Corridor and SentinelOne (Sam Sabin/Axios)</title>
-<link>https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqppi4cyr2m</guid>
-<pubDate>Wed, 30 Sep 2026 16:01:51 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Metaview, which uses AI agents to automate recruiting workflows, raised a $60M Series C led by Insight Partners, bringing its total funding to $110M (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/09/30/agentic-recruiting-metaview-60m</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqngfdold2m</guid>
-<pubDate>Wed, 30 Sep 2026 15:20:59 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>ElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B (Tim Bradshaw/Financial Times)</title>
-<link>https://www.ft.com/content/08a71b38-d98c-472a-9576-e40ae2cfdf19</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwqn5ehgf52a</guid>
-<pubDate>Wed, 30 Sep 2026 15:15:56 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
