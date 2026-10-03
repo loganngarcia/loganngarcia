@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 06:49:57 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 12:06:53 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Center for Technology &amp; Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87324564b830b14ae1da.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxluriedz2w</guid>
+<pubDate>Sat, 03 Oct 2026 09:41:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban" rel="related" type="text/html" />
+<description>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" alt="" /></p><p>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</p><p><a href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" />
+<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents (Robert McMillan/Wall Street Journal)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/177053936697f23d18d7.html</link>
@@ -128,10 +142,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10" rel="related" type="text/html" />
 <description>David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</p><p><a href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" />
-<enclosure url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</p><p><a href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" />
+<enclosure url="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)</title>
@@ -449,11 +463,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china" rel="related" type="text/html" />
-<description>Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiThmVkxEydwA%2Fv1%2F1200x800.jpg" alt="" /></p><p>Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiThmVkxEydwA%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiThmVkxEydwA%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiThmVkxEydwA%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+<description>US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024 (Michael Shepard/Bloomberg)</description>
+<content:encoded><![CDATA[<p>US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024 (Michael Shepard/Bloomberg)</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china">Open Original Article</a></p>]]></content:encoded>
 </item>
 <item>
 <title>A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David's media ambitions (Vanity Fair)</title>
@@ -832,20 +843,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" />
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2179776852.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Anthropic has taken the unusual step of ending customers' discounts, which typically reach ~15%, once they hit the usage limits, forcing renegotiations (Kevin McLaughlin/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/722aa668df8ab9388448.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwta5m72b42h</guid>
-<pubDate>Thu, 01 Oct 2026 16:01:25 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending" rel="related" type="text/html" />
-<description>Anthropic is flexing its muscle with enterprise customers by taking a hard line on discounts once those customers use up all the tokens they purchased. That’s created an opening for OpenAI to take a more flexible approach. While both Anthropic and archrival OpenAI provide discounts to customers ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Anthropic is flexing its muscle with enterprise customers by taking a hard line on discounts once those customers use up all the tokens they purchased. That’s created an opening for OpenAI to take a more flexible approach. While both Anthropic and archrival OpenAI provide discounts to customers ...</p><p><a href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17891/77774c08-8e1c-4b40-ab06-02d3d5ad854b.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
