@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 06:49:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 12:05:37 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Center for Technology &amp; Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)</title>
+<link>https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxluriedz2w</guid>
+<pubDate>Sat, 03 Oct 2026 09:41:52 +0000</pubDate>
+<description>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" alt="" /></p><p>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</p>]]></content:encoded>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" medium="image" />
+<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" />
+</item>
 <item>
 <title>A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents (Robert McMillan/Wall Street Journal)</title>
 <link>https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&amp;reflink=desktopwebshare_permalink</link>
@@ -89,9 +99,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwl6hdq2f2l</guid>
 <pubDate>Fri, 02 Oct 2026 23:56:43 +0000</pubDate>
 <description>David Robinson, a leader on OpenAI&#x27;s Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI&#x27;s Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&amp;format=jpeg" />
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI&#x27;s Safety Systems team, has resigned from the company, a spokesperson told Business Insider.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6ac0e5d3eb7225411267df08?width=1200&amp;format=jpeg" />
 </item>
 <item>
 <title>Leaked Slack messages show OpenAI employees&#x27; pushback in June to Greg Brockman&#x27;s Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)</title>
@@ -898,14 +908,6 @@
 <content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&amp;w=1920&amp;h=1080" alt="" /></p><p>Pete Hegseth, in remarks about the state of the military, announced a project led by two GOP-supporting tech executives to examine military capabilities.</p>]]></content:encoded>
 <media:content url="https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&amp;w=1920&amp;h=1080" medium="image" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108370582-1790797704647-gettyimages-2297938762-aw1a0894_wl7p54w5.jpeg?v=1790798487&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Sources: some Google employees say Gemini 4 performs well on benchmarks but struggles with some real-world coding tasks; Google disputes that characterization (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwr6hwsyqt25</guid>
-<pubDate>Wed, 30 Sep 2026 20:26:04 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
