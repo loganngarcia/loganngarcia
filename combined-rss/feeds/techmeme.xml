@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 22:11:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:43:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: AI czar Jay Clayton to chair the WH's AI task force, called "Super Intelligence Force", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1867b3f9857d270f11b5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwz3vzkath2u</guid>
+<pubDate>Sun, 04 Oct 2026 00:01:34 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8" rel="related" type="text/html" />
+<description>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" alt="" /></p><p>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</p><p><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/590b9bb408120e201d43.html</link>
@@ -604,10 +618,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases" rel="related" type="text/html" />
 <description>The company’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihWY0jY4MG8w/v0/1200x600.jpg" alt="" /></p><p>The company’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.</p><p><a href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihWY0jY4MG8w/v0/1200x600.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihWY0jY4MG8w/v0/1200x600.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihWY0jY4MG8w/v0/1200x600.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihWY0jY4MG8w%2Fv0%2F1200x600.jpg" alt="" /></p><p>The company’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.</p><p><a href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihWY0jY4MG8w%2Fv0%2F1200x600.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihWY0jY4MG8w%2Fv0%2F1200x600.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihWY0jY4MG8w%2Fv0%2F1200x600.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)</title>
@@ -832,20 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZZRFTYSPUJMK5JD4VROZF47BUA.jpg%3Fauth%3D06c66fa203aedd427013d5cffdd05ff8f9f50003ae6300eada6f544aa0f73f51%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZZRFTYSPUJMK5JD4VROZF47BUA.jpg%3Fauth%3D06c66fa203aedd427013d5cffdd05ff8f9f50003ae6300eada6f544aa0f73f51%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZZRFTYSPUJMK5JD4VROZF47BUA.jpg%3Fauth%3D06c66fa203aedd427013d5cffdd05ff8f9f50003ae6300eada6f544aa0f73f51%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07915142963f55dcb939.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwthnu6oeq2e</guid>
-<pubDate>Thu, 01 Oct 2026 18:15:46 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second" rel="related" type="text/html" />
-<description>Amazon has produced a genuinely competitive Jev alternative whose strongest differentiation is not superior benchmark performance, but that it is open, self-hostable and reproducible.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6nPhWPeaiOYPjrPbqP15KT%2F50e3cb9087a5de6d49d4eaf3f4c6699c%2FBroken_Green_Rope_Releasing_Digital_Sparks.png%3Fw%3D800%26q%3D75" alt="" /></p><p>Amazon has produced a genuinely competitive Jev alternative whose strongest differentiation is not superior benchmark performance, but that it is open, self-hostable and reproducible.</p><p><a href="https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6nPhWPeaiOYPjrPbqP15KT%2F50e3cb9087a5de6d49d4eaf3f4c6699c%2FBroken_Green_Rope_Releasing_Digital_Sparks.png%3Fw%3D800%26q%3D75" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6nPhWPeaiOYPjrPbqP15KT%2F50e3cb9087a5de6d49d4eaf3f4c6699c%2FBroken_Green_Rope_Releasing_Digital_Sparks.png%3Fw%3D800%26q%3D75" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F6nPhWPeaiOYPjrPbqP15KT%2F50e3cb9087a5de6d49d4eaf3f4c6699c%2FBroken_Green_Rope_Releasing_Digital_Sparks.png%3Fw%3D800%26q%3D75" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
