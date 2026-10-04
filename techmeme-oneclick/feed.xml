@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 22:10:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:42:48 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: AI czar Jay Clayton to chair the WH&#x27;s AI task force, called &quot;Super Intelligence Force&quot;, to pen a report on AI&#x27;s risks and opportunities within 120 days (Alex Leary/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwz3vzkath2u</guid>
+<pubDate>Sun, 04 Oct 2026 00:01:34 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#x27; safety approaches; time for trial and error&#x27;s over (David Robinson/The Atlantic)</title>
 <link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</link>
@@ -898,14 +906,6 @@
 <pubDate>Wed, 30 Sep 2026 23:56:02 +0000</pubDate>
 <description>From www.theinformation.com</description>
 <content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a &quot;distraction&quot; at OpenAI (New York Times)</title>
-<link>https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwriaqgk3z2a</guid>
-<pubDate>Wed, 30 Sep 2026 23:21:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
