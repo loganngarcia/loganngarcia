@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 04 Oct 2026 17:04:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 20:07:06 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Extracted system prompts show Meta&#x27;s Muse compiles &quot;a page for every person in the user&#x27;s life&quot;, with facts, history, tips to improve relationships, and more (Wired)</title>
+<link>https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx35aearry2s</guid>
+<pubDate>Sun, 04 Oct 2026 19:30:34 +0000</pubDate>
+<description>Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/191:100/w_1280,c_limit/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg" alt="" /></p><p>Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/191:100/w_1280,c_limit/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/191:100/w_1280,c_limit/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg" />
+</item>
+<item>
+<title>Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages (Owen Dahlkamp/Politico)</title>
+<link>https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx33bsc5m622</guid>
+<pubDate>Sun, 04 Oct 2026 18:55:35 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&#x27;s push to replace &quot;artificial&quot; intelligence with &quot;super&quot; (Chandni Shah/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx2xwtrlo72x</guid>
+<pubDate>Sun, 04 Oct 2026 17:55:46 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank&#x27;s &quot;third-party infrastructure arm&quot; after SoftBank&#x27;s ~$4B takeover closed (Financial Times)</title>
 <link>https://app.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a</link>
@@ -850,8 +876,10 @@
 <link>https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&amp;smid=url-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwsmtv75a52j</guid>
 <pubDate>Thu, 01 Oct 2026 10:15:58 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/09/28/business/28biz-google-hollywood-02/28biz-google-hollywood-02-facebookJumbo.jpg" alt="" /></p><p>100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/09/28/business/28biz-google-hollywood-02/28biz-google-hollywood-02-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/09/28/business/28biz-google-hollywood-02/28biz-google-hollywood-02-facebookJumbo.jpg" />
 </item>
 <item>
 <title>Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028 (Financial Times)</title>
@@ -884,34 +912,6 @@
 <pubDate>Thu, 01 Oct 2026 06:31:00 +0000</pubDate>
 <description>From ig.ft.com</description>
 <content:encoded><![CDATA[<p>From ig.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY2018 to $11.48B in FY2026 as AI reshapes cybersecurity (Allie Garfinkle/Fortune)</title>
-<link>https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mws7q3wsoj2h</guid>
-<pubDate>Thu, 01 Oct 2026 06:21:12 +0000</pubDate>
-<description>Cybersecurity’s AI reckoning has arrived, and Arora has become a go-to advisor to CEOs.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/NEW_Nikesh_Arora.jpg?resize=1200,600" alt="" /></p><p>Cybersecurity’s AI reckoning has arrived, and Arora has become a go-to advisor to CEOs.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/09/NEW_Nikesh_Arora.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/NEW_Nikesh_Arora.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access (Claude)</title>
-<link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mws75s63wr2b</guid>
-<pubDate>Thu, 01 Oct 2026 06:10:57 +0000</pubDate>
-<description>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6abd4814ec76c56b4489bc80_og_claude-for-government-is-now-generally-available.jpg" alt="" /></p><p>Claude Code CLI and Claude for Microsoft 365 also now available in early access.</p>]]></content:encoded>
-<media:content url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6abd4814ec76c56b4489bc80_og_claude-for-government-is-now-generally-available.jpg" medium="image" />
-<media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6abd4814ec76c56b4489bc80_og_claude-for-government-is-now-generally-available.jpg" />
-</item>
-<item>
-<title>Analysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company (Financial Times)</title>
-<link>https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?accessToken=zwAAAaGOJ_IMkdOBf0D31KxD7tO-rxLPrAjGIQE.MEQCIHyyO0qR6b9ACpprarTcyyAwsspsOC940rQTXh3hfUXTAiBi4Fg1jdx-8OWRatJYjNuo5LCySJ6FOMiF6VOyQ_gw8g&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mws5ibqamd2j</guid>
-<pubDate>Thu, 01 Oct 2026 05:41:02 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
