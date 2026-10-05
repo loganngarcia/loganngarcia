@@ -5,8 +5,74 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 05 Oct 2026 17:12:04 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 23:11:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Analysis: Anthropic&#x27;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#x27;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)</title>
+<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5xabds2s2w</guid>
+<pubDate>Mon, 05 Oct 2026 22:21:07 +0000</pubDate>
+<description>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" alt="" /></p><p>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" />
+</item>
+<item>
+<title>SpaceX stock closes up 7.6% after Morgan Stanley called SPCX &quot;cheap&quot;, reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5rw7tx372x</guid>
+<pubDate>Mon, 05 Oct 2026 20:46:02 +0000</pubDate>
+<description>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company&#x27;s AI business and Starship progress.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" alt="" /></p><p>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company&#x27;s AI business and Starship progress.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5po52iti2d</guid>
+<pubDate>Mon, 05 Oct 2026 20:05:43 +0000</pubDate>
+<description>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" alt="" /></p><p>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" />
+</item>
+<item>
+<title>Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max (Semafor)</title>
+<link>https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ngntpeu2s</guid>
+<pubDate>Mon, 05 Oct 2026 19:25:44 +0000</pubDate>
+<description>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+</item>
+<item>
+<title>Sources: Meta and Microsoft are working to cut their employees&#x27; use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year (The Information)</title>
+<link>https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ke6h7id2m</guid>
+<pubDate>Mon, 05 Oct 2026 18:30:40 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5jsb7fj62x</guid>
+<pubDate>Mon, 05 Oct 2026 18:20:39 +0000</pubDate>
+<description>Ghost&#x27;s first product is Core, a personal computer designed specifically for AI agents that can take actions on a person&#x27;s behalf.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" alt="" /></p><p>Ghost&#x27;s first product is Core, a personal computer designed specifically for AI agents that can take actions on a person&#x27;s behalf.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" />
+</item>
+<item>
+<title>Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5i6wiwvu2o</guid>
+<pubDate>Mon, 05 Oct 2026 17:51:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)</title>
 <link>https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701</link>
@@ -836,72 +902,6 @@
 <pubDate>Fri, 02 Oct 2026 05:11:08 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)</title>
-<link>https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwulgdazgq23</guid>
-<pubDate>Fri, 02 Oct 2026 04:55:48 +0000</pubDate>
-<description>arXiv, and the scientific community at large, are facing a watershed moment. Scholarly publishing is currently changing at a rapid pace, and we are seeing a…</description>
-<content:encoded><![CDATA[<p><img src="https://blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png" alt="" /></p><p>arXiv, and the scientific community at large, are facing a watershed moment. Scholarly publishing is currently changing at a rapid pace, and we are seeing a…</p>]]></content:encoded>
-<media:content url="https://blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png" medium="image" />
-<media:thumbnail url="https://blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png" />
-</item>
-<item>
-<title>Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia&#x27;s due diligence (Mackenzie Hawkins/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwugpatd6k26</guid>
-<pubDate>Fri, 02 Oct 2026 03:31:19 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwudluqd622q</guid>
-<pubDate>Fri, 02 Oct 2026 02:35:44 +0000</pubDate>
-<description>Sure, it costs more, but it can handle images and video and it&#x27;s available on Hugging Face if you have the hardware horsepower to run it locally</description>
-<content:encoded><![CDATA[<p><img src="https://image.theregister.com/5300666.jpg?imageId=5300666&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>Sure, it costs more, but it can handle images and video and it&#x27;s available on Hugging Face if you have the hardware horsepower to run it locally</p>]]></content:encoded>
-<media:content url="https://image.theregister.com/5300666.jpg?imageId=5300666&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" />
-<media:thumbnail url="https://image.theregister.com/5300666.jpg?imageId=5300666&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
-</item>
-<item>
-<title>OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents (Arasu Kannagi Basil/Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwubedrlq72f</guid>
-<pubDate>Fri, 02 Oct 2026 01:55:44 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Jay Clayton will likely be the White House&#x27;s pick for AI czar, and he may remain in his current role as director of national intelligence (Jennifer Jacobs/CBS News)</title>
-<link>https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwu7y4liec2q</guid>
-<pubDate>Fri, 02 Oct 2026 01:31:00 +0000</pubDate>
-<description>Jay Clayton will likely be the White House&#x27;s pick for AI czar, and the Trump administration has been discussing having him remain in his current role as director of national intelligence, according to sources briefed on the matter.</description>
-<content:encoded><![CDATA[<p><img src="https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg" alt="" /></p><p>Jay Clayton will likely be the White House&#x27;s pick for AI czar, and the Trump administration has been discussing having him remain in his current role as director of national intelligence, according to sources briefed on the matter.</p>]]></content:encoded>
-<media:content url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg" medium="image" />
-<media:thumbnail url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/28/118763f4-f146-4f75-9b3a-e186a67b80b4/thumbnail/1200x630/4d2fcaf7b0eccc36f09674aad2ef54c9/gettyimages-2285627982.jpg" />
-</item>
-<item>
-<title>Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022-23; a median 55% still say it&#x27;s good (Pew Research Center)</title>
-<link>https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwu4mcvoeu2t</guid>
-<pubDate>Fri, 02 Oct 2026 00:30:43 +0000</pubDate>
-<description>Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics.</description>
-<content:encoded><![CDATA[<p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" alt="" /></p><p>Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics.</p>]]></content:encoded>
-<media:content url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" medium="image" />
-<media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.00_SocialMediaDem_featured@2x.png?w=1200&amp;h=628&amp;crop=1" />
-</item>
-<item>
-<title>A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can&#x27;t fully contain agents (Matthew Green/A Few Thoughts ...)</title>
-<link>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwtzb2wplx2n</guid>
-<pubDate>Thu, 01 Oct 2026 23:30:44 +0000</pubDate>
-<description>Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…</description>
-<content:encoded><![CDATA[<p><img src="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" alt="" /></p><p>Quick caveats: this is a post on AI safety, written by a cryptography professor. If that troubles you, you should read something else. I try hard not to work on AI (except when the topic occasional…</p>]]></content:encoded>
-<media:content url="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" medium="image" />
-<media:thumbnail url="https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/09/image-2.png?fit=1200%2C567&amp;ssl=1" />
 </item>
 </channel>
 </rss>
