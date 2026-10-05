@@ -5,8 +5,302 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 05 Oct 2026 08:17:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 17:13:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87bcb170ca863c988e88.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5e7zr2tb2d</guid>
+<pubDate>Mon, 05 Oct 2026 16:40:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701" rel="related" type="text/html" />
+<description>The agency floated a new "crypto asset market" exchange category but said it can't require crypto to trade on CFTC platforms without Congress.</description>
+<content:encoded><![CDATA[<p><img src="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg" alt="" /></p><p>The agency floated a new "crypto asset market" exchange category but said it can't require crypto to trade on CFTC platforms without Congress.</p><p><a href="https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg" />
+<enclosure url="https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2020/06/20200626_CFTC_-Daily.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8229594f8d090830db78.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5dnmjuas2n</guid>
+<pubDate>Mon, 05 Oct 2026 16:30:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bbc.com/news/articles/c5j9x9pr0240o" rel="related" type="text/html" />
+<description>It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.</description>
+<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" alt="" /></p><p>It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.</p><p><a href="https://www.bbc.com/news/articles/c5j9x9pr0240o">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" />
+<enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/78ad53815846c15cf660.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5d5jwswn2n</guid>
+<pubDate>Mon, 05 Oct 2026 16:21:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://openai.com/index/eu-text-provenance" rel="related" type="text/html" />
+<description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</p><p><a href="https://openai.com/index/eu-text-provenance">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" />
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
+</item>
+<item>
+<title>In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59757cf2fed3d6196d5f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5cki3yjb2g</guid>
+<pubDate>Mon, 05 Oct 2026 16:11:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE" rel="related" type="text/html" />
+<description>In a first-of-its-kind pilot, Nolla Health lets AI diagnose and issue prescriptions.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiykaRrgsLd2c%2Fv1%2F1200x800.jpg" alt="" /></p><p>In a first-of-its-kind pilot, Nolla Health lets AI diagnose and issue prescriptions.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiykaRrgsLd2c%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiykaRrgsLd2c%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiykaRrgsLd2c%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta, TikTok, and X challenge UK's Ofcom over the amount of info it is demanding under the Online Safety Act, saying it creates unprecedented regulatory burdens (Paul Sandle/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8ad2159332e5b38aa5a2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5anqp7nt2w</guid>
+<pubDate>Mon, 05 Oct 2026 15:37:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/litigation/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-2026-10-05/" rel="related" type="text/html" />
+<description>Meta , TikTok and X are challenging British regulator Ofcom over the amount of information it is demanding they provide under Britain's ​nascent online safety regime.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTAS5J5CXQ5JLNBOPUJ7DTM2LR4.jpg%3Fauth%3D4e7e54898ce12f3cccf32f063612e6e3cb20fc59828266fcb8ef9030e59a3282%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Meta , TikTok and X are challenging British regulator Ofcom over the amount of information it is demanding they provide under Britain's ​nascent online safety regime.</p><p><a href="https://www.reuters.com/legal/litigation/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-2026-10-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTAS5J5CXQ5JLNBOPUJ7DTM2LR4.jpg%3Fauth%3D4e7e54898ce12f3cccf32f063612e6e3cb20fc59828266fcb8ef9030e59a3282%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTAS5J5CXQ5JLNBOPUJ7DTM2LR4.jpg%3Fauth%3D4e7e54898ce12f3cccf32f063612e6e3cb20fc59828266fcb8ef9030e59a3282%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTAS5J5CXQ5JLNBOPUJ7DTM2LR4.jpg%3Fauth%3D4e7e54898ce12f3cccf32f063612e6e3cb20fc59828266fcb8ef9030e59a3282%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/248ba550e06972169ebf.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx54o2ojmu2x</guid>
+<pubDate>Mon, 05 Oct 2026 14:25:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="http://www.forbes.com/sites/zoyahasan/2026/10/05/fintech-unicorn-valon-hit-a-2-billion-valuation-to-bring-ai-to-americas-13-trillion-mortgage-market/" rel="related" type="text/html" />
+<description>The US mortgage market is massive, but its payment systems are antiquated and often analog. Valon Technologies has raised a $150 million Series D to build AI software to slash red tape, costs and cust...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac00479156ef5088352a0c6%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" alt="" /></p><p>The US mortgage market is massive, but its payment systems are antiquated and often analog. Valon Technologies has raised a $150 million Series D to build AI software to slash red tape, costs and cust...</p><p><a href="http://www.forbes.com/sites/zoyahasan/2026/10/05/fintech-unicorn-valon-hit-a-2-billion-valuation-to-bring-ai-to-americas-13-trillion-mortgage-market/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac00479156ef5088352a0c6%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac00479156ef5088352a0c6%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac00479156ef5088352a0c6%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Q&amp;A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/483ae86ef1f1473bf218.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx53t7qzph2u</guid>
+<pubDate>Mon, 05 Oct 2026 14:10:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html" rel="related" type="text/html" />
+<description>Exit interviews with defectors from OpenAI, Anthropic, and DeepMind.</description>
+<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" alt="" /></p><p>Exit interviews with defectors from OpenAI, Anthropic, and DeepMind.</p><p><a href="https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" />
+<enclosure url="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Nico Caprez, son-in-law to Jensen Huang, has rapidly ascended to become an Nvidia VP, serving as Huang's "consigliere" and main contact for neoclouds (Phoebe Liu/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/267803f502207848e802.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx52z3xnxn2w</guid>
+<pubDate>Mon, 05 Oct 2026 13:56:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives" rel="related" type="text/html" />
+<description>A little over a week ago, Madison Huang, a rising star at Nvidia and the daughter of its CEO, celebrated her wedding in Hawaii. Her husband? Nico Caprez, a former pro ski racer whom Madison helped recruit to Nvidia two and a half years ago. And he’s not just any employee. Caprez, 35, has quickly ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17934/5843dab2-ed97-4e65-ad34-d83d7fb0f6de.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>A little over a week ago, Madison Huang, a rising star at Nvidia and the daughter of its CEO, celebrated her wedding in Hawaii. Her husband? Nico Caprez, a former pro ski racer whom Madison helped recruit to Nvidia two and a half years ago. And he’s not just any employee. Caprez, 35, has quickly ...</p><p><a href="https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17934/5843dab2-ed97-4e65-ad34-d83d7fb0f6de.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17934/5843dab2-ed97-4e65-ad34-d83d7fb0f6de.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17934/5843dab2-ed97-4e65-ad34-d83d7fb0f6de.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises (Sean Michael Kerner/VentureBeat)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7dfc441de37ab2db4d6e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx525n5ko72s</guid>
+<pubDate>Mon, 05 Oct 2026 13:40:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory" rel="related" type="text/html" />
+<description>Credit: Image generated by VentureBeat with FLUX-2-Pro</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5SCZ0uahknJ9oTbPIsxmMh%2F1c1031d78bf35ebe6dc066b69ee393e7%2Fimage_of_ai_harnes_image.jpeg%3Fw%3D800%26q%3D75" alt="" /></p><p>Credit: Image generated by VentureBeat with FLUX-2-Pro</p><p><a href="https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5SCZ0uahknJ9oTbPIsxmMh%2F1c1031d78bf35ebe6dc066b69ee393e7%2Fimage_of_ai_harnes_image.jpeg%3Fw%3D800%26q%3D75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5SCZ0uahknJ9oTbPIsxmMh%2F1c1031d78bf35ebe6dc066b69ee393e7%2Fimage_of_ai_harnes_image.jpeg%3Fw%3D800%26q%3D75" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5SCZ0uahknJ9oTbPIsxmMh%2F1c1031d78bf35ebe6dc066b69ee393e7%2Fimage_of_ai_harnes_image.jpeg%3Fw%3D800%26q%3D75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>CTS: Chinese logic and memory chipmakers accumulated 343 ASML immersion DUV lithography scanners between 2012 and early 2026, many of which can make 7nm chips (Anton Shilov/Tom's Hardware)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/010a4c3f0b40352e2e8b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4zdg74pt2s</guid>
+<pubDate>Mon, 05 Oct 2026 13:26:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools" rel="related" type="text/html" />
+<description>China, apparently, has significant immersion DUV capability.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" alt="" /></p><p>China, apparently, has significant immersion DUV capability.</p><p><a href="https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" />
+<enclosure url="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Namespace, which provides cloud services and infrastructure for developers, raised a $42M Series B led by Scale and says it has 1,000+ customers (Chris Metinko/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9f5035d91acf883f4f30.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4yqsdedg2x</guid>
+<pubDate>Mon, 05 Oct 2026 13:15:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/05/developer-infrastructure-namespace-scale" rel="related" type="text/html" />
+<description>The company could look to raise again as revenue is ahead of current year-end projections.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP_plKSGCO8WpJVW_BWYh9Z8r_VQ%3D%2F1366x768%2Fsmart%2F2023%2F10%2F29%2F174436-1698601476270.jpg" alt="" /></p><p>The company could look to raise again as revenue is ahead of current year-end projections.</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/05/developer-infrastructure-namespace-scale">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP_plKSGCO8WpJVW_BWYh9Z8r_VQ%3D%2F1366x768%2Fsmart%2F2023%2F10%2F29%2F174436-1698601476270.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP_plKSGCO8WpJVW_BWYh9Z8r_VQ%3D%2F1366x768%2Fsmart%2F2023%2F10%2F29%2F174436-1698601476270.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP_plKSGCO8WpJVW_BWYh9Z8r_VQ%3D%2F1366x768%2Fsmart%2F2023%2F10%2F29%2F174436-1698601476270.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c5f526eed7062f5b27b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4wscaeyz2x</guid>
+<pubDate>Mon, 05 Oct 2026 12:40:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>Artificial-intelligence use is measured in tokens, but the models’ use of tokens at any given task can be unpredictable.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02347142%2Fsocial" alt="" /></p><p>Artificial-intelligence use is measured in tokens, but the models’ use of tokens at any given task can be unpredictable.</p><p><a href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02347142%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02347142%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02347142%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total (Kristine Owram/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b8c4bd1aaaa70d3ab4d0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4u2k7rwj2w</guid>
+<pubDate>Mon, 05 Oct 2026 11:51:34 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year" rel="related" type="text/html" />
+<description>AI brings a staggering new peak in wealth – and signs we just passed it.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWS_jfKafkJg%2Fv3%2F1200x750.png" alt="" /></p><p>AI brings a staggering new peak in wealth – and signs we just passed it.</p><p><a href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWS_jfKafkJg%2Fv3%2F1200x750.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWS_jfKafkJg%2Fv3%2F1200x750.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiWS_jfKafkJg%2Fv3%2F1200x750.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Q&amp;A with Sam Altman on President Trump, the midterms, extinction risk, Xi Jinping's state visit, self-policing vs. regulation, and Greg Brockman's donations (Vanity Fair)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f12f811952c4ffb50671.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4th3owqy22</guid>
+<pubDate>Mon, 05 Oct 2026 11:40:42 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2" rel="related" type="text/html" />
+<description>The OpenAI CEO discusses Donald Trump, the midterms, the real risk of extinction, Xi Jinping’s state visit, OpenAI president Greg Brockman’s political donations, and much more.</description>
+<content:encoded><![CDATA[<p><img src="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" alt="" /></p><p>The OpenAI CEO discusses Donald Trump, the midterms, the real risk of extinction, Xi Jinping’s state visit, OpenAI president Greg Brockman’s political donations, and much more.</p><p><a href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" medium="image" type="image/png" />
+<media:thumbnail url="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" />
+<enclosure url="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Q&amp;A with Sam Altman on his life, kids, rivalries, pronatalism, "prepping" for the apocalypse, new products, IPO plans, Luca Guadagnino's Artificial, and more (Vanity Fair)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f812f9e14b6136d31cae.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4sv2aqdz2d</guid>
+<pubDate>Mon, 05 Oct 2026 11:30:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1" rel="related" type="text/html" />
+<description>In a video interview, the OpenAI CEO discusses what he really thinks of Elon Musk and Mark Zuckerberg, ChatGPT and suicide prevention, being portrayed by Andrew Garfield, and having more children.</description>
+<content:encoded><![CDATA[<p><img src="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" alt="" /></p><p>In a video interview, the OpenAI CEO discusses what he really thinks of Elon Musk and Mark Zuckerberg, ChatGPT and suicide prevention, being portrayed by Andrew Garfield, and having more children.</p><p><a href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" />
+<enclosure url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Former Groq engineers file a lawsuit in Delaware against Groq, alleging the $20B "non-exclusive" acqui-hire deal with Nvidia in 2025 short-changed employees (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a7a60b5cdcb970792451.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4qwxfqzh2w</guid>
+<pubDate>Mon, 05 Oct 2026 10:55:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787" rel="related" type="text/html" />
+<description>Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60b05c0f-ab68-490f-ae8d-68f3f64de6e1.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction</p><p><a href="https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60b05c0f-ab68-490f-ae8d-68f3f64de6e1.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60b05c0f-ab68-490f-ae8d-68f3f64de6e1.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60b05c0f-ab68-490f-ae8d-68f3f64de6e1.jpg?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI says it will begin testing a new visual ad format in ChatGPT later this month in the US, displaying clearly labeled visual ads during image generation (Mayank Parmar/BleepingComputer)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1bad441fd92017abae4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4q3nroas2d</guid>
+<pubDate>Mon, 05 Oct 2026 10:40:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/" rel="related" type="text/html" />
+<description>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" alt="" /></p><p>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images.</p><p><a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" />
+<enclosure url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Munich-based RobCo, which makes robotic arms and automation software, sells $40M of shares at a $1B valuation, up from ~$500M after raising $100M in January (Ben Dummett/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fd6c400fc8fb43fd7c37.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4p23dqm72d</guid>
+<pubDate>Mon, 05 Oct 2026 10:21:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?st=yskaLT&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The German company aims to capitalize on growing demand for autonomous industrial robots.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47658087%2Fsocial" alt="" /></p><p>The German company aims to capitalize on growing demand for autonomous industrial robots.</p><p><a href="https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?st=yskaLT&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47658087%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47658087%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47658087%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The IWF says it assessed 6,310 AI-generated images that met the legal definition of CSAM in H1 2026, up 40% over the 4,500+ images assessed in all of 2025 (Dan Milmo/The Guardian)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c2269207bcca9528dc1d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4nv3xyza2w</guid>
+<pubDate>Mon, 05 Oct 2026 10:01:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material" rel="related" type="text/html" />
+<description>Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total</description>
+<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" alt="" /></p><p>Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total</p><p><a href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" />
+<enclosure url="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Huawei agrees to a multi-year patent licensing deal with Qualcomm covering AI, 5G, computing, and networking tech, its first 5G licensing deal with Qualcomm (Miyoung Kim/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8b9b6b07dd0b8b019d5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4mzazcvp2g</guid>
+<pubDate>Mon, 05 Oct 2026 09:45:35 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/" rel="related" type="text/html" />
+<description>China's Huawei Technologies (HWT.UL) said on Monday it had agreed a broad multi-year ​patent licence deal with Qualcomm covering ‌artificial intelligence, 5G, computing and networking technologies.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FURPKKIPEJ5PG5CGTGCTCD2BPDQ.jpg%3Fauth%3D47a50dd2035371f17145412cfd7681b80f2bc52139ce68e3e74d0393fe15d13b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>China's Huawei Technologies (HWT.UL) said on Monday it had agreed a broad multi-year ​patent licence deal with Qualcomm covering ‌artificial intelligence, 5G, computing and networking technologies.</p><p><a href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FURPKKIPEJ5PG5CGTGCTCD2BPDQ.jpg%3Fauth%3D47a50dd2035371f17145412cfd7681b80f2bc52139ce68e3e74d0393fe15d13b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FURPKKIPEJ5PG5CGTGCTCD2BPDQ.jpg%3Fauth%3D47a50dd2035371f17145412cfd7681b80f2bc52139ce68e3e74d0393fe15d13b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FURPKKIPEJ5PG5CGTGCTCD2BPDQ.jpg%3Fauth%3D47a50dd2035371f17145412cfd7681b80f2bc52139ce68e3e74d0393fe15d13b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more (Superintelligence)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1c2c30d26dbdfa72fc12.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4jo6wwd72s</guid>
+<pubDate>Mon, 05 Oct 2026 08:45:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai" rel="related" type="text/html" />
+<description>In a written interview with Superintelligence, Dr. Richard Ahlfeld, SVP of Physical AI at CoreWeave and founder of Monolith, explains why robots fail on the data they never saw and where synthetic data stops being credible. Interview by Kim Isenberg.</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" alt="" /></p><p>In a written interview with Superintelligence, Dr. Richard Ahlfeld, SVP of Physical AI at CoreWeave and founder of Monolith, explains why robots fail on the data they never saw and where synthetic data stops being credible. Interview by Kim Isenberg.</p><p><a href="https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at China's gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies (The Information)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/255d5ef1861f4aa63180.html</link>
@@ -138,8 +432,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E" rel="related" type="text/html" />
-<description>Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)</description>
-<content:encoded><![CDATA[<p>Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)</p><p><a href="https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E">Open Original Article</a></p>]]></content:encoded>
+<description>Google’s James Manyika says AI’s risks are real and regulation is necessary. But responsibility has to be shared across industry, government and society.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBcdieD5KZq0%2Fv0%2F-1x-1.png" alt="" /></p><p>Google’s James Manyika says AI’s risks are real and regulation is necessary. But responsibility has to be shared across industry, government and society.</p><p><a href="https://www.bloomberg.com/features/2026-james-manyika-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTA0MTMwOSwiZXhwIjoxNzkxNjQ2MTA5LCJhcnRpY2xlSWQiOiJUTTlLSzlSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.u-yRXj5OldEL8nTrVyxthWTvxQ8nek0go4FwVqRE75E">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBcdieD5KZq0%2Fv0%2F-1x-1.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBcdieD5KZq0%2Fv0%2F-1x-1.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBcdieD5KZq0%2Fv0%2F-1x-1.png" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)</title>
@@ -410,10 +707,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8" rel="related" type="text/html" />
 <description>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-16902807/social" alt="" /></p><p>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</p><p><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-16902807/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-16902807/social" />
-<enclosure url="https://images.wsj.net/im-16902807/social" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" alt="" /></p><p>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</p><p><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)</title>
@@ -526,300 +823,6 @@
 <media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" medium="image" type="image/png" />
 <media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" />
 <enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M (Meir Orbach/CTech)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/13cae3e696b3dcbdb94b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx6oqso6a2o</guid>
-<pubDate>Sat, 03 Oct 2026 05:45:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx" rel="related" type="text/html" />
-<description>The Israeli startup, which was founded by former Granulate executives and employs 17 people, built technology designed to reduce idle GPU capacity when AI demand changes.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" alt="" /></p><p>The Israeli startup, which was founded by former Granulate executives and employs 17 people, built technology designed to reduce idle GPU capacity when AI demand changes.</p><p><a href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" />
-<enclosure url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_26_1280_721_0_large.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: TSMC is exploring plans to work with Elon Musk's Terafab project as it mulls a presence in Texas, adding to its existing plans to expand in Arizona (Tim Culpan/Culpium)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33c3017eea7f95364479.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx5txb2da2x</guid>
-<pubDate>Sat, 03 Oct 2026 05:30:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to" rel="related" type="text/html" />
-<description>[Exclusive] Taiwanese foundry giant may use Terafab as anchor client for a future Texas semiconductor factory</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" alt="" /></p><p>[Exclusive] Taiwanese foundry giant may use Terafab as anchor client for a future Texas semiconductor factory</p><p><a href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!5qrz!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99b9811a-135b-44db-9060-84c078db2afb_2705x1507.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M (Ram Iyer/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7c2570d9f8b665796f85.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx4ru4zpe22</guid>
-<pubDate>Sat, 03 Oct 2026 05:11:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/" rel="related" type="text/html" />
-<description>The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" alt="" /></p><p>The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.</p><p><a href="https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Onsemi revises its Synaptics acquisition to a ~$5.7B all-cash offer, down from the ~$7B all-stock deal announced in June, after Synaptics received another bid (Elias Schisgall/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/27072489495acc88c4a0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx3do6gxv2d</guid>
-<pubDate>Sat, 03 Oct 2026 04:45:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/business/deals/on-semicondcutor-to-buy-synaptics-for-cash-not-stock-in-downsized-deal-d2781e36?st=pFKYnf&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>ON Semiconductor said it will pay $123 a share for Synaptics, giving the deal a value of around $5.7 billion.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" alt="" /></p><p>ON Semiconductor said it will pay $123 a share for Synaptics, giving the deal a value of around $5.7 billion.</p><p><a href="https://www.wsj.com/business/deals/on-semicondcutor-to-buy-synaptics-for-cash-not-stock-in-downsized-deal-d2781e36?st=pFKYnf&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-93125146%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A US judge rules an officer's use of Flock to search a car's license plate was a form of "indiscriminate mass surveillance", and violated the Fourth Amendment (Jason Koebler/404 Media)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aa96827495cc51ab624b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwqzzddf22g</guid>
-<pubDate>Sat, 03 Oct 2026 01:41:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/" rel="related" type="text/html" />
-<description>Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" alt="" /></p><p>Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.</p><p><a href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" medium="image" type="image/png" />
-<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" />
-<enclosure url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-02-at-1.45.34-PM@2x.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Supabase raised $150M led by Singapore's GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum (Maria Deutscher/SiliconANGLE)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be59b303ca39253ed5f3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwo7aaduo2g</guid>
-<pubDate>Sat, 03 Oct 2026 00:50:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/" rel="related" type="text/html" />
-<description>Database startup Supabase raises $150M, acquires Turso - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" alt="" /></p><p>Database startup Supabase raises $150M, acquires Turso - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" medium="image" type="image/png" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" />
-<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Supabase.png" type="image/png" length="0" />
-</item>
-<item>
-<title>David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4750dadd29cc9a6aacfa.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwl6hdq2f2l</guid>
-<pubDate>Fri, 02 Oct 2026 23:56:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10" rel="related" type="text/html" />
-<description>David Robinson, a leader on OpenAI's Safety Systems team, says the company's culture is broken</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac10cced15f8a572974dfae?width=1200&amp;format=jpeg" alt="" /></p><p>David Robinson, a leader on OpenAI's Safety Systems team, says the company's culture is broken</p><p><a href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ac10cced15f8a572974dfae?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://i.insider.com/6ac10cced15f8a572974dfae?width=1200&amp;format=jpeg" />
-<enclosure url="https://i.insider.com/6ac10cced15f8a572974dfae?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ae920b389c547f10da5e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwktwwsnr2s</guid>
-<pubDate>Fri, 02 Oct 2026 23:50:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down" rel="related" type="text/html" />
-<description>A set of internal Slack messages details the politics at one of the world’s most powerful AI companies.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>A set of internal Slack messages details the politics at one of the world’s most powerful AI companies.</p><p><a href="https://www.semafor.com/article/10/02/2026/how-employees-forced-openais-president-to-back-down">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-<enclosure url="https://img.semafor.com/fd4dec17882358fb8440e420dc41bf07945abda7-3573x2383.jpg?rect=0,254,3573,1876&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f46fec459fb8ca8c372e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwj73r3za2x</guid>
-<pubDate>Fri, 02 Oct 2026 23:21:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/" rel="related" type="text/html" />
-<description>The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" alt="" /></p><p>The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.</p><p><a href="https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" />
-<enclosure url="https://media.wired.com/photos/6abf96a21c08425a2aa5099d/191:100/w_1280,c_limit/GettyImages-2286465910.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch (Michael Kan/PCMag)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1632252c2a7967f03d0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwi3n7yb622</guid>
-<pubDate>Fri, 02 Oct 2026 23:01:28 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999" rel="related" type="text/html" />
-<description>Despite lowering the memory, the 64GB DGX Spark models will start at $4,999, or $1,000 more than the 128GB version at launch.</description>
-<content:encoded><![CDATA[<p><img src="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" alt="" /></p><p>Despite lowering the memory, the 64GB DGX Spark models will start at $4,999, or $1,000 more than the 128GB version at launch.</p><p><a href="https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" />
-<enclosure url="https://i.pcmag.com/imagery/articles/07lgkSHJCttNrZZa2gQdMlu-1.fit_lim.size_1200x630.v1790948388.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple releases an update for iPhone 18 Pro Max devices on AT&amp;T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/81524b21de5f18251dcd.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwdd5pi5t2g</guid>
-<pubDate>Fri, 02 Oct 2026 21:36:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/" rel="related" type="text/html" />
-<description>Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular...</p><p><a href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta announces Muse Gadgets, providing an open source ESP32 microchip firmware and a Linux SDK to let users bring Muse to their hardware, like Raspberry Pi 5 (Karissa Bell/Engadget)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/866452a048073069efa8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwwas244ql2w</guid>
-<pubDate>Fri, 02 Oct 2026 20:50:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/" rel="related" type="text/html" />
-<description>The company also created its own smart home device, the Muse Home Link</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" alt="" /></p><p>The company also created its own smart home device, the Muse Home Link</p><p><a href="https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" />
-<enclosure url="https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta says it is letting go of employees it hired from AI safety startup Virtue AI four months after they joined the company, citing clashing work styles (Ashley Gold/Semafor)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac1ba37d118e153bd933.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww7fwu4kf2x</guid>
-<pubDate>Fri, 02 Oct 2026 20:26:10 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai" rel="related" type="text/html" />
-<description>“Unfortunately, the arrangement didn’t work out as planned,” a Meta spokesperson told Semafor.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>“Unfortunately, the arrangement didn’t work out as planned,” a Meta spokesperson told Semafor.</p><p><a href="https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-<enclosure url="https://img.semafor.com/4fd6d7a1e134059d456b5f57c5a274fe87d7708d-6500x4335.jpg?rect=0,462,6500,3413&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/452a1fe6aaabe536e636.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww5zzpbo426</guid>
-<pubDate>Fri, 02 Oct 2026 20:01:36 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt" rel="related" type="text/html" />
-<description>"This is about combat readiness to destroy the enemy and ensure our Army never enters a fair fight."</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSVXmn2r9g4JcWe9bwzkvFRCnSLg%3D%2F0x483%3A7794x4867%2F1366x768%2F2026%2F10%2F02%2F1790950770601.jpeg" alt="" /></p><p>"This is about combat readiness to destroy the enemy and ensure our Army never enters a fair fight."</p><p><a href="https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSVXmn2r9g4JcWe9bwzkvFRCnSLg%3D%2F0x483%3A7794x4867%2F1366x768%2F2026%2F10%2F02%2F1790950770601.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSVXmn2r9g4JcWe9bwzkvFRCnSLg%3D%2F0x483%3A7794x4867%2F1366x768%2F2026%2F10%2F02%2F1790950770601.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSVXmn2r9g4JcWe9bwzkvFRCnSLg%3D%2F0x483%3A7794x4867%2F1366x768%2F2026%2F10%2F02%2F1790950770601.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and "we were at a trillion tokens per day about a week ago" (Elias Schisgall/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d0b52965cd2d39d9f2ef.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mww42lhrmw2n</guid>
-<pubDate>Fri, 02 Oct 2026 19:26:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d" rel="related" type="text/html" />
-<description>A three-week-old artificial-intelligence model called Jev has set Silicon Valley circles abuzz with discussions around alternatives to large language models, and is already sparking copycats.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97622213%2Fsocial" alt="" /></p><p>A three-week-old artificial-intelligence model called Jev has set Silicon Valley circles abuzz with discussions around alternatives to large language models, and is already sparking copycats.</p><p><a href="https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97622213%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97622213%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97622213%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Tavus unveils Griffin, the "first Human Interaction Model", which it says passed the "video Turing test", with 48% of users thinking it was human in live chats (@tavus)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b559126db9bb2ae25f2a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvztfisxd22</guid>
-<pubDate>Fri, 02 Oct 2026 18:46:19 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://x.com/tavus/status/2105704169009246248" rel="related" type="text/html" />
-<description>Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM).</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" alt="" /></p><p>Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate &lt;3%. It is #1 on NVIDIA's benchmark for full-duplex AI video. It’s the first Human Interaction Model (HIM).</p><p><a href="https://x.com/tavus/status/2105704169009246248">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" />
-<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB?format=webp&amp;name=large" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple says it is adding additional controls around "Full Disk Access" on macOS as AI agents have increased "the risks associated with this level of access" (Sarah Perez/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8931b830d8ddf5c9c353.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvyxot2vg2x</guid>
-<pubDate>Fri, 02 Oct 2026 18:30:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/" rel="related" type="text/html" />
-<description>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" alt="" /></p><p>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</p><p><a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K Frontier Deployed Engineers by 2028, starting with Accenture, Bain, others (Anthropic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9f2dde650fe4660cd91f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvxda2lc222</guid>
-<pubDate>Fri, 02 Oct 2026 18:01:29 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.anthropic.com/news/claude-frontier-academy" rel="related" type="text/html" />
-<description>Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.</description>
-<content:encoded><![CDATA[<p><img src="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather" alt="" /></p><p>Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.</p><p><a href="https://www.anthropic.com/news/claude-frontier-academy">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather" />
-<enclosure url="https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: SpaceX's AI unit held talks about leasing computing capacity to Microsoft, as it fully embraces the neocloud business despite Musk's initial reluctance (Grace Kay/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/697fd15b59a948bc62ca.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvvwgxda32d</guid>
-<pubDate>Fri, 02 Oct 2026 17:36:26 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm" rel="related" type="text/html" />
-<description>SpaceX’s AI unit held talks over the summer about leasing computing capacity to Microsoft, say people familiar with the matter, a sign of how fully Elon Musk has embraced the neocloud business after his initial reluctance. Selling computing power has quickly become one of SpaceX’s most lucrative ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17917/bcebd226-335f-4dee-bf7e-b89229f28974.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>SpaceX’s AI unit held talks over the summer about leasing computing capacity to Microsoft, say people familiar with the matter, a sign of how fully Elon Musk has embraced the neocloud business after his initial reluctance. Selling computing power has quickly become one of SpaceX’s most lucrative ...</p><p><a href="https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17917/bcebd226-335f-4dee-bf7e-b89229f28974.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17917/bcebd226-335f-4dee-bf7e-b89229f28974.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17917/bcebd226-335f-4dee-bf7e-b89229f28974.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns (Toby Sterling/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f1a8c891e73072f4d51d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvq25axcl2e</guid>
-<pubDate>Fri, 02 Oct 2026 15:51:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/" rel="related" type="text/html" />
-<description>One of the largest Dutch eyewear retail chains said on Friday it had suspended sales of Meta's Ray-Ban smart glasses in the Netherlands ​and Belgium amid growing privacy concerns, in one of the first ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3PTGWFZTDBIDJNTODZSIACAX3I.jpg%3Fauth%3D7771b359f2f646edf8bfad6445c2a4918f38ec0e9c0de9720d2473b42a566ae9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>One of the largest Dutch eyewear retail chains said on Friday it had suspended sales of Meta's Ray-Ban smart glasses in the Netherlands ​and Belgium amid growing privacy concerns, in one of the first ...</p><p><a href="https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3PTGWFZTDBIDJNTODZSIACAX3I.jpg%3Fauth%3D7771b359f2f646edf8bfad6445c2a4918f38ec0e9c0de9720d2473b42a566ae9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3PTGWFZTDBIDJNTODZSIACAX3I.jpg%3Fauth%3D7771b359f2f646edf8bfad6445c2a4918f38ec0e9c0de9720d2473b42a566ae9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3PTGWFZTDBIDJNTODZSIACAX3I.jpg%3Fauth%3D7771b359f2f646edf8bfad6445c2a4918f38ec0e9c0de9720d2473b42a566ae9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence" (Laura Cress/BBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/41bd594c0dbfd991029e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwvnj7cndt2u</guid>
-<pubDate>Fri, 02 Oct 2026 15:05:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bbc.com/news/articles/cqx2z23xj555o" rel="related" type="text/html" />
-<description>The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.</description>
-<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" alt="" /></p><p>The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.</p><p><a href="https://www.bbc.com/news/articles/cqx2z23xj555o">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" />
-<enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
