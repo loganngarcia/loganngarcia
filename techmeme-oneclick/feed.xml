@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 05 Oct 2026 23:11:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 03:04:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx62udlmcd2x</guid>
+<pubDate>Mon, 05 Oct 2026 23:26:02 +0000</pubDate>
+<description>Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" alt="" /></p><p>Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" />
+</item>
 <item>
 <title>Analysis: Anthropic&#x27;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#x27;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)</title>
 <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
@@ -894,14 +904,6 @@
 <content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/57/41/5741a57f-8779-47c3-a5a5-48acb195f4db/content/images/size/w1200/2022/07/Pic-2.PNG" alt="" /></p><p>It didn’t take too long for the app layer to start to respond to Muse. Amazon, of course, already blocked Muse. While it remains to be seen how such dispute gets resolved, we are starting to see app layers amping up their shipping speed. Just yesterday, DoorDash unveiled an</p>]]></content:encoded>
 <media:content url="https://storage.ghost.io/c/57/41/5741a57f-8779-47c3-a5a5-48acb195f4db/content/images/size/w1200/2022/07/Pic-2.PNG" medium="image" />
 <media:thumbnail url="https://storage.ghost.io/c/57/41/5741a57f-8779-47c3-a5a5-48acb195f4db/content/images/size/w1200/2022/07/Pic-2.PNG" />
-</item>
-<item>
-<title>Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers (Financial Times)</title>
-<link>https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwumbq6kv72t</guid>
-<pubDate>Fri, 02 Oct 2026 05:11:08 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
