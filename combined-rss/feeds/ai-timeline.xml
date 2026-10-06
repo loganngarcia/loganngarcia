@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 06 Oct 2026 03:04:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 21:18:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Is Frontier Now Looped Transformers?</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5787a952408124ff0b6.html</link>
+<guid isPermaLink="false">combined:5e505374e41c5e8d503c7b66683202806eb9d3ed</guid>
+<pubDate>Tue, 06 Oct 2026 18:44:15 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/is-frontier-now-looped-transformers" rel="related" type="text/html" />
+<description>Looped DiT, Looped Models Done Right, Looped For Free, and Triadic Linear Attention</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/publication/thumbnail/23043e0b-1a8b-4e75-85b4-a980ed68d059/landscape_Screenshot_2023-11-16_140935.png" alt="" /></p><p>Looped DiT, Looped Models Done Right, Looped For Free, and Triadic Linear Attention</p><p><a href="https://mail.bycloud.ai/p/is-frontier-now-looped-transformers">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/publication/thumbnail/23043e0b-1a8b-4e75-85b4-a980ed68d059/landscape_Screenshot_2023-11-16_140935.png" medium="image" type="image/png" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/publication/thumbnail/23043e0b-1a8b-4e75-85b4-a980ed68d059/landscape_Screenshot_2023-11-16_140935.png" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/publication/thumbnail/23043e0b-1a8b-4e75-85b4-a980ed68d059/landscape_Screenshot_2023-11-16_140935.png" type="image/png" length="0" />
+</item>
 <item>
 <title>Self-Play Pretraining with Zero Data</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/22f31e29b789169b3f00.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>DiffusionBlocks: Save 2-3x Training Memory!?</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6004dc3ca09ebf884410.html</link>
-<guid isPermaLink="false">combined:fbd932c48d6338c26e23fa678bac84b747c7ff62</guid>
-<pubDate>Tue, 02 Jun 2026 19:15:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/diffusionblocks-save-2-3x-training-memory" rel="related" type="text/html" />
-<description>plus more about Bitter Lesson in Data Filtering, Do Language Models Need Sleep, and Neural Weight Norm.</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" alt="" /></p><p>plus more about Bitter Lesson in Data Filtering, Do Language Models Need Sleep, and Neural Weight Norm.</p><p><a href="https://mail.bycloud.ai/p/diffusionblocks-save-2-3x-training-memory">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b66c761c-2780-4a57-b962-132963af4ddf/issue_110.jpg?t=1780423895" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
