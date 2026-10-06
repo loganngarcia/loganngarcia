@@ -5,8 +5,120 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 05 Oct 2026 17:13:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 03:04:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9945cb5716940625b303.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx62udlmcd2x</guid>
+<pubDate>Mon, 05 Oct 2026 23:26:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/" rel="related" type="text/html" />
+<description>Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" alt="" /></p><p>Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.</p><p><a href="https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ebdbe868a59461c7ad95.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5xabds2s2w</guid>
+<pubDate>Mon, 05 Oct 2026 22:21:07 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x" rel="related" type="text/html" />
+<description>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" alt="" /></p><p>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</p><p><a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" medium="image" type="image/png" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" />
+<enclosure url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" type="image/png" length="0" />
+</item>
+<item>
+<title>SpaceX stock closes up 7.6% after Morgan Stanley called SPCX "cheap", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c9eac27a62484e0d843f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5rw7tx372x</guid>
+<pubDate>Mon, 05 Oct 2026 20:46:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html" rel="related" type="text/html" />
+<description>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" alt="" /></p><p>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.</p><p><a href="https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e08f8e4c161b27155c02.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5po52iti2d</guid>
+<pubDate>Mon, 05 Oct 2026 20:05:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/" rel="related" type="text/html" />
+<description>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" alt="" /></p><p>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</p><p><a href="https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max (Semafor)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8cfc92739d2e249cc012.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ngntpeu2s</guid>
+<pubDate>Mon, 05 Oct 2026 19:25:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs" rel="related" type="text/html" />
+<description>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</p><p><a href="https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+<enclosure url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f57f450bf4c742dcda24.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ke6h7id2m</guid>
+<pubDate>Mon, 05 Oct 2026 18:30:40 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude" rel="related" type="text/html" />
+<description>Meta Platforms and Microsoft, two of Anthropic’s biggest corporate customers, are working to cut their employees’ use of Claude, a challenge for the AI firm’s efforts to sustain its explosive growth. Microsoft executives earlier this year projected that the company was on track to spend at least ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17933/1467b6de-b42b-409f-81ca-b0c6ab6c7cf3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Meta Platforms and Microsoft, two of Anthropic’s biggest corporate customers, are working to cut their employees’ use of Claude, a challenge for the AI firm’s efforts to sustain its explosive growth. Microsoft executives earlier this year projected that the company was on track to spend at least ...</p><p><a href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17933/1467b6de-b42b-409f-81ca-b0c6ab6c7cf3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17933/1467b6de-b42b-409f-81ca-b0c6ab6c7cf3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17933/1467b6de-b42b-409f-81ca-b0c6ab6c7cf3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a0e8c928a8e1143361cf.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5jsb7fj62x</guid>
+<pubDate>Mon, 05 Oct 2026 18:20:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/" rel="related" type="text/html" />
+<description>Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" alt="" /></p><p>Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.</p><p><a href="https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" medium="image" type="image/png" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" type="image/png" length="0" />
+</item>
+<item>
+<title>Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/46835d05ea3bf2fe3360.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5i6wiwvu2o</guid>
+<pubDate>Mon, 05 Oct 2026 17:51:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing" rel="related" type="text/html" />
+<description>Former Anthropic researcher Jacob Coxon warned that the race to develop artificial intelligence poses risks that the industry itself doesn’t fully understand, at a New York City Council hearing where ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLhEXFRQTzR8%2Fv1%2F1200x800.jpg" alt="" /></p><p>Former Anthropic researcher Jacob Coxon warned that the race to develop artificial intelligence poses risks that the industry itself doesn’t fully understand, at a New York City Council hearing where ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLhEXFRQTzR8%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLhEXFRQTzR8%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLhEXFRQTzR8%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87bcb170ca863c988e88.html</link>
@@ -44,10 +156,10 @@
 <category>Techmeme</category>
 <atom:link href="https://openai.com/index/eu-text-provenance" rel="related" type="text/html" />
 <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
-<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</p><p><a href="https://openai.com/index/eu-text-provenance">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
-<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" />
-<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</p><p><a href="https://openai.com/index/eu-text-provenance">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&amp;h=900&amp;fit=fill" />
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
 </item>
 <item>
 <title>In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)</title>
@@ -783,76 +895,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-16902807%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/590b9bb408120e201d43.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwyq5rh72x22</guid>
-<pubDate>Sat, 03 Oct 2026 20:31:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="related" type="text/html" />
-<description>The industry’s approach to safety will guarantee more failures unless something changes.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.theatlantic.com%2Fthumbor%2F1cDlY_SqptSiE3JfahnSL0aOskw%3D%2F0x43%3A2000x1085%2F1200x625%2Ffilters%3Awatermark%28https%3A%2F%2Fcdn.theatlantic.com%2Fmedia%2Ffiles%2Fbadge_2x.png%2C-20%2C20%2C0%2C33%29%2Fmedia%2Fimg%2Fmt%2F2026%2F10%2F2026_10_02_Robinsons_open_ai_safety_final%2Foriginal.jpg" alt="" /></p><p>The industry’s approach to safety will guarantee more failures unless something changes.</p><p><a href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.theatlantic.com%2Fthumbor%2F1cDlY_SqptSiE3JfahnSL0aOskw%3D%2F0x43%3A2000x1085%2F1200x625%2Ffilters%3Awatermark%28https%3A%2F%2Fcdn.theatlantic.com%2Fmedia%2Ffiles%2Fbadge_2x.png%2C-20%2C20%2C0%2C33%29%2Fmedia%2Fimg%2Fmt%2F2026%2F10%2F2026_10_02_Robinsons_open_ai_safety_final%2Foriginal.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.theatlantic.com%2Fthumbor%2F1cDlY_SqptSiE3JfahnSL0aOskw%3D%2F0x43%3A2000x1085%2F1200x625%2Ffilters%3Awatermark%28https%3A%2F%2Fcdn.theatlantic.com%2Fmedia%2Ffiles%2Fbadge_2x.png%2C-20%2C20%2C0%2C33%29%2Fmedia%2Fimg%2Fmt%2F2026%2F10%2F2026_10_02_Robinsons_open_ai_safety_final%2Foriginal.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.theatlantic.com%2Fthumbor%2F1cDlY_SqptSiE3JfahnSL0aOskw%3D%2F0x43%3A2000x1085%2F1200x625%2Ffilters%3Awatermark%28https%3A%2F%2Fcdn.theatlantic.com%2Fmedia%2Ffiles%2Fbadge_2x.png%2C-20%2C20%2C0%2C33%29%2Fmedia%2Fimg%2Fmt%2F2026%2F10%2F2026_10_02_Robinsons_open_ai_safety_final%2Foriginal.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: ShinyHunters member Saif al-Din Khader, aka "Rey," was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ff098c59a1e6d077affb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwydkxcqxy26</guid>
-<pubDate>Sat, 03 Oct 2026 16:45:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/" rel="related" type="text/html" />
-<description>A suspected member of the ShinyHunters hacking group, which ​says it stole data on every FBI employee, was detained in Jordan this week and is cooperating with the FBI, three people familiar with the ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOEZVQABYDFP7FFAI6Y335V7ZXQ.jpg%3Fauth%3D40e813792eb181fc39658510604945a454fd116fc22ae2e64e561d8009fa4942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A suspected member of the ShinyHunters hacking group, which ​says it stole data on every FBI employee, was detained in Jordan this week and is cooperating with the FBI, three people familiar with the ...</p><p><a href="https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOEZVQABYDFP7FFAI6Y335V7ZXQ.jpg%3Fauth%3D40e813792eb181fc39658510604945a454fd116fc22ae2e64e561d8009fa4942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOEZVQABYDFP7FFAI6Y335V7ZXQ.jpg%3Fauth%3D40e813792eb181fc39658510604945a454fd116fc22ae2e64e561d8009fa4942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOEZVQABYDFP7FFAI6Y335V7ZXQ.jpg%3Fauth%3D40e813792eb181fc39658510604945a454fd116fc22ae2e64e561d8009fa4942%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>YouTube says it is adjusting its Shorts recommendations to prioritize "original content" and reduce the reach of channels re-uploading others' content (Andrew Romero/9to5Google)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e32c598f7616c99ac8dc.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwyaiub77o2l</guid>
-<pubDate>Sat, 03 Oct 2026 15:50:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/" rel="related" type="text/html" />
-<description>YouTube says it wants to ‘focus on originality’ in a push to surface better Shorts recommendations for users. Shorts is...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Shorts.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>YouTube says it wants to ‘focus on originality’ in a push to surface better Shorts recommendations for users. Shorts is...</p><p><a href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Shorts.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Shorts.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-<enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Shorts.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI's DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model (Sarah Perez/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6421ca855574f79a50e3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwy6b32g7f2m</guid>
-<pubDate>Sat, 03 Oct 2026 15:10:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" rel="related" type="text/html" />
-<description>OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" /></p><p>OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.</p><p><a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at a radio show co-hosted by an AI DJ and a human that is expanding in LA and other cities, as radio workers worry synthetic hosts may soon replace them (Nilesh Christopher/Los Angeles Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6470596405f589b8b15a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxyy5xhzg2d</guid>
-<pubDate>Sat, 03 Oct 2026 13:36:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back" rel="related" type="text/html" />
-<description>AI killed the radio star: DJ chatbots are already chatting up airwaves, humans are pushing back.</description>
-<content:encoded><![CDATA[<p><img src="https://ca-times.brightspotcdn.com/dims4/default/8904a25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F75%2F7ca2d37445688603838026012223%2F1572286-fi-ai-dj-chatbot-08-mjc.jpg" alt="" /></p><p>AI killed the radio star: DJ chatbots are already chatting up airwaves, humans are pushing back.</p><p><a href="https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://ca-times.brightspotcdn.com/dims4/default/8904a25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F75%2F7ca2d37445688603838026012223%2F1572286-fi-ai-dj-chatbot-08-mjc.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://ca-times.brightspotcdn.com/dims4/default/8904a25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F75%2F7ca2d37445688603838026012223%2F1572286-fi-ai-dj-chatbot-08-mjc.jpg" />
-<enclosure url="https://ca-times.brightspotcdn.com/dims4/default/8904a25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F75%2F7ca2d37445688603838026012223%2F1572286-fi-ai-dj-chatbot-08-mjc.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Tesla Optimus Plant Takes Shape in Texas, With Steel Structure Estimated at 40%</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d92588911117786a477e.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-texas-plant-steel-40-percent</guid>
@@ -865,48 +907,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Center for Technology &amp; Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87324564b830b14ae1da.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxluriedz2w</guid>
-<pubDate>Sat, 03 Oct 2026 09:41:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban" rel="related" type="text/html" />
-<description>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" alt="" /></p><p>DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.</p><p><a href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" />
-<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/2e48f0e7-f7d0-4b6f-95c1-b2419521c567_d72f2765.jpg?itok=7qMLAgq_&amp;v=1790930514" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents (Robert McMillan/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/177053936697f23d18d7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwxbi7qyfc2d</guid>
-<pubDate>Sat, 03 Oct 2026 06:35:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Swarm chasers hunt for clues of bad behavior. Their work is our starkest understanding yet of what happens when AI goes wrong.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" alt="" /></p><p>Swarm chasers hunt for clues of bad behavior. Their work is our starkest understanding yet of what happens when AI goes wrong.</p><p><a href="https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f?st=U3sqqR&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56362526%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture "frontline intelligence" (Mike Wheatley/SiliconANGLE)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c2d15f030b00bc668847.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwx7cctg2k2u</guid>
-<pubDate>Sat, 03 Oct 2026 05:56:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/" rel="related" type="text/html" />
-<description>Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" alt="" /></p><p>Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" medium="image" type="image/png" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" />
-<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-22-08-35-11.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Galbot Prices ET1 Humanoid From 79,000 Yuan Across Three Versions</title>
@@ -1959,18 +1959,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
@@ -1987,18 +1987,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Microsoft just shared the frontier data engineering secrets</title>
