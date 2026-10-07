@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 06:36:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 13:52:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Boston Dynamics Names Former Amazon AI Leader Rohit Prasad as CEO</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1e6da9090f9d9f9da89.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/boston-dynamics-rohit-prasad-ceo</guid>
+<pubDate>Wed, 07 Oct 2026 06:57:55 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/boston-dynamics-rohit-prasad-ceo" rel="related" type="text/html" />
+<description>Prasad takes over on October 7, bringing experience leading Alexa and Amazon Nova as Boston Dynamics advances its AI and commercialization plans.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp" alt="" /></p><p>Prasad takes over on October 7, bringing experience leading Alexa and Amazon Nova as Boston Dynamics advances its AI and commercialization plans.</p><p><a href="https://www.humanoidsdaily.com/news/boston-dynamics-rohit-prasad-ceo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-rohit-prasad-portrait-m5vlzh5W0Qesobj53zpPuWGaqt67v8.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Agility's Investor Day: Digit 5 Launches at a $150,000 Bill of Materials, and Its $300M Order Unlocks Skill by Skill</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a3df63fb8fd39830d5f2.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-healthtech-bed-hero-zQZ0JqIL5wLdUp24bhzYnKd96X3cDV.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-healthtech-bed-hero-zQZ0JqIL5wLdUp24bhzYnKd96X3cDV.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-healthtech-bed-hero-zQZ0JqIL5wLdUp24bhzYnKd96X3cDV.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>IDC Puts H1 Humanoid Shipments Near 25,000, With AGIBOT Leading</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/57d2847f9e4beaa04732.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/idc-h1-2026-humanoid-shipments-agibot</guid>
-<pubDate>Wed, 30 Sep 2026 08:40:17 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/idc-h1-2026-humanoid-shipments-agibot" rel="related" type="text/html" />
-<description>IDC estimates nearly 25,000 humanoid shipments in H1 2026, with AGIBOT citing a 35% share. The new tally differs from earlier estimates for the same period.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/idc-h1-vendor-growth-B9myxgfbC8IVtn52YsEfAy4yeuwUhr.webp" alt="" /></p><p>IDC estimates nearly 25,000 humanoid shipments in H1 2026, with AGIBOT citing a 35% share. The new tally differs from earlier estimates for the same period.</p><p><a href="https://www.humanoidsdaily.com/news/idc-h1-2026-humanoid-shipments-agibot">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/idc-h1-vendor-growth-B9myxgfbC8IVtn52YsEfAy4yeuwUhr.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/idc-h1-vendor-growth-B9myxgfbC8IVtn52YsEfAy4yeuwUhr.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/idc-h1-vendor-growth-B9myxgfbC8IVtn52YsEfAy4yeuwUhr.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
