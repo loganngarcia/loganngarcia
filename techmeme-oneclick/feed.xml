@@ -5,8 +5,162 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 13:52:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 19:42:40 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security (Leo Schwartz/The Information)</title>
+<link>https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcoooaxwp2l</guid>
+<pubDate>Wed, 07 Oct 2026 19:31:26 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)</title>
+<link>https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcnb4gy5h26</guid>
+<pubDate>Wed, 07 Oct 2026 19:05:57 +0000</pubDate>
+<description>From venturebeat.com</description>
+<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)</title>
+<link>https://thenewstack.io/anthropic-claude-haiku-5-5/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcm6pmxpe26</guid>
+<pubDate>Wed, 07 Oct 2026 18:46:43 +0000</pubDate>
+<description>Haiku 5.5 adds effort controls and posts big gains on computer-use and command-line benchmarks as Anthropic pitches its smallest model for agentic work.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" alt="" /></p><p>Haiku 5.5 adds effort controls and posts big gains on computer-use and command-line benchmarks as Anthropic pitches its smallest model for agentic work.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" />
+</item>
+<item>
+<title>OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes interactive elements like charts, buttons, and forms in answers (OpenAI)</title>
+<link>https://openai.com/index/gpt-6-for-everyone/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxclugpyuo2o</guid>
+<pubDate>Wed, 07 Oct 2026 18:40:58 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summaries and classification (Anthropic)</title>
+<link>https://www.anthropic.com/claude-haiku-5-5</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxckukq3c62l</guid>
+<pubDate>Wed, 07 Oct 2026 18:23:08 +0000</pubDate>
+<description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" alt="" /></p><p>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" />
+</item>
+<item>
+<title>Microsoft opens preorders for the Surface Laptop Ultra from $2,599, shipping October 16; it has a breakaway port like Apple&#x27;s MagSafe, but on a standard USB-C (Zac Bowden/Windows Central)</title>
+<link>https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxckikksnk2x</guid>
+<pubDate>Wed, 07 Oct 2026 18:16:26 +0000</pubDate>
+<description>Surface Laptop Ultra is available to order today, with shipments expected to begin on October 16.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" alt="" /></p><p>Surface Laptop Ultra is available to order today, with shipments expected to begin on October 16.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" />
+</item>
+<item>
+<title>Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November (Stevie Bonifield/The Verge)</title>
+<link>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxck7e56rv2d</guid>
+<pubDate>Wed, 07 Oct 2026 18:11:17 +0000</pubDate>
+<description>Microsoft’s high-end AI mini PC for developers starts shipping in November.﻿</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" alt="" /></p><p>Microsoft’s high-end AI mini PC for developers starts shipping in November.﻿</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" />
+</item>
+<item>
+<title>Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxchfcofum25</guid>
+<pubDate>Wed, 07 Oct 2026 17:20:55 +0000</pubDate>
+<description>Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" alt="" /></p><p>Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" />
+</item>
+<item>
+<title>OpenAI&#x27;s first report on teen ChatGPT use says teens spend under 15 minutes a day on average on the chatbot, with less than 2% using it for 3+ hours straight (Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/openai-says-teens-use-chatgpt-under-15-minutes-day-worries-over-risks-grow-2026-10-07/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcemkbr7q2x</guid>
+<pubDate>Wed, 07 Oct 2026 16:31:17 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Game studio Gardens Interactive raised a $35M+ Series B led by Lightspeed at a pre-money valuation of $190M, taking its total funding to $71M (Cecilia D&#x27;Anastasio/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-07/video-game-designer-behind-sky-journey-raises-35-million?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTM4NDU2NywiZXhwIjoxNzkxOTg5MzY3LCJhcnRpY2xlSWQiOiJUTUkxUklLSkg2VjYwMCIsImJjb25uZWN0SWQiOiI3MDM2NkY0MkNENTY0MUQyQkYwODVGRjg3NDM3MDY3QiJ9.m1fa5r3jN4x68LzgBX6BuZH6QwhP2hTwRn1sSd3xzHc</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcd7brj3u2l</guid>
+<pubDate>Wed, 07 Oct 2026 16:05:58 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Healthleap, which makes AI screening software to identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed (Ram Iyer/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcbjtitde2x</guid>
+<pubDate>Wed, 07 Oct 2026 15:36:05 +0000</pubDate>
+<description>The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675" alt="" /></p><p>The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675" />
+</item>
+<item>
+<title>Parallel Systems, which builds autonomous freight trains, raised a $100M Series C led by AVP, taking its total funding to $200M+ (Tim De Chant/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcag76xaa2w</guid>
+<pubDate>Wed, 07 Oct 2026 15:16:09 +0000</pubDate>
+<description>Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675" alt="" /></p><p>Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675" />
+</item>
+<item>
+<title>Elon Musk says Grok Bot will use the &quot;best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno&quot; (Grace Kay/The Information)</title>
+<link>https://www.theinformation.com/briefings/musk-says-spacex-will-sometimes-use-rival-models-power-grok-bot</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxc6haqpim2n</guid>
+<pubDate>Wed, 07 Oct 2026 14:40:57 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amazon&#x27;s Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras (Chris Welch/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxc52j5z4e2x</guid>
+<pubDate>Wed, 07 Oct 2026 14:15:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats (Ivan Mehta/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxc4s2spuh2g</guid>
+<pubDate>Wed, 07 Oct 2026 14:11:12 +0000</pubDate>
+<description>Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675" alt="" /></p><p>Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675" />
+</item>
+<item>
+<title>Nous Research, which makes the open-source Hermes AI agent that has hit 22M+ downloads since February, raised $90M at a $1.2B valuation to expand to enterprises (Yuliya Chernova/Wall Street Journal)</title>
+<link>https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxc4il6fc52u</guid>
+<pubDate>Wed, 07 Oct 2026 14:05:54 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet (Joanna Glasner/Crunchbase News)</title>
+<link>https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxc3wuuoby2l</guid>
+<pubDate>Wed, 07 Oct 2026 13:56:00 +0000</pubDate>
+<description>In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels.</description>
+<content:encoded><![CDATA[<p><img src="https://news.crunchbase.com/wp-content/uploads/Frontier-AI-labs-N-Am.jpg" alt="" /></p><p>In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels.</p>]]></content:encoded>
+<media:content url="https://news.crunchbase.com/wp-content/uploads/Frontier-AI-labs-N-Am.jpg" medium="image" />
+<media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/Frontier-AI-labs-N-Am.jpg" />
+</item>
 <item>
 <title>Meta, Google DeepMind, and Isomorphic Labs invest $300M and the US invests $500M+ in Zuckerberg-backed Biohub to build open biology datasets for AI training (Krystal Hu/Reuters)</title>
 <link>https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/</link>
@@ -744,156 +898,6 @@
 <pubDate>Mon, 05 Oct 2026 14:25:39 +0000</pubDate>
 <description>From www.forbes.com</description>
 <content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI&#x27;s dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)</title>
-<link>https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx53t7qzph2u</guid>
-<pubDate>Mon, 05 Oct 2026 14:10:39 +0000</pubDate>
-<description>Exit interviews with defectors from OpenAI, Anthropic, and DeepMind.</description>
-<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" alt="" /></p><p>Exit interviews with defectors from OpenAI, Anthropic, and DeepMind.</p>]]></content:encoded>
-<media:content url="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" medium="image" />
-<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/474/05d/b7d0dfc6553d9419b4b69f5b9df5b951a4-AI-Apostates-Lede.1x.rsocial.w1200.jpg" />
-</item>
-<item>
-<title>Sources: Nico Caprez, son-in-law to Jensen Huang, has rapidly ascended to become an Nvidia VP, serving as Huang&#x27;s &quot;consigliere&quot; and main contact for neoclouds (Phoebe Liu/The Information)</title>
-<link>https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx52z3xnxn2w</guid>
-<pubDate>Mon, 05 Oct 2026 13:56:02 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cohere launches North 2, an update to its enterprise agent platform with cross-session memory and a redesigned harness, available across cloud and on-premises (Sean Michael Kerner/VentureBeat)</title>
-<link>https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx525n5ko72s</guid>
-<pubDate>Mon, 05 Oct 2026 13:40:41 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>CTS: Chinese logic and memory chipmakers accumulated 343 ASML immersion DUV lithography scanners between 2012 and early 2026, many of which can make 7nm chips (Anton Shilov/Tom&#x27;s Hardware)</title>
-<link>https://www.tomshardware.com/tech-industry/semiconductors/china-stockpiled-343-immersion-duv-tools-for-advanced-chipmaking-report-claims-270-asml-scanners-can-produce-7nm-processors-without-sanctioned-euv-tools</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4zdg74pt2s</guid>
-<pubDate>Mon, 05 Oct 2026 13:26:01 +0000</pubDate>
-<description>China, apparently, has significant immersion DUV capability.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" alt="" /></p><p>China, apparently, has significant immersion DUV capability.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg" />
-</item>
-<item>
-<title>Namespace, which provides cloud services and infrastructure for developers, raised a $42M Series B led by Scale and says it has 1,000+ customers (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/05/developer-infrastructure-namespace-scale</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4yqsdedg2x</guid>
-<pubDate>Mon, 05 Oct 2026 13:15:36 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4wscaeyz2x</guid>
-<pubDate>Mon, 05 Oct 2026 12:40:39 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total (Kristine Owram/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4u2k7rwj2w</guid>
-<pubDate>Mon, 05 Oct 2026 11:51:34 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Sam Altman on President Trump, the midterms, extinction risk, Xi Jinping&#x27;s state visit, self-policing vs. regulation, and Greg Brockman&#x27;s donations (Vanity Fair)</title>
-<link>https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4th3owqy22</guid>
-<pubDate>Mon, 05 Oct 2026 11:40:42 +0000</pubDate>
-<description>The OpenAI CEO discusses Donald Trump, the midterms, the real risk of extinction, Xi Jinping’s state visit, OpenAI president Greg Brockman’s political donations, and much more.</description>
-<content:encoded><![CDATA[<p><img src="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" alt="" /></p><p>The OpenAI CEO discusses Donald Trump, the midterms, the real risk of extinction, Xi Jinping’s state visit, OpenAI president Greg Brockman’s political donations, and much more.</p>]]></content:encoded>
-<media:content url="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" medium="image" />
-<media:thumbnail url="https://media.vanityfair.com/photos/6ac2ea6b59502d5a39d676b3/16:9/w_1280,c_limit/Altman_Square.png" />
-</item>
-<item>
-<title>Q&amp;A with Sam Altman on his life, kids, rivalries, pronatalism, &quot;prepping&quot; for the apocalypse, new products, IPO plans, Luca Guadagnino&#x27;s Artificial, and more (Vanity Fair)</title>
-<link>https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4sv2aqdz2d</guid>
-<pubDate>Mon, 05 Oct 2026 11:30:36 +0000</pubDate>
-<description>In a video interview, the OpenAI CEO discusses what he really thinks of Elon Musk and Mark Zuckerberg, ChatGPT and suicide prevention, being portrayed by Andrew Garfield, and having more children.</description>
-<content:encoded><![CDATA[<p><img src="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" alt="" /></p><p>In a video interview, the OpenAI CEO discusses what he really thinks of Elon Musk and Mark Zuckerberg, ChatGPT and suicide prevention, being portrayed by Andrew Garfield, and having more children.</p>]]></content:encoded>
-<media:content url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" medium="image" />
-<media:thumbnail url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/16:9/w_1280,c_limit/SA_Digital3%20(1).jpg" />
-</item>
-<item>
-<title>Former Groq engineers file a lawsuit in Delaware against Groq, alleging the $20B &quot;non-exclusive&quot; acqui-hire deal with Nvidia in 2025 short-changed employees (Financial Times)</title>
-<link>https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4qwxfqzh2w</guid>
-<pubDate>Mon, 05 Oct 2026 10:55:53 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says it will begin testing a new visual ad format in ChatGPT later this month in the US, displaying clearly labeled visual ads during image generation (Mayank Parmar/BleepingComputer)</title>
-<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4q3nroas2d</guid>
-<pubDate>Mon, 05 Oct 2026 10:40:37 +0000</pubDate>
-<description>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you&#x27;re generating images.</description>
-<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" alt="" /></p><p>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you&#x27;re generating images.</p>]]></content:encoded>
-<media:content url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" medium="image" />
-<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" />
-</item>
-<item>
-<title>Munich-based RobCo, which makes robotic arms and automation software, sells $40M of shares at a $1B valuation, up from ~$500M after raising $100M in January (Ben Dummett/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?st=yskaLT&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4p23dqm72d</guid>
-<pubDate>Mon, 05 Oct 2026 10:21:50 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The IWF says it assessed 6,310 AI-generated images that met the legal definition of CSAM in H1 2026, up 40% over the 4,500+ images assessed in all of 2025 (Dan Milmo/The Guardian)</title>
-<link>https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4nv3xyza2w</guid>
-<pubDate>Mon, 05 Oct 2026 10:01:09 +0000</pubDate>
-<description>Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" alt="" /></p><p>Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/master/6827.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=a12536d22ad1dda11b1730ed0bd98d15" />
-</item>
-<item>
-<title>Huawei agrees to a multi-year patent licensing deal with Qualcomm covering AI, 5G, computing, and networking tech, its first 5G licensing deal with Qualcomm (Miyoung Kim/Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4mzazcvp2g</guid>
-<pubDate>Mon, 05 Oct 2026 09:45:35 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more (Superintelligence)</title>
-<link>https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4jo6wwd72s</guid>
-<pubDate>Mon, 05 Oct 2026 08:45:43 +0000</pubDate>
-<description>In a written interview with Superintelligence, Dr. Richard Ahlfeld, SVP of Physical AI at CoreWeave and founder of Monolith, explains why robots fail on the data they never saw and where synthetic data stops being credible. Interview by Kim Isenberg.</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" alt="" /></p><p>In a written interview with Superintelligence, Dr. Richard Ahlfeld, SVP of Physical AI at CoreWeave and founder of Monolith, explains why robots fail on the data they never saw and where synthetic data stops being credible. Interview by Kim Isenberg.</p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" medium="image" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/71979b79-d984-457b-a8ce-17b9eb4e9035/image__2_.jpeg?t=1791126886" />
-</item>
-<item>
-<title>A look at China&#x27;s gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies (The Information)</title>
-<link>https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4hpfxxhy2g</guid>
-<pubDate>Mon, 05 Oct 2026 08:10:36 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>French conglomerate Schneider Electric agrees to acquire US engineering software provider PTC for $23.7B in cash, paying $205 per share, its largest acquisition (Financial Times)</title>
-<link>https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx4gzggdya2l</guid>
-<pubDate>Mon, 05 Oct 2026 07:58:18 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
