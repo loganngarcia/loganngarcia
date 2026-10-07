@@ -5,8 +5,90 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 06 Oct 2026 21:17:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 00:48:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxao4apyr72d</guid>
+<pubDate>Wed, 07 Oct 2026 00:15:48 +0000</pubDate>
+<description>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" alt="" /></p><p>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" />
+</item>
+<item>
+<title>OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)</title>
+<link>https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxamzbrtnk2g</guid>
+<pubDate>Tue, 06 Oct 2026 23:56:15 +0000</pubDate>
+<description>A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag</description>
+<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" alt="" /></p><p>A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag</p>]]></content:encoded>
+<media:content url="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" medium="image" />
+<media:thumbnail url="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" />
+</item>
+<item>
+<title>Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions &quot;across the board&quot;; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)</title>
+<link>https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxal2lk52c2d</guid>
+<pubDate>Tue, 06 Oct 2026 23:21:11 +0000</pubDate>
+<description>Google&#x27;s new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" alt="" /></p><p>Google&#x27;s new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.</p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" medium="image" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" />
+</item>
+<item>
+<title>Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)</title>
+<link>https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxakr3h3q52u</guid>
+<pubDate>Tue, 06 Oct 2026 23:15:52 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImczSGtqb1h5RXoiLCJwIjoiL3JlcG9ydC8xMDA1ODU5L21pY3Jvc29mdC14Ym94LWd0YS02LXN0cmVhbWluZy1yaWdodHMiLCJleHAiOjE3OTE3NTc1NjUsImlhdCI6MTc5MTMyNTU2NX0.PFU2YeNV1-U2-kTaaobxU9p5biBMu7b7-O5ZPdplcio&amp;utm_medium=gift-link</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxaijn25mi25</guid>
+<pubDate>Tue, 06 Oct 2026 22:35:55 +0000</pubDate>
+<description>The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage (OpenAI)</title>
+<link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxaianodfo2s</guid>
+<pubDate>Tue, 06 Oct 2026 22:30:53 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Gurman: Apple&#x27;s upcoming smart home products co-developed with LG are &quot;at least a few more months&quot; away; LG is handling manufacturing and product support (Marcus Mendes/9to5Mac)</title>
+<link>https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxafz6ju7i2g</guid>
+<pubDate>Tue, 06 Oct 2026 21:50:55 +0000</pubDate>
+<description>Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/softbank-backed-dayone-data-centers-plans-to-raise-up-to-5-0-bln-in-u-s-ipo-c568ead1?st=gyHkwv&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxafhrhhx72w</guid>
+<pubDate>Tue, 06 Oct 2026 21:41:11 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Apple&#x27;s push into smart home devices includes a doorbell, thermostat, and other accessories developed with LG; the products will carry the LG brand (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxae6dcnbh2x</guid>
+<pubDate>Tue, 06 Oct 2026 21:18:00 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)</title>
 <link>https://artificialanalysis.ai/articles/mistral-large-4-france-ai</link>
@@ -800,90 +882,6 @@
 <content:encoded><![CDATA[<p><img src="https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png" alt="" /></p><p>Stephen Wolfram chimes in about the future of pure math and AI based on his unique perspective of language creator and scientific researcher.</p>]]></content:encoded>
 <media:content url="https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png" medium="image" />
 <media:thumbnail url="https://content.wolfram.com/sites/43/2026/09/social-pure-math-v3.png" />
-</item>
-<item>
-<title>Google prepares to defend a £1.2B UK class action lawsuit over claims it levied &quot;excessive&quot; charges on Android apps downloaded from Google Play since 2015 (Financial Times)</title>
-<link>https://www.ft.com/content/25272ffd-fd7e-4a69-97b3-cfcb3f98e646</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzp5mpqax2o</guid>
-<pubDate>Sun, 04 Oct 2026 05:45:50 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)</title>
-<link>https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzoumx4hw2o</guid>
-<pubDate>Sun, 04 Oct 2026 05:40:48 +0000</pubDate>
-<description>Japan tech group will expand Philippine plant, raise per-unit storage capacity</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F3%2F13273248-2-eng-GB%2F8364378accef-photo_SXM2026092400007919.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Japan tech group will expand Philippine plant, raise per-unit storage capacity</p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F3%2F13273248-2-eng-GB%2F8364378accef-photo_SXM2026092400007919.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F4%2F2%2F3%2F13273248-2-eng-GB%2F8364378accef-photo_SXM2026092400007919.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-</item>
-<item>
-<title>Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom&#x27;s Hardware)</title>
-<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwznqypmxc2u</guid>
-<pubDate>Sun, 04 Oct 2026 05:20:52 +0000</pubDate>
-<description>Engineers and open-source maintainers reportedly overwhelmed by thousands of sloppy reports</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-2176-80.jpg" alt="" /></p><p>Engineers and open-source maintainers reportedly overwhelmed by thousands of sloppy reports</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-2176-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/CrscyWC2mg69wBbrK9dcpa-2176-80.jpg" />
-</item>
-<item>
-<title>Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash (Abner Li/9to5Google)</title>
-<link>https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzn6xjxlf2d</guid>
-<pubDate>Sun, 04 Oct 2026 05:10:47 +0000</pubDate>
-<description>Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access.</p>]]></content:encoded>
-<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Sources: Walmart&#x27;s Flipkart faces sagging employee morale as Indian startup rivals power ahead with IPOs; at least eight VPs and SVPs have quit in recent weeks (Moneycontrol)</title>
-<link>https://www.moneycontrol.com/news/business/startup/flipkart-grapples-with-sagging-employee-morale-as-snapdeal-meesho-groww-power-ahead-with-ipos-14041869.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzmp5djp42g</guid>
-<pubDate>Sun, 04 Oct 2026 05:01:56 +0000</pubDate>
-<description>At least ten executives have quit at VP and SVP levels in recent months, sources told Moneycontrol, as the e-commerce major continues to evaluate plans and timeline for a potential IPO.</description>
-<content:encoded><![CDATA[<p><img src="https://images.moneycontrol.com/static-mcnews/2024/06/20240627153836_flipkart1.jpg" alt="" /></p><p>At least ten executives have quit at VP and SVP levels in recent months, sources told Moneycontrol, as the e-commerce major continues to evaluate plans and timeline for a potential IPO.</p>]]></content:encoded>
-<media:content url="https://images.moneycontrol.com/static-mcnews/2024/06/20240627153836_flipkart1.jpg" medium="image" />
-<media:thumbnail url="https://images.moneycontrol.com/static-mcnews/2024/06/20240627153836_flipkart1.jpg" />
-</item>
-<item>
-<title>Valley National Bancorp agrees to acquire New Jersey-based Bluevine, which provides digital banking and payments services for 175K SMBs in the US, for $340M (Meir Orbach/CTech)</title>
-<link>https://www.calcalistech.com/ctechnews/article/sjh5ocv5me</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzljcnxgp2l</guid>
-<pubDate>Sun, 04 Oct 2026 04:40:47 +0000</pubDate>
-<description>The acquisition will give the bank a digital small business platform while accelerating its technology and AI strategy.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2024/02/13/BJvzbnuja/BJvzbnuja_0_55_2000_1126_0_large.jpg" alt="" /></p><p>The acquisition will give the bank a digital small business platform while accelerating its technology and AI strategy.</p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2024/02/13/BJvzbnuja/BJvzbnuja_0_55_2000_1126_0_large.jpg" medium="image" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2024/02/13/BJvzbnuja/BJvzbnuja_0_55_2000_1126_0_large.jpg" />
-</item>
-<item>
-<title>Q&amp;A with Brian Chesky on Airbnb&#x27;s plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more (Ivan Mehta/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwzjdboi222d</guid>
-<pubDate>Sun, 04 Oct 2026 04:01:37 +0000</pubDate>
-<description>Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675" alt="" /></p><p>Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675" />
-</item>
-<item>
-<title>Sources: AI czar Jay Clayton to chair the WH&#x27;s AI task force, called &quot;Super Intelligence Force&quot;, to pen a report on AI&#x27;s risks and opportunities within 120 days (Alex Leary/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwz3vzkath2u</guid>
-<pubDate>Sun, 04 Oct 2026 00:01:34 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#x27; safety approaches; time for trial and error&#x27;s over (David Robinson/The Atlantic)</title>
-<link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mwyq5rh72x22</guid>
-<pubDate>Sat, 03 Oct 2026 20:31:09 +0000</pubDate>
-<description>From www.theatlantic.com</description>
-<content:encoded><![CDATA[<p>From www.theatlantic.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
