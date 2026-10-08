@@ -5,8 +5,94 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 08 Oct 2026 17:59:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:12:02 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for &quot;prioritizing safety over the near-term interests of OpenAI&quot; (Mikita Balesni/@balesni)</title>
+<link>https://x.com/balesni/status/2108262814003687745</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxfkwnunlf2d</guid>
+<pubDate>Thu, 08 Oct 2026 23:02:18 +0000</pubDate>
+<description>Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HUIGeFba0AEd2Qn?format=webp&amp;name=large" alt="" /></p><p>Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HUIGeFba0AEd2Qn?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HUIGeFba0AEd2Qn?format=webp&amp;name=large" />
+</item>
+<item>
+<title>SpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink &quot;become a major mobile carrier&quot;; AT&amp;T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxffjxj36e2g</guid>
+<pubDate>Thu, 08 Oct 2026 21:25:43 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts general partnership to four investors, and aims to lead more AI rounds (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/union-square-ventures-doubles-fund-size-shrinks-team-for-ai-era</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxfczhxdo522</guid>
+<pubDate>Thu, 08 Oct 2026 20:40:43 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Apple is planning a second launch this month, scheduled on or around October 27, to introduce its first touch-screen MacBook, a new iPad mini, and more (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxfc6mqmvk2x</guid>
+<pubDate>Thu, 08 Oct 2026 20:25:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)</title>
+<link>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxfc3akqe42o</guid>
+<pubDate>Thu, 08 Oct 2026 20:23:48 +0000</pubDate>
+<description>We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest models at no cost.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
+</item>
+<item>
+<title>Filing: the FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxf7ydihq22w</guid>
+<pubDate>Thu, 08 Oct 2026 19:46:23 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)</title>
+<link>https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxf75jbgui22</guid>
+<pubDate>Thu, 08 Oct 2026 19:31:23 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI&#x27;s annualized revenue at September&#x27;s end was $20B less than previously reported (CNBC)</title>
+<link>https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxf6kevxr22d</guid>
+<pubDate>Thu, 08 Oct 2026 19:20:41 +0000</pubDate>
+<description>OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080" alt="" /></p><p>OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&amp;A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/apple-names-steve-smith-m-a-chief-moves-adrian-perica-to-services-business?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ4MTMxMSwiZXhwIjoxNzkyMDg2MTExLCJhcnRpY2xlSWQiOiJUTUtNVVBWVFRDWlIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.1w8Mo4fh5SSJ-nNQ5DAatEHpdItwM5wKUnR5XcJw7os</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxf2nkwom62w</guid>
+<pubDate>Thu, 08 Oct 2026 18:10:53 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, as some investors raised concerns over its pricing strategy (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxf25hgbtz2d</guid>
+<pubDate>Thu, 08 Oct 2026 18:01:53 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Anthropic updates its usage policy to ban &quot;sustained and needless abusive or cruel behavior&quot; toward Claude, ending chats as the primary enforcement mechanism (Hayden Field/The Verge)</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</link>
@@ -804,98 +890,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" alt="" /></p><p>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800" />
-</item>
-<item>
-<title>OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)</title>
-<link>https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxamzbrtnk2g</guid>
-<pubDate>Tue, 06 Oct 2026 23:56:15 +0000</pubDate>
-<description>A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag</description>
-<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" alt="" /></p><p>A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more—this time without the multimillion-dollar price tag</p>]]></content:encoded>
-<media:content url="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" medium="image" />
-<media:thumbnail url="https://static.scientificamerican.com/dam/asset/17b9a99a-4ff3-4784-90f4-3bf3c5dd49f7/GettyImages-1388879870.jpg?m=1791307024.645&amp;w=1200" />
-</item>
-<item>
-<title>Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions &quot;across the board&quot;; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)</title>
-<link>https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxal2lk52c2d</guid>
-<pubDate>Tue, 06 Oct 2026 23:21:11 +0000</pubDate>
-<description>Google&#x27;s new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" alt="" /></p><p>Google&#x27;s new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png" />
-</item>
-<item>
-<title>Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)</title>
-<link>https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxakr3h3q52u</guid>
-<pubDate>Tue, 06 Oct 2026 23:15:52 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImczSGtqb1h5RXoiLCJwIjoiL3JlcG9ydC8xMDA1ODU5L21pY3Jvc29mdC14Ym94LWd0YS02LXN0cmVhbWluZy1yaWdodHMiLCJleHAiOjE3OTE3NTc1NjUsImlhdCI6MTc5MTMyNTU2NX0.PFU2YeNV1-U2-kTaaobxU9p5biBMu7b7-O5ZPdplcio&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxaijn25mi25</guid>
-<pubDate>Tue, 06 Oct 2026 22:35:55 +0000</pubDate>
-<description>The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage (OpenAI)</title>
-<link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxaianodfo2s</guid>
-<pubDate>Tue, 06 Oct 2026 22:30:53 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Gurman: Apple&#x27;s upcoming smart home products co-developed with LG are &quot;at least a few more months&quot; away; LG is handling manufacturing and product support (Marcus Mendes/9to5Mac)</title>
-<link>https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxafz6ju7i2g</guid>
-<pubDate>Tue, 06 Oct 2026 21:50:55 +0000</pubDate>
-<description>Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/softbank-backed-dayone-data-centers-plans-to-raise-up-to-5-0-bln-in-u-s-ipo-c568ead1?st=gyHkwv&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxafhrhhx72w</guid>
-<pubDate>Tue, 06 Oct 2026 21:41:11 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Apple&#x27;s push into smart home devices includes a doorbell, thermostat, and other accessories developed with LG; the products will carry the LG brand (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxae6dcnbh2x</guid>
-<pubDate>Tue, 06 Oct 2026 21:18:00 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)</title>
-<link>https://artificialanalysis.ai/articles/mistral-large-4-france-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxacnvg22i25</guid>
-<pubDate>Tue, 06 Oct 2026 20:50:55 +0000</pubDate>
-<description>Mistral has released Mistral Large 4, scoring 38 on the Artificial Analysis Intelligence Index; France is back to having the most intelligent model from outside the US and China</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/79dd3c53ad29c497246b44c24f1b3b860ab98e65-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Mistral has released Mistral Large 4, scoring 38 on the Artificial Analysis Intelligence Index; France is back to having the most intelligent model from outside the US and China</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/79dd3c53ad29c497246b44c24f1b3b860ab98e65-1254x1254.png?w=1200&amp;auto=format" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/79dd3c53ad29c497246b44c24f1b3b860ab98e65-1254x1254.png?w=1200&amp;auto=format" />
-</item>
-<item>
-<title>Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 (Meir Orbach/CTech)</title>
-<link>https://www.calcalistech.com/ctechnews/article/b1aq11vfime</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxabazqll32d</guid>
-<pubDate>Tue, 06 Oct 2026 20:25:50 +0000</pubDate>
-<description>Citi, Bank of America, Nomura, Tradeweb, J.P. Morgan, UBS and other major financial institutions are backing the fintech as it expands into securities lending through its eSecLending acquisition.</description>
-<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/06/Hy711WIMsGe/Hy711WIMsGe_1_85_2000_1126_0_large.jpg" alt="" /></p><p>Citi, Bank of America, Nomura, Tradeweb, J.P. Morgan, UBS and other major financial institutions are backing the fintech as it expands into securities lending through its eSecLending acquisition.</p>]]></content:encoded>
-<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/06/Hy711WIMsGe/Hy711WIMsGe_1_85_2000_1126_0_large.jpg" medium="image" />
-<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/06/Hy711WIMsGe/Hy711WIMsGe_1_85_2000_1126_0_large.jpg" />
 </item>
 </channel>
 </rss>
