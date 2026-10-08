@@ -5,8 +5,58 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 23:52:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 04:21:54 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#x27;t want to wait (The Information)</title>
+<link>https://www.theinformation.com/articles/nvidias-100-billion-dealmaking-juggernaut-will-go-next</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdj7a4lyb2o</guid>
+<pubDate>Thu, 08 Oct 2026 03:25:59 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January (Angel Au-Yeung/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdiojikkv2x</guid>
+<pubDate>Thu, 08 Oct 2026 03:16:38 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments (Diana Novak Jones/Reuters)</title>
+<link>https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdfdatwn52m</guid>
+<pubDate>Thu, 08 Oct 2026 02:16:39 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-07/ex-bytedance-intern-s-200-million-ai-lab-takes-on-fei-fei-li</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdbevcpl32m</guid>
+<pubDate>Thu, 08 Oct 2026 01:05:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxd7pdz7ji26</guid>
+<pubDate>Thu, 08 Oct 2026 00:36:02 +0000</pubDate>
+<description>Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857" alt="" /></p><p>Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857" />
+</item>
+<item>
+<title>Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are &quot;chilling those who remain at OpenAI&quot; (Maxwell Zeff/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxd5zkhw2422</guid>
+<pubDate>Thu, 08 Oct 2026 00:05:57 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-07/samsung-reaches-new-profit-record-with-memory-chip-windfall</link>
@@ -846,62 +896,6 @@
 <content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" alt="" /></p><p>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</p>]]></content:encoded>
 <media:content url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" medium="image" />
 <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" />
-</item>
-<item>
-<title>SpaceX stock closes up 7.6% after Morgan Stanley called SPCX &quot;cheap&quot;, reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5rw7tx372x</guid>
-<pubDate>Mon, 05 Oct 2026 20:46:02 +0000</pubDate>
-<description>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company&#x27;s AI business and Starship progress.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" alt="" /></p><p>SpaceX shares have bounced almost 60% off their low in early August, boosted by the company&#x27;s AI business and Starship progress.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1790695530&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5po52iti2d</guid>
-<pubDate>Mon, 05 Oct 2026 20:05:43 +0000</pubDate>
-<description>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" alt="" /></p><p>TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801" />
-</item>
-<item>
-<title>Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max (Semafor)</title>
-<link>https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ngntpeu2s</guid>
-<pubDate>Mon, 05 Oct 2026 19:25:44 +0000</pubDate>
-<description>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>Its new model, Beam, could give more options to Western companies and governments that don’t want to — or can’t — use Chinese models.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/20372becaab08e9627492155cd30b7426faa073b-2048x1365.avif?rect=0,146,2048,1075&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Sources: Meta and Microsoft are working to cut their employees&#x27; use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year (The Information)</title>
-<link>https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5ke6h7id2m</guid>
-<pubDate>Mon, 05 Oct 2026 18:30:40 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5jsb7fj62x</guid>
-<pubDate>Mon, 05 Oct 2026 18:20:39 +0000</pubDate>
-<description>Ghost&#x27;s first product is Core, a personal computer designed specifically for AI agents that can take actions on a person&#x27;s behalf.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" alt="" /></p><p>Ghost&#x27;s first product is Core, a personal computer designed specifically for AI agents that can take actions on a person&#x27;s behalf.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803" />
-</item>
-<item>
-<title>Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mx5i6wiwvu2o</guid>
-<pubDate>Mon, 05 Oct 2026 17:51:56 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
