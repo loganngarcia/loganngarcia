@@ -5,8 +5,56 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 09 Oct 2026 21:38:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 01:14:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation (Brian Krebs/Krebs on Security)</title>
+<link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxiclrttkx2x</guid>
+<pubDate>Sat, 10 Oct 2026 01:11:02 +0000</pubDate>
+<description>From krebsonsecurity.com</description>
+<content:encoded><![CDATA[<p>From krebsonsecurity.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)</title>
+<link>https://www.forbes.com/sites/iainmartin/2026/10/07/tiktok-quietly-gutted-its-advertising-rules-scams-have-exploded-ever-since/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxi5bi2bla25</guid>
+<pubDate>Fri, 09 Oct 2026 23:35:48 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&#x27;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxi4ynae2u2l</guid>
+<pubDate>Fri, 09 Oct 2026 23:30:51 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Trump admin says it&#x27;s now mandating AI companies &quot;immediately disclose incidents involving their models&quot; and move swiftly to remedy harm from security incidents (Axios)</title>
+<link>https://www.axios.com/2026/10/09/anthropic-ai-security-white-house</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxi3ltw4nr2m</guid>
+<pubDate>Fri, 09 Oct 2026 23:05:48 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxhzn7k4o725</guid>
+<pubDate>Fri, 09 Oct 2026 22:30:47 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A man US authorities called a &quot;fixer&quot;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxhysjuzdy2l</guid>
+<pubDate>Fri, 09 Oct 2026 22:15:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)</title>
 <link>https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack</link>
@@ -836,64 +884,6 @@
 <pubDate>Wed, 07 Oct 2026 19:05:57 +0000</pubDate>
 <description>From venturebeat.com</description>
 <content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)</title>
-<link>https://thenewstack.io/anthropic-claude-haiku-5-5/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxcm6pmxpe26</guid>
-<pubDate>Wed, 07 Oct 2026 18:46:43 +0000</pubDate>
-<description>Haiku 5.5 adds effort controls and posts big gains on computer-use and command-line benchmarks as Anthropic pitches its smallest model for agentic work.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" alt="" /></p><p>Haiku 5.5 adds effort controls and posts big gains on computer-use and command-line benchmarks as Anthropic pitches its smallest model for agentic work.</p>]]></content:encoded>
-<media:content url="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" medium="image" />
-<media:thumbnail url="https://cdn.thenewstack.io/media/2026/04/88e49de1-img_0987-2-scaled.jpg" />
-</item>
-<item>
-<title>OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes interactive elements like charts, buttons, and forms in answers (OpenAI)</title>
-<link>https://openai.com/index/gpt-6-for-everyone/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxclugpyuo2o</guid>
-<pubDate>Wed, 07 Oct 2026 18:40:58 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summaries and classification (Anthropic)</title>
-<link>https://www.anthropic.com/claude-haiku-5-5</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxckukq3c62l</guid>
-<pubDate>Wed, 07 Oct 2026 18:23:08 +0000</pubDate>
-<description>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</description>
-<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" alt="" /></p><p>Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</p>]]></content:encoded>
-<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" medium="image" />
-<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg" />
-</item>
-<item>
-<title>Microsoft opens preorders for the Surface Laptop Ultra from $2,599, shipping October 16; it has a breakaway port like Apple&#x27;s MagSafe, but on a standard USB-C (Zac Bowden/Windows Central)</title>
-<link>https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxckikksnk2x</guid>
-<pubDate>Wed, 07 Oct 2026 18:16:26 +0000</pubDate>
-<description>Surface Laptop Ultra is available to order today, with shipments expected to begin on October 16.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" alt="" /></p><p>Surface Laptop Ultra is available to order today, with shipments expected to begin on October 16.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3qVuiWCo7yFAg33wpBZffW-2560-80.jpg" />
-</item>
-<item>
-<title>Microsoft opens preorders for the $5,999 Surface RTX Spark Dev Box, with 128GB of unified memory to run local models with 120B+ parameters, shipping in November (Stevie Bonifield/The Verge)</title>
-<link>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxck7e56rv2d</guid>
-<pubDate>Wed, 07 Oct 2026 18:11:17 +0000</pubDate>
-<description>Microsoft’s high-end AI mini PC for developers starts shipping in November.﻿</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" alt="" /></p><p>Microsoft’s high-end AI mini PC for developers starts shipping in November.﻿</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&amp;strip=all&amp;crop=0%2C30.391676058944%2C100%2C65.44502617801&amp;w=1200" />
-</item>
-<item>
-<title>Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxchfcofum25</guid>
-<pubDate>Wed, 07 Oct 2026 17:20:55 +0000</pubDate>
-<description>Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" alt="" /></p><p>Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802" />
 </item>
 </channel>
 </rss>
