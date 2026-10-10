@@ -5,8 +5,44 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 10 Oct 2026 18:04:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:36:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>&quot;Super Intelligence systems&quot; are black boxes that shouldn&#x27;t be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)</title>
+<link>https://x.com/satyanadella/status/2108931348857827686</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxkfw4jdua2w</guid>
+<pubDate>Sat, 10 Oct 2026 21:15:50 +0000</pubDate>
+<description>Models as Insider Risks in the Super Intelligence Era</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg" alt="" /></p><p>Models as Insider Risks in the Super Intelligence Era</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg" />
+</item>
+<item>
+<title>Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)</title>
+<link>https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxkav5tvpy2u</guid>
+<pubDate>Sat, 10 Oct 2026 19:45:49 +0000</pubDate>
+<description>Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight</description>
+<content:encoded><![CDATA[<p><img src="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" alt="" /></p><p>Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight</p>]]></content:encoded>
+<media:content url="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" medium="image" />
+<media:thumbnail url="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" />
+</item>
+<item>
+<title>Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)</title>
+<link>https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxk6udxra526</guid>
+<pubDate>Sat, 10 Oct 2026 19:09:34 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&#x27;s share drops to 3% (William Langley/Financial Times)</title>
+<link>https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxk5sw4uj22g</guid>
+<pubDate>Sat, 10 Oct 2026 18:50:53 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)</title>
 <link>https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/</link>
@@ -854,44 +890,6 @@
 <pubDate>Thu, 08 Oct 2026 06:20:54 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SemiAnalysis: China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US (Financial Times)</title>
-<link>https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?accessToken=zwAAAaEZvb_AkdPh3Yv_sG1KQNO7t8Cmo28cjg.MEMCIFJvZex7K5pa0JIrZVPyen8pkZbKym1qwxfe8EbLmr89Ah9-N65jxdnXsIq0MzbJ8Rf9VmyWg4gqX4yJp17RgngD&amp;segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&amp;shareType=enterprise&amp;shareId=dd3eceea-e2f6-445a-8831-ed7e02e21f5e</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdpvt6gzr25</guid>
-<pubDate>Thu, 08 Oct 2026 05:25:59 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A theoretical computer scientist, citing sources, says AI labs have quietly started probing whether their models can break important cryptographic protocols (Scott Aaronson/Shtetl-Optimized)</title>
-<link>https://scottaaronson.blog/?p=10169</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdp35u7qa2w</guid>
-<pubDate>Thu, 08 Oct 2026 05:11:05 +0000</pubDate>
-<description>Updates (Oct. 9): To address some questions that keep coming up… No, I’m not aware of any direct practical implications of any of these results. I certainly don’t expect the O(n l…</description>
-<content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" alt="" /></p><p>Updates (Oct. 9): To address some questions that keep coming up… No, I’m not aware of any direct practical implications of any of these results. I certainly don’t expect the O(n l…</p>]]></content:encoded>
-<media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" medium="image" />
-<media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" />
-</item>
-<item>
-<title>Vitalik Buterin says &quot;we should take the risks to cryptography from AI-accelerated math seriously&quot;, backing a &quot;bunker mode&quot; call for the blockchain industry (Felix Ng/Cointelegraph)</title>
-<link>https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdorwibsh2u</guid>
-<pubDate>Thu, 08 Oct 2026 05:05:55 +0000</pubDate>
-<description>Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.</description>
-<content:encoded><![CDATA[<p><img src="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CCZ9950ZZBPSK7VXWX6DJ3/ai-hack-3.jpg" alt="" /></p><p>Ethereum co-founder Vitalik Buterin has backed a warning from Ethereum researcher Justin Drake that advances in artificial intelligence could threaten the cryptographic algorithms used to secure crypto wallets.</p>]]></content:encoded>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CCZ9950ZZBPSK7VXWX6DJ3/ai-hack-3.jpg" medium="image" />
-<media:thumbnail url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CCZ9950ZZBPSK7VXWX6DJ3/ai-hack-3.jpg" />
-</item>
-<item>
-<title>German search engine Ecosia, used by government services, ditches Mistral for open-source models, including Chinese ones, citing Mistral&#x27;s disappointing quality (Politico)</title>
-<link>https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdnx5tuza25</guid>
-<pubDate>Thu, 08 Oct 2026 04:50:57 +0000</pubDate>
-<description>“We are disappointed with the quality of Mistral,” Ecosia founder and CEO told POLITICO.</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg" alt="" /></p><p>“We are disappointed with the quality of Mistral,” Ecosia founder and CEO told POLITICO.</p>]]></content:encoded>
-<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg" medium="image" />
-<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg" />
 </item>
 </channel>
 </rss>
