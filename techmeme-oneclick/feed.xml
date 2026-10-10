@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 10 Oct 2026 07:14:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 13:48:31 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)</title>
+<link>https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjj57pgu62x</guid>
+<pubDate>Sat, 10 Oct 2026 12:40:49 +0000</pubDate>
+<description>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" alt="" /></p><p>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" />
+</item>
+<item>
+<title>A look at Walmart&#x27;s troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=GBFvs6&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjcgtnrwn22</guid>
+<pubDate>Sat, 10 Oct 2026 10:40:56 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&#x27;s internal chat app Lark (Sylvia Varnham O&#x27;Regan/Politico)</title>
+<link>https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxj3q4gqjc2s</guid>
+<pubDate>Sat, 10 Oct 2026 08:40:51 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors</link>
@@ -866,30 +892,6 @@
 <pubDate>Thu, 08 Oct 2026 04:35:56 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#x27;t want to wait (The Information)</title>
-<link>https://www.theinformation.com/articles/nvidias-100-billion-dealmaking-juggernaut-will-go-next</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdj7a4lyb2o</guid>
-<pubDate>Thu, 08 Oct 2026 03:25:59 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January (Angel Au-Yeung/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdiojikkv2x</guid>
-<pubDate>Thu, 08 Oct 2026 03:16:38 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments (Diana Novak Jones/Reuters)</title>
-<link>https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxdfdatwn52m</guid>
-<pubDate>Thu, 08 Oct 2026 02:16:39 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
