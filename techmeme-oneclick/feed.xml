@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 11 Oct 2026 13:00:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 17:59:49 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)</title>
+<link>https://www.kyivpost.com/post/86708</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmfd5utnx2n</guid>
+<pubDate>Sun, 11 Oct 2026 16:10:33 +0000</pubDate>
+<description>The third strike on Yandex servers in four days idled a 50-MW hub, disabling cloud systems, YandexGPT, and retail apps.</description>
+<content:encoded><![CDATA[<p><img src="https://static.kyivpost.com/storage/2026/10/11/206486c1a42e005e8352f3515f87a748.jpg?w=1200&amp;q=90&amp;f=jpg" alt="" /></p><p>The third strike on Yandex servers in four days idled a 50-MW hub, disabling cloud systems, YandexGPT, and retail apps.</p>]]></content:encoded>
+<media:content url="https://static.kyivpost.com/storage/2026/10/11/206486c1a42e005e8352f3515f87a748.jpg?w=1200&amp;q=90&amp;f=jpg" medium="image" />
+<media:thumbnail url="https://static.kyivpost.com/storage/2026/10/11/206486c1a42e005e8352f3515f87a748.jpg?w=1200&amp;q=90&amp;f=jpg" />
+</item>
+<item>
+<title>A look at Apple&#x27;s smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTcyNzI2MCwiZXhwIjoxNzkyMzMyMDYwLCJhcnRpY2xlSWQiOiJUTVFYSzJOM04wOFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.E6mgNQtIHgnFxRiqVKKqNT7CE2st-g896cIaaDBzKVs</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmbxvajtf2w</guid>
+<pubDate>Sun, 11 Oct 2026 15:10:34 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)</title>
+<link>https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxm2qumj6u2d</guid>
+<pubDate>Sun, 11 Oct 2026 13:01:22 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at Beijing-based Neolix, which operates the world&#x27;s largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTE0MiwiZXhwIjoxNzkyMTE5OTQyLCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b_-nqESa5G-X0MQKjbOdPR74AFxrdzrmpQ8ohKhMqic</link>
@@ -866,32 +892,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxecdbhe3x2s</guid>
 <pubDate>Thu, 08 Oct 2026 10:55:38 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Huawei says it aims to increase its overseas smartphone market share and expand HarmonyOS globally within one to three years, as Huawei-powered EV sales slow (CNBC)</title>
-<link>https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxeb7rikib2s</guid>
-<pubDate>Thu, 08 Oct 2026 10:35:47 +0000</pubDate>
-<description>Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108373724-1791337280533-gettyimages-2298063603-Huawei_Mate_90_Smartphone.jpeg?v=1791337305&amp;w=1920&amp;h=1080" alt="" /></p><p>Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108373724-1791337280533-gettyimages-2298063603-Huawei_Mate_90_Smartphone.jpeg?v=1791337305&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108373724-1791337280533-gettyimages-2298063603-Huawei_Mate_90_Smartphone.jpeg?v=1791337305&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>The US Federal Reserve&#x27;s September meeting shows officials are increasingly citing surging AI investments, not tariffs, as the driver of rising goods inflation (Steve Thompson/Washington Post)</title>
-<link>https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxeaenxopq26</guid>
-<pubDate>Thu, 08 Oct 2026 10:20:37 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>India&#x27;s Global Capability Centers, which employ 2.4M people across companies like JPMorgan, are automating entry-level tasks and hiring far fewer graduates (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-07/ai-crowds-out-fresh-grads-at-wall-street-tech-hubs-in-india</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxe7jtstcg2n</guid>
-<pubDate>Thu, 08 Oct 2026 10:05:37 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
