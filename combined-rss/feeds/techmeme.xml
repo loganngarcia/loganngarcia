@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 11 Oct 2026 18:02:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 21:51:51 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b3a9b30684de8c0ffb73.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmwo3p7vq2o</guid>
+<pubDate>Sun, 11 Oct 2026 21:20:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad" rel="related" type="text/html" />
+<description>The San Francisco company’s software makes it easier for developers to switch between different AI chips.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-92736782%2Fsocial" alt="" /></p><p>The San Francisco company’s software makes it easier for developers to switch between different AI chips.</p><p><a href="https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-92736782%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-92736782%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-92736782%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted "super intelligence", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ec8afeed3530ddc0933.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmup7yeha2n</guid>
+<pubDate>Sun, 11 Oct 2026 20:45:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai" rel="related" type="text/html" />
+<description>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" alt="" /></p><p>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c72027a7ce942422e1ed.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmmdgd75u2d</guid>
+<pubDate>Sun, 11 Oct 2026 18:15:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint" rel="related" type="text/html" />
+<description>Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?It’s simple: Every server Anthropic plugs in sooner to run its products could be wildly profitable, according to fresh analysis of upcoming AI data center sites, including one Anthropic ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17965/5dee259d-fac9-4335-8a97-996816dd7ce9-s7USqb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?It’s simple: Every server Anthropic plugs in sooner to run its products could be wildly profitable, according to fresh analysis of upcoming AI data center sites, including one Anthropic ...</p><p><a href="https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17965/5dee259d-fac9-4335-8a97-996816dd7ce9-s7USqb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17965/5dee259d-fac9-4335-8a97-996816dd7ce9-s7USqb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17965/5dee259d-fac9-4335-8a97-996816dd7ce9-s7USqb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a36de6b72562920c90b7.html</link>
@@ -463,11 +505,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/" rel="related" type="text/html" />
-<description>Six-month-old microchip ​startup Nuvacore, which does not yet have a product, is raising hundreds of millions of dollars at a ‌roughly $2.5 billion valuation to develop a new central processor designed for data centers, according to two people familiar with the fundraising.</description>
-<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>Six-month-old microchip ​startup Nuvacore, which does not yet have a product, is raising hundreds of millions of dollars at a ‌roughly $2.5 billion valuation to develop a new central processor designed for data centers, according to two people familiar with the fundraising.</p><p><a href="https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.reuters.com/resizer/v2/HCCF7TMT2VLF5IKWYGIGF5HDOU.jpg?auth=1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
+<description>Six-month-old microchip ​startup Nuvacore, which does not yet have a product, is raising hundreds of millions of dollars at a ‌roughly $2.5 billion valuation to develop a new central processor designe...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Six-month-old microchip ​startup Nuvacore, which does not yet have a product, is raising hundreds of millions of dollars at a ‌roughly $2.5 billion valuation to develop a new central processor designe...</p><p><a href="https://www.reuters.com/legal/transactional/sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-2026-10-09/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHCCF7TMT2VLF5IKWYGIGF5HDOU.jpg%3Fauth%3D1c4585f25decb6513535efcf814a0d9072a16b40cc06620c6f843f9b0c61fa56%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Trump admin says it's now mandating AI companies "immediately disclose incidents involving their models" and move swiftly to remedy harm from security incidents (Axios)</title>
@@ -478,10 +520,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.axios.com/2026/10/09/anthropic-ai-security-white-house" rel="related" type="text/html" />
 <description>The administration takes a more active stance after Anthropic reports incidents involving government systems.</description>
-<content:encoded><![CDATA[<p><img src="https://images.axios.com/fgwzJ2WUciRfFtEFV8FOLPmUaD0=/0x0:1920x1080/1366x768/2026/10/01/1790887076972.jpeg" alt="" /></p><p>The administration takes a more active stance after Anthropic reports incidents involving government systems.</p><p><a href="https://www.axios.com/2026/10/09/anthropic-ai-security-white-house">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.axios.com/fgwzJ2WUciRfFtEFV8FOLPmUaD0=/0x0:1920x1080/1366x768/2026/10/01/1790887076972.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.axios.com/fgwzJ2WUciRfFtEFV8FOLPmUaD0=/0x0:1920x1080/1366x768/2026/10/01/1790887076972.jpeg" />
-<enclosure url="https://images.axios.com/fgwzJ2WUciRfFtEFV8FOLPmUaD0=/0x0:1920x1080/1366x768/2026/10/01/1790887076972.jpeg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FfgwzJ2WUciRfFtEFV8FOLPmUaD0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F01%2F1790887076972.jpeg" alt="" /></p><p>The administration takes a more active stance after Anthropic reports incidents involving government systems.</p><p><a href="https://www.axios.com/2026/10/09/anthropic-ai-security-white-house">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FfgwzJ2WUciRfFtEFV8FOLPmUaD0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F01%2F1790887076972.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FfgwzJ2WUciRfFtEFV8FOLPmUaD0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F01%2F1790887076972.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FfgwzJ2WUciRfFtEFV8FOLPmUaD0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F01%2F1790887076972.jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)</title>
@@ -492,10 +534,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide" rel="related" type="text/html" />
 <description>Global compute shortages are making large enterprises rethink owning their infrastructure</description>
-<content:encoded><![CDATA[<p><img src="https://images.axios.com/Jr8umrGhm_-3zw0drsED17YrY3A=/0x0:1920x1080/1366x768/2026/01/07/1767809049510.jpeg" alt="" /></p><p>Global compute shortages are making large enterprises rethink owning their infrastructure</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.axios.com/Jr8umrGhm_-3zw0drsED17YrY3A=/0x0:1920x1080/1366x768/2026/01/07/1767809049510.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.axios.com/Jr8umrGhm_-3zw0drsED17YrY3A=/0x0:1920x1080/1366x768/2026/01/07/1767809049510.jpeg" />
-<enclosure url="https://images.axios.com/Jr8umrGhm_-3zw0drsED17YrY3A=/0x0:1920x1080/1366x768/2026/01/07/1767809049510.jpeg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FJr8umrGhm_-3zw0drsED17YrY3A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F07%2F1767809049510.jpeg" alt="" /></p><p>Global compute shortages are making large enterprises rethink owning their infrastructure</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/09/compute-cloud-ai-oxide">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FJr8umrGhm_-3zw0drsED17YrY3A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F07%2F1767809049510.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FJr8umrGhm_-3zw0drsED17YrY3A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F07%2F1767809049510.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FJr8umrGhm_-3zw0drsED17YrY3A%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F07%2F1767809049510.jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>A man US authorities called a "fixer", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)</title>
@@ -505,11 +547,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers" rel="related" type="text/html" />
-<description>A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM4XkMvMdhS0/v1/1200x800.jpg" alt="" /></p><p>A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM4XkMvMdhS0/v1/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM4XkMvMdhS0/v1/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM4XkMvMdhS0/v1/1200x800.jpg" type="image/jpeg" length="0" />
+<description>A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to c...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM4XkMvMdhS0%2Fv1%2F1200x800.jpg" alt="" /></p><p>A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to c...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM4XkMvMdhS0%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM4XkMvMdhS0%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM4XkMvMdhS0%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)</title>
@@ -520,10 +562,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack" rel="related" type="text/html" />
 <description>Inside the AI industry's worst-case-scenario prep.</description>
-<content:encoded><![CDATA[<p><img src="https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg" alt="" /></p><p>Inside the AI industry's worst-case-scenario prep.</p><p><a href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg" />
-<enclosure url="https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMZSM9WY5XMz-gIs0a8Jt0iicgjw%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F08%2F1791483950907.jpeg" alt="" /></p><p>Inside the AI industry's worst-case-scenario prep.</p><p><a href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMZSM9WY5XMz-gIs0a8Jt0iicgjw%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F08%2F1791483950907.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMZSM9WY5XMz-gIs0a8Jt0iicgjw%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F08%2F1791483950907.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMZSM9WY5XMz-gIs0a8Jt0iicgjw%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F08%2F1791483950907.jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it "feels like Opus 5.5" (Hugh Langley/Business Insider)</title>
@@ -576,10 +618,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.axios.com/2026/10/09/decacorns-record-venture-capital" rel="related" type="text/html" />
 <description>Startups are reaching $10 billion valuations faster, and more frequently.</description>
-<content:encoded><![CDATA[<p><img src="https://images.axios.com/GqfE431L3l4BZdImOJmhvdViQAY=/1366x768/smart/2023/01/20/002257-1674174177313.jpg" alt="" /></p><p>Startups are reaching $10 billion valuations faster, and more frequently.</p><p><a href="https://www.axios.com/2026/10/09/decacorns-record-venture-capital">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.axios.com/GqfE431L3l4BZdImOJmhvdViQAY=/1366x768/smart/2023/01/20/002257-1674174177313.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.axios.com/GqfE431L3l4BZdImOJmhvdViQAY=/1366x768/smart/2023/01/20/002257-1674174177313.jpg" />
-<enclosure url="https://images.axios.com/GqfE431L3l4BZdImOJmhvdViQAY=/1366x768/smart/2023/01/20/002257-1674174177313.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FGqfE431L3l4BZdImOJmhvdViQAY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F20%2F002257-1674174177313.jpg" alt="" /></p><p>Startups are reaching $10 billion valuations faster, and more frequently.</p><p><a href="https://www.axios.com/2026/10/09/decacorns-record-venture-capital">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FGqfE431L3l4BZdImOJmhvdViQAY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F20%2F002257-1674174177313.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FGqfE431L3l4BZdImOJmhvdViQAY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F20%2F002257-1674174177313.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FGqfE431L3l4BZdImOJmhvdViQAY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F20%2F002257-1674174177313.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)</title>
@@ -715,11 +757,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/" rel="related" type="text/html" />
-<description>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌Korean banks.</description>
-<content:encoded><![CDATA[<p><img src="https://www.reuters.com/resizer/v2/VGTDWW26GRL4RARMHPXXLZCTHA.jpg?auth=5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" alt="" /></p><p>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌Korean banks.</p><p><a href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.reuters.com/resizer/v2/VGTDWW26GRL4RARMHPXXLZCTHA.jpg?auth=5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.reuters.com/resizer/v2/VGTDWW26GRL4RARMHPXXLZCTHA.jpg?auth=5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.reuters.com/resizer/v2/VGTDWW26GRL4RARMHPXXLZCTHA.jpg?auth=5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
+<description>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌...</p><p><a href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)</title>
@@ -730,10 +772,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile" rel="related" type="text/html" />
 <description>Bitcoin-based life insurance offers a way for owners to access returns on bitcoin gains, tax-free.</description>
-<content:encoded><![CDATA[<p><img src="https://images.axios.com/gKORCTNquhz5Atf4UCiX8QiNrp4=/1366x768/smart/2024/01/11/214624-1705009584622.jpg" alt="" /></p><p>Bitcoin-based life insurance offers a way for owners to access returns on bitcoin gains, tax-free.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.axios.com/gKORCTNquhz5Atf4UCiX8QiNrp4=/1366x768/smart/2024/01/11/214624-1705009584622.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.axios.com/gKORCTNquhz5Atf4UCiX8QiNrp4=/1366x768/smart/2024/01/11/214624-1705009584622.jpg" />
-<enclosure url="https://images.axios.com/gKORCTNquhz5Atf4UCiX8QiNrp4=/1366x768/smart/2024/01/11/214624-1705009584622.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" alt="" /></p><p>Bitcoin-based life insurance offers a way for owners to access returns on bitcoin gains, tax-free.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction (Eli Tan/New York Times)</title>
@@ -772,10 +814,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews" rel="related" type="text/html" />
 <description>A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower the barriers to large-scale hacking.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2PwnOEDzTw/v1/1200x800.jpg" alt="" /></p><p>A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower the barriers to large-scale hacking.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2PwnOEDzTw/v1/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2PwnOEDzTw/v1/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2PwnOEDzTw/v1/1200x800.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" alt="" /></p><p>A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower the barriers to large-scale hacking.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: Netflix is preparing for layoffs that will impact ~5% of employees, or ~850 jobs, amid pressure over weakened engagement and a depressed stock price (Matthew Belloni/Puck)</title>
@@ -804,48 +846,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108377590-1791480338571-gettyimages-2297785644-_04a8884_zmdnebzw.jpeg?v=1791480361&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Global PC shipments dropped 20.1% YoY in Q3 to 62.7M units due to higher prices and supply issues; Lenovo dropped 22.6% YoY, HP 30.9%, Dell 25%, and Apple 11.3% (IDC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac2c90b6434f0a37c20c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgkr3h4ep2d</guid>
-<pubDate>Fri, 09 Oct 2026 08:31:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/" rel="related" type="text/html" />
-<description>Seasonal third quarter lift fails to materialize after vendors and channels front-loaded inventory ahead of price hikes</description>
-<content:encoded><![CDATA[<p><img src="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" alt="" /></p><p>Seasonal third quarter lift fails to materialize after vendors and channels front-loaded inventory ahead of price hikes</p><p><a href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" medium="image" type="image/png" />
-<media:thumbnail url="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" />
-<enclosure url="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/51aec47d93aae42c5068.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgdpr3dhs2d</guid>
-<pubDate>Fri, 09 Oct 2026 06:25:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand" rel="related" type="text/html" />
-<description>Suppliers blame premium handsets' price hike for weaker consumer uptake</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F9%2F7%2F13297991-1-eng-GB%2Ff51a927dcb62-GettyImages-2295963788b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Suppliers blame premium handsets' price hike for weaker consumer uptake</p><p><a href="https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F9%2F7%2F13297991-1-eng-GB%2Ff51a927dcb62-GettyImages-2295963788b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F9%2F7%2F13297991-1-eng-GB%2Ff51a927dcb62-GettyImages-2295963788b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F9%2F7%2F13297991-1-eng-GB%2Ff51a927dcb62-GettyImages-2295963788b.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/758be6bcd317107d43eb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxg7b4avh22w</guid>
-<pubDate>Fri, 09 Oct 2026 05:06:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd" rel="related" type="text/html" />
-<description>Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F79c91b3a-915a-4f62-ab44-1ee5c150e85d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks</p><p><a href="https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F79c91b3a-915a-4f62-ab44-1ee5c150e85d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F79c91b3a-915a-4f62-ab44-1ee5c150e85d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F79c91b3a-915a-4f62-ab44-1ee5c150e85d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
