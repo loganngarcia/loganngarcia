@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 11 Oct 2026 17:59:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 21:46:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)</title>
+<link>https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmwo3p7vq2o</guid>
+<pubDate>Sun, 11 Oct 2026 21:20:54 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump (Terrence O&#x27;Brien/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmup7yeha2n</guid>
+<pubDate>Sun, 11 Oct 2026 20:45:44 +0000</pubDate>
+<description>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" alt="" /></p><p>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" />
+</item>
+<item>
+<title>A look at the economics of Anthropic&#x27;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)</title>
+<link>https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmmdgd75u2d</guid>
+<pubDate>Sun, 11 Oct 2026 18:15:58 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)</title>
 <link>https://www.kyivpost.com/post/86708</link>
@@ -868,32 +894,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25742545/Screenshot_2024_11_19_at_3.46.13_PM.png?quality=90&amp;strip=all&amp;crop=0%2C1.6189481096183%2C100%2C96.762103780763&amp;w=1200" alt="" /></p><p>Asha Sharma’s next big move is launching XP.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25742545/Screenshot_2024_11_19_at_3.46.13_PM.png?quality=90&amp;strip=all&amp;crop=0%2C1.6189481096183%2C100%2C96.762103780763&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25742545/Screenshot_2024_11_19_at_3.46.13_PM.png?quality=90&amp;strip=all&amp;crop=0%2C1.6189481096183%2C100%2C96.762103780763&amp;w=1200" />
-</item>
-<item>
-<title>Analysis: the hacker who targeted South Korean banks is likely Chinese-speaking, financially motivated, and used LLMs and open-source Chinese agentic tool ARTEX (Ashley Campion/CrowdStrike)</title>
-<link>https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxeekq6cne2o</guid>
-<pubDate>Thu, 08 Oct 2026 11:35:36 +0000</pubDate>
-<description>CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage" alt="" /></p><p>CrowdStrike Intelligence identified infrastructure associated with a targeted campaign against South Korean financial institutions that resulted in exfiltrated data.</p>]]></content:encoded>
-<media:content url="https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage" medium="image" />
-<media:thumbnail url="https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage" />
-</item>
-<item>
-<title>Quantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M (Isabelle Bousquette/Wall Street Journal)</title>
-<link>https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc?st=gP1Nnv&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxedh5sbu22d</guid>
-<pubDate>Thu, 08 Oct 2026 11:15:42 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access (Kirsi Heikel/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxecdbhe3x2s</guid>
-<pubDate>Thu, 08 Oct 2026 10:55:38 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
