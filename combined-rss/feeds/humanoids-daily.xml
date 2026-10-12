@@ -5,8 +5,50 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 12 Oct 2026 16:41:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 23:16:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Asimov Releases Python SDK, Announces Open-Source Edge Control Layer</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3daf6b289cd1fc09e74b.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source</guid>
+<pubDate>Mon, 12 Oct 2026 19:36:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source" rel="related" type="text/html" />
+<description>Menlo Research releases a Python SDK for Asimov 1 and announces plans to open its controller-arbitration layer, extending the humanoid’s developer tools.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp" alt="" /></p><p>Menlo Research releases a Python SDK for Asimov 1 and announces plans to open its controller-arbitration layer, extending the humanoid’s developer tools.</p><p><a href="https://www.humanoidsdaily.com/news/asimov-python-sdk-edge-open-source">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/asimov-sdk-teleoperation-hero-KAZLA2dhuvRZQLsOmPOYKs2NvZyByM.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Google DeepMind Is Building a New Cambridge-Area Robotics Lab, Aaron Saunders Says</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/17e6372f62920cb59428.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders</guid>
+<pubDate>Mon, 12 Oct 2026 18:34:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders" rel="related" type="text/html" />
+<description>Former Boston Dynamics CTO Aaron Saunders says Google DeepMind is creating a new lab for its growing robotics hardware team, with more news expected in 2027.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp" alt="" /></p><p>Former Boston Dynamics CTO Aaron Saunders says Google DeepMind is creating a new lab for its growing robotics hardware team, with more news expected in 2027.</p><p><a href="https://www.humanoidsdaily.com/news/google-deepmind-cambridge-robotics-lab-aaron-saunders">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deepmind-cambridge-editorial-hero-jlUSUgKzEL6xM0zPF4xZDERvZH9oQD.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>DeepSeek Reportedly Plans to Lead Winverse AI Seed Round at $400 Million Valuation</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/38ddf7709c9b965d771e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/deepseek-winverse-ai-seed-round-400-million-valuation</guid>
+<pubDate>Mon, 12 Oct 2026 18:29:42 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/deepseek-winverse-ai-seed-round-400-million-valuation" rel="related" type="text/html" />
+<description>Bloomberg reports that DeepSeek plans to lead a seed round of tens of millions of dollars for robot-AI startup Winverse. The proposed deal is not yet finalized.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp" alt="" /></p><p>Bloomberg reports that DeepSeek plans to lead a seed round of tens of millions of dollars for robot-AI startup Winverse. The proposed deal is not yet finalized.</p><p><a href="https://www.humanoidsdaily.com/news/deepseek-winverse-ai-seed-round-400-million-valuation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/winverse-han-hu-deepseek-editorial-hero-dVipm4QNUBxcPVnfaEJ75uFDLLca4P.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Archon Robotics Shares Debut Demo of Its Whole-Body Humanoid Intelligence</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a26f13c054784f127b7.html</link>
@@ -454,48 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/panasonic-energy-innovation-square-battery-prototyping-PFSHXmAZK9jQfeq5NF4yhS5RkYCsCr.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/panasonic-energy-innovation-square-battery-prototyping-PFSHXmAZK9jQfeq5NF4yhS5RkYCsCr.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/panasonic-energy-innovation-square-battery-prototyping-PFSHXmAZK9jQfeq5NF4yhS5RkYCsCr.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>GPT-6 Astra Leads SuperCLUE’s Robot-Brain Benchmark, With a Wide Planning Advantage</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/939d7f0d7347a4d62ecd.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/superclue-september-2026-robot-brain-planning-gap</guid>
-<pubDate>Mon, 05 Oct 2026 06:52:42 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/superclue-september-2026-robot-brain-planning-gap" rel="related" type="text/html" />
-<description>GPT-6 Astra scores highest among ten models in SuperCLUE’s September evaluation, with a 21.42-point lead in interaction and planning over Gemini-3.8-Flash.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/superclue-september-2026-embodied-brain-leaderboard-IgG7QBFbNTqKUfEbSODeiuYSZNsvwy.webp" alt="" /></p><p>GPT-6 Astra scores highest among ten models in SuperCLUE’s September evaluation, with a 21.42-point lead in interaction and planning over Gemini-3.8-Flash.</p><p><a href="https://www.humanoidsdaily.com/news/superclue-september-2026-robot-brain-planning-gap">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/superclue-september-2026-embodied-brain-leaderboard-IgG7QBFbNTqKUfEbSODeiuYSZNsvwy.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/superclue-september-2026-embodied-brain-leaderboard-IgG7QBFbNTqKUfEbSODeiuYSZNsvwy.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/superclue-september-2026-embodied-brain-leaderboard-IgG7QBFbNTqKUfEbSODeiuYSZNsvwy.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>RoboParty Unveils RP1 Humanoid at IROS, Plans Broader Open-Source Release in Q4</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3aa088bd6d35fd79c37c.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/roboparty-rp1-humanoid-iros-open-source</guid>
-<pubDate>Sun, 04 Oct 2026 09:04:35 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/roboparty-rp1-humanoid-iros-open-source" rel="related" type="text/html" />
-<description>RoboParty’s RP1 debuted with balance-recovery demonstrations at IROS. The developer-focused humanoid builds on ROBOTO ORIGIN, with broader hardware and software releases planned for Q4.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp" alt="" /></p><p>RoboParty’s RP1 debuted with balance-recovery demonstrations at IROS. The developer-focused humanoid builds on ROBOTO ORIGIN, with broader hardware and software releases planned for Q4.</p><p><a href="https://www.humanoidsdaily.com/news/roboparty-rp1-humanoid-iros-open-source">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/roboparty-rp1-iros-booth-Zkla0DQHQ5bS6dZyW4Zz0ikPodQ6Cl.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tesla Optimus Plant Takes Shape in Texas, With Steel Structure Estimated at 40%</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d92588911117786a477e.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-texas-plant-steel-40-percent</guid>
-<pubDate>Sat, 03 Oct 2026 10:11:06 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-texas-plant-steel-40-percent" rel="related" type="text/html" />
-<description>Joe Tegtmeyer’s latest Giga Texas update details advancing steelwork and upper-floor concrete at the Optimus factory, with substantial construction still ahead.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" alt="" /></p><p>Joe Tegtmeyer’s latest Giga Texas update details advancing steelwork and upper-floor concrete at the Optimus factory, with substantial construction still ahead.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-texas-plant-steel-40-percent">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-texas-construction-october-iDKogUiYQ77md022JJxJ8Q5dssVvRD.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

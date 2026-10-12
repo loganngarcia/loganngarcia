@@ -5,8 +5,176 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 12 Oct 2026 16:41:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 23:16:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b07d18c0a8c621e2a345.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxpjw37qi225</guid>
+<pubDate>Mon, 12 Oct 2026 22:10:42 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale" rel="related" type="text/html" />
+<description>JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale for AI startup Volta Infrastructure Holdings Ltd. as investors demand hig...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwFEbSIo8nLE%2Fv0%2F1200x800.jpg" alt="" /></p><p>JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale for AI startup Volta Infrastructure Holdings Ltd. as investors demand hig...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwFEbSIo8nLE%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwFEbSIo8nLE%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiwFEbSIo8nLE%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes (Anthropic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e6bb69f517c664dd8eeb.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxpisfu6ai2m</guid>
+<pubDate>Mon, 12 Oct 2026 21:50:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.anthropic.com/research/self-replicating-ai" rel="related" type="text/html" />
+<description>Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed.</p><p><a href="https://www.anthropic.com/research/self-replicating-ai">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an "AI first" production model with "no more hand-written code" (Jason Schreier/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0aeac736dc95d366de6f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxpe2bfsdi2w</guid>
+<pubDate>Mon, 12 Oct 2026 20:25:40 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA" rel="related" type="text/html" />
+<description>The company told the team behind the upcoming shooter that it will now be an ‘AI first’ production</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiossy07bgwis%2Fv0%2F1200x826.jpg" alt="" /></p><p>The company told the team behind the upcoming shooter that it will now be an ‘AI first’ production</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiossy07bgwis%2Fv0%2F1200x826.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiossy07bgwis%2Fv0%2F1200x826.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiossy07bgwis%2Fv0%2F1200x826.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Suki, an AI ambient scribe for healthcare providers, raised a $90M Series E led by Healthier Capital; a source says it projects $60M-$80M in revenue this year (Brock E.W. Turner/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/42f43920452aea3a3088.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxpcp22euw2u</guid>
+<pubDate>Mon, 12 Oct 2026 20:01:30 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/health-tech-deals/2026/10/12/suki-series-e-90m-healthier-capital" rel="related" type="text/html" />
+<description>Suki's effort comes amid stiff competition from incumbents like Epic and Oracle along with well-capitalized startups.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F5bKu2EWRA8W_6vQjoq9rg5v09LY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F17%2F194508-1673984708104.jpg" alt="" /></p><p>Suki's effort comes amid stiff competition from incumbents like Epic and Oracle along with well-capitalized startups.</p><p><a href="https://www.axios.com/pro/health-tech-deals/2026/10/12/suki-series-e-90m-healthier-capital">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F5bKu2EWRA8W_6vQjoq9rg5v09LY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F17%2F194508-1673984708104.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F5bKu2EWRA8W_6vQjoq9rg5v09LY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F17%2F194508-1673984708104.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F5bKu2EWRA8W_6vQjoq9rg5v09LY%3D%2F1366x768%2Fsmart%2F2023%2F01%2F17%2F194508-1673984708104.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Bumble is in advanced talks to be taken private at a ~$1B valuation; the buyer is Ithaca Holdings, a firm founded recently by two Silicon Valley execs (Cara Lombardo/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4648bcec31dbe53e2d53.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxp6hgyqfz2n</guid>
+<pubDate>Mon, 12 Oct 2026 18:45:40 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef" rel="related" type="text/html" />
+<description>Founder Whitney Wolfe Herd is expected to stay involved with the company as part of the deal.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56344589%2Fsocial" alt="" /></p><p>Founder Whitney Wolfe Herd is expected to stay involved with the company as part of the deal.</p><p><a href="https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56344589%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56344589%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56344589%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max) (@artificialanlys)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a3270125420482c46a53.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxp3ezg76o2d</guid>
+<pubDate>Mon, 12 Oct 2026 17:50:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/artificialanlys/status/2109697083519447118" rel="related" type="text/html" />
+<description>Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks Muse Wonder is available for users on Meta’s first-party…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" alt="" /></p><p>Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks Muse Wonder is available for users on Meta’s first-party…</p><p><a href="https://x.com/artificialanlys/status/2109697083519447118">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" />
+<enclosure url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta says Muse Wonder is available to Muse app subscribers, via Meta Model API, and Muse Code; Wonder Full is available to Muse Code subscribers (Jonathan Vanian/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/01c2829a0ca259519de1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxp2bpgr5g2o</guid>
+<pubDate>Mon, 12 Oct 2026 17:30:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html" rel="related" type="text/html" />
+<description>Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" alt="" /></p><p>Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.</p><p><a href="https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5f2d925f375ccc6a3d4e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozyocxee2l</guid>
+<pubDate>Mon, 12 Oct 2026 17:25:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai" rel="related" type="text/html" />
+<description>These models are an important test of its investments in AI.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" alt="" /></p><p>These models are an important test of its investments in AI.</p><p><a href="https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it "can bring to everyone using Muse" (Robert Hart/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0201881466aa03af463.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozpihmg52x</guid>
+<pubDate>Mon, 12 Oct 2026 17:20:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&amp;utm_medium=gift-link" rel="related" type="text/html" />
+<description>Meta says the models compete with the industry’s best and will soon power its Muse agent.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Meta says the models compete with the industry’s best and will soon power its Muse agent.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&amp;utm_medium=gift-link">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" type="image/png" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" type="image/png" length="0" />
+</item>
+<item>
+<title>An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d0c6f569b47fac0c803.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozgmyofw25</guid>
+<pubDate>Mon, 12 Oct 2026 17:15:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb" rel="related" type="text/html" />
+<description>FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race</p><p><a href="https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/31ba1e7c3abdb2810def.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoyn67fty2l</guid>
+<pubDate>Mon, 12 Oct 2026 17:01:30 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://research.meta.ai/blog/muse-wonder" rel="related" type="text/html" />
+<description>Muse Wonder is Meta's frontier AI model that keeps track of what matters to you with Active Memory &amp; Active Focus to work towards your goals at work &amp; life.</description>
+<content:encoded><![CDATA[<p><img src="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" alt="" /></p><p>Muse Wonder is Meta's frontier AI model that keeps track of what matters to you with Active Memory &amp; Active Focus to work towards your goals at work &amp; life.</p><p><a href="https://research.meta.ai/blog/muse-wonder">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" />
+<enclosure url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Getty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty (Anhata Rooprai/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/088cb2d3133ecd0457c6.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoweag7cu2g</guid>
+<pubDate>Mon, 12 Oct 2026 16:20:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/" rel="related" type="text/html" />
+<description>Getty Images said on Monday it would file for bankruptcy and go private after a restructuring ​agreement that the visual-content provider expects to close by the ‌end of the year.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Getty Images said on Monday it would file for bankruptcy and go private after a restructuring ​agreement that the visual-content provider expects to close by the ‌end of the year.</p><p><a href="https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out "multi-gigawatt deployments" of the chip starting next year (Reuters)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/572fd7017928547108c6.html</link>
@@ -43,8 +211,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks" rel="related" type="text/html" />
-<description>Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" alt="" /></p><p>Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks">Open Original Article</a></p>]]></content:encoded>
+<description>Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seeking...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" alt="" /></p><p>Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seeking...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -678,174 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1221837516816306177%2F_Ld4un5A_400x400.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1221837516816306177%2F_Ld4un5A_400x400.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1221837516816306177%2F_Ld4un5A_400x400.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fef6a1067447f2c7ceb9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxkav5tvpy2u</guid>
-<pubDate>Sat, 10 Oct 2026 19:45:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300" rel="related" type="text/html" />
-<description>Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight</description>
-<content:encoded><![CDATA[<p><img src="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" alt="" /></p><p>Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight</p><p><a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" />
-<enclosure url="https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/611aad146f3729c84e29.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxk6udxra526</guid>
-<pubDate>Sat, 10 Oct 2026 19:09:34 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a" rel="related" type="text/html" />
-<description>Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek</p><p><a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro's share drops to 3% (William Langley/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/14788aa66d74f57165ee.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxk5sw4uj22g</guid>
-<pubDate>Sat, 10 Oct 2026 18:50:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659" rel="related" type="text/html" />
-<description>DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a776a84-cc32-42df-8d8f-7747ef4e0cdf.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker</p><p><a href="https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a776a84-cc32-42df-8d8f-7747ef4e0cdf.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a776a84-cc32-42df-8d8f-7747ef4e0cdf.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F3a776a84-cc32-42df-8d8f-7747ef4e0cdf.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/962e8042952172d15992.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjx4opwtr2g</guid>
-<pubDate>Sat, 10 Oct 2026 16:51:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/" rel="related" type="text/html" />
-<description>A Slack workspace has served as a war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.</description>
-<content:encoded><![CDATA[<p><img src="https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg" alt="" /></p><p>A Slack workspace has served as a war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.</p><p><a href="https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg" />
-<enclosure url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute (Jemima McEvoy/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6eeaea53a12f113897d6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjs3xqcda25</guid>
-<pubDate>Sat, 10 Oct 2026 15:21:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/shroud-secrecy-cloaks-star-investor-behind-cognition-ramp" rel="related" type="text/html" />
-<description>Last month, Zach Dell, son of billionaire Michael Dell and cofounder of Base Power,a billion-dollar battery startup, was gabbing with podcaster David Senra when Senra asked him which of his investors have been the most helpful to him. Dell’s three-year-old company has many prominent backers, ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17954/8019dea1-1b9e-4a2d-b060-d4e4ba228432.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Last month, Zach Dell, son of billionaire Michael Dell and cofounder of Base Power,a billion-dollar battery startup, was gabbing with podcaster David Senra when Senra asked him which of his investors have been the most helpful to him. Dell’s three-year-old company has many prominent backers, ...</p><p><a href="https://www.theinformation.com/articles/shroud-secrecy-cloaks-star-investor-behind-cognition-ramp">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17954/8019dea1-1b9e-4a2d-b060-d4e4ba228432.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17954/8019dea1-1b9e-4a2d-b060-d4e4ba228432.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17954/8019dea1-1b9e-4a2d-b060-d4e4ba228432.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ff381a5690cf3d92f089.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjn2ffg4326</guid>
-<pubDate>Sat, 10 Oct 2026 13:50:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&amp;reflink=article_copyURL_share" rel="related" type="text/html" />
-<description>Tom Brown is leveraging his Republican ties and business savvy to win over Washington and secure the computing power Anthropic needs.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56078428%2Fsocial" alt="" /></p><p>Tom Brown is leveraging his Republican ties and business savvy to win over Washington and secure the computing power Anthropic needs.</p><p><a href="https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&amp;reflink=article_copyURL_share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56078428%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56078428%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56078428%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c7e66095ed940e42e704.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjj57pgu62x</guid>
-<pubDate>Sat, 10 Oct 2026 12:40:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/" rel="related" type="text/html" />
-<description>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" alt="" /></p><p>Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.</p><p><a href="https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" />
-<enclosure url="https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at Walmart's troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0b5f839f1578a95c01ea.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxjcgtnrwn22</guid>
-<pubDate>Sat, 10 Oct 2026 10:40:56 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=GBFvs6&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Machines programmed to sort merchandise in warehouses hit kinks with cardboard boxes and turkeys. “We are kind of in this peak complexity.”</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-50853314%2Fsocial" alt="" /></p><p>Machines programmed to sort merchandise in warehouses hit kinks with cardboard boxes and turkeys. “We are kind of in this peak complexity.”</p><p><a href="https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=GBFvs6&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-50853314%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-50853314%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-50853314%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance's internal chat app Lark (Sylvia Varnham O'Regan/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/31f40e1f80c38a14c6b4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxj3q4gqjc2s</guid>
-<pubDate>Sat, 10 Oct 2026 08:40:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142" rel="related" type="text/html" />
-<description>New details from inside TikTok US suggest notable operational ties remain to its former Beijing-based parent company.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F07%252F3b%252F6051ab054ef8b211f9d4af68e346%252Fmag-tiktok-trump-global.jpg" alt="" /></p><p>New details from inside TikTok US suggest notable operational ties remain to its former Beijing-based parent company.</p><p><a href="https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F07%252F3b%252F6051ab054ef8b211f9d4af68e346%252Fmag-tiktok-trump-global.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F07%252F3b%252F6051ab054ef8b211f9d4af68e346%252Fmag-tiktok-trump-global.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F07%252F3b%252F6051ab054ef8b211f9d4af68e346%252Fmag-tiktok-trump-global.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/325656044c1df6101f36.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxiuqjgbap2w</guid>
-<pubDate>Sat, 10 Oct 2026 06:35:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors" rel="related" type="text/html" />
-<description>When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have run into a problem: The two private companies calculate a closely watched revenue figure differ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiX703XJ.2BnA%2Fv1%2F1200x799.jpg" alt="" /></p><p>When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have run into a problem: The two private companies calculate a closely watched revenue figure differ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiX703XJ.2BnA%2Fv1%2F1200x799.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiX703XJ.2BnA%2Fv1%2F1200x799.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiX703XJ.2BnA%2Fv1%2F1200x799.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/26dfcc33b2a61cbc5a37.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxiu6unb5k2g</guid>
-<pubDate>Sat, 10 Oct 2026 06:25:56 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.trendforce.com/presscenter/news/20261008-13264.html" rel="related" type="text/html" />
-<description>TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is expected to shift from supply constraints to the impact of rising costs on demand. Global notebook shipments are currently projected to decline by a low-single-digit percentage in 2027.</description>
-<content:encoded><![CDATA[<p><img src="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" alt="" /></p><p>TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is expected to shift from supply constraints to the impact of rising costs on demand. Global notebook shipments are currently projected to decline by a low-single-digit percentage in 2027.</p><p><a href="https://www.trendforce.com/presscenter/news/20261008-13264.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" />
-<enclosure url="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d5ca1d31aab7c7b19726.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxitmtyzmt2g</guid>
-<pubDate>Sat, 10 Oct 2026 06:15:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design" rel="related" type="text/html" />
-<description>EDA leader forecasts $11.15bn revenue in FY27 as OpenAI, Amazon deals drive AI push</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>EDA leader forecasts $11.15bn revenue in FY27 as OpenAI, Amazon deals drive AI push</p><p><a href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
