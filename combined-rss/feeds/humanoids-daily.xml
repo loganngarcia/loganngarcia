@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 12 Oct 2026 00:57:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 07:02:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>XPENG Targets H2 2027 European Rollout for IRON Humanoid Robot</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a1af8a33737d9372dd74.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-iron-europe-rollout-h2-2027</guid>
+<pubDate>Mon, 12 Oct 2026 05:42:25 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/xpeng-iron-europe-rollout-h2-2027" rel="related" type="text/html" />
+<description>XPENG’s Paris presentation sets out late-2026 mass production, H1 2027 deliveries and a European rollout in H2 2027, with commercial applications first.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp" alt="" /></p><p>XPENG’s Paris presentation sets out late-2026 mass production, H1 2027 deliveries and a European rollout in H2 2027, with commercial applications first.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-iron-europe-rollout-h2-2027">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-paris-europe-rollout-41ttF0JUh2JSgCJEIAfWmhtxtqEwVc.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Robotera’s VPP2 Tops RoboDojo Simulation Benchmark by Linking Video Prediction to Robot Actions</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/567077e91836a9dc767d.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-tour-workers-humanoids-cEojBJGW3KffhHoFOZUkI7iygMJspn.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-tour-workers-humanoids-cEojBJGW3KffhHoFOZUkI7iygMJspn.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/ubtech-factory-tour-workers-humanoids-cEojBJGW3KffhHoFOZUkI7iygMJspn.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Boston Dynamics Gives Atlas Four-Finger Hands Built for Tools and AI Training</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/df72043c73545a40551d.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/boston-dynamics-atlas-four-finger-hands-13-dof</guid>
-<pubDate>Thu, 01 Oct 2026 14:08:46 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-four-finger-hands-13-dof" rel="related" type="text/html" />
-<description>Atlas’s new hands increase dexterity from seven to 13 degrees of freedom, combining tactile sensing and direct actuation with a design built for simulation-based learning.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp" alt="" /></p><p>Atlas’s new hands increase dexterity from seven to 13 degrees of freedom, combining tactile sensing and direct actuation with a design built for simulation-based learning.</p><p><a href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-four-finger-hands-13-dof">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-gr3-hands-teleoperated-bXFt7QWqzgfCHBsP61uebd7oAcjAwY.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

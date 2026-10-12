@@ -5,8 +5,134 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 12 Oct 2026 00:57:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 07:02:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month (Tony Diver/Telegraph)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/942dcb1752995dc3cce5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnslmytyc22</guid>
+<pubDate>Mon, 12 Oct 2026 05:40:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/" rel="related" type="text/html" />
+<description>US had blocked regulators from reviewing frontier models from Anthropic, OpenAI and Google DeepMind</description>
+<content:encoded><![CDATA[<p><img src="https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard" alt="" /></p><p>US had blocked regulators from reviewing frontier models from Anthropic, OpenAI and Google DeepMind</p><p><a href="https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard" />
+<enclosure url="https://www.telegraph.co.uk/content/dam/news/2026/10/11/TELEMMGLPICT000504170569_17917430299750_trans_NvBQzQNjv4BqDDlhzYBYlVolwZmnySJI8cKOdSq0MvGJhebBM6wreoY.jpeg?impolicy=OG-Standard" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI "super learner" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/66a8c33a05106fc65964.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnrqsktwi2n</guid>
+<pubDate>Mon, 12 Oct 2026 05:25:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828" rel="related" type="text/html" />
+<description>The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F00910373-3cf8-4a0c-b00d-949b113fdeb7.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology</p><p><a href="https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F00910373-3cf8-4a0c-b00d-949b113fdeb7.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F00910373-3cf8-4a0c-b00d-949b113fdeb7.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F00910373-3cf8-4a0c-b00d-949b113fdeb7.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0cf84e787f2f1fc04222.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnofjdyjy2n</guid>
+<pubDate>Mon, 12 Oct 2026 04:25:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.culpium.com/p/inside-tsmc-texas-and-the-terafab" rel="related" type="text/html" />
+<description>[Exclusive] A look at how talks came to be, and the pace at which Intel is proceeding while TSMC remains in the hunt</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!GRKb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71803102-2fa6-4155-92c5-3c365041a1b9_3470x1932.jpeg" alt="" /></p><p>[Exclusive] A look at how talks came to be, and the pace at which Intel is proceeding while TSMC remains in the hunt</p><p><a href="https://www.culpium.com/p/inside-tsmc-texas-and-the-terafab">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!GRKb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71803102-2fa6-4155-92c5-3c365041a1b9_3470x1932.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!GRKb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71803102-2fa6-4155-92c5-3c365041a1b9_3470x1932.jpeg" />
+<enclosure url="https://substackcdn.com/image/fetch/$s_!GRKb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71803102-2fa6-4155-92c5-3c365041a1b9_3470x1932.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e3f1f5c1f457f894b4ac.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnmzyp67m2u</guid>
+<pubDate>Mon, 12 Oct 2026 04:01:15 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing" rel="related" type="text/html" />
+<description>Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. has started gauging investor interest for a Hong Kong listing that may raise $2 billion to $3 billion, according to people famil...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" alt="" /></p><p>Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. has started gauging investor interest for a Hong Kong listing that may raise $2 billion to $3 billion, according to people famil...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a "hardware implant" (Terrence O'Brien/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7549208eceec51b44914.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnlv3etds2w</guid>
+<pubDate>Mon, 12 Oct 2026 03:40:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts" rel="related" type="text/html" />
+<description>A spy implant in some Ledger crypto wallets may be the root of an $86 million supply chain attack.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>A spy implant in some Ledger crypto wallets may be the root of an $86 million supply chain attack.</p><p><a href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Bain's Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia (Kari Soo Lindberg/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c67bb882f037a0a5bcd7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnkrsohou2o</guid>
+<pubDate>Mon, 12 Oct 2026 03:20:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion" rel="related" type="text/html" />
+<description>Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about $6.6 billion, people familiar with the matter said, in what would be one of the ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4H_Ih6em6s0%2Fv0%2F1200x817.jpg" alt="" /></p><p>Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about $6.6 billion, people familiar with the matter said, in what would be one of the ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4H_Ih6em6s0%2Fv0%2F1200x817.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4H_Ih6em6s0%2Fv0%2F1200x817.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi4H_Ih6em6s0%2Fv0%2F1200x817.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Qualcomm CEO Cristiano Amon says AI companies are "starting to do phones" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f4d62e61fab4689add8a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnjejiq5b2g</guid>
+<pubDate>Mon, 12 Oct 2026 02:55:34 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://sources.news/p/qualcomm-ceo-ai-phone" rel="related" type="text/html" />
+<description>Cristiano Amon on the China vs. US AI sentiment, how AI is changing smartphones and wearables, Qualcomm’s data center strategy, and what 6G will unlock.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!FFrd!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218379381%2Ffe839b41-78ae-489d-bfd4-1f0b8e510b11%2Ftranscoded-1791482667.png" alt="" /></p><p>Cristiano Amon on the China vs. US AI sentiment, how AI is changing smartphones and wearables, Qualcomm’s data center strategy, and what 6G will unlock.</p><p><a href="https://sources.news/p/qualcomm-ceo-ai-phone">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!FFrd!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218379381%2Ffe839b41-78ae-489d-bfd4-1f0b8e510b11%2Ftranscoded-1791482667.png" medium="image" type="image/png" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!FFrd!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218379381%2Ffe839b41-78ae-489d-bfd4-1f0b8e510b11%2Ftranscoded-1791482667.png" />
+<enclosure url="https://substackcdn.com/image/fetch/$s_!FFrd!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218379381%2Ffe839b41-78ae-489d-bfd4-1f0b8e510b11%2Ftranscoded-1791482667.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue (Ryan Lawler/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3750704ba708c66cab82.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnf6pjzpc25</guid>
+<pubDate>Mon, 12 Oct 2026 01:40:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/fintech-deals/2026/10/06/anchorage-routable-corporate-payments" rel="related" type="text/html" />
+<description>Anchorage will bring stablecoins to Fortune 500 customers.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FH3HxGDup6QSF5f9TPTzfNGVukVQ%3D%2F1366x768%2Fsmart%2F2022%2F04%2F05%2F202501-1649190301736.jpg" alt="" /></p><p>Anchorage will bring stablecoins to Fortune 500 customers.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/10/06/anchorage-routable-corporate-payments">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FH3HxGDup6QSF5f9TPTzfNGVukVQ%3D%2F1366x768%2Fsmart%2F2022%2F04%2F05%2F202501-1649190301736.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FH3HxGDup6QSF5f9TPTzfNGVukVQ%3D%2F1366x768%2Fsmart%2F2022%2F04%2F05%2F202501-1649190301736.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FH3HxGDup6QSF5f9TPTzfNGVukVQ%3D%2F1366x768%2Fsmart%2F2022%2F04%2F05%2F202501-1649190301736.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3dca1751c668be23458c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxnc444mu32g</guid>
+<pubDate>Mon, 12 Oct 2026 00:45:35 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling" rel="related" type="text/html" />
+<description>Hospital staffing and scheduling is unglamorous, complex and tedious work, and Veeraj Shah, co-founder and CEO of startup Vitalize, believes it's the most valuable healthcare task to tackle. | Vitalize positions its software as an "air traffic control" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.</description>
+<content:encoded><![CDATA[<p><img src="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" alt="" /></p><p>Hospital staffing and scheduling is unglamorous, complex and tedious work, and Veeraj Shah, co-founder and CEO of startup Vitalize, believes it's the most valuable healthcare task to tackle. | Vitalize positions its software as an "air traffic control" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.</p><p><a href="https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" medium="image" type="image/png" />
+<media:thumbnail url="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" />
+<enclosure url="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" type="image/png" length="0" />
+</item>
 <item>
 <title>Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6a48e45cb1de6db73766.html</link>
@@ -720,132 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac6b5ea2dd6be48ba37d54c%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1920%2C1080%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac6b5ea2dd6be48ba37d54c%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1920%2C1080%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ac6b5ea2dd6be48ba37d54c%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1920%2C1080%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Analysis of 857 releases from nine Chinese AI labs between 2021 and September 2026: just 3.6% disclosed safety results, and only 1.1% did so at launch (SemiAnalysis)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2edf2c87c8f3a182c71d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxh5y24cmp2s</guid>
-<pubDate>Fri, 09 Oct 2026 14:15:45 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier" rel="related" type="text/html" />
-<description>AI safety is on fire.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png" alt="" /></p><p>AI safety is on fire.</p><p><a href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png" medium="image" type="image/png" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5f69ec5e8f048178d19.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxh36rzxje2x</guid>
-<pubDate>Fri, 09 Oct 2026 13:25:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value" rel="related" type="text/html" />
-<description>TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago, has raised about $870 million at a $7.5 billion valuation in a financin...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FitiT8l7WhjoE%2Fv1%2F1200x800.jpg" alt="" /></p><p>TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago, has raised about $870 million at a $7.5 billion valuation in a financin...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FitiT8l7WhjoE%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FitiT8l7WhjoE%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FitiT8l7WhjoE%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/054f388b06bef59b86df.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgzjm5pva2s</guid>
-<pubDate>Fri, 09 Oct 2026 12:56:06 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry" rel="related" type="text/html" />
-<description>The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies, an issue that has drawn the ire of the nation’s technology startups.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDTgGN5giLi8%2Fv0%2F1200x800.jpg" alt="" /></p><p>The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies, an issue that has drawn the ire of the nation’s technology startups.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDTgGN5giLi8%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDTgGN5giLi8%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDTgGN5giLi8%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b86f9ded08fa7be64c6e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgw5swxnv2s</guid>
-<pubDate>Fri, 09 Oct 2026 11:55:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/" rel="related" type="text/html" />
-<description>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified ​it as a tool used in a recent cyberattack campaign against South ‌...</p><p><a href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FVGTDWW26GRL4RARMHPXXLZCTHA.jpg%3Fauth%3D5175f6223a6753453c4d31f02f4d865ebbd5ef632bce5a4cff7dccc29767ab1e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d5098714ce5f94c15465.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxguihxbah22</guid>
-<pubDate>Fri, 09 Oct 2026 11:25:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile" rel="related" type="text/html" />
-<description>Bitcoin-based life insurance offers a way for owners to access returns on bitcoin gains, tax-free.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" alt="" /></p><p>Bitcoin-based life insurance offers a way for owners to access returns on bitcoin gains, tax-free.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/10/08/sam-altman-bitcoin-insurer-meanwhile">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FgKORCTNquhz5Atf4UCiX8QiNrp4%3D%2F1366x768%2Fsmart%2F2024%2F01%2F11%2F214624-1705009584622.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction (Eli Tan/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/213d3465bc29ee8fbf9a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgteb7njy2o</guid>
-<pubDate>Fri, 09 Oct 2026 11:05:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html" rel="related" type="text/html" />
-<description>Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F07%2Fmultimedia%2FMETA-MUSE-1-bwvl%2FMETA-MUSE-1-bwvl-facebookJumbo.jpg" alt="" /></p><p>Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.</p><p><a href="https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F07%2Fmultimedia%2FMETA-MUSE-1-bwvl%2FMETA-MUSE-1-bwvl-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F07%2Fmultimedia%2FMETA-MUSE-1-bwvl%2FMETA-MUSE-1-bwvl-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F07%2Fmultimedia%2FMETA-MUSE-1-bwvl%2FMETA-MUSE-1-bwvl-facebookJumbo.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Nvidia commits $1B over five years to build out the US' "capacity for super intelligence research" in fields including quantum computing, healthcare, and energy (Tobias Mann/The Register)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9bd87ac413507e12cb15.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgsak525r2g</guid>
-<pubDate>Fri, 09 Oct 2026 10:45:46 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110" rel="related" type="text/html" />
-<description>Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers</description>
-<content:encoded><![CDATA[<p><img src="https://image.theregister.com/259022.jpg?imageId=259022&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers</p><p><a href="https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.theregister.com/259022.jpg?imageId=259022&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.theregister.com/259022.jpg?imageId=259022&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
-<enclosure url="https://image.theregister.com/259022.jpg?imageId=259022&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers (Sarah Hilton/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1427ad13fcfc6a67cc00.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgpsmmonw2g</guid>
-<pubDate>Fri, 09 Oct 2026 10:02:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews" rel="related" type="text/html" />
-<description>A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower the barriers to large-scale hacking.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" alt="" /></p><p>A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks as AI tools lower the barriers to large-scale hacking.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH2PwnOEDzTw%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Netflix is preparing for layoffs that will impact ~5% of employees, or ~850 jobs, amid pressure over weakened engagement and a depressed stock price (Matthew Belloni/Puck)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e98808dbcd8d426320f4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxgov7dujw2w</guid>
-<pubDate>Fri, 09 Oct 2026 09:45:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://puck.news/netflix-is-sharpening-the-layoff-axe/" rel="related" type="text/html" />
-<description>Facing pressure over weakened engagement and a depressed stock price, the streamer is prepping for a round of layoffs in the near future, per sources.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpuck.news%2Fwp-content%2Fuploads%2F2026%2F10%2FGettyImages-2289872378-scaled-e1791515117735.jpg" alt="" /></p><p>Facing pressure over weakened engagement and a depressed stock price, the streamer is prepping for a round of layoffs in the near future, per sources.</p><p><a href="https://puck.news/netflix-is-sharpening-the-layoff-axe/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpuck.news%2Fwp-content%2Fuploads%2F2026%2F10%2FGettyImages-2289872378-scaled-e1791515117735.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpuck.news%2Fwp-content%2Fuploads%2F2026%2F10%2FGettyImages-2289872378-scaled-e1791515117735.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpuck.news%2Fwp-content%2Fuploads%2F2026%2F10%2FGettyImages-2289872378-scaled-e1791515117735.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
