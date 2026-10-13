@@ -5,8 +5,204 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 18:11:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:51:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c850174b33c437f587cc.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrzmdx7a722</guid>
+<pubDate>Tue, 13 Oct 2026 21:56:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model" rel="related" type="text/html" />
+<description>OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model to a place where leaders believe they can safely release it. The model design, known as loop transformers or recurrent depth, can make it harder to monitor the ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17977/043086b6-9df8-4913-a0c0-7c89d7a8bcd9.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model to a place where leaders believe they can safely release it. The model design, known as loop transformers or recurrent depth, can make it harder to monitor the ...</p><p><a href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17977/043086b6-9df8-4913-a0c0-7c89d7a8bcd9.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17977/043086b6-9df8-4913-a0c0-7c89d7a8bcd9.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17977/043086b6-9df8-4913-a0c0-7c89d7a8bcd9.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9dfed28a3b84d59d4279.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrxwyfgeg2x</guid>
+<pubDate>Tue, 13 Oct 2026 21:27:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit" rel="related" type="text/html" />
+<description>Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft of trade secrets to advance forthcoming consumer hardware products.</description>
+<content:encoded><![CDATA[<p><img src="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" alt="" /></p><p>Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft of trade secrets to advance forthcoming consumer hardware products.</p><p><a href="https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" />
+<enclosure url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities (Dustin Volz/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8a028164c9cb32dc8b43.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrwr2vka52x</guid>
+<pubDate>Tue, 13 Oct 2026 21:05:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
+<description>F.B.I. investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F13%2Fmultimedia%2F13dc-northkorea-bwtq%2F13dc-northkorea-bwtq-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>F.B.I. investigators worked with the cybersecurity firm CrowdStrike to dismantle so-called laptop farms that steal American identities to earn cash for Pyongyang.</p><p><a href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F13%2Fmultimedia%2F13dc-northkorea-bwtq%2F13dc-northkorea-bwtq-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F13%2Fmultimedia%2F13dc-northkorea-bwtq%2F13dc-northkorea-bwtq-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F13%2Fmultimedia%2F13dc-northkorea-bwtq%2F13dc-northkorea-bwtq-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/035e0c09b54a71c535ec.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrvg2txel2w</guid>
+<pubDate>Tue, 13 Oct 2026 20:41:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology" rel="related" type="text/html" />
+<description>New business unit is charged with testing new projects and judging them by user feedback</description>
+<content:encoded><![CDATA[<p><img src="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" alt="" /></p><p>New business unit is charged with testing new projects and judging them by user feedback</p><p><a href="https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" medium="image" type="image/png" />
+<media:thumbnail url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" />
+<enclosure url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" type="image/png" length="0" />
+</item>
+<item>
+<title>Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/28063ae763faab42f429.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrv272nhs2n</guid>
+<pubDate>Tue, 13 Oct 2026 20:35:11 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" rel="related" type="text/html" />
+<description>Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.</description>
+<content:encoded><![CDATA[<p><img src="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" alt="" /></p><p>Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.</p><p><a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" />
+<enclosure url="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to identify who placed it (@openainewsroom)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2df4191d6cb74b36b128.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrtan66ud2o</guid>
+<pubDate>Tue, 13 Oct 2026 20:03:00 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/openainewsroom/status/2110095403198849132" rel="related" type="text/html" />
+<description>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1885410297101381632%2F3Gs7_1gs_400x400.jpg" alt="" /></p><p>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…</p><p><a href="https://x.com/openainewsroom/status/2110095403198849132">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1885410297101381632%2F3Gs7_1gs_400x400.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1885410297101381632%2F3Gs7_1gs_400x400.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1885410297101381632%2F3Gs7_1gs_400x400.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Astra, Opus and Argon Show How Frontier AI Models Are Speeding Up Robotics Development</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9736382c65e43227a1cb.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation</guid>
+<pubDate>Tue, 13 Oct 2026 19:58:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation" rel="related" type="text/html" />
+<description>New Astra and Opus demonstrations echo Google’s Argon workflows, accelerating simulation and controller development while exposing the need to verify generated experiments.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" alt="" /></p><p>New Astra and Opus demonstrations echo Google’s Argon workflows, accelerating simulation and controller development while exposing the need to verify generated experiments.</p><p><a href="https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed4ee8b6868f90d47015.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrskvxxzb2x</guid>
+<pubDate>Tue, 13 Oct 2026 19:50:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2" rel="related" type="text/html" />
+<description>For the last three years, AI labs like OpenAI, Anthropic and xAI have sucked up a lot of investor attention—as well as nosebleed valuations. Now a growing number of startups that make apps, agents or other software powered by AI are fetching valuations of $20 billion or higher.Applied Intuition, ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17895/0dbd7c39-03f6-4f00-b0dc-461f95deb5e6-YqNaVE.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>For the last three years, AI labs like OpenAI, Anthropic and xAI have sucked up a lot of investor attention—as well as nosebleed valuations. Now a growing number of startups that make apps, agents or other software powered by AI are fetching valuations of $20 billion or higher.Applied Intuition, ...</p><p><a href="https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17895/0dbd7c39-03f6-4f00-b0dc-461f95deb5e6-YqNaVE.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17895/0dbd7c39-03f6-4f00-b0dc-461f95deb5e6-YqNaVE.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17895/0dbd7c39-03f6-4f00-b0dc-461f95deb5e6-YqNaVE.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>Dynamic Creatures Introduces Hugo, a Furry Character Robot With 43 Actuators</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b955efaac0f7ac9f7659.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot</guid>
+<pubDate>Tue, 13 Oct 2026 19:27:43 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot" rel="related" type="text/html" />
+<description>The startup shows Hugo in a new video and outlines work on a Vision-Language-Expression model, navigation and safety for guest interaction.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" alt="" /></p><p>The startup shows Hugo in a new video and outlines work on a Vision-Language-Expression model, navigation and safety for guest interaction.</p><p><a href="https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8c17f1f1ac30a4ed7675.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrqevjyhp2d</guid>
+<pubDate>Tue, 13 Oct 2026 19:11:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.anthropic.com/engineering/redesigning-source-control" rel="related" type="text/html" />
+<description>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" alt="" /></p><p>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</p><p><a href="https://www.anthropic.com/engineering/redesigning-source-control">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" medium="image" type="image/png" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" />
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" type="image/png" length="0" />
+</item>
+<item>
+<title>World Models That Learn to Think Hierarchically</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9fcc06a242adaed1edf9.html</link>
+<guid isPermaLink="false">combined:b28bf849d4a82103b868708277542f9bb8c8de86</guid>
+<pubDate>Tue, 13 Oct 2026 18:44:15 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/world-models-that-learn-to-think-hierarchically" rel="related" type="text/html" />
+<description>Plus more about Looped Transformers Memory and Multi-Agent Self-Supervision</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5dce7fa4-05b4-4b9b-853c-b8f6fe6eeda6/issue_129.png?t=1791911996" alt="" /></p><p>Plus more about Looped Transformers Memory and Multi-Agent Self-Supervision</p><p><a href="https://mail.bycloud.ai/p/world-models-that-learn-to-think-hierarchically">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5dce7fa4-05b4-4b9b-853c-b8f6fe6eeda6/issue_129.png?t=1791911996" medium="image" type="image/png" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5dce7fa4-05b4-4b9b-853c-b8f6fe6eeda6/issue_129.png?t=1791911996" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5dce7fa4-05b4-4b9b-853c-b8f6fe6eeda6/issue_129.png?t=1791911996" type="image/png" length="0" />
+</item>
+<item>
+<title>Gemini 4 Argon Takes Apollo From Human Video to Seven Straight Cornhole Shots</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4fb42779d0cb9df28677.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics</guid>
+<pubDate>Tue, 13 Oct 2026 18:40:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics" rel="related" type="text/html" />
+<description>Google demonstrates Argon using video, simulation and physical feedback to develop robot skills, alongside an 87% embodied-reasoning benchmark score.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" alt="" /></p><p>Google demonstrates Argon using video, simulation and physical feedback to develop robot skills, alongside an 87% embodied-reasoning benchmark score.</p><p><a href="https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>A Delaware jury awards Qualcomm $2 in nominal damages after finding Arm breached its architectural license agreement and sought to disrupt Qualcomm's business (Anhata Rooprai/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/84aa16dfe6a2bcd7e38b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrn2cahu42o</guid>
+<pubDate>Tue, 13 Oct 2026 18:12:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/" rel="related" type="text/html" />
+<description>Chip technology supplier Arm ‌Holdings breached a licensing agreement with Qualcomm and intentionally interfered with the chipmaker's business relationship with Meta Platforms , a Delaware jury found ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJ4CBBSQFOF3AIWU54BZ5CG3A.jpg%3Fauth%3D20a95c7d39f738bcb2ddc30ebce249900d9b76acde0304cdaad76d9d2cc34fc9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chip technology supplier Arm ‌Holdings breached a licensing agreement with Qualcomm and intentionally interfered with the chipmaker's business relationship with Meta Platforms , a Delaware jury found ...</p><p><a href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJ4CBBSQFOF3AIWU54BZ5CG3A.jpg%3Fauth%3D20a95c7d39f738bcb2ddc30ebce249900d9b76acde0304cdaad76d9d2cc34fc9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJ4CBBSQFOF3AIWU54BZ5CG3A.jpg%3Fauth%3D20a95c7d39f738bcb2ddc30ebce249900d9b76acde0304cdaad76d9d2cc34fc9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJBJ4CBBSQFOF3AIWU54BZ5CG3A.jpg%3Fauth%3D20a95c7d39f738bcb2ddc30ebce249900d9b76acde0304cdaad76d9d2cc34fc9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aef97cd4a0b65f9c1f1f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrm75vn2g2n</guid>
+<pubDate>Tue, 13 Oct 2026 17:56:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10" rel="related" type="text/html" />
+<description>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</p><p><a href="https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" />
+<enclosure url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/992e14a3e4b635ce4e92.html</link>
@@ -15,8 +211,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/" rel="related" type="text/html" />
-<description>Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" alt="" /></p><p>Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.</p><p><a href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/">Open Original Article</a></p>]]></content:encoded>
+<description>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" alt="" /></p><p>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</p><p><a href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" medium="image" type="image/png" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" />
 <enclosure url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" type="image/png" length="0" />
@@ -62,6 +258,20 @@
 <media:content url="https://www.securityweek.com/wp-content/uploads/2023/03/Meta-Facebook-e1739539212391.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://www.securityweek.com/wp-content/uploads/2023/03/Meta-Facebook-e1739539212391.jpg" />
 <enclosure url="https://www.securityweek.com/wp-content/uploads/2023/03/Meta-Facebook-e1739539212391.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Galbot’s PASSAGE Helps Humanoids Step Over, Duck Under and Squeeze Past Obstacles</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/af53fbf1345e8f0498ca.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/galbot-passage-humanoid-obstacle-traversal</guid>
+<pubDate>Tue, 13 Oct 2026 16:55:50 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/galbot-passage-humanoid-obstacle-traversal" rel="related" type="text/html" />
+<description>PASSAGE learns from human motion to navigate clutter, with onboard Unitree G1 tests and distinct results for destination-reaching and contact-free traversal.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-passage-demo-hero-mbqmPoCwca7fYJiDvmbG1qSZmPc5ka.webp" alt="" /></p><p>PASSAGE learns from human motion to navigate clutter, with onboard Unitree G1 tests and distinct results for destination-reaching and contact-free traversal.</p><p><a href="https://www.humanoidsdaily.com/news/galbot-passage-humanoid-obstacle-traversal">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-passage-demo-hero-mbqmPoCwca7fYJiDvmbG1qSZmPc5ka.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-passage-demo-hero-mbqmPoCwca7fYJiDvmbG1qSZmPc5ka.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/galbot-passage-demo-hero-mbqmPoCwca7fYJiDvmbG1qSZmPc5ka.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Apple says HomeView's facial recognition works only if users have a "registered personal device" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)</title>
@@ -240,10 +450,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/" rel="related" type="text/html" />
 <description>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" />
-<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" />
+<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Apple unveils the Apple Home Collection, a lineup of smart home accessories made with LG and Schneider, including cameras, thermostats, a doorbell, and a lock (Apple)</title>
@@ -491,8 +701,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63" rel="related" type="text/html" />
-<description>Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over the scale of AI investment</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F6c61b5f9-bec6-444c-b175-0c398156f2f5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over the scale of AI investment</p><p><a href="https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63">Open Original Article</a></p>]]></content:encoded>
+<description>Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F6c61b5f9-bec6-444c-b175-0c398156f2f5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment</p><p><a href="https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F6c61b5f9-bec6-444c-b175-0c398156f2f5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F6c61b5f9-bec6-444c-b175-0c398156f2f5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F6c61b5f9-bec6-444c-b175-0c398156f2f5.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
@@ -505,8 +715,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/" rel="related" type="text/html" />
-<description>Chatbot platform Character.AI said on Monday it has filed for bankruptcy in the US and has agreed to ​sell some assets for $20 million to Walt Disney .</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS4QJYJD7BVPTLPSDLCHYRX72P4.jpg%3Fauth%3D791758577c34054e78427bf174953651ba390403c74c6c89b2e512d6c6584bee%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chatbot platform Character.AI said on Monday it has filed for bankruptcy in the US and has agreed to ​sell some assets for $20 million to Walt Disney .</p><p><a href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/">Open Original Article</a></p>]]></content:encoded>
+<description>Chatbot platform Character.AI filed for bankruptcy late on ​Monday, saying it has agreed to sell some assets for $20 million to Walt Disney .</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS4QJYJD7BVPTLPSDLCHYRX72P4.jpg%3Fauth%3D791758577c34054e78427bf174953651ba390403c74c6c89b2e512d6c6584bee%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chatbot platform Character.AI filed for bankruptcy late on ​Monday, saying it has agreed to sell some assets for $20 million to Walt Disney .</p><p><a href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS4QJYJD7BVPTLPSDLCHYRX72P4.jpg%3Fauth%3D791758577c34054e78427bf174953651ba390403c74c6c89b2e512d6c6584bee%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS4QJYJD7BVPTLPSDLCHYRX72P4.jpg%3Fauth%3D791758577c34054e78427bf174953651ba390403c74c6c89b2e512d6c6584bee%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS4QJYJD7BVPTLPSDLCHYRX72P4.jpg%3Fauth%3D791758577c34054e78427bf174953651ba390403c74c6c89b2e512d6c6584bee%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -792,90 +1002,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/31ba1e7c3abdb2810def.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoyn67fty2l</guid>
-<pubDate>Mon, 12 Oct 2026 17:01:30 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://research.meta.ai/blog/muse-wonder" rel="related" type="text/html" />
-<description>Muse Wonder is Meta's frontier AI model that keeps track of what matters to you with Active Memory &amp; Active Focus to work towards your goals at work &amp; life.</description>
-<content:encoded><![CDATA[<p><img src="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" alt="" /></p><p>Muse Wonder is Meta's frontier AI model that keeps track of what matters to you with Active Memory &amp; Active Focus to work towards your goals at work &amp; life.</p><p><a href="https://research.meta.ai/blog/muse-wonder">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" />
-<enclosure url="https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Getty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty (Anhata Rooprai/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/088cb2d3133ecd0457c6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoweag7cu2g</guid>
-<pubDate>Mon, 12 Oct 2026 16:20:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/" rel="related" type="text/html" />
-<description>Getty Images said on Monday it would file for bankruptcy and go private after a restructuring ​agreement that the visual-content provider expects to close by the ‌end of the year.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Getty Images said on Monday it would file for bankruptcy and go private after a restructuring ​agreement that the visual-content provider expects to close by the ‌end of the year.</p><p><a href="https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FXOL3U4HXNVLQRPJOWUCES7QK6Y.jpg%3Fauth%3D56ababfc51c22427135064361e052561d2a61c0665f9a1b82d744219f9b50ade%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out "multi-gigawatt deployments" of the chip starting next year (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/572fd7017928547108c6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxosyusxca2l</guid>
-<pubDate>Mon, 12 Oct 2026 15:20:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/" rel="related" type="text/html" />
-<description>Microsoft announced the next generation of its custom AI chip on Monday and said it plans to deploy potentially more than a million of them next year to back its internal AI services.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FM475O3H2OBM4VDCPPUYVCSV3DA.jpg%3Fauth%3D8b1fe76378443084ff3f03dc1be492429adfc6dec8f47b2ad49bfe771dfe93c7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Microsoft announced the next generation of its custom AI chip on Monday and said it plans to deploy potentially more than a million of them next year to back its internal AI services.</p><p><a href="https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FM475O3H2OBM4VDCPPUYVCSV3DA.jpg%3Fauth%3D8b1fe76378443084ff3f03dc1be492429adfc6dec8f47b2ad49bfe771dfe93c7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FM475O3H2OBM4VDCPPUYVCSV3DA.jpg%3Fauth%3D8b1fe76378443084ff3f03dc1be492429adfc6dec8f47b2ad49bfe771dfe93c7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FM475O3H2OBM4VDCPPUYVCSV3DA.jpg%3Fauth%3D8b1fe76378443084ff3f03dc1be492429adfc6dec8f47b2ad49bfe771dfe93c7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AI is supercharging a ~$442B scam economy that is bigger than the global cocaine trade, as the Chinese scam industry spreads beyond Asia's fortified compounds (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ee3a3381e6516a46372.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxord7s5ue2x</guid>
-<pubDate>Mon, 12 Oct 2026 14:50:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI" rel="related" type="text/html" />
-<description>As the Chinese scam industry spreads beyond Asia’s fortified compounds, it’s become cheaper and easier to run — thanks to AI — and harder to kill.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIXYf.e.lUO8%2Fv0%2F-1x-1.webp" alt="" /></p><p>As the Chinese scam industry spreads beyond Asia’s fortified compounds, it’s become cheaper and easier to run — thanks to AI — and harder to kill.</p><p><a href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIXYf.e.lUO8%2Fv0%2F-1x-1.webp" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIXYf.e.lUO8%2Fv0%2F-1x-1.webp" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIXYf.e.lUO8%2Fv0%2F-1x-1.webp" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours (Jenny Che/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8a076c3bcb30bed56e30.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoqifgfy72n</guid>
-<pubDate>Mon, 12 Oct 2026 14:35:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks" rel="related" type="text/html" />
-<description>Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seeking...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" alt="" /></p><p>Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seeking...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiQeayu4XTLGk%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Googlebooks hands-on: a rocky start, with severe connectivity, file-sharing, and software stability issues; core productivity software lacks full desktop parity (Dominic Preston/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/86ebab1bfc1dea4848fb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxopnkeix42g</guid>
-<pubDate>Mon, 12 Oct 2026 14:20:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing" rel="related" type="text/html" />
-<description>The Android laptop is a work-in-progress.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" alt="" /></p><p>The Android laptop is a work-in-progress.</p><p><a href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Archon Robotics Shares Debut Demo of Its Whole-Body Humanoid Intelligence</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a26f13c054784f127b7.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/archon-robotics-debut-whole-body-intelligence</guid>
@@ -888,62 +1014,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/archon-whole-body-intelligence-hero-pyYwR8uZgQALvpGtJdkRlB6GF37VIB.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Global smartphone shipments fell 20% YoY in Q3 to a 14-year low amid memory shortages; Apple's share crossed 20% for the first time in any Q3, reaching 22% (Counterpoint Research)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d49747fe1e0f9725fb0a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxop3st55m2n</guid>
-<pubDate>Mon, 12 Oct 2026 14:10:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years" rel="related" type="text/html" />
-<description>Counterpoint Research Insight</description>
-<content:encoded><![CDATA[<p><img src="https://counterpointresearch.com/images/og/og-default.png" alt="" /></p><p>Counterpoint Research Insight</p><p><a href="https://counterpointresearch.com/en/insights/global-smartphone-shipments-hit-a-new-low-with-20-percent-yoy-decline-lowest-in-14-years">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://counterpointresearch.com/images/og/og-default.png" medium="image" type="image/png" />
-<media:thumbnail url="https://counterpointresearch.com/images/og/og-default.png" />
-<enclosure url="https://counterpointresearch.com/images/og/og-default.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction (Lynn Doan/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8f7b7810066a4e7ce54d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxoobr4pmu2g</guid>
-<pubDate>Mon, 12 Oct 2026 13:56:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/" rel="related" type="text/html" />
-<description>A breakdown of the costs to construct a single data center in Texas reveals why developers face tens of billions in expenses.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiGzeuLcHoQbk%2Fv3%2F-1x-1.png" alt="" /></p><p>A breakdown of the costs to construct a single data center in Texas reveals why developers face tens of billions in expenses.</p><p><a href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiGzeuLcHoQbk%2Fv3%2F-1x-1.png" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiGzeuLcHoQbk%2Fv3%2F-1x-1.png" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiGzeuLcHoQbk%2Fv3%2F-1x-1.png" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Microsoft EVP of Copilot Charles Lamanna, a potential Satya Nadella successor; a source says Microsoft is on track to pay Anthropic $2B+ per year (Aaron Holmes/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/435678477b80865dde28.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxonoy55qt2w</guid>
-<pubDate>Mon, 12 Oct 2026 13:45:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella" rel="related" type="text/html" />
-<description>In the summer of 2025, Microsoft was fielding customer complaints that its AI assistant, Copilot, was buggy and not good enough at automating work in Excel or PowerPoint. In response, Charles Lamanna, then a Microsoft president and rising star within the giant firm, went to CEO Satya Nadella ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17967/8399562d-a5bd-426c-ae50-8c40fdf97ec6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>In the summer of 2025, Microsoft was fielding customer complaints that its AI assistant, Copilot, was buggy and not good enough at automating work in Excel or PowerPoint. In response, Charles Lamanna, then a Microsoft president and rising star within the giant firm, went to CEO Satya Nadella ...</p><p><a href="https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/17967/8399562d-a5bd-426c-ae50-8c40fdf97ec6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/17967/8399562d-a5bd-426c-ae50-8c40fdf97ec6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/17967/8399562d-a5bd-426c-ae50-8c40fdf97ec6.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>Google says Health Guardian is launching later in October on the Fitbit Air and Edge for Google Health Premium users, and expands automatic activity tracking (Cheyenne MacDonald/Engadget)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2996f5cbb99948f0f3d0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxomcfavz525</guid>
-<pubDate>Mon, 12 Oct 2026 13:20:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/" rel="related" type="text/html" />
-<description>The company announced new health features for its wearables along with a new band for the Fitbit Air.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking%2Fl-intro-1791748229.jpg" alt="" /></p><p>The company announced new health features for its wearables along with a new band for the Fitbit Air.</p><p><a href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking%2Fl-intro-1791748229.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking%2Fl-intro-1791748229.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fgoogle-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking%2Fl-intro-1791748229.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>MindOn Claims 142 Garments per Hour in Hour-Long Mind-1 Folding Demo</title>
@@ -1294,62 +1364,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Minerva Emerges From Stealth With $10M for Humanoids Built for Dangerous Work</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1ff52b0b3addf14375d2.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/minerva-roger-humanoid-10-million-hazardous-work</guid>
-<pubDate>Tue, 06 Oct 2026 12:02:48 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/minerva-roger-humanoid-10-million-hazardous-work" rel="related" type="text/html" />
-<description>The startup is developing Roger for hazardous energy and public safety work. CEO Sandor Felber explains why a human operator remains central to its approach.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp" alt="" /></p><p>The startup is developing Roger for hazardous energy and public safety work. CEO Sandor Felber explains why a human operator remains central to its approach.</p><p><a href="https://www.humanoidsdaily.com/news/minerva-roger-humanoid-10-million-hazardous-work">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-full-body-f2z5dZC6CbzAhGMe425BLkw17GcflL.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Meta Job Listing Explicitly References Its Humanoid Robot Hardware</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1fd255d12c7df4dd1921.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/meta-job-listing-humanoid-robot-hardware</guid>
-<pubDate>Tue, 06 Oct 2026 09:31:53 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/meta-job-listing-humanoid-robot-hardware" rel="related" type="text/html" />
-<description>A Redmond engineering role describes failure analysis, assembly improvements and ongoing support for Meta’s humanoid hardware, adding detail to its previously reported robotics program.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-humanoid-hardware-job-listing-hero-BZA7eqKlaBePIVtDJhoMmaoOT7xtmC.webp" alt="" /></p><p>A Redmond engineering role describes failure analysis, assembly improvements and ongoing support for Meta’s humanoid hardware, adding detail to its previously reported robotics program.</p><p><a href="https://www.humanoidsdaily.com/news/meta-job-listing-humanoid-robot-hardware">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-humanoid-hardware-job-listing-hero-BZA7eqKlaBePIVtDJhoMmaoOT7xtmC.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-humanoid-hardware-job-listing-hero-BZA7eqKlaBePIVtDJhoMmaoOT7xtmC.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-humanoid-hardware-job-listing-hero-BZA7eqKlaBePIVtDJhoMmaoOT7xtmC.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Donut Robotics Secures ¥300 Million Charm Care Alliance for Eldercare Humanoids</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3a88bc84b3ad3959d31b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/donut-robotics-charm-care-cinnamon-eldercare</guid>
-<pubDate>Tue, 06 Oct 2026 07:46:52 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/donut-robotics-charm-care-cinnamon-eldercare" rel="related" type="text/html" />
-<description>Charm Care will invest ¥300 million in Donut Robotics as the companies trial cinnamon in a nursing home and develop future nurse-call support.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/donut-robotics-promo-humanoid-bonsai-YVxgrPIqSWE4iCcEqhj56JBnozvSSq.webp" alt="" /></p><p>Charm Care will invest ¥300 million in Donut Robotics as the companies trial cinnamon in a nursing home and develop future nurse-call support.</p><p><a href="https://www.humanoidsdaily.com/news/donut-robotics-charm-care-cinnamon-eldercare">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/donut-robotics-promo-humanoid-bonsai-YVxgrPIqSWE4iCcEqhj56JBnozvSSq.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/donut-robotics-promo-humanoid-bonsai-YVxgrPIqSWE4iCcEqhj56JBnozvSSq.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/donut-robotics-promo-humanoid-bonsai-YVxgrPIqSWE4iCcEqhj56JBnozvSSq.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Agility Hosts Analyst &amp; Investor Day Today, With Digit 5 and Scaling Plans in Focus</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d95049752eb858ba67de.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-analyst-investor-day-october-6-2026</guid>
-<pubDate>Tue, 06 Oct 2026 07:11:25 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agility-analyst-investor-day-october-6-2026" rel="related" type="text/html" />
-<description>Agility will outline its technology and business plans in a webcast beginning at 12:30 p.m. ET, ahead of its proposed public listing.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-investor-day-preview-s72wpQp5erfDxEQIGaPUnNaBl9ubSJ.webp" alt="" /></p><p>Agility will outline its technology and business plans in a webcast beginning at 12:30 p.m. ET, ahead of its proposed public listing.</p><p><a href="https://www.humanoidsdaily.com/news/agility-analyst-investor-day-october-6-2026">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-investor-day-preview-s72wpQp5erfDxEQIGaPUnNaBl9ubSJ.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-investor-day-preview-s72wpQp5erfDxEQIGaPUnNaBl9ubSJ.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-investor-day-preview-s72wpQp5erfDxEQIGaPUnNaBl9ubSJ.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Self-Play Pretraining with Zero Data</title>
@@ -2036,20 +2050,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Microsoft just shared the frontier data engineering secrets</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b164bf5b3fa93dcb7254.html</link>
-<guid isPermaLink="false">combined:9799c0c3227927b549b4dcc000104062b1951bbd</guid>
-<pubDate>Tue, 09 Jun 2026 20:00:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/microsoft-just-shared-the-frontier-data-engineering-secrets" rel="related" type="text/html" />
-<description>plus more about If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Cosmos 3, and Robots Need More than VLA and World Models</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" alt="" /></p><p>plus more about If LLMs Have Human-Like Attributes, Then So Does Age of Empires II, Cosmos 3, and Robots Need More than VLA and World Models</p><p><a href="https://mail.bycloud.ai/p/microsoft-just-shared-the-frontier-data-engineering-secrets">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/a9356eb1-3cbe-4025-8f8f-1a79d329b0fe/issue_111.jpg?t=1781032312" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
