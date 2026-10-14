@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 22:51:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:35:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d88bdf8e50ebddaf971c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxscilfnnh2o</guid>
+<pubDate>Wed, 14 Oct 2026 00:35:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office" rel="related" type="text/html" />
+<description>An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company’s San Francisco offices, according to statements from the artificial intelligence company and ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" alt="" /></p><p>An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company’s San Francisco offices, according to statements from the artificial intelligence company and ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fs3%2Flightsaber%2F_next%2Fstatic%2Fmedia%2Fsocial-default.d7363fa9.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0e1e127207b84da9f63e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsasunaay2g</guid>
+<pubDate>Wed, 14 Oct 2026 00:05:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/" rel="related" type="text/html" />
+<description>Scientists at manufacturing conglomerates like Kenvue and Henkel use Albert Invent’s AI tools to design experiments.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ace7dcbe72be02fd27c53d0%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" alt="" /></p><p>Scientists at manufacturing conglomerates like Kenvue and Henkel use Albert Invent’s AI tools to design experiments.</p><p><a href="https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ace7dcbe72be02fd27c53d0%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ace7dcbe72be02fd27c53d0%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ace7dcbe72be02fd27c53d0%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5dceb9c9cd65829b5348.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs6d3c6hp2g</guid>
+<pubDate>Tue, 13 Oct 2026 23:21:13 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits" rel="related" type="text/html" />
+<description>OpenAI, which is trying to develop a substantial cybersecurity business, is in early talks to buy Trail of Bits, a firm that finds and fixes vulnerabilities in open-source software, according to people familiar with the matter. The size of the potential deal couldn’t be learned. OpenAI has ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/17982/c3f285df-922c-49b2-b30c-ad76602c684d.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>OpenAI, which is trying to develop a substantial cybersecurity business, is in early talks to buy Trail of Bits, a firm that finds and fixes vulnerabilities in open-source software, according to people familiar with the matter. The size of the potential deal couldn’t be learned. OpenAI has ...</p><p><a href="https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/17982/c3f285df-922c-49b2-b30c-ad76602c684d.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/17982/c3f285df-922c-49b2-b30c-ad76602c684d.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/17982/c3f285df-922c-49b2-b30c-ad76602c684d.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ea68a5b2861ca34f72e7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs57udns32n</guid>
+<pubDate>Tue, 13 Oct 2026 23:01:31 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13/" rel="related" type="text/html" />
+<description>Tencent ​Holdings has raised about $5.7 billion through US dollar and offshore yuan debt offerings on Tuesday, drawing combined investor orders of more than $23 billion even ‌as artificial intelligenc...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNPTZ4WVDENMV7PILNTADZZGMLU.jpg%3Fauth%3Dcdef78722d46ce8664c0d110c9a4989fcd7c042e05da4ffe980eae6a517af945%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Tencent ​Holdings has raised about $5.7 billion through US dollar and offshore yuan debt offerings on Tuesday, drawing combined investor orders of more than $23 billion even ‌as artificial intelligenc...</p><p><a href="https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNPTZ4WVDENMV7PILNTADZZGMLU.jpg%3Fauth%3Dcdef78722d46ce8664c0d110c9a4989fcd7c042e05da4ffe980eae6a517af945%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNPTZ4WVDENMV7PILNTADZZGMLU.jpg%3Fauth%3Dcdef78722d46ce8664c0d110c9a4989fcd7c042e05da4ffe980eae6a517af945%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNPTZ4WVDENMV7PILNTADZZGMLU.jpg%3Fauth%3Dcdef78722d46ce8664c0d110c9a4989fcd7c042e05da4ffe980eae6a517af945%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c850174b33c437f587cc.html</link>
@@ -141,8 +197,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10" rel="related" type="text/html" />
-<description>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</p><p><a href="https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10">Open Original Article</a></p>]]></content:encoded>
+<description>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</p><p><a href="https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" />
 <enclosure url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
@@ -338,10 +394,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/tech/personal-tech/my-first-impressions-of-apples-new-smart-home-display-615ac94c?st=GH8ig1&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
 <description>HomeView is a square-shaped screen for smart home control, hands-free FaceTime calls and access to Siri AI.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11179304%2Fsocial" alt="" /></p><p>HomeView is a square-shaped screen for smart home control, hands-free FaceTime calls and access to Siri AI.</p><p><a href="https://www.wsj.com/tech/personal-tech/my-first-impressions-of-apples-new-smart-home-display-615ac94c?st=GH8ig1&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11179304%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11179304%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11179304%2Fsocial" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47605368%2Fsocial" alt="" /></p><p>HomeView is a square-shaped screen for smart home control, hands-free FaceTime calls and access to Siri AI.</p><p><a href="https://www.wsj.com/tech/personal-tech/my-first-impressions-of-apples-new-smart-home-display-615ac94c?st=GH8ig1&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47605368%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47605368%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-47605368%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Apple unveils the fourth-gen Apple TV 4K, with Siri AI, an A19 chip, 128GB of storage, far-field mics, Wi-Fi 7, and Bluetooth 6, shipping November 13 for $299 (Jennifer Pattison Tuohy/The Verge)</title>
@@ -366,10 +422,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/" rel="related" type="text/html" />
 <description>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" />
-<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" />
+<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Apple unveils the Apple Home Collection, a lineup of smart home accessories made with LG and Schneider, including cameras, thermostats, a doorbell, and a lock (Apple)</title>
@@ -632,10 +688,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-13/smartphone-maker-transsion-raises-390-million-in-hk-listing" rel="related" type="text/html" />
 <description>Shenzhen Transsion Holdings Co., which dominates the market for smartphones in Africa, raised HK$3.1 billion ($390 million) from a Hong Kong share share sale after pricing the deal near the top end.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FibWW1jje8Uck%2Fv0%2F1200x815.jpg" alt="" /></p><p>Shenzhen Transsion Holdings Co., which dominates the market for smartphones in Africa, raised HK$3.1 billion ($390 million) from a Hong Kong share share sale after pricing the deal near the top end.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-13/smartphone-maker-transsion-raises-390-million-in-hk-listing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FibWW1jje8Uck%2Fv0%2F1200x815.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FibWW1jje8Uck%2Fv0%2F1200x815.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FibWW1jje8Uck%2Fv0%2F1200x815.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibWW1jje8Uck/v0/1200x815.jpg" alt="" /></p><p>Shenzhen Transsion Holdings Co., which dominates the market for smartphones in Africa, raised HK$3.1 billion ($390 million) from a Hong Kong share share sale after pricing the deal near the top end.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-13/smartphone-maker-transsion-raises-390-million-in-hk-listing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibWW1jje8Uck/v0/1200x815.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibWW1jje8Uck/v0/1200x815.jpg" />
+<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibWW1jje8Uck/v0/1200x815.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% (Anthropic)</title>
@@ -790,62 +846,6 @@
 <media:content url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" />
 <enclosure url="https://pbs.twimg.com/media/HUck_odaQAA3OF2?format=webp&amp;name=large" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta says Muse Wonder is available to Muse app subscribers, via Meta Model API, and Muse Code; Wonder Full is available to Muse Code subscribers (Jonathan Vanian/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/01c2829a0ca259519de1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxp2bpgr5g2o</guid>
-<pubDate>Mon, 12 Oct 2026 17:30:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html" rel="related" type="text/html" />
-<description>Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" alt="" /></p><p>Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.</p><p><a href="https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5f2d925f375ccc6a3d4e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozyocxee2l</guid>
-<pubDate>Mon, 12 Oct 2026 17:25:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai" rel="related" type="text/html" />
-<description>These models are an important test of its investments in AI.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" alt="" /></p><p>These models are an important test of its investments in AI.</p><p><a href="https://www.axios.com/2026/10/12/meta-new-ai-models-anthropic-openai">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe-o3WNAxrukryPKDFVpApHs4YXU%3D%2F0x0%3A1280x720%2F1366x768%2F2026%2F10%2F12%2F1791827458342.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it "can bring to everyone using Muse" (Robert Hart/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0201881466aa03af463.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozpihmg52x</guid>
-<pubDate>Mon, 12 Oct 2026 17:20:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&amp;utm_medium=gift-link" rel="related" type="text/html" />
-<description>Meta says the models compete with the industry’s best and will soon power its Muse agent.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Meta says the models compete with the industry’s best and will soon power its Muse agent.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlYeFJUUFRITjEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDk0NzkvbWV0YS1tdXNlLXdvbmRlci1mdWxsLWFpLW1vZGVsIiwiZXhwIjoxNzkyMjU3MTkyLCJpYXQiOjE3OTE4MjUxOTJ9.bvN4rQYlDQBB8hM8pFlKvbFURYGZlHfVzjDoSc4THF4&amp;utm_medium=gift-link">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" type="image/png" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" type="image/png" length="0" />
-</item>
-<item>
-<title>An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d0c6f569b47fac0c803.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxozgmyofw25</guid>
-<pubDate>Mon, 12 Oct 2026 17:15:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb" rel="related" type="text/html" />
-<description>FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race</p><p><a href="https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
