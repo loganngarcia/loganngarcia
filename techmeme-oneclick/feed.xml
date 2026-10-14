@@ -5,8 +5,40 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 22:16:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:16:41 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxscilfnnh2o</guid>
+<pubDate>Wed, 14 Oct 2026 00:35:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)</title>
+<link>https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsasunaay2g</guid>
+<pubDate>Wed, 14 Oct 2026 00:05:50 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)</title>
+<link>https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs6d3c6hp2g</guid>
+<pubDate>Tue, 13 Oct 2026 23:21:13 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)</title>
+<link>https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs57udns32n</guid>
+<pubDate>Tue, 13 Oct 2026 23:01:31 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at OpenAI&#x27;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)</title>
 <link>https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model</link>
@@ -94,8 +126,8 @@
 <link>https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrm75vn2g2n</guid>
 <pubDate>Tue, 13 Oct 2026 17:56:54 +0000</pubDate>
-<description>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon is in early talks to be acquired by ServiceNow, and has hired an investment bank to evaluate M&amp;A interest.</p>]]></content:encoded>
+<description>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</p>]]></content:encoded>
 <media:content url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" medium="image" />
 <media:thumbnail url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" />
 </item>
@@ -245,9 +277,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxr3wl5eh62n</guid>
 <pubDate>Tue, 13 Oct 2026 13:05:46 +0000</pubDate>
 <description>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" alt="" /></p><p>Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131304" />
 </item>
 <item>
 <title>Apple unveils the Apple Home Collection, a lineup of smart home accessories made with LG and Schneider, including cameras, thermostats, a doorbell, and a lock (Apple)</title>
@@ -860,42 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" alt="" /></p><p>Hospital staffing and scheduling is unglamorous, complex and tedious work, and Veeraj Shah, co-founder and CEO of startup Vitalize, believes it&#x27;s the most valuable healthcare task to tackle. | Vitalize positions its software as an &quot;air traffic control&quot; system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.</p>]]></content:encoded>
 <media:content url="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" medium="image" />
 <media:thumbnail url="https://qtxasset.com/quartz/qcloud5/media/image/img_3711.png?VersionId=_VKjk1I2JARy0LNj_UECrtPaAH5q7HEO" />
-</item>
-<item>
-<title>Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)</title>
-<link>https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxn72dem672g</guid>
-<pubDate>Sun, 11 Oct 2026 23:50:54 +0000</pubDate>
-<description>The following is the full transcript of the interview with Shyam Sankar, chief technology officer of Palantir, a portion of which aired on &quot;Face the Nation with Margaret Brennan&quot; on Oct. 11, 2026.</description>
-<content:encoded><![CDATA[<p><img src="https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/11/bc978a52-fcaa-4b71-bd76-dbb6a31d6905/thumbnail/1200x630/1a0660f61a558be8b2678172319d6e14/ftn-shyam-sankar-full-157-814326.png" alt="" /></p><p>The following is the full transcript of the interview with Shyam Sankar, chief technology officer of Palantir, a portion of which aired on &quot;Face the Nation with Margaret Brennan&quot; on Oct. 11, 2026.</p>]]></content:encoded>
-<media:content url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/11/bc978a52-fcaa-4b71-bd76-dbb6a31d6905/thumbnail/1200x630/1a0660f61a558be8b2678172319d6e14/ftn-shyam-sankar-full-157-814326.png" medium="image" />
-<media:thumbnail url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/11/bc978a52-fcaa-4b71-bd76-dbb6a31d6905/thumbnail/1200x630/1a0660f61a558be8b2678172319d6e14/ftn-shyam-sankar-full-157-814326.png" />
-</item>
-<item>
-<title>Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmwo3p7vq2o</guid>
-<pubDate>Sun, 11 Oct 2026 21:20:54 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump (Terrence O&#x27;Brien/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmup7yeha2n</guid>
-<pubDate>Sun, 11 Oct 2026 20:45:44 +0000</pubDate>
-<description>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" alt="" /></p><p>Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.752607989199%2C100%2C78.494784021602&amp;w=1200" />
-</item>
-<item>
-<title>A look at the economics of Anthropic&#x27;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)</title>
-<link>https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxmmdgd75u2d</guid>
-<pubDate>Sun, 11 Oct 2026 18:15:58 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
