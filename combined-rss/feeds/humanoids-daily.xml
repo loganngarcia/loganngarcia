@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 12:24:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 17:27:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Humanoids Summit Founder Modar Alaoui Releases The Humanoid Economy</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b1e5b9fae9a122f586ff.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/modar-alaoui-the-humanoid-economy-book-release</guid>
+<pubDate>Wed, 14 Oct 2026 13:35:35 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/modar-alaoui-the-humanoid-economy-book-release" rel="related" type="text/html" />
+<description>Published by Wiley, Alaoui’s new book examines the capital, manufacturing, policy and public acceptance needed to scale humanoid robotics.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-economy-book-hero-zWFP2L5Rs5o33twvMhBaTyKs3RyfSN.webp" alt="" /></p><p>Published by Wiley, Alaoui’s new book examines the capital, manufacturing, policy and public acceptance needed to scale humanoid robotics.</p><p><a href="https://www.humanoidsdaily.com/news/modar-alaoui-the-humanoid-economy-book-release">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-economy-book-hero-zWFP2L5Rs5o33twvMhBaTyKs3RyfSN.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-economy-book-hero-zWFP2L5Rs5o33twvMhBaTyKs3RyfSN.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-economy-book-hero-zWFP2L5Rs5o33twvMhBaTyKs3RyfSN.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Physical Intelligence Opens API Beta for Robot Model Training and Inference</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/114901e8188225676f80.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-front-hero-16x9-fLYGaPmooEZOOR2lu716uaaxS1sHc4.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Deep Robotics Tests IP66-Rated DR02 on Traffic Duty in the Rain</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e6bcbd5623ed41585a89.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/deep-robotics-dr02-rain-traffic-test-ip66</guid>
-<pubDate>Tue, 06 Oct 2026 15:46:51 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/deep-robotics-dr02-rain-traffic-test-ip66" rel="related" type="text/html" />
-<description>A new video shows DR02 testing traffic reminders and pedestrian interaction in Hangzhou, highlighting the humanoid’s claimed all-weather protection.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" alt="" /></p><p>A new video shows DR02 testing traffic reminders and pedestrian interaction in Hangzhou, highlighting the humanoid’s claimed all-weather protection.</p><p><a href="https://www.humanoidsdaily.com/news/deep-robotics-dr02-rain-traffic-test-ip66">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
