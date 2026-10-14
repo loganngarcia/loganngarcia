@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 06:40:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 12:24:16 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Physical Intelligence Opens API Beta for Robot Model Training and Inference</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/114901e8188225676f80.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/physical-intelligence-api-beta-robot-training-inference</guid>
+<pubDate>Wed, 14 Oct 2026 06:51:33 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/physical-intelligence-api-beta-robot-training-inference" rel="related" type="text/html" />
+<description>PI is accepting applications for a managed robot-model API, with early examples spanning manufacturing and heavy machinery.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" alt="" /></p><p>PI is accepting applications for a managed robot-model API, with early examples spanning manufacturing and heavy machinery.</p><p><a href="https://www.humanoidsdaily.com/news/physical-intelligence-api-beta-robot-training-inference">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Astra, Opus and Argon Show How Frontier AI Models Are Speeding Up Robotics Development</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9736382c65e43227a1cb.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/deep-robotics-dr02-traffic-test-wpfmAqhIM4W4d2FvEbT1I5g5baK7CN.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Our Latest Newsletter: The Minerva Interview, Atlas Hands and More</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf107b829ec37c2b37e0.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-6-minerva-atlas</guid>
-<pubDate>Tue, 06 Oct 2026 15:11:44 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-6-minerva-atlas" rel="related" type="text/html" />
-<description>Our October 6 briefing brings together our Minerva interview, Atlas’s new hands, Galbot pricing and more. Read the edition and subscribe for free.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" alt="" /></p><p>Our October 6 briefing brings together our Minerva interview, Atlas’s new hands, Galbot pricing and more. Read the edition and subscribe for free.</p><p><a href="https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-6-minerva-atlas">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/minerva-roger-arm-QtpgIz50b46RV1qKQI23OkQpa59daX.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
