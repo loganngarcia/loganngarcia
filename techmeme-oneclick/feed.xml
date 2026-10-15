@@ -5,8 +5,122 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 16:53:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:10:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Perplexity open sources SPACE, its AI agent sandbox, and says partners including CoreWeave, Akamai, and Crusoe agreed to offer SPACE to customers (Reed Albergotti/Semafor)</title>
+<link>https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwu3suqmg25</guid>
+<pubDate>Thu, 15 Oct 2026 20:01:30 +0000</pubDate>
+<description>The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.</description>
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/8545c4af86aaf1909371469d1ed3ccbf63c520a7-3490x2148.jpg?rect=0,158,3490,1832&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The company’s “AI sandbox,” is now an open source project, allowing outside developers to use the tool, which it says can keep AI agents contained.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/8545c4af86aaf1909371469d1ed3ccbf63c520a7-3490x2148.jpg?rect=0,158,3490,1832&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/8545c4af86aaf1909371469d1ed3ccbf63c520a7-3490x2148.jpg?rect=0,158,3490,1832&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+</item>
+<item>
+<title>Sources: top DOJ officials halt career prosecutors&#x27; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options (Ben Penn/Bloomberg Law)</title>
+<link>https://news.bloomberglaw.com/tech-and-telecom-law/meta-platforms-drug-sale-criminal-probe-halted-by-doj-officials</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwrkmdssh2s</guid>
+<pubDate>Thu, 15 Oct 2026 19:16:06 +0000</pubDate>
+<description>Top Justice Department officials have sidelined career prosecutors’ long-running grand jury investigation of Meta Platforms over facilitating illegal pharmaceutical sales, just after company executives were subpoenaed to testify, two people familiar with the matter said.</description>
+<content:encoded><![CDATA[<p><img src="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" alt="" /></p><p>Top Justice Department officials have sidelined career prosecutors’ long-running grand jury investigation of Meta Platforms over facilitating illegal pharmaceutical sales, just after company executives were subpoenaed to testify, two people familiar with the matter said.</p>]]></content:encoded>
+<media:content url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" medium="image" />
+<media:thumbnail url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" />
+</item>
+<item>
+<title>Google says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune (Andrew Deck/Nieman Lab)</title>
+<link>https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwpucsqie2g</guid>
+<pubDate>Thu, 15 Oct 2026 18:45:44 +0000</pubDate>
+<description>In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News. On Thursday, the company announced that the program has added new partnerships, bringing the total number of publications in the pilot to more th…</description>
+<content:encoded><![CDATA[<p><img src="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" alt="" /></p><p>In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News. On Thursday, the company announced that the program has added new partnerships, bringing the total number of publications in the pilot to more th…</p>]]></content:encoded>
+<media:content url="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" medium="image" />
+<media:thumbnail url="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" />
+</item>
+<item>
+<title>Two workers have been killed and another seriously injured at Intel&#x27;s Kiryat Gat fab in Israel in an explosion resulting from a gas cylinder malfunctioning (CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/ay5slvopq</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwnvtuum62x</guid>
+<pubDate>Thu, 15 Oct 2026 18:10:48 +0000</pubDate>
+<description>A 49-year-old man died Thursday from injuries sustained in Wednesday’s blast, which also killed a gas technician and left a third worker in serious condition. Police suspect a gas cylinder exploded during unloading operations.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_1_0_642_362_0_large.jpg" alt="" /></p><p>A 49-year-old man died Thursday from injuries sustained in Wednesday’s blast, which also killed a gas technician and left a third worker in serious condition. Police suspect a gas cylinder exploded during unloading operations.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_1_0_642_362_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_1_0_642_362_0_large.jpg" />
+</item>
+<item>
+<title>Volvo says it will use Nvidia&#x27;s Hyperion platform to launch a Level 2++ hands-free, point-to-point automated driving system by 2030 (Andrew J. Hawkins/The Verge)</title>
+<link>https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwn342pey2x</guid>
+<pubDate>Thu, 15 Oct 2026 17:55:50 +0000</pubDate>
+<description>Another win for Nvidia</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Another win for Nvidia</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Memo: Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude (Joseph Cox/404 Media)</title>
+<link>https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwmt5trg22d</guid>
+<pubDate>Thu, 15 Oct 2026 17:51:24 +0000</pubDate>
+<description>Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/POLAND_RAILWAYS__26282341837000.jpg" alt="" /></p><p>Some employees who spend as much as $1,000 on Claude usage each month are scrambling to find ways to maintain access to the tool.</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/POLAND_RAILWAYS__26282341837000.jpg" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/POLAND_RAILWAYS__26282341837000.jpg" />
+</item>
+<item>
+<title>Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices (Anthropic)</title>
+<link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwmlogdek2g</guid>
+<pubDate>Thu, 15 Oct 2026 17:47:13 +0000</pubDate>
+<description>Anthropic announces updates to embedding independent evaluators</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" alt="" /></p><p>Anthropic announces updates to embedding independent evaluators</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" />
+</item>
+<item>
+<title>Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital (Ryan Lawler/Axios)</title>
+<link>https://www.axios.com/pro/fintech-deals/2026/10/15/sunbound-24-million-series-a-richter-acquisition</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwlynoroq2d</guid>
+<pubDate>Thu, 15 Oct 2026 17:36:34 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Alexandr Wang says ex-Apple exec Daniel Gross, now at Meta, helped bring Meta and Apple together: &quot;we&#x27;re excited for mommy and daddy to be playing nice again&quot; (Ina Fried/Axios)</title>
+<link>https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwlffuaif2l</guid>
+<pubDate>Thu, 15 Oct 2026 17:25:49 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta says it worked with Apple to make Muse Spark Open run locally on M5 Ultra Mac Studios, letting users pair two to four Studios to code or do agentic work (CNBC)</title>
+<link>https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwl5bqso32g</guid>
+<pubDate>Thu, 15 Oct 2026 17:21:16 +0000</pubDate>
+<description>Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108365129-1789759496033-gettyimages-2295295823-APPLE_IPHONE_18.jpeg?v=1789759546&amp;w=1920&amp;h=1080" alt="" /></p><p>Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108365129-1789759496033-gettyimages-2295295823-APPLE_IPHONE_18.jpeg?v=1789759546&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108365129-1789759496033-gettyimages-2295295823-APPLE_IPHONE_18.jpeg?v=1789759546&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window (Meta AI Research)</title>
+<link>https://research.meta.ai/blog/muse-spark-open</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwkkpas3x2g</guid>
+<pubDate>Thu, 15 Oct 2026 17:10:52 +0000</pubDate>
+<description>Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.</description>
+<content:encoded><![CDATA[<p><img src="https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp" alt="" /></p><p>Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.</p>]]></content:encoded>
+<media:content url="https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp" medium="image" />
+<media:thumbnail url="https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp" />
+</item>
+<item>
+<title>Sources: Binance.US seeks to raise up to $100M, targeting a ~$1B valuation in the private round, as it aims to expand its US business; WLF is not participating (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-15/binance-us-seeks-100-million-to-expand-its-crypto-business</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwjpy4ikp26</guid>
+<pubDate>Thu, 15 Oct 2026 16:55:56 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>E Ink unveils Kaleido 4, its next-gen color e-paper tech, replacing the Kaleido 3 displays currently used by brands including Amazon, Kobo, and PocketBook (Andrew Liszewski/The Verge)</title>
 <link>https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness</link>
@@ -778,108 +892,6 @@
 <pubDate>Wed, 14 Oct 2026 06:30:50 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at a coordinated theft of ~$100M in crypto using hardware backdoors planted in Ledger wallets sold by Malaysia-based authorized reseller CryptoBilis (Kim Zetter/ZERO DAY)</title>
-<link>https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsva2wztf25</guid>
-<pubDate>Wed, 14 Oct 2026 06:11:08 +0000</pubDate>
-<description>The theft last week of an estimated $100 million in crypto using a hardware backdoor planted in Ledger wallets points to a sophisticated and systematic attack aimed at subverting crypto wallets sold by legitimate resellers in Asia and Europe</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/size/w1200/2026/10/Screenshot-2026-10-12-at-6.01.49---PM.png" alt="" /></p><p>The theft last week of an estimated $100 million in crypto using a hardware backdoor planted in Ledger wallets points to a sophisticated and systematic attack aimed at subverting crypto wallets sold by legitimate resellers in Asia and Europe</p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/size/w1200/2026/10/Screenshot-2026-10-12-at-6.01.49---PM.png" medium="image" />
-<media:thumbnail url="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/size/w1200/2026/10/Screenshot-2026-10-12-at-6.01.49---PM.png" />
-</item>
-<item>
-<title>ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing &quot;strong interest&quot; in orders for 2029 and 2030 (Reuters)</title>
-<link>https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsuon2w7v2u</guid>
-<pubDate>Wed, 14 Oct 2026 06:01:23 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€44B to €44B-€45B (Arjun Kharpal/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxstjvi6ip2n</guid>
-<pubDate>Wed, 14 Oct 2026 05:40:50 +0000</pubDate>
-<description>ASML said some customers are &quot;expressing an interest&quot; in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108291541-1776230822579-gettyimages-2250757897-NETHERLANDS_FOUQUET.jpeg?v=1783337282&amp;w=1920&amp;h=1080" alt="" /></p><p>ASML said some customers are &quot;expressing an interest&quot; in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108291541-1776230822579-gettyimages-2250757897-NETHERLANDS_FOUQUET.jpeg?v=1783337282&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108291541-1776230822579-gettyimages-2250757897-NETHERLANDS_FOUQUET.jpeg?v=1783337282&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>US defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain (Joyu Wang/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?st=nX4pDn&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsqqinbzl26</guid>
-<pubDate>Wed, 14 Oct 2026 04:50:50 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsnorz6ca2d</guid>
-<pubDate>Wed, 14 Oct 2026 03:56:12 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)</title>
-<link>https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsl5xzjpv22</guid>
-<pubDate>Wed, 14 Oct 2026 03:11:00 +0000</pubDate>
-<description>Backed by Base10, Causa Prima’s software lets buyers’ and suppliers’ AI agents negotiate payment terms.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/CausaPrima_Founders-e1791859343152.png?resize=1200,600" alt="" /></p><p>Backed by Base10, Causa Prima’s software lets buyers’ and suppliers’ AI agents negotiate payment terms.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/CausaPrima_Founders-e1791859343152.png?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/CausaPrima_Founders-e1791859343152.png?resize=1200,600" />
-</item>
-<item>
-<title>Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&#x27;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)</title>
-<link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsincrryt2w</guid>
-<pubDate>Wed, 14 Oct 2026 02:25:54 +0000</pubDate>
-<description>From krebsonsecurity.com</description>
-<content:encoded><![CDATA[<p>From krebsonsecurity.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsftuaknk2w</guid>
-<pubDate>Wed, 14 Oct 2026 01:35:52 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxscilfnnh2o</guid>
-<pubDate>Wed, 14 Oct 2026 00:35:52 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)</title>
-<link>https://www.forbes.com/sites/the-prompt/2026/10/13/30-of-scientific-experiments-are-wasteful-this-startup-wants-to-use-ai-to-change-that/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxsasunaay2g</guid>
-<pubDate>Wed, 14 Oct 2026 00:05:50 +0000</pubDate>
-<description>From www.forbes.com</description>
-<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)</title>
-<link>https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs6d3c6hp2g</guid>
-<pubDate>Tue, 13 Oct 2026 23:21:13 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxs57udns32n</guid>
-<pubDate>Tue, 13 Oct 2026 23:01:31 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
