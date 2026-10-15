@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 12:29:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:17:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nine Minutes to Recharge: Agility Picks Nyobolt for Digit 5’s Long Working Day</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/72fe51b4fb38cab0fb20.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-digit-5-nyobolt-nine-minute-charging</guid>
+<pubDate>Thu, 15 Oct 2026 12:30:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agility-digit-5-nyobolt-nine-minute-charging" rel="related" type="text/html" />
+<description>Nyobolt is behind Digit 5’s planned nine-minute recharge, which Agility says will help the humanoid work more than 20 hours per day. Early access is expected in 2027.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" alt="" /></p><p>Nyobolt is behind Digit 5’s planned nine-minute recharge, which Agility says will help the humanoid work more than 20 hours per day. Early access is expected in 2027.</p><p><a href="https://www.humanoidsdaily.com/news/agility-digit-5-nyobolt-nine-minute-charging">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>NEURA Gives Its Robot AI Touch, Sound and Memory Ahead of 11-Minute Laundry Demo</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a279e025e1c7191e8698.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tesla Patent Application Details Flexible Touch Sensors for Robot Hands</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/844f0f85f149ca6b28f3.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-patent-flexible-touch-sensors-robot-hands</guid>
-<pubDate>Thu, 08 Oct 2026 12:44:18 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tesla-patent-flexible-touch-sensors-robot-hands" rel="related" type="text/html" />
-<description>The filing describes curved tactile sensor arrays and ways to manufacture them, offering a likely glimpse into Optimus development without confirming their use in its new hand.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp" alt="" /></p><p>The filing describes curved tactile sensor arrays and ways to manufacture them, offering a likely glimpse into Optimus development without confirming their use in its new hand.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-patent-flexible-touch-sensors-robot-hands">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-tactile-sensor-patent-lIeeILZEWLc4zoY33wliM4IuzA7fmZ.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

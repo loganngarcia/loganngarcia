@@ -5,8 +5,176 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 12:29:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:17:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>E Ink unveils Kaleido 4, its next-gen color e-paper tech, replacing the Kaleido 3 displays currently used by brands including Amazon, Kobo, and PocketBook (Andrew Liszewski/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7b46677ea723cb89113.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwimmuco52d</guid>
+<pubDate>Thu, 15 Oct 2026 16:36:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness" rel="related" type="text/html" />
+<description>Future e-readers could be getting a better color screen.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" alt="" /></p><p>Future e-readers could be getting a better color screen.</p><p><a href="https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Nvidia launches Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, and says it outperforms frontier models on specialized benchmarks (Carl Franzen/VentureBeat)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a06e543f55a275a0612.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwhrs227725</guid>
+<pubDate>Thu, 15 Oct 2026 16:21:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks" rel="related" type="text/html" />
+<description>NVIDIA has shown a coherent set of models for testing those possibilities; enterprises still need the licensing, deployment details and workload results to decide whether to build on it.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F62wDtlddqcwrwFDaM2vaja%2F4051841377454df5f2dd4f0c32451ec0%2FRobot_Examines_a_Lavender-Marked_Document.png%3Fw%3D800%26q%3D75" alt="" /></p><p>NVIDIA has shown a coherent set of models for testing those possibilities; enterprises still need the licensing, deployment details and workload results to decide whether to build on it.</p><p><a href="https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F62wDtlddqcwrwFDaM2vaja%2F4051841377454df5f2dd4f0c32451ec0%2FRobot_Examines_a_Lavender-Marked_Document.png%3Fw%3D800%26q%3D75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F62wDtlddqcwrwFDaM2vaja%2F4051841377454df5f2dd4f0c32451ec0%2FRobot_Examines_a_Lavender-Marked_Document.png%3Fw%3D800%26q%3D75" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F62wDtlddqcwrwFDaM2vaja%2F4051841377454df5f2dd4f0c32451ec0%2FRobot_Examines_a_Lavender-Marked_Document.png%3Fw%3D800%26q%3D75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sony launches three new Android-powered Walkman music players, including the gold-plated NW-WM1ZM3 for $5,900, as it targets the audiophile market (Chris Welch/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d731552302555b2a3be3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwhi4fkcl2x</guid>
+<pubDate>Thu, 15 Oct 2026 16:15:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts" rel="related" type="text/html" />
+<description>Sony Group Corp. introduced a trio of premium digital music players priced from $1,900 to $5,900, marking the first new hardware in several years carrying the storied Walkman name.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi5itKVd_Ep68%2Fv1%2F1200x758.jpg" alt="" /></p><p>Sony Group Corp. introduced a trio of premium digital music players priced from $1,900 to $5,900, marking the first new hardware in several years carrying the storied Walkman name.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi5itKVd_Ep68%2Fv1%2F1200x758.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi5itKVd_Ep68%2Fv1%2F1200x758.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi5itKVd_Ep68%2Fv1%2F1200x758.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Documents: Nvidia and Apple each committed $25M, the top contribution amount, to Trump's WH ballroom; Microsoft and Palantir committed $10M, Meta and Amazon $5M (Washington Post)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b88a6b6f04329c1232fe.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwc65rxog26</guid>
+<pubDate>Thu, 15 Oct 2026 14:40:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&amp;itid=gfta" rel="related" type="text/html" />
+<description>The records offer a panoramic view of a fundraising campaign that is extraordinary for its size and opacity.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPR2NQUJM65CQ5EO656GD6USPNU.jpg%26w%3D1440" alt="" /></p><p>The records offer a panoramic view of a fundraising campaign that is extraordinary for its size and opacity.</p><p><a href="https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&amp;itid=gfta">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPR2NQUJM65CQ5EO656GD6USPNU.jpg%26w%3D1440" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPR2NQUJM65CQ5EO656GD6USPNU.jpg%26w%3D1440" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPR2NQUJM65CQ5EO656GD6USPNU.jpg%26w%3D1440" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3ef9857d1a9d001f0248.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw7o7iaz325</guid>
+<pubDate>Thu, 15 Oct 2026 13:55:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together" rel="related" type="text/html" />
+<description>Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components. The company says its design could fit up to ten times more computing capacity into the same amount of power as existing data center setups. This approach could ease constraints on global power and data center capacity for AI chips. Maverick Silicon led the round; Intel Capital, Wellington</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components. The company says its design could fit up to ten times more computing capacity into the same amount of power as existing data center setups. This approach could ease constraints on global power and data center capacity for AI chips. Maverick Silicon led the round; Intel Capital, Wellington</p><p><a href="https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
+<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/72f2bebfb20d0c2eae98.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw6az4jk72s</guid>
+<pubDate>Thu, 15 Oct 2026 13:30:42 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan" rel="related" type="text/html" />
+<description>The NYC startup could look to raise a Series C next summer, its CEO says.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FTiVh2LxNR-FDGihoGeD80jy-Nck%3D%2F1366x768%2Fsmart%2F2021%2F09%2F09%2F183244-1631212364979.jpg" alt="" /></p><p>The NYC startup could look to raise a Series C next summer, its CEO says.</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FTiVh2LxNR-FDGihoGeD80jy-Nck%3D%2F1366x768%2Fsmart%2F2021%2F09%2F09%2F183244-1631212364979.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FTiVh2LxNR-FDGihoGeD80jy-Nck%3D%2F1366x768%2Fsmart%2F2021%2F09%2F09%2F183244-1631212364979.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FTiVh2LxNR-FDGihoGeD80jy-Nck%3D%2F1366x768%2Fsmart%2F2021%2F09%2F09%2F183244-1631212364979.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An interview with John Ternus, who says the memory shortage is "a crisis" and "all options should be on the table", and that Tim Cook "has great relationships" (Andrew R. Chow/Time)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/316e6c070efaca6a9364.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw5p65ee72x</guid>
+<pubDate>Thu, 15 Oct 2026 13:20:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://time.com/collection/best-inventions/2026/apple-iphone-duo/" rel="related" type="text/html" />
+<description>Find out why John Ternus Is Engineering a New Era for Apple is on TIME's list of 2026's best inventions.</description>
+<content:encoded><![CDATA[<p><img src="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" alt="" /></p><p>Find out why John Ternus Is Engineering a New Era for Apple is on TIME's list of 2026's best inventions.</p><p><a href="https://time.com/collection/best-inventions/2026/apple-iphone-duo/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" />
+<enclosure url="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Q&amp;A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6049d5e507c178773fd4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw5gwhtqi2w</guid>
+<pubDate>Thu, 15 Oct 2026 13:16:07 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html" rel="related" type="text/html" />
+<description>Dwarkesh Patel on what the public doesn’t know about A.I.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fopinion%2F15itpod-patel-image%2F15itpod-patel-facebookJumbo.jpg" alt="" /></p><p>Dwarkesh Patel on what the public doesn’t know about A.I.</p><p><a href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fopinion%2F15itpod-patel-image%2F15itpod-patel-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fopinion%2F15itpod-patel-image%2F15itpod-patel-facebookJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fopinion%2F15itpod-patel-image%2F15itpod-patel-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9783a99f4765463078ce.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw4cirtsz2d</guid>
+<pubDate>Thu, 15 Oct 2026 12:55:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html" rel="related" type="text/html" />
+<description>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" alt="" /></p><p>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</p><p><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07bf2c4eb28e5b2269e1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw3rdpoxt25</guid>
+<pubDate>Thu, 15 Oct 2026 12:45:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit" rel="related" type="text/html" />
+<description>Laying the foundation for the reinvention of the PC in the agentic AI era</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" alt="" /></p><p>Laying the foundation for the reinvention of the PC in the agentic AI era</p><p><a href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" />
+<enclosure url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a83422c50ee045c41b7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw36rd2l32d</guid>
+<pubDate>Thu, 15 Oct 2026 12:35:40 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android" rel="related" type="text/html" />
+<description>It looks like a phone, but isn’t designed to be one.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It looks like a phone, but isn’t designed to be one.</p><p><a href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/42710857e0bf315e615c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzrwlgqw22</guid>
+<pubDate>Thu, 15 Oct 2026 12:10:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan" rel="related" type="text/html" />
+<description>Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compe...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" alt="" /></p><p>Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compe...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8832ef0e8bd87ae592e.html</link>
@@ -675,174 +843,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLZwrf_QzgjQ%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLZwrf_QzgjQ%2Fv0%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLZwrf_QzgjQ%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed7b5755fe80be0f1637.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtvdz73gb2m</guid>
-<pubDate>Wed, 14 Oct 2026 15:46:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/" rel="related" type="text/html" />
-<description>An OpenAI employee who left the ChatGPT maker for Apple ‌sent more than 100 files about an unreleased product to a personal account and later presented the product to senior Apple leadership, a new fi...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIICL3I62YFK3TCCPU2TG7R6YLM.jpg%3Fauth%3Db84e2f962236d7912dbd9e0e97adb24afb3247d2b2edf14c46a846e8e3c73702%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>An OpenAI employee who left the ChatGPT maker for Apple ‌sent more than 100 files about an unreleased product to a personal account and later presented the product to senior Apple leadership, a new fi...</p><p><a href="https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIICL3I62YFK3TCCPU2TG7R6YLM.jpg%3Fauth%3Db84e2f962236d7912dbd9e0e97adb24afb3247d2b2edf14c46a846e8e3c73702%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIICL3I62YFK3TCCPU2TG7R6YLM.jpg%3Fauth%3Db84e2f962236d7912dbd9e0e97adb24afb3247d2b2edf14c46a846e8e3c73702%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIICL3I62YFK3TCCPU2TG7R6YLM.jpg%3Fauth%3Db84e2f962236d7912dbd9e0e97adb24afb3247d2b2edf14c46a846e8e3c73702%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent (Dylan Freedman/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/98e5c24a12bb7692734c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtuaajbag26</guid>
-<pubDate>Wed, 14 Oct 2026 15:26:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html?unlocked_article_code=1.IlE.MmMT.-dqDF5SZcwZA&amp;smid=url-share" rel="related" type="text/html" />
-<description>Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F14%2Fmultimedia%2F14biz-agents-chat-tencent-zwgj%2F14biz-agents-chat-tencent-zwgj-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.</p><p><a href="https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html?unlocked_article_code=1.IlE.MmMT.-dqDF5SZcwZA&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F14%2Fmultimedia%2F14biz-agents-chat-tencent-zwgj%2F14biz-agents-chat-tencent-zwgj-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F14%2Fmultimedia%2F14biz-agents-chat-tencent-zwgj%2F14biz-agents-chat-tencent-zwgj-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F14%2Fmultimedia%2F14biz-agents-chat-tencent-zwgj%2F14biz-agents-chat-tencent-zwgj-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Austin-based Icon, which builds robotic 3D-printing construction systems and software, raised a $200M Series D co-led by Baillie Gifford and BlackRock (Chris Metinko/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cad60cb7ac6feca1a85b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxttfh4rh726</guid>
-<pubDate>Wed, 14 Oct 2026 15:11:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/13/construction-tech-icon-blackrock" rel="related" type="text/html" />
-<description>The company expects to 4x revenue this year.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fv4qc0qFWiR0S_bdVBvXjYv6C8Lo%3D%2F1366x768%2Fsmart%2F2023%2F01%2F27%2F002314-1674778994829.jpg" alt="" /></p><p>The company expects to 4x revenue this year.</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/13/construction-tech-icon-blackrock">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fv4qc0qFWiR0S_bdVBvXjYv6C8Lo%3D%2F1366x768%2Fsmart%2F2023%2F01%2F27%2F002314-1674778994829.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fv4qc0qFWiR0S_bdVBvXjYv6C8Lo%3D%2F1366x768%2Fsmart%2F2023%2F01%2F27%2F002314-1674778994829.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fv4qc0qFWiR0S_bdVBvXjYv6C8Lo%3D%2F1366x768%2Fsmart%2F2023%2F01%2F27%2F002314-1674778994829.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5b352c88938e38b106f1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtrptgozk2x</guid>
-<pubDate>Wed, 14 Oct 2026 14:41:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8" rel="related" type="text/html" />
-<description>Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F239d96ec-e7ec-40ac-8591-06082cbd3548.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected</p><p><a href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F239d96ec-e7ec-40ac-8591-06082cbd3548.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F239d96ec-e7ec-40ac-8591-06082cbd3548.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F239d96ec-e7ec-40ac-8591-06082cbd3548.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is "vibe coded" and "way faster", and now supports Linux (Jay Peters/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/08495a955cc82e8dbd1d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtr5rln7l2m</guid>
-<pubDate>Wed, 14 Oct 2026 14:30:56 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux" rel="related" type="text/html" />
-<description>“We used AI as a tool for this.”</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>“We used AI as a tool for this.”</p><p><a href="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" type="image/png" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" type="image/png" length="0" />
-</item>
-<item>
-<title>Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/73b80978e95e00908fcb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtq2qr4rl2g</guid>
-<pubDate>Wed, 14 Oct 2026 14:11:19 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/" rel="related" type="text/html" />
-<description>Salience Labs raises $125M after showcasing world's most advanced, fully optical circuit-switching tech - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-13-10-18-09.png" alt="" /></p><p>Salience Labs raises $125M after showcasing world's most advanced, fully optical circuit-switching tech - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/10/14/salience-labs-raises-125m-in-funding-after-showcasing-worlds-most-advanced-fully-optical-circuit-switching-tech/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-13-10-18-09.png" medium="image" type="image/png" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-13-10-18-09.png" />
-<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-13-10-18-09.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5929d7731590f9484869.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtpr5ezgb2n</guid>
-<pubDate>Wed, 14 Oct 2026 14:05:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier" rel="related" type="text/html" />
-<description>The European Union is in talks with China to secure relief from sanctions that threatened the survival of Sindlhauser Materials GmbH, a small German company in the ASML Holding NV supply chain, accord...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi7wpHZghi9zY%2Fv1%2F1200x800.jpg" alt="" /></p><p>The European Union is in talks with China to secure relief from sanctions that threatened the survival of Sindlhauser Materials GmbH, a small German company in the ASML Holding NV supply chain, accord...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi7wpHZghi9zY%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi7wpHZghi9zY%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi7wpHZghi9zY%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cf5942ef5249a6406524.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtpjbpnde2u</guid>
-<pubDate>Wed, 14 Oct 2026 14:01:34 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/enterprise-software-deals/2026/10/14/modal-accel-ai-infrastructure" rel="related" type="text/html" />
-<description>Modal may look to acquisitions to help grow.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAEPcjSH_jiEfrlouC90foftjgNY%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F07%2F31%2F1785530287114.jpeg" alt="" /></p><p>Modal may look to acquisitions to help grow.</p><p><a href="https://www.axios.com/pro/enterprise-software-deals/2026/10/14/modal-accel-ai-infrastructure">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAEPcjSH_jiEfrlouC90foftjgNY%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F07%2F31%2F1785530287114.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAEPcjSH_jiEfrlouC90foftjgNY%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F07%2F31%2F1785530287114.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FAEPcjSH_jiEfrlouC90foftjgNY%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F07%2F31%2F1785530287114.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Berkshire Hathaway invests an additional $330M in Bending Spoons, taking its stake to 4%, after investing $600M during Bending Spoons' July IPO; BSP jumps 40%+ (Peter Wells/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b600c0d0bb33e9742ca2.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtoneiemk2x</guid>
-<pubDate>Wed, 14 Oct 2026 13:45:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2" rel="related" type="text/html" />
-<description>Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F43f360cd-b210-439e-979d-69cf7ff0f0dd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back</p><p><a href="https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F43f360cd-b210-439e-979d-69cf7ff0f0dd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F43f360cd-b210-439e-979d-69cf7ff0f0dd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F43f360cd-b210-439e-979d-69cf7ff0f0dd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4fa95816756b542f752e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxto3yrw6w2u</guid>
-<pubDate>Wed, 14 Oct 2026 13:36:15 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week" rel="related" type="text/html" />
-<description>Nvidia Corp. Chief Executive Officer Jensen Huang announced plans to invest $2 billion in European deals during a tour of the region that included a meeting with French President Emmanuel Macron.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fili4QjqCENBM%2Fv1%2F1200x800.jpg" alt="" /></p><p>Nvidia Corp. Chief Executive Officer Jensen Huang announced plans to invest $2 billion in European deals during a tour of the region that included a meeting with French President Emmanuel Macron.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fili4QjqCENBM%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fili4QjqCENBM%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fili4QjqCENBM%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google plans to acquire power from AEP's Cheyenne Fuel Cell under a 20-year deal; AEP will invest ~$4B in the Wyoming fuel cell project using Bloom's tech (Kelly Cloonan/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b5dff27fa4be677406f6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtnshujvi22</guid>
-<pubDate>Wed, 14 Oct 2026 13:30:55 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f?st=TE3r6W&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>American Electric Power plans to invest about $4 billion in a Wyoming fuel cell generation project to meet growing energy demand from Alphabet’s Google.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-07749529%2Fsocial" alt="" /></p><p>American Electric Power plans to invest about $4 billion in a Wyoming fuel cell generation project to meet growing energy demand from Alphabet’s Google.</p><p><a href="https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f?st=TE3r6W&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-07749529%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-07749529%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-07749529%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/689dcd6206059e297aa7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtnjjgw2g2u</guid>
-<pubDate>Wed, 14 Oct 2026 13:25:55 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/" rel="related" type="text/html" />
-<description>Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" alt="" /></p><p>Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.</p><p><a href="https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" />
-<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
