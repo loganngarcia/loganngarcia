@@ -5,8 +5,114 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 15 Oct 2026 12:03:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:53:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>E Ink unveils Kaleido 4, its next-gen color e-paper tech, replacing the Kaleido 3 displays currently used by brands including Amazon, Kobo, and PocketBook (Andrew Liszewski/The Verge)</title>
+<link>https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwimmuco52d</guid>
+<pubDate>Thu, 15 Oct 2026 16:36:09 +0000</pubDate>
+<description>Future e-readers could be getting a better color screen.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" alt="" /></p><p>Future e-readers could be getting a better color screen.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200" />
+</item>
+<item>
+<title>Nvidia launches Nemotron 3.5 Super VL, a 120B-parameter open model for enterprise agents, and says it outperforms frontier models on specialized benchmarks (Carl Franzen/VentureBeat)</title>
+<link>https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwhrs227725</guid>
+<pubDate>Thu, 15 Oct 2026 16:21:09 +0000</pubDate>
+<description>From venturebeat.com</description>
+<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sony launches three new Android-powered Walkman music players, including the gold-plated NW-WM1ZM3 for $5,900, as it targets the audiophile market (Chris Welch/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwhi4fkcl2x</guid>
+<pubDate>Thu, 15 Oct 2026 16:15:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Documents: Nvidia and Apple each committed $25M, the top contribution amount, to Trump&#x27;s WH ballroom; Microsoft and Palantir committed $10M, Meta and Amazon $5M (Washington Post)</title>
+<link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyMDM2ODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzkzNDE5MTk5LCJpYXQiOjE3OTIwMzY4MDAsImp0aSI6IjZiOTgyNjcxLWUwNWQtNDBjMi05MzJlLWYxNjg4ODgwN2I4YSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy8yMDI2LzEwLzE1L3NlY3JldC1kb2N1bWVudHMtcmV2ZWFsLWRvbm9ycy1iZWhpbmQtMzMwLW1pbGxpb24tdHJ1bXBzLWJhbGxyb29tLyJ9.bwQFjcPhaUaMyVgd-xm4T-gTGikZG8Y5qKSXJnffNqU&amp;itid=gfta</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwc65rxog26</guid>
+<pubDate>Thu, 15 Oct 2026 14:40:41 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)</title>
+<link>https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw7o7iaz325</guid>
+<pubDate>Thu, 15 Oct 2026 13:55:49 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw6az4jk72s</guid>
+<pubDate>Thu, 15 Oct 2026 13:30:42 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with John Ternus, who says the memory shortage is &quot;a crisis&quot; and &quot;all options should be on the table&quot;, and that Tim Cook &quot;has great relationships&quot; (Andrew R. Chow/Time)</title>
+<link>https://time.com/collection/best-inventions/2026/apple-iphone-duo/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw5p65ee72x</guid>
+<pubDate>Thu, 15 Oct 2026 13:20:44 +0000</pubDate>
+<description>Find out why John Ternus Is Engineering a New Era for Apple is on TIME&#x27;s list of 2026&#x27;s best inventions.</description>
+<content:encoded><![CDATA[<p><img src="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" alt="" /></p><p>Find out why John Ternus Is Engineering a New Era for Apple is on TIME&#x27;s list of 2026&#x27;s best inventions.</p>]]></content:encoded>
+<media:content url="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" medium="image" />
+<media:thumbnail url="https://static.time.com/v3/assets/bltea6093859af6183b/blta42669fca1677309/6ad0c3e3d49f9c6cde606421/social-crop-apple.jpg?branch=production" />
+</item>
+<item>
+<title>Q&amp;A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more (New York Times)</title>
+<link>https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw5gwhtqi2w</guid>
+<pubDate>Thu, 15 Oct 2026 13:16:07 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw4cirtsz2d</guid>
+<pubDate>Thu, 15 Oct 2026 12:55:41 +0000</pubDate>
+<description>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" alt="" /></p><p>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Nvidia&#x27;s RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple&#x27;s M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw3rdpoxt25</guid>
+<pubDate>Thu, 15 Oct 2026 12:45:59 +0000</pubDate>
+<description>Laying the foundation for the reinvention of the PC in the agentic AI era</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" alt="" /></p><p>Laying the foundation for the reinvention of the PC in the agentic AI era</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" />
+</item>
+<item>
+<title>Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)</title>
+<link>https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw36rd2l32d</guid>
+<pubDate>Thu, 15 Oct 2026 12:35:40 +0000</pubDate>
+<description>It looks like a phone, but isn’t designed to be one.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It looks like a phone, but isn’t designed to be one.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzrwlgqw22</guid>
+<pubDate>Thu, 15 Oct 2026 12:10:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)</title>
 <link>https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink</link>
@@ -774,118 +880,6 @@
 <pubDate>Tue, 13 Oct 2026 23:01:31 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at OpenAI&#x27;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)</title>
-<link>https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrzmdx7a722</guid>
-<pubDate>Tue, 13 Oct 2026 21:56:55 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple v. OpenAI: a US judge partly grants Apple&#x27;s motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)</title>
-<link>https://news.bloomberglaw.com/tech-and-telecom-law/apple-wins-early-access-to-openai-files-in-trade-secrets-suit</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrxwyfgeg2x</guid>
-<pubDate>Tue, 13 Oct 2026 21:27:05 +0000</pubDate>
-<description>Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft of trade secrets to advance forthcoming consumer hardware products.</description>
-<content:encoded><![CDATA[<p><img src="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" alt="" /></p><p>Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft of trade secrets to advance forthcoming consumer hardware products.</p>]]></content:encoded>
-<media:content url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" medium="image" />
-<media:thumbnail url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb9%2Fb6%2F5f7c55804c218702dc85190e1fc9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2287503321&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=3993x1539%2B3%2B0" />
-</item>
-<item>
-<title>The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities (Dustin Volz/New York Times)</title>
-<link>https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrwr2vka52x</guid>
-<pubDate>Tue, 13 Oct 2026 21:05:52 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)</title>
-<link>https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrvg2txel2w</guid>
-<pubDate>Tue, 13 Oct 2026 20:41:49 +0000</pubDate>
-<description>New business unit is charged with testing new projects and judging them by user feedback</description>
-<content:encoded><![CDATA[<p><img src="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" alt="" /></p><p>New business unit is charged with testing new projects and judging them by user feedback</p>]]></content:encoded>
-<media:content url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" medium="image" />
-<media:thumbnail url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" />
-</item>
-<item>
-<title>Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)</title>
-<link>https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrv272nhs2n</guid>
-<pubDate>Tue, 13 Oct 2026 20:35:11 +0000</pubDate>
-<description>Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" alt="" /></p><p>Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.</p>]]></content:encoded>
-<media:content url="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" medium="image" />
-<media:thumbnail url="https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG" />
-</item>
-<item>
-<title>OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to identify who placed it (@openainewsroom)</title>
-<link>https://x.com/openainewsroom/status/2110095403198849132</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrtan66ud2o</guid>
-<pubDate>Tue, 13 Oct 2026 20:03:00 +0000</pubDate>
-<description>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1885410297101381632/3Gs7_1gs_400x400.jpg" alt="" /></p><p>We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agen…</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/profile_images/1885410297101381632/3Gs7_1gs_400x400.jpg" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/profile_images/1885410297101381632/3Gs7_1gs_400x400.jpg" />
-</item>
-<item>
-<title>Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)</title>
-<link>https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrskvxxzb2x</guid>
-<pubDate>Tue, 13 Oct 2026 19:50:51 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)</title>
-<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrqevjyhp2d</guid>
-<pubDate>Tue, 13 Oct 2026 19:11:41 +0000</pubDate>
-<description>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</description>
-<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" alt="" /></p><p>As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.</p>]]></content:encoded>
-<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" medium="image" />
-<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png" />
-</item>
-<item>
-<title>A Delaware jury awards Qualcomm $2 in nominal damages after finding Arm breached its architectural license agreement and sought to disrupt Qualcomm&#x27;s business (Anhata Rooprai/Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrn2cahu42o</guid>
-<pubDate>Tue, 13 Oct 2026 18:12:04 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)</title>
-<link>https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrm75vn2g2n</guid>
-<pubDate>Tue, 13 Oct 2026 17:56:54 +0000</pubDate>
-<description>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" alt="" /></p><p>Buzzy AI agent company Decagon previously held talks about being acquired by ServiceNow and has hired an investment bank to evaluate M&amp;A interest.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ac959fa42403ad8039a5437?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrlufk2dg2x</guid>
-<pubDate>Tue, 13 Oct 2026 17:50:53 +0000</pubDate>
-<description>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" alt="" /></p><p>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815" />
-</item>
-<item>
-<title>Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)</title>
-<link>https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxrl2fabok25</guid>
-<pubDate>Tue, 13 Oct 2026 17:36:20 +0000</pubDate>
-<description>It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg" alt="" /></p><p>It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.</p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg" medium="image" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg" />
 </item>
 </channel>
 </rss>
