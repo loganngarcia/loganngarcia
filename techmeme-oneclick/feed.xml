@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 15:00:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 18:44:45 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxz5azyrvv25</guid>
+<pubDate>Fri, 16 Oct 2026 17:50:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)</title>
+<link>https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyzdwvvuc2l</guid>
+<pubDate>Fri, 16 Oct 2026 16:40:51 +0000</pubDate>
+<description>From venturebeat.com</description>
+<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
+</item>
 <item>
 <title>In its first meeting, Trump&#x27;s Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks</link>
@@ -876,22 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" alt="" /></p><p>It’s also working on calendar integrations for later this year.</p>]]></content:encoded>
 <media:content url="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" medium="image" />
 <media:thumbnail url="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" />
-</item>
-<item>
-<title>OpenAI&#x27;s head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser (Anissa Gardizy/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/openai-computing-chief-to-depart-6ffb7d7e?st=4xyNgM&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtwzloiw62n</guid>
-<pubDate>Wed, 14 Oct 2026 16:15:58 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/openai-names-uday-ruddarraju-to-lead-data-center-computing-unit?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTk5Mzc2MSwiZXhwIjoxNzkyNTk4NTYxLCJhcnRpY2xlSWQiOiJUTDI0M0FUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.MmfGP9LhJKtB-EmXmu3P2DnLjoL8PaO9e0xH4xMvKeQg</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtwhnqive2d</guid>
-<pubDate>Wed, 14 Oct 2026 16:05:56 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
