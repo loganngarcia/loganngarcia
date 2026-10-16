@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 18:50:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:48:04 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/56b3fdb20ff1963e4edd.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzjtetwt52l</guid>
+<pubDate>Fri, 16 Oct 2026 21:35:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html" rel="related" type="text/html" />
+<description>The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" alt="" /></p><p>The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.</p><p><a href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a6a342eb9583796b00b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzfwdrk5u2d</guid>
+<pubDate>Fri, 16 Oct 2026 20:25:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.anthropic.com/research/ecdsa-curve-origins" rel="related" type="text/html" />
+<description>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" alt="" /></p><p>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</p><p><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" />
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9650032bf1b9f5c0c48f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzdxmw2p22d</guid>
+<pubDate>Fri, 16 Oct 2026 19:50:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied" rel="related" type="text/html" />
+<description>SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways to...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyQR8RBHhUzE%2Fv7%2F1200x800.jpg" alt="" /></p><p>SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services company in the US, people familiar with the matter said, as founder Masayoshi Son explores ways to...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyQR8RBHhUzE%2Fv7%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyQR8RBHhUzE%2Fv7%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyQR8RBHhUzE%2Fv7%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a8146b16ea376a4f942.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzbhezfrq2g</guid>
+<pubDate>Fri, 16 Oct 2026 19:05:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/" rel="related" type="text/html" />
+<description>SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them</description>
+<content:encoded><![CDATA[<p><img src="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" alt="" /></p><p>SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them</p><p><a href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" />
+<enclosure url="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e4018d8e9eb4c3e62dd1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzadhwicj2u</guid>
+<pubDate>Fri, 16 Oct 2026 18:45:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471" rel="related" type="text/html" />
+<description>Core devs revert up to 10 features, push release to November, and blame better tooling rather than vibe coding</description>
+<content:encoded><![CDATA[<p><img src="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>Core devs revert up to 10 features, push release to November, and blame better tooling rather than vibe coding</p><p><a href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
+<enclosure url="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dfa5024044f7449b6042.html</link>
@@ -127,8 +197,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal" rel="related" type="text/html" />
-<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
+<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -790,76 +860,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Marc Andreessen, who sources say is close to White House COS Susie Wiles and has publicly described a fallout with Biden officials over AI policy (Austin Carr/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1623eb6bbc3a26db3d04.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvyobxpp625</guid>
-<pubDate>Thu, 15 Oct 2026 11:50:45 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga" rel="related" type="text/html" />
-<description>The prominent investor has said the Biden administration pushed him to the political right, but sources say his grievances don’t always match reality.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDqL9n5aB0Rs%2Fv0%2F1200x630.jpg" alt="" /></p><p>The prominent investor has said the Biden administration pushed him to the political right, but sources say his grievances don’t always match reality.</p><p><a href="https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDqL9n5aB0Rs%2Fv0%2F1200x630.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDqL9n5aB0Rs%2Fv0%2F1200x630.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDqL9n5aB0Rs%2Fv0%2F1200x630.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether (Sam Kessler/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5884fead74df9356799b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvxtmt4z426</guid>
-<pubDate>Thu, 15 Oct 2026 11:35:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Money from Tether flowed to Nxum while Bo Hines worked in the White House on landmark stablecoin legislation. Once the law passed, Tether hired him as its U.S. chief.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69461801%2Fsocial" alt="" /></p><p>Money from Tether flowed to Nxum while Bo Hines worked in the White House on landmark stablecoin legislation. Once the law passed, Tether hired him as its U.S. chief.</p><p><a href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69461801%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69461801%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69461801%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/706ad4e62b7672b4933e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvxbdvlac2s</guid>
-<pubDate>Thu, 15 Oct 2026 11:25:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation" rel="related" type="text/html" />
-<description>The FTC is investigating AI giants over safety incidents.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F3P5YQoCTOJfDxf4a6SBap5bHN0E%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F15%2F1792025090189.jpg" alt="" /></p><p>The FTC is investigating AI giants over safety incidents.</p><p><a href="https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F3P5YQoCTOJfDxf4a6SBap5bHN0E%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F15%2F1792025090189.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F3P5YQoCTOJfDxf4a6SBap5bHN0E%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F15%2F1792025090189.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2F3P5YQoCTOJfDxf4a6SBap5bHN0E%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F15%2F1792025090189.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e68b97f15be7b0e5fd5b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvwphmh3525</guid>
-<pubDate>Thu, 15 Oct 2026 11:15:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot" rel="related" type="text/html" />
-<description>...</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" alt="" /></p><p>...</p><p><a href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June (Rebecca Torrence/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d936767cdbaf201b874d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvvvppf6f2d</guid>
-<pubDate>Thu, 15 Oct 2026 11:01:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges" rel="related" type="text/html" />
-<description>Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce Thursday — a milestone that’s helped attract fresh investor capital.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" alt="" /></p><p>Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce Thursday — a milestone that’s helped attract fresh investor capital.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/ramp-completes-funding-at-60-billion-value-as-revenue-surges">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>NEURA Gives Its Robot AI Touch, Sound and Memory Ahead of 11-Minute Laundry Demo</title>
@@ -2010,20 +2010,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -2050,6 +2036,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
