@@ -5,8 +5,54 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 18:44:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:46:09 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)</title>
+<link>https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzjtetwt52l</guid>
+<pubDate>Fri, 16 Oct 2026 21:35:49 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says Claude traced NIST&#x27;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)</title>
+<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzfwdrk5u2d</guid>
+<pubDate>Fri, 16 Oct 2026 20:25:54 +0000</pubDate>
+<description>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" alt="" /></p><p>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" />
+</item>
+<item>
+<title>Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-16/softbank-is-said-to-weigh-buying-largest-us-security-firm-allied</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzdxmw2p22d</guid>
+<pubDate>Fri, 16 Oct 2026 19:50:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)</title>
+<link>https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzbhezfrq2g</guid>
+<pubDate>Fri, 16 Oct 2026 19:05:56 +0000</pubDate>
+<description>SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them</description>
+<content:encoded><![CDATA[<p><img src="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" alt="" /></p><p>SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them</p>]]></content:encoded>
+<media:content url="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" medium="image" />
+<media:thumbnail url="https://www.telegraph.co.uk/content/dam/briefs/2026/10/16/TELEMMGLPICT000425430823_17921709154540_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwarI9ukQAzz8J0u7PEbMdV0.jpeg?impolicy=OG-Standard" />
+</item>
+<item>
+<title>The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)</title>
+<link>https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzadhwicj2u</guid>
+<pubDate>Fri, 16 Oct 2026 18:45:51 +0000</pubDate>
+<description>Core devs revert up to 10 features, push release to November, and blame better tooling rather than vibe coding</description>
+<content:encoded><![CDATA[<p><img src="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>Core devs revert up to 10 features, push release to November, and blame better tooling rather than vibe coding</p>]]></content:encoded>
+<media:content url="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" />
+<media:thumbnail url="https://image.theregister.com/228745.jpg?imageId=228745&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
+</item>
 <item>
 <title>Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales</link>
@@ -846,52 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt="" /></p><p>Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS. Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used f…</p>]]></content:encoded>
 <media:content url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" medium="image" />
 <media:thumbnail url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" />
-</item>
-<item>
-<title>Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won&#x27;t include Siri AI (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxuduvolha2w</guid>
-<pubDate>Wed, 14 Oct 2026 20:05:59 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&#x27; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)</title>
-<link>https://x.ai/news/grok-voice-3</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxubnkyfid2x</guid>
-<pubDate>Wed, 14 Oct 2026 19:26:05 +0000</pubDate>
-<description>The world’s most intelligent voice model.</description>
-<content:encoded><![CDATA[<p><img src="https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp" alt="" /></p><p>The world’s most intelligent voice model.</p>]]></content:encoded>
-<media:content url="https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp" medium="image" />
-<media:thumbnail url="https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp" />
-</item>
-<item>
-<title>Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/anduril-in-talks-to-sell-insider-shares-at-roughly-90-billion-valuation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxu4dlbihg2u</guid>
-<pubDate>Wed, 14 Oct 2026 17:51:01 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL is down 7%+ (Michelle Fox/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtypavv5k2d</guid>
-<pubDate>Wed, 14 Oct 2026 16:45:58 +0000</pubDate>
-<description>Shares of CoreWeave sank 15%, while yields in its bonds blew out further.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108222325-1792001096359-108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpg?v=1792001106&amp;w=1920&amp;h=1080" alt="" /></p><p>Shares of CoreWeave sank 15%, while yields in its bonds blew out further.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108222325-1792001096359-108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpg?v=1792001106&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108222325-1792001096359-108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpg?v=1792001106&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>WhatsApp rolls out a guest calling feature letting people join a call even if they don&#x27;t have an account; guests cannot start a call and have to be invited (Anna Washenko/Engadget)</title>
-<link>https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtxume6m725</guid>
-<pubDate>Wed, 14 Oct 2026 16:31:04 +0000</pubDate>
-<description>It’s also working on calendar integrations for later this year.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" alt="" /></p><p>It’s also working on calendar integrations for later this year.</p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" medium="image" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/l-intro-1791928728.jpg" />
 </item>
 </channel>
 </rss>
