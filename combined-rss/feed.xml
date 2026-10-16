@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 21:48:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 23:58:31 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review (Marcus Mendes/9to5Mac)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/579d9f45da11a28713f7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzr4kihnm2o</guid>
+<pubDate>Fri, 16 Oct 2026 23:46:13 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/" rel="related" type="text/html" />
+<description>Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628" alt="" /></p><p>Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices.</p><p><a href="https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628" medium="image" type="image/webp" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628" />
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628" type="image/webp" length="0" />
+</item>
+<item>
+<title>Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6129bde3f1d5df64e98d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzomncck62x</guid>
+<pubDate>Fri, 16 Oct 2026 23:01:32 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654" rel="related" type="text/html" />
+<description>The draft proposal would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F2d%252Fce%252F148fe8604ce7a4ebef0911cc1f68%252Fhttps-delivery-gettyimages.com%252Fdownloads%252F2295566911" alt="" /></p><p>The draft proposal would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws.</p><p><a href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F2d%252Fce%252F148fe8604ce7a4ebef0911cc1f68%252Fhttps-delivery-gettyimages.com%252Fdownloads%252F2295566911" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F2d%252Fce%252F148fe8604ce7a4ebef0911cc1f68%252Fhttps-delivery-gettyimages.com%252Fdownloads%252F2295566911" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F2d%252Fce%252F148fe8604ce7a4ebef0911cc1f68%252Fhttps-delivery-gettyimages.com%252Fdownloads%252F2295566911" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying "ChatGPT is better now"; source: the partnership is still in place (TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d0f11237d1f3614e7cd9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxznqrt7uc2u</guid>
+<pubDate>Fri, 16 Oct 2026 22:45:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/" rel="related" type="text/html" />
+<description>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800" alt="" /></p><p>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</p><p><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/97629175e8da074f052f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzls2dosr2d</guid>
+<pubDate>Fri, 16 Oct 2026 22:10:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U" rel="related" type="text/html" />
+<description>Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its legal team at a time when the iPhone maker faces a growing array of lawsuits.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3GD6xcoPnvA%2Fv8%2F1200x800.jpg" alt="" /></p><p>Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its legal team at a time when the iPhone maker faces a growing array of lawsuits.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3GD6xcoPnvA%2Fv8%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3GD6xcoPnvA%2Fv8%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3GD6xcoPnvA%2Fv8%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Apple says demand for iPhone Duo has been "nothing short of extraordinary"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c713ccb20de9d1bcf6f2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxzlbpqvf22x</guid>
+<pubDate>Fri, 16 Oct 2026 22:01:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f" rel="related" type="text/html" />
+<description>Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale</p><p><a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/56b3fdb20ff1963e4edd.html</link>
@@ -16,10 +86,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html" rel="related" type="text/html" />
 <description>The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" alt="" /></p><p>The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.</p><p><a href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F16%2Fmultimedia%2F16biz-meta-ai-politics-1-fbwt%2F16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" alt="" /></p><p>The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.</p><p><a href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" />
+<enclosure url="https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)</title>
@@ -30,10 +100,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.anthropic.com/research/ecdsa-curve-origins" rel="related" type="text/html" />
 <description>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</description>
-<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" alt="" /></p><p>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</p><p><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" />
-<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg" alt="" /></p><p>The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.</p><p><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg" />
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)</title>
@@ -197,8 +267,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal" rel="related" type="text/html" />
-<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
+<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -778,48 +848,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fopinion%2F15itpod-patel-image%2F15itpod-patel-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9783a99f4765463078ce.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw4cirtsz2d</guid>
-<pubDate>Thu, 15 Oct 2026 12:55:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html" rel="related" type="text/html" />
-<description>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" alt="" /></p><p>Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.</p><p><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07bf2c4eb28e5b2269e1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw3rdpoxt25</guid>
-<pubDate>Thu, 15 Oct 2026 12:45:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit" rel="related" type="text/html" />
-<description>Laying the foundation for the reinvention of the PC in the agentic AI era</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" alt="" /></p><p>Laying the foundation for the reinvention of the PC in the agentic AI era</p><p><a href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" />
-<enclosure url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a83422c50ee045c41b7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw36rd2l32d</guid>
-<pubDate>Thu, 15 Oct 2026 12:35:40 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android" rel="related" type="text/html" />
-<description>It looks like a phone, but isn’t designed to be one.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It looks like a phone, but isn’t designed to be one.</p><p><a href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Nine Minutes to Recharge: Agility Picks Nyobolt for Digit 5’s Long Working Day</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/72fe51b4fb38cab0fb20.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-digit-5-nyobolt-nine-minute-charging</guid>
@@ -832,34 +860,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-nyobolt-battery-partnership-wZyC7rQNTwClaq49yciqf6A68HyZlc.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/42710857e0bf315e615c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzrwlgqw22</guid>
-<pubDate>Thu, 15 Oct 2026 12:10:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan" rel="related" type="text/html" />
-<description>Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compe...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" alt="" /></p><p>Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compe...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipvI40w.YDe4%2Fv2%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8832ef0e8bd87ae592e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzbeseal2x</guid>
-<pubDate>Thu, 15 Oct 2026 12:01:26 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>From ‘honey pots’ to insider threats, Silicon Valley was on espionage alert even before the FBI’s arrest of an OpenAI employee</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" alt="" /></p><p>From ‘honey pots’ to insider threats, Silicon Valley was on espionage alert even before the FBI’s arrest of an OpenAI employee</p><p><a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-10668527%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>NEURA Gives Its Robot AI Touch, Sound and Memory Ahead of 11-Minute Laundry Demo</title>
@@ -2024,20 +2024,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -2050,6 +2036,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
