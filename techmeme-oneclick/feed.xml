@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 01:16:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 05:55:21 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxrxp23ns2g</guid>
+<pubDate>Fri, 16 Oct 2026 04:56:04 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/15/agentic-enterprise-rapidcanvas-vertex</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxnr2dhra2d</guid>
+<pubDate>Fri, 16 Oct 2026 03:40:46 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources detail Nscale&#x27;s setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/features/2026-10-15/nscale-s-35-billion-ipo-plans-muddied-by-ai-data-center-delays</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxmee2u5y2l</guid>
+<pubDate>Fri, 16 Oct 2026 03:15:47 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)</title>
+<link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxjbyvfuv2n</guid>
+<pubDate>Fri, 16 Oct 2026 02:20:47 +0000</pubDate>
+<description>From microsoft.ai</description>
+<content:encoded><![CDATA[<p><img src="https://microsoft.ai/wp-content/uploads/2026/10/frontier_pretraining_header_small.webp" alt="" /></p><p>From microsoft.ai</p>]]></content:encoded>
+<media:content url="https://microsoft.ai/wp-content/uploads/2026/10/frontier_pretraining_header_small.webp" medium="image" />
+<media:thumbnail url="https://microsoft.ai/wp-content/uploads/2026/10/frontier_pretraining_header_small.webp" />
+</item>
+<item>
+<title>OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta (Alix Coutures/The Information)</title>
+<link>https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxgioydfr26</guid>
+<pubDate>Fri, 16 Oct 2026 01:30:50 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>The White House&#x27;s AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (Ashley Gold/Semafor)</title>
 <link>https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work</link>
@@ -852,52 +894,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" alt="" /></p><p>Nanomatte: good! Alexa Plus: less good.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" />
-</item>
-<item>
-<title>Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtmrjrjao2d</guid>
-<pubDate>Wed, 14 Oct 2026 13:12:30 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>GlobalFoundries plans to build two &quot;essential chip&quot; plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtmfrtldy2n</guid>
-<pubDate>Wed, 14 Oct 2026 13:05:55 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/10/14/harmonic-security-raises-50m-to-govern-how-employees-use-ai-tools/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtkz3z3qd22</guid>
-<pubDate>Wed, 14 Oct 2026 12:40:56 +0000</pubDate>
-<description>Harmonic Security raises $50M to govern how employees use AI tools - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/10/harmonicsecurity.png" alt="" /></p><p>Harmonic Security raises $50M to govern how employees use AI tools - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/harmonicsecurity.png" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/10/harmonicsecurity.png" />
-</item>
-<item>
-<title>US law enforcement and intel agency docs: since 2021, the FBI, DHS, and NYPD have viewed AI as both a facilitator of violent extremism and a target for attacks (The Guardian)</title>
-<link>https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtkhpsaob2m</guid>
-<pubDate>Wed, 14 Oct 2026 12:31:13 +0000</pubDate>
-<description>From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using AI to plan attacks and anti-datacenter extremism</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=516f605384cb9ea6e9d17969e1522224" alt="" /></p><p>From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using AI to plan attacks and anti-datacenter extremism</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=516f605384cb9ea6e9d17969e1522224" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=516f605384cb9ea6e9d17969e1522224" />
-</item>
-<item>
-<title>The EU Commission&#x27;s AI Office launches formal AI Act probes into OpenAI and Anthropic over AI agent hacks; experts say the AI Act includes an R&amp;D exemption (Luca Bertuzzi/Euronews)</title>
-<link>https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtjmp5czv2n</guid>
-<pubDate>Wed, 14 Oct 2026 12:16:06 +0000</pubDate>
-<description>The EU is investigating OpenAI and Anthropic over AI agents that hacked outside organisations, raising questions about whether the AI Act covers rogue models escaping the testing environment. #EuropeNews</description>
-<content:encoded><![CDATA[<p><img src="https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg" alt="" /></p><p>The EU is investigating OpenAI and Anthropic over AI agents that hacked outside organisations, raising questions about whether the AI Act covers rogue models escaping the testing environment. #EuropeNews</p>]]></content:encoded>
-<media:content url="https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg" medium="image" />
-<media:thumbnail url="https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg" />
 </item>
 </channel>
 </rss>
