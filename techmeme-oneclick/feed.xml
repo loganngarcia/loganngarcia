@@ -5,8 +5,42 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 05:55:21 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 10:38:25 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Nectar Gan/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyexxpcqt2l</guid>
+<pubDate>Fri, 16 Oct 2026 10:36:14 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)</title>
+<link>https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxydl67baa2w</guid>
+<pubDate>Fri, 16 Oct 2026 10:11:11 +0000</pubDate>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at China&#x27;s AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI (Afra Wang/New York Magazine)</title>
+<link>https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU&amp;utm_medium=gift_link</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxy5xmjvww2o</guid>
+<pubDate>Fri, 16 Oct 2026 08:30:47 +0000</pubDate>
+<description>In China, the fear of getting left behind has created a powerful new prosperity gospel.</description>
+<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" alt="" /></p><p>In China, the fear of getting left behind has created a powerful new prosperity gospel.</p>]]></content:encoded>
+<media:content url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" medium="image" />
+<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" />
+</item>
+<item>
+<title>Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)</title>
+<link>https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxvuih7wi2w</guid>
+<pubDate>Fri, 16 Oct 2026 06:05:52 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners</link>
@@ -858,42 +892,6 @@
 <pubDate>Wed, 14 Oct 2026 13:45:58 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxto3yrw6w2u</guid>
-<pubDate>Wed, 14 Oct 2026 13:36:15 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google plans to acquire power from AEP&#x27;s Cheyenne Fuel Cell under a 20-year deal; AEP will invest ~$4B in the Wyoming fuel cell project using Bloom&#x27;s tech (Kelly Cloonan/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/energy-oil/american-electric-power-to-invest-4-billion-in-fuel-cell-project-to-meet-energy-demand-from-google-c946aa2f?st=TE3r6W&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtnshujvi22</guid>
-<pubDate>Wed, 14 Oct 2026 13:30:55 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)</title>
-<link>https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtnjjgw2g2u</guid>
-<pubDate>Wed, 14 Oct 2026 13:25:55 +0000</pubDate>
-<description>Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" alt="" /></p><p>Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrepreneur Mike Fridgen, betting that AI agents built for travel can do a better job of planning and managing trips than general-purpose assistants from the likes of OpenAI and Meta.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" />
-</item>
-<item>
-<title>Amazon Alexa Tablet 12 Pro review: gorgeous screen, Android apps, and nice design and build quality, but Amazon&#x27;s bloatware is pervasive and Alexa+ is subpar (David Pierce/The Verge)</title>
-<link>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxtnann44f2o</guid>
-<pubDate>Wed, 14 Oct 2026 13:20:57 +0000</pubDate>
-<description>Nanomatte: good! Alexa Plus: less good.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" alt="" /></p><p>Nanomatte: good! Alexa Plus: less good.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Alexa-Tablet-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.6146158857773%2C100%2C78.386133049368&amp;w=1200" />
 </item>
 </channel>
 </rss>
