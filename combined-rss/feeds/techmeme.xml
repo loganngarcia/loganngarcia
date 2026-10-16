@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 05:57:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 10:57:16 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Nectar Gan/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/417fcb5cdb76c3d22ca7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyexxpcqt2l</guid>
+<pubDate>Fri, 16 Oct 2026 10:36:14 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents" rel="related" type="text/html" />
+<description>China proposed adding advanced artificial intelligence technologies to its export-control list, potentially restricting overseas transfers of AI models and chip designs in an effort to tighten control...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiViDnCxwtG6w%2Fv1%2F1200x800.jpg" alt="" /></p><p>China proposed adding advanced artificial intelligence technologies to its export-control list, potentially restricting overseas transfers of AI models and chip designs in an effort to tighten control...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiViDnCxwtG6w%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiViDnCxwtG6w%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiViDnCxwtG6w%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6746b0bc093775c13b35.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxydl67baa2w</guid>
+<pubDate>Fri, 16 Oct 2026 10:11:11 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own" rel="related" type="text/html" />
+<description>The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1200&amp;h=675&amp;q=75" alt="" /></p><p>The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds “effectively abandoned” and used them anyway.</p><p><a href="https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1200&amp;h=675&amp;q=75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1200&amp;h=675&amp;q=75" />
+<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1200&amp;h=675&amp;q=75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI (Afra Wang/New York Magazine)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aad697c04036d67368d9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxy5xmjvww2o</guid>
+<pubDate>Fri, 16 Oct 2026 08:30:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU&amp;utm_medium=gift_link" rel="related" type="text/html" />
+<description>In China, the fear of getting left behind has created a powerful new prosperity gospel.</description>
+<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" alt="" /></p><p>In China, the fear of getting left behind has created a powerful new prosperity gospel.</p><p><a href="https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU&amp;utm_medium=gift_link">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" />
+<enclosure url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3465d18590a9bbe9576a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxvuih7wi2w</guid>
+<pubDate>Fri, 16 Oct 2026 06:05:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/" rel="related" type="text/html" />
+<description>Apple's chairman Tim Cook said Apple Intelligence ​has been approved in China and a ‌test version is due later in October, China's state-backed media The Paper reported citing an ​exclusive interview ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Apple's chairman Tim Cook said Apple Intelligence ​has been approved in China and a ‌test version is due later in October, China's state-backed media The Paper reported citing an ​exclusive interview ...</p><p><a href="https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f0c3f9fe6bda6ffe1b74.html</link>
@@ -155,8 +211,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/" rel="related" type="text/html" />
-<description>Some current Anthropic investors and prospective investors in its upcoming initial public offering are weighing a lower valuation ‌for the AI company after its latest financial disclosures, four peopl...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQDKLCTVJSFKRDOJMP4RUQAA5TA.jpg%3Fauth%3Dc8e0c49fde784247895c00d3f5ccd20f4593750faf498ee9daa7e646ed11cbf5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Some current Anthropic investors and prospective investors in its upcoming initial public offering are weighing a lower valuation ‌for the AI company after its latest financial disclosures, four peopl...</p><p><a href="https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/">Open Original Article</a></p>]]></content:encoded>
+<description>Some current Anthropic investors and prospective investors in its upcoming initial public offering are weighing a lower valuation ‌for the AI company after its latest financial disclosures, amid broad...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQDKLCTVJSFKRDOJMP4RUQAA5TA.jpg%3Fauth%3Dc8e0c49fde784247895c00d3f5ccd20f4593750faf498ee9daa7e646ed11cbf5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Some current Anthropic investors and prospective investors in its upcoming initial public offering are weighing a lower valuation ‌for the AI company after its latest financial disclosures, amid broad...</p><p><a href="https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQDKLCTVJSFKRDOJMP4RUQAA5TA.jpg%3Fauth%3Dc8e0c49fde784247895c00d3f5ccd20f4593750faf498ee9daa7e646ed11cbf5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQDKLCTVJSFKRDOJMP4RUQAA5TA.jpg%3Fauth%3Dc8e0c49fde784247895c00d3f5ccd20f4593750faf498ee9daa7e646ed11cbf5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQDKLCTVJSFKRDOJMP4RUQAA5TA.jpg%3Fauth%3Dc8e0c49fde784247895c00d3f5ccd20f4593750faf498ee9daa7e646ed11cbf5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -715,8 +771,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia" rel="related" type="text/html" />
-<description>The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct....</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIoCuZHGtxL8%2Fv1%2F1200x800.jpg" alt="" /></p><p>The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct....</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia">Open Original Article</a></p>]]></content:encoded>
+<description>The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIoCuZHGtxL8%2Fv1%2F1200x800.jpg" alt="" /></p><p>The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIoCuZHGtxL8%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIoCuZHGtxL8%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIoCuZHGtxL8%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -790,59 +846,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Chainalysis: agentic commerce on Coinbase's Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents (Camila Grigera Naón/Fortune)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/925b763774d935839303.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvdz5ctzg2w</guid>
-<pubDate>Thu, 15 Oct 2026 05:41:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://fortune.com/2026/10/14/ai-agents-shopping-spree-payments-base-blockchain-138-million-chainalysis/" rel="related" type="text/html" />
-<description>Faster spending and repeat funding suggest developers are making automated commerce part of everyday work.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" alt="" /></p><p>Faster spending and repeat funding suggest developers are making automated commerce part of everyday work.</p><p><a href="https://fortune.com/2026/10/14/ai-agents-shopping-spree-payments-base-blockchain-138-million-chainalysis/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" />
-<enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7742783151cc7cf6bf87.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvceduyjj2w</guid>
-<pubDate>Thu, 15 Oct 2026 05:11:29 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc" rel="related" type="text/html" />
-<description>UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc26600d8-1066-4ceb-9189-6875d93181f5.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>UK-based tech company is growing quickly but has encountered regulatory obstacles in Spain</p><p><a href="https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc26600d8-1066-4ceb-9189-6875d93181f5.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc26600d8-1066-4ceb-9189-6875d93181f5.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fc26600d8-1066-4ceb-9189-6875d93181f5.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/feca30e41957dafb6504.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvbteavpq2w</guid>
-<pubDate>Thu, 15 Oct 2026 05:01:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/" rel="related" type="text/html" />
-<description>Global smartphone shipments fell 22% to 255.3M units in 3Q26, a record drop driven by memory costs. IDC expects no recovery before 2028.</description>
-<content:encoded><![CDATA[<p>Global smartphone shipments fell 22% to 255.3M units in 3Q26, a record drop driven by memory costs. IDC expects no recovery before 2028.</p><p><a href="https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/">Open Original Article</a></p>]]></content:encoded>
-</item>
-<item>
-<title>Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d6630456b2fda4ae5169.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvafichox2x</guid>
-<pubDate>Thu, 15 Oct 2026 04:36:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Allowing users to add their own information to the company’s generative AI-based ASKB interface will feed the system with a new level of context.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-25724527%2Fsocial" alt="" /></p><p>Allowing users to add their own information to the company’s generative AI-based ASKB interface will feed the system with a new level of context.</p><p><a href="https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-25724527%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-25724527%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-25724527%2Fsocial" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
