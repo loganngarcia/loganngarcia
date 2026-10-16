@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 15:16:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 18:50:58 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dfa5024044f7449b6042.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxz5azyrvv25</guid>
+<pubDate>Fri, 16 Oct 2026 17:50:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales" rel="related" type="text/html" />
+<description>Three CoreWeave Inc. co-founders have sold $3.3 billion in company shares since last year’s initial public offering, taking money off the table as rising credit risks and investor wariness around AI s...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBju8ayTlJxk%2Fv1%2F1200x800.jpg" alt="" /></p><p>Three CoreWeave Inc. co-founders have sold $3.3 billion in company shares since last year’s initial public offering, taking money off the table as rising credit risks and investor wariness around AI s...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBju8ayTlJxk%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBju8ayTlJxk%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBju8ayTlJxk%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/636ccab7e160ca16e26d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyzdwvvuc2l</guid>
+<pubDate>Fri, 16 Oct 2026 16:40:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens" rel="related" type="text/html" />
+<description>Reflection's chief technology officer explains how Beam was trained to finish tasks in fewer tokens, a day after Meta released its own, larger open model.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F60XdpofkKXOlwgLeGGMwgj%2F6127e682223008b6224a81b1231184da%2Flead-v3.png%3Fw%3D800%26q%3D75" alt="" /></p><p>Reflection's chief technology officer explains how Beam was trained to finish tasks in fewer tokens, a day after Meta released its own, larger open model.</p><p><a href="https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F60XdpofkKXOlwgLeGGMwgj%2F6127e682223008b6224a81b1231184da%2Flead-v3.png%3Fw%3D800%26q%3D75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F60XdpofkKXOlwgLeGGMwgj%2F6127e682223008b6224a81b1231184da%2Flead-v3.png%3Fw%3D800%26q%3D75" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F60XdpofkKXOlwgLeGGMwgj%2F6127e682223008b6224a81b1231184da%2Flead-v3.png%3Fw%3D800%26q%3D75" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/84ebb4a64d009bbdb33d.html</link>
@@ -818,34 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi86RpuraZ3WE%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Citizen Lab details AdFection, a zero-click spyware campaign where an Israeli ad company routed targets to spyware servers and infected dozens of devices (Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/695376ae2615612816f7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvv23x5cc2s</guid>
-<pubDate>Thu, 15 Oct 2026 10:45:47 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/" rel="related" type="text/html" />
-<description>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6acfe0c101e1efc169db5a0f/191:100/w_1280,c_limit/Security_Sophisticated%20Zero-Click%20Spyware%20Found%20Being%20Distributed%20by%20Targeted%20Ads%20for%20the%20First%20Time_v1.jpg" alt="" /></p><p>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</p><p><a href="https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6acfe0c101e1efc169db5a0f/191:100/w_1280,c_limit/Security_Sophisticated%20Zero-Click%20Spyware%20Found%20Being%20Distributed%20by%20Targeted%20Ads%20for%20the%20First%20Time_v1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6acfe0c101e1efc169db5a0f/191:100/w_1280,c_limit/Security_Sophisticated%20Zero-Click%20Spyware%20Found%20Being%20Distributed%20by%20Targeted%20Ads%20for%20the%20First%20Time_v1.jpg" />
-<enclosure url="https://media.wired.com/photos/6acfe0c101e1efc169db5a0f/191:100/w_1280,c_limit/Security_Sophisticated%20Zero-Click%20Spyware%20Found%20Being%20Distributed%20by%20Targeted%20Ads%20for%20the%20First%20Time_v1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA (Dan Goodin/Ars Technica)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e0c7d4aa37e1b26a58a1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvuifrupk25</guid>
-<pubDate>Thu, 15 Oct 2026 10:35:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/" rel="related" type="text/html" />
-<description>Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" alt="" /></p><p>Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.</p><p><a href="https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" />
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
