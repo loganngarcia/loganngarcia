@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 15:11:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 17:52:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meta removes ToS language that suggested it could scrape websites &quot;associated with&quot; business accounts, saying it applied only to &quot;ads and business products&quot; (Terrence O&#x27;Brien/The Verge)</title>
+<link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3h25segn2l</guid>
+<pubDate>Sat, 17 Oct 2026 15:51:15 +0000</pubDate>
+<description>Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
 <item>
 <title>DeepSeek releases V4.1-Flash-1017, an update it says offers &quot;stronger benchmark performance, faster task completion, and shorter outputs&quot; than its predecessor (Saritha Rai/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner</link>
@@ -888,14 +898,6 @@
 <content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" alt="" /></p><p>Faster spending and repeat funding suggest developers are making automated commerce part of everyday work.</p>]]></content:encoded>
 <media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" medium="image" />
 <media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2247697582-e1791981312851.jpg?resize=1200,600" />
-</item>
-<item>
-<title>A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)</title>
-<link>https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvceduyjj2w</guid>
-<pubDate>Thu, 15 Oct 2026 05:11:29 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
