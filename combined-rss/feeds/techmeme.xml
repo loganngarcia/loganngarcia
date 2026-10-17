@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:04:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 12:09:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e86ff66c491075b88153.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my2s2zq4xl2d</guid>
+<pubDate>Sat, 17 Oct 2026 09:35:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy" rel="related" type="text/html" />
+<description>The YouTuber, musician, and security researcher on the importance of privacy in the AI era and why Flock is just part of the problem.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The YouTuber, musician, and security researcher on the importance of privacy in the AI era and why Flock is just part of the problem.</p><p><a href="https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A profile of Alexandr Wang, who sources say is "an operator", had "all" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4ad11f6ec68be6c8a722.html</link>
@@ -832,20 +846,6 @@
 <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" />
 <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital (Ryan Lawler/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/03039e62872f2925e8a9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwlynoroq2d</guid>
-<pubDate>Thu, 15 Oct 2026 17:36:34 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/fintech-deals/2026/10/15/sunbound-24-million-series-a-richter-acquisition" rel="related" type="text/html" />
-<description>Senior care operators rely on manual billing.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzkzyWim4m5olVIkaxE8nyki3LNE%3D%2F1366x768%2Fsmart%2F2020%2F06%2F15%2F201035-1592251835919.jpg" alt="" /></p><p>Senior care operators rely on manual billing.</p><p><a href="https://www.axios.com/pro/fintech-deals/2026/10/15/sunbound-24-million-series-a-richter-acquisition">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzkzyWim4m5olVIkaxE8nyki3LNE%3D%2F1366x768%2Fsmart%2F2020%2F06%2F15%2F201035-1592251835919.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzkzyWim4m5olVIkaxE8nyki3LNE%3D%2F1366x768%2Fsmart%2F2020%2F06%2F15%2F201035-1592251835919.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzkzyWim4m5olVIkaxE8nyki3LNE%3D%2F1366x768%2Fsmart%2F2020%2F06%2F15%2F201035-1592251835919.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>

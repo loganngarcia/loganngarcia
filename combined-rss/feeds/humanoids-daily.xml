@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:04:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 12:09:14 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Devanthro Becomes Plim Robotics, Reveals a Home Robot Loved Ones Can Step Into</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/539dfb7aaeea13f5c005.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation</guid>
+<pubDate>Sat, 17 Oct 2026 09:25:09 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation" rel="related" type="text/html" />
+<description>Plim combines household assistance with remote operation by family and caregivers. The wheeled robot has Jetson Thor computing and a listed two-hour runtime.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp" alt="" /></p><p>Plim combines household assistance with remote operation by family and caregivers. The wheeled robot has Jetson Thor computing and a listed two-hour runtime.</p><p><a href="https://www.humanoidsdaily.com/news/devanthro-plim-robotics-home-robot-teleoperation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/plim-robotics-home-robot-kitchen-ZS7uro9j44dH0d12sesIIO1FnlareR.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Unitree’s UniUni Lets Operators Choreograph Robot Teams With Natural Language</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/571ba0d8b675189e3d43.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control</guid>
+<pubDate>Sat, 17 Oct 2026 09:03:17 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control" rel="related" type="text/html" />
+<description>Unitree’s new UniUni system combines natural-language choreography, LiDAR stage mapping and live robot monitoring to coordinate multi-robot performances.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp" alt="" /></p><p>Unitree’s new UniUni system combines natural-language choreography, LiDAR stage mapping and live robot monitoring to coordinate multi-robot performances.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-uniuni-robot-swarm-choreography-control">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-uniuni-swarm-control-stage-J5J7oI6Z6F0b4BOxIHdbtymCkVaEzO.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Nine Minutes to Recharge: Agility Picks Nyobolt for Digit 5’s Long Working Day</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/72fe51b4fb38cab0fb20.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/dyna-taku-hero-KVGpTZtGxLWtgmluYJR9IpNUkuyc1d.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>From X to San Francisco: Devang Adhyaru Brings Humanoid Hub Together</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4841490e07713ab2b62.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/humanoid-hub-conference-2026-devang-adhyaru</guid>
-<pubDate>Thu, 08 Oct 2026 20:46:09 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/humanoid-hub-conference-2026-devang-adhyaru" rel="related" type="text/html" />
-<description>Ahead of the October 15–16 Humanoid Hub Conference, Devang Adhyaru discusses bringing robotics offline, the promise of robot hands, and the road to useful home humanoids.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoidhubconference26.webp" alt="" /></p><p>Ahead of the October 15–16 Humanoid Hub Conference, Devang Adhyaru discusses bringing robotics offline, the promise of robot hands, and the road to useful home humanoids.</p><p><a href="https://www.humanoidsdaily.com/news/humanoid-hub-conference-2026-devang-adhyaru">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoidhubconference26.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoidhubconference26.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoidhubconference26.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Aether AI Unveils CRIS-0, a Robot AI System That Checks Its Own Actions</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9a81b5fcea844d88a0e2.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/aether-ai-cris0-causal-robot-intelligence</guid>
-<pubDate>Thu, 08 Oct 2026 18:30:00 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/aether-ai-cris0-causal-robot-intelligence" rel="related" type="text/html" />
-<description>In a written interview, Aether explains how CRIS-0 combines causal prediction with action verification, and why generalization remains its biggest challenge.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" alt="" /></p><p>In a written interview, Aether explains how CRIS-0 combines causal prediction with action verification, and why generalization remains its biggest challenge.</p><p><a href="https://www.humanoidsdaily.com/news/aether-ai-cris0-causal-robot-intelligence">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/aether-cris0-household-demo-owE4P6nK9GoJG3g2lR0QG52oTrVuOO.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
