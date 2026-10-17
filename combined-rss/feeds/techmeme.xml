@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 20:07:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 22:15:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a "large scale distillation attack" (Walter Schulze/Startup Fortune)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6a76d03c91ba8d842086.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3xryrs5p2w</guid>
+<pubDate>Sat, 17 Oct 2026 20:50:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/" rel="related" type="text/html" />
+<description>Anomaly Innovations emailed OpenCode users on October 17 about leaked OpenAI, Anthropic and Google keys, urging immediate revocation.</description>
+<content:encoded><![CDATA[<p><img src="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" alt="" /></p><p>Anomaly Innovations emailed OpenCode users on October 17 about leaked OpenAI, Anthropic and Google keys, urging immediate revocation.</p><p><a href="https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" />
+<enclosure url="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8919d13e6295a375fe73.html</link>
@@ -561,8 +575,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal" rel="related" type="text/html" />
-<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
+<description>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei, joining a Trump administration clampdown on the smuggling of cutting-edge semiconductors to China.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTq2ZwFlbuIU%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -576,10 +590,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html" rel="related" type="text/html" />
 <description>Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo.jpg" alt="" /></p><p>Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.</p><p><a href="https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo.jpg" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo-v3.jpg" alt="" /></p><p>Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.</p><p><a href="https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo-v3.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo-v3.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F15%2Fmultimedia%2F2026-10-05-ai-election-ad-grids-index%2F2026-10-05-ai-election-ad-grids-index-facebookJumbo-v3.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents (Munsif Vengattil/Reuters)</title>
@@ -832,20 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEBBSGNNJMPPP2G5M5DFCHKYU.jpg%3Fauth%3D6f045b090498014e4d71d064c1ffa5a8e88221c9e5164187278f1017d3e8da91%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEBBSGNNJMPPP2G5M5DFCHKYU.jpg%3Fauth%3D6f045b090498014e4d71d064c1ffa5a8e88221c9e5164187278f1017d3e8da91%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEBBSGNNJMPPP2G5M5DFCHKYU.jpg%3Fauth%3D6f045b090498014e4d71d064c1ffa5a8e88221c9e5164187278f1017d3e8da91%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A US official says Trump didn't order any limitations on Ukraine's access to SpaceX's Starshield; Elon Musk said any limits are ultimately decided by POTUS (Kate Sullivan/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1a4e1c1beaa4a3edc11d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwwkw7hmi2o</guid>
-<pubDate>Thu, 15 Oct 2026 20:45:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/trump-didn-t-order-limits-on-kyiv-s-spacex-access-us-says" rel="related" type="text/html" />
-<description>President Donald Trump didn’t order any limitations on Ukraine’s access to SpaceX’s Starshield satellite technology, according to a senior US official.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiF5QaFMD6dRs%2Fv0%2F1200x630.png" alt="" /></p><p>President Donald Trump didn’t order any limitations on Ukraine’s access to SpaceX’s Starshield satellite technology, according to a senior US official.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/trump-didn-t-order-limits-on-kyiv-s-spacex-access-us-says">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiF5QaFMD6dRs%2Fv0%2F1200x630.png" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiF5QaFMD6dRs%2Fv0%2F1200x630.png" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiF5QaFMD6dRs%2Fv0%2F1200x630.png" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
