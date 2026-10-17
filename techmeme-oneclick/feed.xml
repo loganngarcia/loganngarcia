@@ -5,8 +5,40 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 11:57:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:11:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>DeepSeek releases V4.1-Flash-1017, an update it says offers &quot;stronger benchmark performance, faster task completion, and shorter outputs&quot; than its predecessor (Saritha Rai/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3eb3ul6x2o</guid>
+<pubDate>Sat, 17 Oct 2026 15:01:26 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a &quot;planned operation&quot; rather than technical issues (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3cblahx32u</guid>
+<pubDate>Sat, 17 Oct 2026 14:25:55 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my37zye7lz2s</guid>
+<pubDate>Sat, 17 Oct 2026 13:45:53 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my344qbsac2d</guid>
+<pubDate>Sat, 17 Oct 2026 12:35:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)</title>
 <link>https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy</link>
@@ -864,42 +896,6 @@
 <pubDate>Thu, 15 Oct 2026 05:11:29 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)</title>
-<link>https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvbteavpq2w</guid>
-<pubDate>Thu, 15 Oct 2026 05:01:59 +0000</pubDate>
-<description>Global smartphone shipments fell 22% to 255.3M units in 3Q26, a record drop driven by memory costs. IDC expects no recovery before 2028.</description>
-<content:encoded><![CDATA[<p>Global smartphone shipments fell 22% to 255.3M units in 3Q26, a record drop driven by memory costs. IDC expects no recovery before 2028.</p>]]></content:encoded>
-</item>
-<item>
-<title>Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)</title>
-<link>https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvafichox2x</guid>
-<pubDate>Thu, 15 Oct 2026 04:36:20 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China&#x27;s share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)</title>
-<link>https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxv7kf6zgo2n</guid>
-<pubDate>Thu, 15 Oct 2026 04:21:11 +0000</pubDate>
-<description>The Dutch firm expects China to account for 20 per cent of its total sales this year, even as the US pushes for tighter export restrictions.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/14/5ca4f2cf-6da0-4f31-a8ac-f524dc103fe3_c984cced.jpg?itok=m7Jomv4J&amp;v=1791981891" alt="" /></p><p>The Dutch firm expects China to account for 20 per cent of its total sales this year, even as the US pushes for tighter export restrictions.</p>]]></content:encoded>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/14/5ca4f2cf-6da0-4f31-a8ac-f524dc103fe3_c984cced.jpg?itok=m7Jomv4J&amp;v=1791981891" medium="image" />
-<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/14/5ca4f2cf-6da0-4f31-a8ac-f524dc103fe3_c984cced.jpg?itok=m7Jomv4J&amp;v=1791981891" />
-</item>
-<item>
-<title>Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxv6p7zddq2n</guid>
-<pubDate>Thu, 15 Oct 2026 04:06:00 +0000</pubDate>
-<description>A sell-off in global technology hardware stocks deepened Thursday.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&amp;w=1920&amp;h=1080" alt="" /></p><p>A sell-off in global technology hardware stocks deepened Thursday.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108200103-1758128892343-gettyimages-2235931727-mms22238_h8d8ldva.jpeg?v=1759781045&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
