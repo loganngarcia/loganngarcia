@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 20:03:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 22:14:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; (Walter Schulze/Startup Fortune)</title>
+<link>https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3xryrs5p2w</guid>
+<pubDate>Sat, 17 Oct 2026 20:50:54 +0000</pubDate>
+<description>Anomaly Innovations emailed OpenCode users on October 17 about leaked OpenAI, Anthropic and Google keys, urging immediate revocation.</description>
+<content:encoded><![CDATA[<p><img src="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" alt="" /></p><p>Anomaly Innovations emailed OpenCode users on October 17 about leaked OpenAI, Anthropic and Google keys, urging immediate revocation.</p>]]></content:encoded>
+<media:content url="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" medium="image" />
+<media:thumbnail url="https://startupfortune.com/wp-content/uploads/2026/10/opencode-matt-johansen-anomaly-innovations.jpg" />
+</item>
 <item>
 <title>Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)</title>
 <link>https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852</link>
@@ -888,14 +898,6 @@
 <pubDate>Thu, 15 Oct 2026 06:35:58 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at L-Acoustics, whose audio platform uses machine learning to help artists like Céline Dion isolate their voices and cut through noise at live concerts (Benoit Berthelot/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/celine-dion-harry-styles-use-l-acoustics-ai-powered-tech-for-better-live-sound</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvgsh3qvn2x</guid>
-<pubDate>Thu, 15 Oct 2026 06:30:58 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
