@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 15:31:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 17:55:46 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meta removes ToS language that suggested it could scrape websites "associated with" business accounts, saying it applied only to "ads and business products" (Terrence O'Brien/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac0eba5f39915c2126df.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3h25segn2l</guid>
+<pubDate>Sat, 17 Oct 2026 15:51:15 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites" rel="related" type="text/html" />
+<description>Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.</p><p><a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>DeepSeek releases V4.1-Flash-1017, an update it says offers "stronger benchmark performance, faster task completion, and shorter outputs" than its predecessor (Saritha Rai/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/359759773d4cb6417834.html</link>
@@ -832,20 +846,6 @@
 <media:content url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" />
 <enclosure url="https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fbd%2F0d%2F1b35ae124dfbb0cb78ac7b66a101%2Fgettyimages-2290577672.jpg&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true&amp;crop=4846x1868%2B0%2B664" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune (Andrew Deck/Nieman Lab)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/86685ace1e8f33ec62c7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxwpucsqie2g</guid>
-<pubDate>Thu, 15 Oct 2026 18:45:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/" rel="related" type="text/html" />
-<description>In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News. On Thursday, the company announced that the program has added new partnerships, bringing the total number of publications in the pilot to more th…</description>
-<content:encoded><![CDATA[<p><img src="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" alt="" /></p><p>In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News. On Thursday, the company announced that the program has added new partnerships, bringing the total number of publications in the pilot to more th…</p><p><a href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" />
-<enclosure url="https://www.niemanlab.org/images/gNews-audio-2-700x394.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
