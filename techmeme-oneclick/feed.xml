@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 16:30:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 18:50:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#x27;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)</title>
+<link>https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my67cc2lom2u</guid>
+<pubDate>Sun, 18 Oct 2026 18:10:37 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ</link>
@@ -128,8 +136,8 @@
 <link>https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3s7jirj52w</guid>
 <pubDate>Sat, 17 Oct 2026 19:11:06 +0000</pubDate>
-<description>Move comes just as Alex Gibney doc film expands to nearly 500 screens. Distributor Bleecker Street says it is appealing.</description>
-<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>Move comes just as Alex Gibney doc film expands to nearly 500 screens. Distributor Bleecker Street says it is appealing.</p>]]></content:encoded>
+<description>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</description>
+<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</p>]]></content:encoded>
 <media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" medium="image" />
 <media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" />
 </item>
@@ -892,14 +900,6 @@
 <pubDate>Thu, 15 Oct 2026 11:50:45 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether (Sam Kessler/Wall Street Journal)</title>
-<link>https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvxtmt4z426</guid>
-<pubDate>Thu, 15 Oct 2026 11:35:51 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
