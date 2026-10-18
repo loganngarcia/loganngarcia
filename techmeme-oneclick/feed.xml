@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:59:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 13:07:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>An interview with Apple&#x27;s new VP of the App Store, Carson Oliver, on Apple&#x27;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)</title>
+<link>https://www.polygon.com/apple-indie-games-week-interview/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my5i4o22wy2m</guid>
+<pubDate>Sun, 18 Oct 2026 11:15:52 +0000</pubDate>
+<description>The new head of the App Store lays out Apple&#x27;s vision for gaming</description>
+<content:encoded><![CDATA[<p><img src="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/indie-games-week-app-store.jpg?w=1200&amp;h=675&amp;fit=crop" alt="" /></p><p>The new head of the App Store lays out Apple&#x27;s vision for gaming</p>]]></content:encoded>
+<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/indie-games-week-app-store.jpg?w=1200&amp;h=675&amp;fit=crop" medium="image" />
+<media:thumbnail url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/indie-games-week-app-store.jpg?w=1200&amp;h=675&amp;fit=crop" />
+</item>
 <item>
 <title>RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible (Financial Times)</title>
 <link>https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c</link>
@@ -890,16 +900,6 @@
 <pubDate>Thu, 15 Oct 2026 11:25:37 +0000</pubDate>
 <description>From www.axios.com</description>
 <content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)</title>
-<link>https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvwphmh3525</guid>
-<pubDate>Thu, 15 Oct 2026 11:15:37 +0000</pubDate>
-<description>...</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" alt="" /></p><p>...</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!SJ-4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f995ca4-2135-4a45-b1b6-e2fd3c1e5466_400x307.jpeg" />
 </item>
 </channel>
 </rss>
