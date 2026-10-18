@@ -3,8 +3,8 @@
 print("hello world")
 
 • Product designer working on **AI, robotics, and user-first technology**.  
-• Currently building [**makermods.ai**](https://makermods.ai) (affordable AI robots) and [**curastem.org**](https://worklittle.com) (AI-supported mentorship).  
-• I'm pursuing a **Master’s in Business Analytics at the University of California, Davis**, focused on product strategy, data, and AI that helps people.  
+• Currently building [**makermods.ai**](https://makermods.ai) (affordable AI robots) and [**worklittle.col**](https://worklittle.com) (AI-supported mentorship).  
+• I obtained a **Master’s in Business Analytics at the University of California, Davis**, focused on product strategy, data, and AI agents.  
 
 More: [loganngarcia.com](https://loganngarcia.com)
 
