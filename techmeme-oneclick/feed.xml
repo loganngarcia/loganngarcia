@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 22:14:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 00:05:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my4az4xqv52n</guid>
+<pubDate>Sat, 17 Oct 2026 23:35:58 +0000</pubDate>
+<description>In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_social.width-1300.png" alt="" /></p><p>In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.</p>]]></content:encoded>
+<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_social.width-1300.png" medium="image" />
+<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_social.width-1300.png" />
+</item>
 <item>
 <title>Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; (Walter Schulze/Startup Fortune)</title>
 <link>https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/</link>
@@ -328,10 +338,8 @@
 <link>https://www.thetimes.com/business/entrepreneurs/article/intuit-start-up-sequence-5hvtvnq8c</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyral2f2m2d</guid>
 <pubDate>Fri, 16 Oct 2026 14:15:48 +0000</pubDate>
-<description>The deal is a natural fit for both companies, according to Riya Grover, who co-founded the British fintech business in 2021</description>
-<content:encoded><![CDATA[<p><img src="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" alt="" /></p><p>The deal is a natural fit for both companies, according to Riya Grover, who co-founded the British fintech business in 2021</p>]]></content:encoded>
-<media:content url="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" medium="image" />
-<media:thumbnail url="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" />
+<description>From www.thetimes.com</description>
+<content:encoded><![CDATA[<p>From www.thetimes.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn&#x27;t take advantage of RTX Spark (Andrew E. Freedman/Tom&#x27;s Hardware)</title>
@@ -872,8 +880,10 @@
 <link>https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvsssux432l</guid>
 <pubDate>Thu, 15 Oct 2026 10:05:55 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-facebookJumbo.jpg" alt="" /></p><p>The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-facebookJumbo.jpg" />
 </item>
 <item>
 <title>Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9 (Rachel Metz/Bloomberg)</title>
@@ -890,14 +900,6 @@
 <pubDate>Thu, 15 Oct 2026 09:40:55 +0000</pubDate>
 <description>From www.theinformation.com</description>
 <content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)</title>
-<link>https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html?unlocked_article_code=1.IlE.QZXk.Pjomlkjt7c6k&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvh3g3hjp2l</guid>
-<pubDate>Thu, 15 Oct 2026 06:35:58 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
