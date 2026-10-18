@@ -5,8 +5,26 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:50:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 21:14:01 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)</title>
+<link>https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my6f6nueel25</guid>
+<pubDate>Sun, 18 Oct 2026 19:55:57 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says it is committing 5% of its shares to a Public Benefit Fund, a wholly owned LLC that can&#x27;t lobby, plus 2% for every 50% rise in its valuation (Anthropic)</title>
+<link>https://www.anthropic.com/news/public-benefit-fund</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my6co5j3ro25</guid>
+<pubDate>Sun, 18 Oct 2026 19:10:56 +0000</pubDate>
+<description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" alt="" /></p><p>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" />
+</item>
 <item>
 <title>Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#x27;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)</title>
 <link>https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/</link>
@@ -136,8 +154,8 @@
 <link>https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my3s7jirj52w</guid>
 <pubDate>Sat, 17 Oct 2026 19:11:06 +0000</pubDate>
-<description>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</description>
-<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</p>]]></content:encoded>
+<description>The move came just as Alex Gibney&#x27;s doc expanded to nearly 500 screens. Distributor Bleecker Street was upset and concerned by the two-day ban.</description>
+<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>The move came just as Alex Gibney&#x27;s doc expanded to nearly 500 screens. Distributor Bleecker Street was upset and concerned by the two-day ban.</p>]]></content:encoded>
 <media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" medium="image" />
 <media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" />
 </item>
@@ -882,22 +900,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzrwlgqw22</guid>
 <pubDate>Thu, 15 Oct 2026 12:10:41 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvzbeseal2x</guid>
-<pubDate>Thu, 15 Oct 2026 12:01:26 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Marc Andreessen, who sources say is close to White House COS Susie Wiles and has publicly described a fallout with Biden officials over AI policy (Austin Carr/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxvyobxpp625</guid>
-<pubDate>Thu, 15 Oct 2026 11:50:45 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
