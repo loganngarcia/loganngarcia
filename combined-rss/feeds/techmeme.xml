@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 18:53:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 21:14:53 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dd178e76fd088280d014.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my6f6nueel25</guid>
+<pubDate>Sun, 18 Oct 2026 19:55:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose" rel="related" type="text/html" />
+<description>How many young AI cloud providers can the market, and Nvidia, support?That’s one of the big questions after a week in which investors worried about the data center buildout and the risks that its unproven participants, known as neoclouds, are taking. Those risks include loading up on debt ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18004/ea2e3aec-cb93-4e79-a1a2-cb39a10be961-GLGc5i.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>How many young AI cloud providers can the market, and Nvidia, support?That’s one of the big questions after a week in which investors worried about the data center buildout and the risks that its unproven participants, known as neoclouds, are taking. Those risks include loading up on debt ...</p><p><a href="https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18004/ea2e3aec-cb93-4e79-a1a2-cb39a10be961-GLGc5i.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18004/ea2e3aec-cb93-4e79-a1a2-cb39a10be961-GLGc5i.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18004/ea2e3aec-cb93-4e79-a1a2-cb39a10be961-GLGc5i.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic says it is committing 5% of its shares to a Public Benefit Fund, a wholly owned LLC that can't lobby, plus 2% for every 50% rise in its valuation (Anthropic)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4c6c987b6534578844c4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my6co5j3ro25</guid>
+<pubDate>Sun, 18 Oct 2026 19:10:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.anthropic.com/news/public-benefit-fund" rel="related" type="text/html" />
+<description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" alt="" /></p><p>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</p><p><a href="https://www.anthropic.com/news/public-benefit-fund">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" />
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ff05347f0d9f37f4902.html</link>
@@ -211,8 +239,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/" rel="related" type="text/html" />
-<description>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</description>
-<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>The move came just as Alex Gibney doc film expands to nearly 500 screens. The account was reinstated two days later, but distributor Bleecker Street remains concerned.</p><p><a href="https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/">Open Original Article</a></p>]]></content:encoded>
+<description>The move came just as Alex Gibney's doc expanded to nearly 500 screens. Distributor Bleecker Street was upset and concerned by the two-day ban.</description>
+<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" alt="" /></p><p>The move came just as Alex Gibney's doc expanded to nearly 500 screens. Distributor Bleecker Street was upset and concerned by the two-day ban.</p><p><a href="https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" />
 <enclosure url="https://www.hollywoodreporter.com/wp-content/uploads/2026/10/musktrump.jpg?crop=0px%2C63px%2C4961px%2C2779px&amp;resize=1440%2C810" type="image/jpeg" length="0" />
@@ -295,8 +323,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I" rel="related" type="text/html" />
-<description>An AI rendering of a 19th-century Jon Gray, complete with pitchfork, waistcoat and straw hat, flashed up behind the [Blackstone Inc.](https://www.bloomberg.com/quote/BX:US) president at a recent meeting with investors.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSm4KjEs7kOw%2Fv3%2F1200x800.jpg" alt="" /></p><p>An AI rendering of a 19th-century Jon Gray, complete with pitchfork, waistcoat and straw hat, flashed up behind the [Blackstone Inc.](https://www.bloomberg.com/quote/BX:US) president at a recent meeting with investors.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I">Open Original Article</a></p>]]></content:encoded>
+<description>From data centers and chip financing to AI advice on potential deals, the technology is everywhere at the alternative-investment giant</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSm4KjEs7kOw%2Fv3%2F1200x800.jpg" alt="" /></p><p>From data centers and chip financing to AI advice on potential deals, the technology is everywhere at the alternative-investment giant</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjIxMjkwMywiZXhwIjoxNzkyODE3NzAzLCJhcnRpY2xlSWQiOiJUTVk1WldLR1pBS0UwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.lrEYFQDuJpd9y4WsdMU9WF6koERaL7yVLSAh_CCOb1I">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSm4KjEs7kOw%2Fv3%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSm4KjEs7kOw%2Fv3%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSm4KjEs7kOw%2Fv3%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -659,11 +687,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks" rel="related" type="text/html" />
-<description>President Donald Trump’s artificial intelligence task force in its first meeting agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability” as fears rise over the potential dangers posed by the technology.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inZgc2NpiXho/v0/1200x800.jpg" alt="" /></p><p>President Donald Trump’s artificial intelligence task force in its first meeting agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability” as fears rise over the potential dangers posed by the technology.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inZgc2NpiXho/v0/1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inZgc2NpiXho/v0/1200x800.jpg" />
-<enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inZgc2NpiXho/v0/1200x800.jpg" type="image/jpeg" length="0" />
+<description>President Donald Trump’s artificial intelligence task force in its first meeting agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability” as fea...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinZgc2NpiXho%2Fv0%2F1200x800.jpg" alt="" /></p><p>President Donald Trump’s artificial intelligence task force in its first meeting agreed on Thursday to address risks related to cybersecurity, biosecurity and “model control and accountability” as fea...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinZgc2NpiXho%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinZgc2NpiXho%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinZgc2NpiXho%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)</title>
@@ -818,34 +846,6 @@
 <media:content url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" />
 <enclosure url="https://pyxis.nymag.com/v1/imgs/e7b/4d4/78e199565cf3dba9002679c8f8ac02f9af-pro-ai-culture-in-china.1x.rsocial.w1200.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3465d18590a9bbe9576a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxvuih7wi2w</guid>
-<pubDate>Fri, 16 Oct 2026 06:05:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/" rel="related" type="text/html" />
-<description>Apple's chairman Tim Cook said Apple Intelligence ​has been approved in China and a ‌test version is due later in October, China's state-backed media The Paper reported citing an ​exclusive interview ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Apple's chairman Tim Cook said Apple Intelligence ​has been approved in China and a ‌test version is due later in October, China's state-backed media The Paper reported citing an ​exclusive interview ...</p><p><a href="https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQABXC37GI5JWREH7ZAV3FJXAW4.jpg%3Fauth%3D5a5c3df99322403a25f83f29f4eae6490a0f157e02a4a66b29e35c52e2d49afb%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f0c3f9fe6bda6ffe1b74.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxxrxp23ns2g</guid>
-<pubDate>Fri, 16 Oct 2026 04:56:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners" rel="related" type="text/html" />
-<description>Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp. and other AI hardware makers in the country.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirR6jByx24.o%2Fv1%2F1200x800.jpg" alt="" /></p><p>Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp. and other AI hardware makers in the country.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirR6jByx24.o%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirR6jByx24.o%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirR6jByx24.o%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
