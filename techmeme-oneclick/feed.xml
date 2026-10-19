@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 23:19:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 01:24:20 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation (Nick Lichtenberg/Fortune)</title>
+<link>https://fortune.com/2026/10/15/stand-insurance-wildfire-unicorn-raises-70-million-1-billion-valuation/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3my6v3nzkno2u</guid>
+<pubDate>Mon, 19 Oct 2026 00:40:37 +0000</pubDate>
+<description>Only a few years old, Stand says its digital twins predicted wildfire outcomes about 85% of the time in a backtest, versus 50%–55% for conventional models.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/dan-and-jason-e1792008468452.jpg?resize=1200,600" alt="" /></p><p>Only a few years old, Stand says its digital twins predicted wildfire outcomes about 85% of the time in a backtest, versus 50%–55% for conventional models.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/dan-and-jason-e1792008468452.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/dan-and-jason-e1792008468452.jpg?resize=1200,600" />
+</item>
 <item>
 <title>Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-18/ai-cloud-firm-nscale-faces-investor-pushback-over-ipo-valuation</link>
@@ -892,16 +902,6 @@
 <content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" alt="" /></p><p>Laying the foundation for the reinvention of the PC in the agentic AI era</p>]]></content:encoded>
 <media:content url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" medium="image" />
 <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg" />
-</item>
-<item>
-<title>Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)</title>
-<link>https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxw36rd2l32d</guid>
-<pubDate>Thu, 15 Oct 2026 12:35:40 +0000</pubDate>
-<description>It looks like a phone, but isn’t designed to be one.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It looks like a phone, but isn’t designed to be one.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
 </item>
 </channel>
 </rss>
