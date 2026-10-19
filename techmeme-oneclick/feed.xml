@@ -5,8 +5,58 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 19 Oct 2026 19:37:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 23:04:33 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb6u7xhb42l</guid>
+<pubDate>Mon, 19 Oct 2026 22:40:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs (Cloudflare)</title>
+<link>https://blog.cloudflare.com/clairic-extraction-model/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb6lxhygl2g</guid>
+<pubDate>Mon, 19 Oct 2026 22:36:07 +0000</pubDate>
+<description>Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.</description>
+<content:encoded><![CDATA[<p><img src="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" alt="" /></p><p>Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.</p>]]></content:encoded>
+<media:content url="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" medium="image" />
+<media:thumbnail url="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" />
+</item>
+<item>
+<title>The US FTC clears Publicis&#x27; $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp&#x27;s data connectivity tools for all clients (Leah Nylen/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb4dpwkhf2d</guid>
+<pubDate>Mon, 19 Oct 2026 21:55:43 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures (John Koetsier/Forbes)</title>
+<link>https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb2oqs5er22</guid>
+<pubDate>Mon, 19 Oct 2026 21:26:05 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody (Paige Smith/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-19/fintech-ramp-applies-for-trust-bank-charter-with-us-regulator</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myavxjb5n722</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:31 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myavn6icof25</guid>
+<pubDate>Mon, 19 Oct 2026 19:55:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Meta details Prometheus, its gigawatt-scale supercluster in Ohio, which will have ~1M GPUs at full scale and was used to train its Muse foundational models (Engineering at Meta)</title>
 <link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</link>
@@ -32,8 +82,8 @@
 <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myapj4c26r2d</guid>
 <pubDate>Mon, 19 Oct 2026 18:06:05 +0000</pubDate>
-<description>Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" alt="" /></p><p>Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</p>]]></content:encoded>
+<description>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" alt="" /></p><p>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" />
 </item>
@@ -114,8 +164,8 @@
 <link>https://www.propublica.org/article/cisa-election-security-donald-trump</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myafpnv5rc2x</guid>
 <pubDate>Mon, 19 Oct 2026 15:10:47 +0000</pubDate>
-<description>DHS appointees made an unusual request of its agency that protects election systems: Secretly acquire a voting machine and hack it. Though not acted on, the request shows how the Trump administration has tried to use the agency for its own ends.</description>
-<content:encoded><![CDATA[<p><img src="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" alt="" /></p><p>DHS appointees made an unusual request of its agency that protects election systems: Secretly acquire a voting machine and hack it. Though not acted on, the request shows how the Trump administration has tried to use the agency for its own ends.</p>]]></content:encoded>
+<description>Though not acted on, the request shows how the Trump administration has tried to use the Cybersecurity and Infrastructure Security Agency for its own ends while draining it of resources to help its mission of protecting the nation’s voting systems.</description>
+<content:encoded><![CDATA[<p><img src="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" alt="" /></p><p>Though not acted on, the request shows how the Trump administration has tried to use the Cybersecurity and Infrastructure Security Agency for its own ends while draining it of resources to help its mission of protecting the nation’s voting systems.</p>]]></content:encoded>
 <media:content url="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" medium="image" />
 <media:thumbnail url="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" />
 </item>
@@ -854,58 +904,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxz5azyrvv25</guid>
 <pubDate>Fri, 16 Oct 2026 17:50:49 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)</title>
-<link>https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyzdwvvuc2l</guid>
-<pubDate>Fri, 16 Oct 2026 16:40:51 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>In its first meeting, Trump&#x27;s Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxytifj7lb26</guid>
-<pubDate>Fri, 16 Oct 2026 14:55:58 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)</title>
-<link>https://www.thetimes.com/business/entrepreneurs/article/intuit-start-up-sequence-5hvtvnq8c</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyral2f2m2d</guid>
-<pubDate>Fri, 16 Oct 2026 14:15:48 +0000</pubDate>
-<description>The deal is a natural fit for both companies, according to Riya Grover, who co-founded the British fintech business in 2021</description>
-<content:encoded><![CDATA[<p><img src="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" alt="" /></p><p>The deal is a natural fit for both companies, according to Riya Grover, who co-founded the British fintech business in 2021</p>]]></content:encoded>
-<media:content url="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" medium="image" />
-<media:thumbnail url="https://www.thetimes.com/imageserver/image/4f2af055-0e0b-453b-9c99-ce45f541be9f.jpg?strip=all&amp;format=webp&amp;crop=5908px%2C3323px%2C711px%2C562px&amp;resize=1200" />
-</item>
-<item>
-<title>Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn&#x27;t take advantage of RTX Spark (Andrew E. Freedman/Tom&#x27;s Hardware)</title>
-<link>https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyptt5bmv25</guid>
-<pubDate>Fri, 16 Oct 2026 13:50:47 +0000</pubDate>
-<description>Useful for AI models, but still waiting for more Windows 11 features to take advantage of.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg" alt="" /></p><p>Useful for AI models, but still waiting for more Windows 11 features to take advantage of.</p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg" medium="image" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg" />
-</item>
-<item>
-<title>Sources: PayPal, Epic, and others voiced concerns to DOJ as it signaled a preference to settle its Apple antitrust suit with a deal focusing on interoperability (Aaron Tilley/The Information)</title>
-<link>https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxypbzns762d</guid>
-<pubDate>Fri, 16 Oct 2026 13:40:49 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Organizers abruptly cancel 2026&#x27;s Grace Hopper Celebration, one of the biggest events for women in tech, after sponsorships and registrations fall short (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-15/grace-hopper-confab-s-sudden-cancellation-raises-alarm-for-women-in-tech</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mxyoqupdc725</guid>
-<pubDate>Fri, 16 Oct 2026 13:31:14 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
