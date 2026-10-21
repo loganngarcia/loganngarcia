@@ -5,8 +5,50 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 12:53:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:14:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Origami Robotics Unveils S1 Glove to Capture Human Dexterity for Robots</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a9cedd5b71b4b36bf25e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove</guid>
+<pubDate>Wed, 21 Oct 2026 20:32:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove" rel="related" type="text/html" />
+<description>The S1 glove records finger movements, touch and video, with joints matched to Origami’s robot hand. The company says mass production has started.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" alt="" /></p><p>The S1 glove records finger movements, touch and video, with joints matched to Origami’s robot hand. The company says mass production has started.</p><p><a href="https://www.humanoidsdaily.com/news/origami-robotics-s1-skill-capture-glove">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>NVIDIA Releases Flora to Turn Robot Videos Into Training Data</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ab52327fda3fb9f3528.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models</guid>
+<pubDate>Wed, 21 Oct 2026 12:59:39 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models" rel="related" type="text/html" />
+<description>Flora labels actions and scores robot performance from video. NVIDIA reports 200,000 hours processed daily, with model weights available for research under noncommercial terms.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" alt="" /></p><p>Flora labels actions and scores robot performance from video. NVIDIA reports 200,000 hours processed daily, with model weights available for research under noncommercial terms.</p><p><a href="https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Humanoid Expands NVIDIA Collaboration, Replacing Two Robot Computers With One</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d6a9fdb75de1b6a5fbda.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing</guid>
+<pubDate>Wed, 21 Oct 2026 11:52:10 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing" rel="related" type="text/html" />
+<description>The UK robot maker says Jetson Thor consolidates two onboard computers into one, as it integrates NVIDIA tools for sensing, AI inference and real-time control.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" alt="" /></p><p>The UK robot maker says Jetson Thor consolidates two onboard computers into one, as it integrates NVIDIA tools for sensing, AI inference and real-time control.</p><p><a href="https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Generative Bionics Plans Major Humanoid Training Hub in Italy With AMD</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ba61f01a9ff4d53c62fc.html</link>
@@ -454,48 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/physical-intelligence-api-beta-demo-TMiVhYaVj1UiDbgNTiXlJLxNa0Ul1R.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Astra, Opus and Argon Show How Frontier AI Models Are Speeding Up Robotics Development</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9736382c65e43227a1cb.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation</guid>
-<pubDate>Tue, 13 Oct 2026 19:58:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation" rel="related" type="text/html" />
-<description>New Astra and Opus demonstrations echo Google’s Argon workflows, accelerating simulation and controller development while exposing the need to verify generated experiments.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" alt="" /></p><p>New Astra and Opus demonstrations echo Google’s Argon workflows, accelerating simulation and controller development while exposing the need to verify generated experiments.</p><p><a href="https://www.humanoidsdaily.com/news/astra-opus-argon-robotics-development-simulation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-collage-XV5aHSHhKmntSP3Y9nDF7vTGKafGdQ.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Dynamic Creatures Introduces Hugo, a Furry Character Robot With 43 Actuators</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b955efaac0f7ac9f7659.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot</guid>
-<pubDate>Tue, 13 Oct 2026 19:27:43 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot" rel="related" type="text/html" />
-<description>The startup shows Hugo in a new video and outlines work on a Vision-Language-Expression model, navigation and safety for guest interaction.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" alt="" /></p><p>The startup shows Hugo in a new video and outlines work on a Vision-Language-Expression model, navigation and safety for guest interaction.</p><p><a href="https://www.humanoidsdaily.com/news/dynamic-creatures-hugo-character-robot">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/hugo-character-8nsq7MXR4bfjP2d1QSOKoBejnqyFQf.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Gemini 4 Argon Takes Apollo From Human Video to Seven Straight Cornhole Shots</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4fb42779d0cb9df28677.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics</guid>
-<pubDate>Tue, 13 Oct 2026 18:40:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics" rel="related" type="text/html" />
-<description>Google demonstrates Argon using video, simulation and physical feedback to develop robot skills, alongside an 87% embodied-reasoning benchmark score.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" alt="" /></p><p>Google demonstrates Argon using video, simulation and physical feedback to develop robot skills, alongside an 87% embodied-reasoning benchmark score.</p><p><a href="https://www.humanoidsdaily.com/news/gemini-4-argon-apollo-cornhole-robotics">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-argon-apollo-cornhole-hero-QkwafgwWS1BQBNdwUKNubTGufyoIsP.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
