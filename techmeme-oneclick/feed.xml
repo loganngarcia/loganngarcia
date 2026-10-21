@@ -5,8 +5,162 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 07:00:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 12:52:21 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Spotify launches its first standalone, native in-car app built on Android Automotive OS, debuting on select Audi models, with a custom UI controlled by Spotify (Andrew J. Hawkins/The Verge)</title>
+<link>https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf6c7ujg32r</guid>
+<pubDate>Wed, 21 Oct 2026 12:41:19 +0000</pubDate>
+<description>Say goodbye to those aux cables. Spotify’s new in-car app is here, and it’s rolling out to Audi vehicles today.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Say goodbye to those aux cables. Spotify’s new in-car app is here, and it’s rolling out to Audi vehicles today.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+</item>
+<item>
+<title>Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and govern AI agents, and partners with Canonical, AWS, BBVA, and others (Thomas Claburn/The Register)</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf5q5nxfb2z</guid>
+<pubDate>Wed, 21 Oct 2026 12:31:13 +0000</pubDate>
+<description>Give your agents freedom to do useful work by locking them down</description>
+<content:encoded><![CDATA[<p><img src="https://image.theregister.com/249195.jpg?imageId=249195&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>Give your agents freedom to do useful work by locking them down</p>]]></content:encoded>
+<media:content url="https://image.theregister.com/249195.jpg?imageId=249195&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" />
+<media:thumbnail url="https://image.theregister.com/249195.jpg?imageId=249195&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
+</item>
+<item>
+<title>GTC Berlin: Jensen Huang pushes Europe on AI adoption, saying &quot;for Europe to benefit from AI ... you need all the end markets, the end industries to adopt AI&quot; (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf5hwr5eo24</guid>
+<pubDate>Wed, 21 Oct 2026 12:26:37 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says it will make its AI models available on Google Cloud&#x27;s model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf4v7wywx2v</guid>
+<pubDate>Wed, 21 Oct 2026 12:16:09 +0000</pubDate>
+<description>OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369650-17907047662026-09-29t175655z_1984658352_rc25tna4oh81_rtrmadp_0_ai-openai.jpeg?v=1792537167&amp;w=1920&amp;h=1080" alt="" /></p><p>OpenAI will now have its models on all three of the top clouds, giving corporate developers more choice.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369650-17907047662026-09-29t175655z_1984658352_rc25tna4oh81_rtrmadp_0_ai-openai.jpeg?v=1792537167&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369650-17907047662026-09-29t175655z_1984658352_rc25tna4oh81_rtrmadp_0_ai-openai.jpeg?v=1792537167&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>iPhone Duo review: fun to play with and cool matte inner display, but small cover display, heavier and bulkier than other phones, average cameras, and gets hot (The Verge)</title>
+<link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf4h4x2nl2i</guid>
+<pubDate>Wed, 21 Oct 2026 12:08:16 +0000</pubDate>
+<description>The iPhone Duo is the riskiest Apple product in years.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The iPhone Duo is the riskiest Apple product in years.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Memo: eBay is cutting ~9% of its workforce to simplify operations and reallocate resources toward high-growth areas; eBay cut 6%, or ~800 staff, in February (Reuters)</title>
+<link>https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf4e7dvx326</guid>
+<pubDate>Wed, 21 Oct 2026 12:06:38 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The EU Commission launches a DSA probe into Booking Holdings&#x27; Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing (Foo Yun Chee/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf3k54d4p2c</guid>
+<pubDate>Wed, 21 Oct 2026 11:52:03 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August (Beatrice Nolan/Fortune)</title>
+<link>https://fortune.com/2026/10/21/exclusive-ai-code-testing-startup-blacksmith-hits-1-billion-valuation-as-ai-written-code-surges/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf2evfklr24</guid>
+<pubDate>Wed, 21 Oct 2026 11:31:14 +0000</pubDate>
+<description>The startup’s valuation has nearly doubled in two months as AI coding tools flood companies with more code than their testing systems can handle.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/Blacksmith-founders-e1792418107512.png?resize=1200,600" alt="" /></p><p>The startup’s valuation has nearly doubled in two months as AI coding tools flood companies with more code than their testing systems can handle.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/Blacksmith-founders-e1792418107512.png?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/Blacksmith-founders-e1792418107512.png?resize=1200,600" />
+</item>
+<item>
+<title>A look at Elon Musk&#x27;s planned SpaceX-Tesla merger, which would create a $3.6T company but faces serious hurdles like shareholder votes and regulatory probes (Financial Times)</title>
+<link>https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myezt4eqxx2c</guid>
+<pubDate>Wed, 21 Oct 2026 11:21:17 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)</title>
+<link>https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myeyyghlpp2z</guid>
+<pubDate>Wed, 21 Oct 2026 11:06:22 +0000</pubDate>
+<description>It’s the latest in a growing wave of bets that AI companies are making on brain data.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/191:100/w_1280,c_limit/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" alt="" /></p><p>It’s the latest in a growing wave of bets that AI companies are making on brain data.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/191:100/w_1280,c_limit/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/191:100/w_1280,c_limit/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" />
+</item>
+<item>
+<title>Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI&#x27;s science potential (Ben Cohen/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?st=qXvQgt&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myextywdy72z</guid>
+<pubDate>Wed, 21 Oct 2026 10:45:58 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Dario Amodei says Anthropic&#x27;s &quot;race to the top&quot; makes AI safer, cites nine safety decisions with &quot;substantial costs&quot;, and admits mishandling a draft AI bill (Dario Amodei/@darioamodei)</title>
+<link>https://x.com/darioamodei/status/2112732230124818891</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myewz4n7ec2v</guid>
+<pubDate>Wed, 21 Oct 2026 10:30:57 +0000</pubDate>
+<description>Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI com…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg" alt="" /></p><p>Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI com…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg" />
+</item>
+<item>
+<title>Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)</title>
+<link>https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myewhmtkz42i</guid>
+<pubDate>Wed, 21 Oct 2026 10:21:10 +0000</pubDate>
+<description>Details released at GTC Berlin event, taking place this week</description>
+<content:encoded><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/IMG_7955.ea5ebb48.fill-1200x630.jpg" alt="" /></p><p>Details released at GTC Berlin event, taking place this week</p>]]></content:encoded>
+<media:content url="https://media.datacenterdynamics.com/media/images/IMG_7955.ea5ebb48.fill-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://media.datacenterdynamics.com/media/images/IMG_7955.ea5ebb48.fill-1200x630.jpg" />
+</item>
+<item>
+<title>China criticizes the US DHS&#x27;s DeepSeek ban, vowing &quot;resolute countermeasures&quot; while rejecting allegations from the FBI and AI labs of illicit distillation (Ephrat Livni/New York Times)</title>
+<link>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myevvcfhfp2v</guid>
+<pubDate>Wed, 21 Oct 2026 10:10:56 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic and Citrini Research use an internal Claude model to autonomously generate protein minibinders against five scorpion neurotoxins, testing 211 designs (Anthropic)</title>
+<link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myev2l3bob2n</guid>
+<pubDate>Wed, 21 Oct 2026 09:55:59 +0000</pubDate>
+<description>We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg" alt="" /></p><p>We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg" />
+</item>
+<item>
+<title>Micron and the union of workers at its Taichung facility sign a multi-issue agreement, without giving details, resolving tensions at its largest Taiwan site (Reuters)</title>
+<link>https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myeuijc2gn2r</guid>
+<pubDate>Wed, 21 Oct 2026 09:45:53 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Memo: Nscale CEO Josh Payne says it has &quot;more than $100B in contracted revenue&quot;; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation (Kieran Smith/Financial Times)</title>
+<link>https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myeoocsh5y2v</guid>
+<pubDate>Wed, 21 Oct 2026 08:01:45 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at Chinese philosophical views on AI: one says aligning AI to human values may be a &quot;suicidal mistake&quot;, another fears the &quot;machinization of humans&quot;, more (Arnaud Bertrand)</title>
 <link>https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas</link>
@@ -738,158 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" alt="" /></p><p>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" />
-</item>
-<item>
-<title>Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures (Ryan Lawler/Axios)</title>
-<link>https://www.axios.com/pro/fintech-deals/2026/10/19/prism-data-20-million-series-a-credit-analytics</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myaonpm6lz2u</guid>
-<pubDate>Mon, 19 Oct 2026 17:50:46 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women (Alex Konrad/Upstarts Media)</title>
-<link>https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myamp3o5sk2m</guid>
-<pubDate>Mon, 19 Oct 2026 17:15:44 +0000</pubDate>
-<description>Far from Silicon Valley’s echo chamber, about 250,000 everyday people turn to AI app Tolan as a friendly voice, or to help organize their lives and families. Now it’s expanding.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!r62g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33409074-e69a-4a37-9a37-48613238a902_5073x3076.jpeg" alt="" /></p><p>Far from Silicon Valley’s echo chamber, about 250,000 everyday people turn to AI app Tolan as a friendly voice, or to help organize their lives and families. Now it’s expanding.</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!r62g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33409074-e69a-4a37-9a37-48613238a902_5073x3076.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!r62g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33409074-e69a-4a37-9a37-48613238a902_5073x3076.jpeg" />
-</item>
-<item>
-<title>Sources: DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026&#x27;s end (The Information)</title>
-<link>https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myam5d4kwv2d</guid>
-<pubDate>Mon, 19 Oct 2026 17:05:48 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)</title>
-<link>https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myajmpssku26</guid>
-<pubDate>Mon, 19 Oct 2026 16:20:44 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple announces a &quot;Pro and tell&quot; event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14&quot; MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)</title>
-<link>https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myajdt3wif2x</guid>
-<pubDate>Mon, 19 Oct 2026 16:15:45 +0000</pubDate>
-<description>Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The...</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Amazon introduces TorchNeuron, an open-source tool that will allow developers to run code written in PyTorch on Amazon&#x27;s Trainium chips with no rewrite (Todd Bishop/GeekWire)</title>
-<link>https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myaiamg5u72m</guid>
-<pubDate>Mon, 19 Oct 2026 15:56:04 +0000</pubDate>
-<description>Amazon&#x27;s TorchNeuron software runs code written in PyTorch, the open-source framework used by many AI developers, on its Trainium chips after a basic configuration change. Amazon is opening it to all developers as a public beta and releasing it as open source.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg" alt="" /></p><p>Amazon&#x27;s TorchNeuron software runs code written in PyTorch, the open-source framework used by many AI developers, on its Trainium chips after a basic configuration change. Amazon is opening it to all developers as a public beta and releasing it as open source.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg" />
-</item>
-<item>
-<title>AI infrastructure startup Modal says it plans to start using Nvidia&#x27;s Vera CPUs for the first time for hosting agents, alongside existing Intel and AMD chips (Stephen Nellis/Reuters)</title>
-<link>https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myahfjn2if25</guid>
-<pubDate>Mon, 19 Oct 2026 15:40:55 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>MiniMax launches M3.1 Flash, saying it delivers &quot;a generational leap&quot; in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23 (MiniMax)</title>
-<link>https://www.minimax.io/blog/minimax-m31f</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myagtejsjr2w</guid>
-<pubDate>Mon, 19 Oct 2026 15:30:46 +0000</pubDate>
-<description>Today, we officially roll out MiniMax M3.1 Flash. As a next-generation Flash model, M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use and cybersecurity, while making online inference nearly three times faster and reducing usage costs by 70%.</description>
-<content:encoded><![CDATA[<p><img src="https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp" alt="" /></p><p>Today, we officially roll out MiniMax M3.1 Flash. As a next-generation Flash model, M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use and cybersecurity, while making online inference nearly three times faster and reducing usage costs by 70%.</p>]]></content:encoded>
-<media:content url="https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp" medium="image" />
-<media:thumbnail url="https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp" />
-</item>
-<item>
-<title>Sources: DHS officials asked CISA to hack a voting machine to report vulnerabilities to the White House without telling the vendor; the request wasn&#x27;t acted on (ProPublica)</title>
-<link>https://www.propublica.org/article/cisa-election-security-donald-trump</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myafpnv5rc2x</guid>
-<pubDate>Mon, 19 Oct 2026 15:10:47 +0000</pubDate>
-<description>Though not acted on, the request shows how the Trump administration has tried to use the Cybersecurity and Infrastructure Security Agency for its own ends while draining it of resources to help its mission of protecting the nation’s voting systems.</description>
-<content:encoded><![CDATA[<p><img src="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" alt="" /></p><p>Though not acted on, the request shows how the Trump administration has tried to use the Cybersecurity and Infrastructure Security Agency for its own ends while draining it of resources to help its mission of protecting the nation’s voting systems.</p>]]></content:encoded>
-<media:content url="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" medium="image" />
-<media:thumbnail url="https://www.propublica.org/wp-content/uploads/2026/10/20261006-Gordon-cisa-election-sec-3x2-SOCIAL_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1050" />
-</item>
-<item>
-<title>The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myaeungo2m25</guid>
-<pubDate>Mon, 19 Oct 2026 14:55:41 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: US investigators pursuing ShinyHunters, which stole FBI data, identified executives at two ransomware negotiation firms who had unusually close ties (Brian Krebs/Krebs on Security)</title>
-<link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myadr63x7d22</guid>
-<pubDate>Mon, 19 Oct 2026 14:35:50 +0000</pubDate>
-<description>From krebsonsecurity.com</description>
-<content:encoded><![CDATA[<p>From krebsonsecurity.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myad72ys5t2l</guid>
-<pubDate>Mon, 19 Oct 2026 14:25:43 +0000</pubDate>
-<description>Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080" alt="" /></p><p>Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Source: Anthropic is preparing a model with superior intuition and reasoning that can discern unstated intentions and is better at thinking outside of the box (Stephanie Palazzolo/The Information)</title>
-<link>https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myacnrp3f32m</guid>
-<pubDate>Mon, 19 Oct 2026 14:16:03 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)</title>
-<link>https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mya7tt2jyb26</guid>
-<pubDate>Mon, 19 Oct 2026 13:25:44 +0000</pubDate>
-<description>New features in Microsoft 365 E7 and Project Perception will assess each agent&#x27;s risk, with the ability to block it from making changes, require human intervention or shut it down.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281.jpg" alt="" /></p><p>New features in Microsoft 365 E7 and Project Perception will assess each agent&#x27;s risk, with the ability to block it from making changes, require human intervention or shut it down.</p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281.jpg" medium="image" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281.jpg" />
-</item>
-<item>
-<title>How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry (Lauren Feiner/The Verge)</title>
-<link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mya6py32yy2x</guid>
-<pubDate>Mon, 19 Oct 2026 13:05:42 +0000</pubDate>
-<description>But the issue is still open for the taking.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>But the issue is still open for the taking.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
-</item>
-<item>
-<title>Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, including Deere and SharkNinja, spending ~$5,000 total (Raphael Satter/Reuters)</title>
-<link>https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mya4rxgsgz2x</guid>
-<pubDate>Mon, 19 Oct 2026 12:31:01 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tel Aviv-based doubleAI releases its debut code execution model to optimize GPU and CPU performance; doubleAI raised $220M and acquired 1,000 Nvidia B300 chips (Belle Lin/Wall Street Journal)</title>
-<link>https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mya47jsuk32d</guid>
-<pubDate>Mon, 19 Oct 2026 12:20:43 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
