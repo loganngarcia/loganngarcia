@@ -5,8 +5,184 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 12:52:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 17:53:30 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Flapping Airplanes, which is working on methods to train AI models on less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjEzMywiZXhwIjoxNzkzMjA2OTMzLCJhcnRpY2xlSWQiOiJUTjlPSzFLSVVQU1UwMCIsImJjb25uZWN0SWQiOiIyMjNDRDM2NDg0QzY0OTc3QjY5ODE0Rjc1MTYxNDRGNyJ9.2ECQs48uRgaUOE9dkbaIGZ556qBFOPomk4VxMDMXvHE</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfpdbmbf62w</guid>
+<pubDate>Wed, 21 Oct 2026 17:46:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal (Jonathan Vanian/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfopedf2t24</guid>
+<pubDate>Wed, 21 Oct 2026 17:35:00 +0000</pubDate>
+<description>Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" alt="" /></p><p>Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout (Jason Schreier/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfnnoi7dj2r</guid>
+<pubDate>Wed, 21 Oct 2026 17:16:09 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The PHP Foundation says its RCE patches are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors (Wired)</title>
+<link>https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfn3szkgx2w</guid>
+<pubDate>Wed, 21 Oct 2026 17:06:10 +0000</pubDate>
+<description>The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" alt="" /></p><p>The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" />
+</item>
+<item>
+<title>Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)</title>
+<link>https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myflgepqui2c</guid>
+<pubDate>Wed, 21 Oct 2026 16:36:17 +0000</pubDate>
+<description>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" alt="" /></p><p>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" />
+</item>
+<item>
+<title>Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed (Alex Konrad/Upstarts Media)</title>
+<link>https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfk22mdd52r</guid>
+<pubDate>Wed, 21 Oct 2026 16:11:30 +0000</pubDate>
+<description>Veteran CEO Akhil Iyer is combining AI and simulation software to help the U.S. Armed Forces in logistics, backed by Shield Capital, Conviction, Founders Fund, and IQT.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" alt="" /></p><p>Veteran CEO Akhil Iyer is combining AI and simulation software to help the U.S. Armed Forces in logistics, backed by Shield Capital, Conviction, Founders Fund, and IQT.</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" />
+</item>
+<item>
+<title>The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online (The PHP Foundation)</title>
+<link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfi3k7ack2i</guid>
+<pubDate>Wed, 21 Oct 2026 15:36:32 +0000</pubDate>
+<description>Describing the story behind how critical security vulnerabilities were found and fixed.</description>
+<content:encoded><![CDATA[<p><img src="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" alt="" /></p><p>Describing the story behind how critical security vulnerabilities were found and fixed.</p>]]></content:encoded>
+<media:content url="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" medium="image" />
+<media:thumbnail url="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" />
+</item>
+<item>
+<title>Several government, school, and hospital websites in Europe were taken offline as organizations rush to protect themselves from two critical PHP security flaws (Reuters)</title>
+<link>https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfhkahwol2u</guid>
+<pubDate>Wed, 21 Oct 2026 15:26:52 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation (Natasha Mascarenhas/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-21/whop-s-sequoia-led-funding-pushes-its-value-to-5-1-billion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myffl2iqs42r</guid>
+<pubDate>Wed, 21 Oct 2026 14:51:32 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says the PHP flaws, found using GPT-5.6 Sol, &quot;are among several significant vulnerabilities&quot; it found and expects &quot;similar findings to increase sharply&quot; (OpenAI)</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfejwv3rj2u</guid>
+<pubDate>Wed, 21 Oct 2026 14:33:00 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O&#x27;Kane/TechCrunch)</title>
+<link>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfehdml7v2i</guid>
+<pubDate>Wed, 21 Oct 2026 14:31:33 +0000</pubDate>
+<description>The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800" alt="" /></p><p>The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Cloudflare says it deployed default WAF mitigations for all free and paid tier customers to combat two PHP flaws, roughly nine hours ahead of public disclosure (Cloudflare)</title>
+<link>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfdvm6veo2r</guid>
+<pubDate>Wed, 21 Oct 2026 14:21:38 +0000</pubDate>
+<description>Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.</description>
+<content:encoded><![CDATA[<p><img src="https://blog.cloudflare.com/_emdash/api/media/file/01M5FBPSP6GA0RRJ5FDQ68S476.png" alt="" /></p><p>Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.</p>]]></content:encoded>
+<media:content url="https://blog.cloudflare.com/_emdash/api/media/file/01M5FBPSP6GA0RRJ5FDQ68S476.png" medium="image" />
+<media:thumbnail url="https://blog.cloudflare.com/_emdash/api/media/file/01M5FBPSP6GA0RRJ5FDQ68S476.png" />
+</item>
+<item>
+<title>Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic)</title>
+<link>https://www.anthropic.com/research/attack-surface-reduction</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfdmihhvg2z</guid>
+<pubDate>Wed, 21 Oct 2026 14:16:32 +0000</pubDate>
+<description>Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="" /></p><p>Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" />
+</item>
+<item>
+<title>PHP discloses a critical memory-management vulnerability, dubbed &quot;PHP2Shell&quot;, that affects up to 70% of websites, discovered using GPT-5.6 Sol in August (Robert McMillan/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea?st=tBLRBh&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfd622so62n</guid>
+<pubDate>Wed, 21 Oct 2026 14:08:27 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>PHP releases security fixes for two critical unauthenticated RCE vulnerabilities, urging all PHP users to update; all web-serving deployments are affected (PHP)</title>
+<link>https://www.php.net/archive/2026.php#2026-10-21-5</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfcydz2w52i</guid>
+<pubDate>Wed, 21 Oct 2026 14:05:17 +0000</pubDate>
+<description>PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.</description>
+<content:encoded><![CDATA[<p><img src="https://www.php.net/images/meta-image.png" alt="" /></p><p>PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.</p>]]></content:encoded>
+<media:content url="https://www.php.net/images/meta-image.png" medium="image" />
+<media:thumbnail url="https://www.php.net/images/meta-image.png" />
+</item>
+<item>
+<title>ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)</title>
+<link>https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfcapcwdq2z</guid>
+<pubDate>Wed, 21 Oct 2026 13:52:03 +0000</pubDate>
+<description>The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.</description>
+<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" alt="" /></p><p>The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.</p>]]></content:encoded>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" medium="image" />
+<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" />
+</item>
+<item>
+<title>Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March (Rosie Harris-Davison/City A.M.)</title>
+<link>https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfbwoah562z</guid>
+<pubDate>Wed, 21 Oct 2026 13:46:26 +0000</pubDate>
+<description>Legal tech firm Legora has raised $550m in E series funding as the startup looks to build out its footprint in the US, Europe, and the Asia-Pacific region.</description>
+<content:encoded><![CDATA[<p><img src="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" alt="" /></p><p>Legal tech firm Legora has raised $550m in E series funding as the startup looks to build out its footprint in the US, Europe, and the Asia-Pacific region.</p>]]></content:encoded>
+<media:content url="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" medium="image" />
+<media:thumbnail url="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" />
+</item>
+<item>
+<title>OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform&#x27;s advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)</title>
+<link>https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfaah22f72k</guid>
+<pubDate>Wed, 21 Oct 2026 13:16:07 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple says it plans to add Reachability for the iPhone Duo later in 2026, helping people with smaller hands more easily access the left or right display edges (Julian Chokkattu/Wired)</title>
+<link>https://www.wired.com/review/apple-iphone-duo/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myf74vn2bb26</guid>
+<pubDate>Wed, 21 Oct 2026 12:56:14 +0000</pubDate>
+<description>Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad7940031b157a7a885ace4/191:100/w_1280,c_limit/DSC_9923.jpg" alt="" /></p><p>Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ad7940031b157a7a885ace4/191:100/w_1280,c_limit/DSC_9923.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ad7940031b157a7a885ace4/191:100/w_1280,c_limit/DSC_9923.jpg" />
+</item>
 <item>
 <title>Spotify launches its first standalone, native in-car app built on Android Automotive OS, debuting on select Audi models, with a custom UI controlled by Spotify (Andrew J. Hawkins/The Verge)</title>
 <link>https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay</link>
@@ -542,10 +718,8 @@
 <link>https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mycqurqu2425</guid>
 <pubDate>Tue, 20 Oct 2026 13:35:50 +0000</pubDate>
-<description>The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&#x27;t think the harms are severe enough,&quot; wrote one executive.</description>
-<content:encoded><![CDATA[<p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x2754+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg" alt="" /></p><p>The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&#x27;t think the harms are severe enough,&quot; wrote one executive.</p>]]></content:encoded>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x2754+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg" medium="image" />
-<media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x2754+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg" />
+<description>From www.npr.org</description>
+<content:encoded><![CDATA[<p>From www.npr.org</p>]]></content:encoded>
 </item>
 <item>
 <title>Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation (Kate Rooney/CNBC)</title>
@@ -724,174 +898,6 @@
 <pubDate>Tue, 20 Oct 2026 09:40:49 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Ant-backed Mynt, which runs mobile wallet app GCash, rose as much as 2.4% in Manila after raising $841M in the Philippines&#x27; largest-ever IPO, valuing it at ~$7B (Kimberley Kao/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ant-backed-fintech-mynt-rises-in-debut-after-philippines-largest-ipo-de6a772d?st=rrtwM3&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myc66uwl3p25</guid>
-<pubDate>Tue, 20 Oct 2026 08:01:28 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)</title>
-<link>https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybybwa6dr2x</guid>
-<pubDate>Tue, 20 Oct 2026 06:15:47 +0000</pubDate>
-<description>Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.</description>
-<content:encoded><![CDATA[<p><img src="https://theintercept.com/wp-content/uploads/2026/10/AP26279752252939-e1792170980358.jpg?fit=2935%2C1467&amp;w=1200&amp;h=800" alt="" /></p><p>Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.</p>]]></content:encoded>
-<media:content url="https://theintercept.com/wp-content/uploads/2026/10/AP26279752252939-e1792170980358.jpg?fit=2935%2C1467&amp;w=1200&amp;h=800" medium="image" />
-<media:thumbnail url="https://theintercept.com/wp-content/uploads/2026/10/AP26279752252939-e1792170980358.jpg?fit=2935%2C1467&amp;w=1200&amp;h=800" />
-</item>
-<item>
-<title>Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybtawu4ot2n</guid>
-<pubDate>Tue, 20 Oct 2026 04:45:46 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An Australian minister says the eSafety Commissioner plans to sue Meta, TikTok, Snapchat, and YouTube over alleged breaches of the under-16 social media ban (Angus Whitley/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybpvjkqx222</guid>
-<pubDate>Tue, 20 Oct 2026 03:45:41 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)</title>
-<link>https://www.newcomer.co/p/mercury-crosses-1-billion-annualized</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybnop2mkr2l</guid>
-<pubDate>Tue, 20 Oct 2026 03:06:05 +0000</pubDate>
-<description>I sat down with Mercury CEO Immad Akhund</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/youtube/w_728,c_limit/6iGPvSUsYmI" alt="" /></p><p>I sat down with Mercury CEO Immad Akhund</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/youtube/w_728,c_limit/6iGPvSUsYmI" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/youtube/w_728,c_limit/6iGPvSUsYmI" />
-</item>
-<item>
-<title>Inception launches Mercury 3, a diffusion-based LLM it claims is &quot;comparable to Luna and Haiku models&quot; but 4x to 8x faster, generating ~1,000 tokens per second (Jason Hiner/The Deep View)</title>
-<link>https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybj72zybu22</guid>
-<pubDate>Tue, 20 Oct 2026 01:45:45 +0000</pubDate>
-<description>While the AI industry has bet heavily on LLMs and the massive data centers needed to scale them, one of the neolabs betting on a contrarian AI just released an...</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/0no9te5e/production/9c8a23f557e384f9fc7caef86f1458d7f4072395-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" alt="" /></p><p>While the AI industry has bet heavily on LLMs and the massive data centers needed to scale them, one of the neolabs betting on a contrarian AI just released an...</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/0no9te5e/production/9c8a23f557e384f9fc7caef86f1458d7f4072395-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/0no9te5e/production/9c8a23f557e384f9fc7caef86f1458d7f4072395-1456x816.png?rect=0,28,1456,761&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format" />
-</item>
-<item>
-<title>Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybgiv3rqi2g</guid>
-<pubDate>Tue, 20 Oct 2026 00:57:34 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: OpenAI is racing to secure investor commitments before Anthropic&#x27;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)</title>
-<link>https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybc4qeef72g</guid>
-<pubDate>Mon, 19 Oct 2026 23:39:11 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybbnoxovp2d</guid>
-<pubDate>Mon, 19 Oct 2026 23:30:46 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month (Ellen DiMauro/Semafor)</title>
-<link>https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mybakjjwwu2x</guid>
-<pubDate>Mon, 19 Oct 2026 23:11:06 +0000</pubDate>
-<description>The self-driving car company plans to use some of the $5 billion of debt it raised this month to amass 20,000 vehicles by the end of next year, up from 4,000 today.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/001ed4c275c3a6c8841a1d5c5d76ac55e78eaba0-5146x3430.jpg?rect=0,364,5146,2702&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The self-driving car company plans to use some of the $5 billion of debt it raised this month to amass 20,000 vehicles by the end of next year, up from 4,000 today.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/001ed4c275c3a6c8841a1d5c5d76ac55e78eaba0-5146x3430.jpg?rect=0,364,5146,2702&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/001ed4c275c3a6c8841a1d5c5d76ac55e78eaba0-5146x3430.jpg?rect=0,364,5146,2702&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb6u7xhb42l</guid>
-<pubDate>Mon, 19 Oct 2026 22:40:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs (Cloudflare)</title>
-<link>https://blog.cloudflare.com/clairic-extraction-model/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb6lxhygl2g</guid>
-<pubDate>Mon, 19 Oct 2026 22:36:07 +0000</pubDate>
-<description>Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.</description>
-<content:encoded><![CDATA[<p><img src="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" alt="" /></p><p>Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.</p>]]></content:encoded>
-<media:content url="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" medium="image" />
-<media:thumbnail url="https://blog.cloudflare.com/_emdash/api/media/file/01M5AKCBMF8BCH80YN3A4DG9FH.png" />
-</item>
-<item>
-<title>The US FTC clears Publicis&#x27; $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp&#x27;s data connectivity tools for all clients (Leah Nylen/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb4dpwkhf2d</guid>
-<pubDate>Mon, 19 Oct 2026 21:55:43 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures (John Koetsier/Forbes)</title>
-<link>https://www.forbes.com/sites/johnkoetsier/2026/10/19/robot-brains-for-75-centshour-former-nvidia-researchers-raise-90-million/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myb2oqs5er22</guid>
-<pubDate>Mon, 19 Oct 2026 21:26:05 +0000</pubDate>
-<description>From www.forbes.com</description>
-<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody (Paige Smith/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-19/fintech-ramp-applies-for-trust-bank-charter-with-us-regulator</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myavxjb5n722</guid>
-<pubDate>Mon, 19 Oct 2026 20:01:31 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myavn6icof25</guid>
-<pubDate>Mon, 19 Oct 2026 19:55:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta details Prometheus, its gigawatt-scale supercluster in Ohio, which will have ~1M GPUs at full scale and was used to train its Muse foundational models (Engineering at Meta)</title>
-<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myaqmflhnx2d</guid>
-<pubDate>Mon, 19 Oct 2026 18:25:49 +0000</pubDate>
-<description>With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale sup…</description>
-<content:encoded><![CDATA[<p><img src="https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg" alt="" /></p><p>With the recent release of the Muse family of foundational models, we want to take you inside the infrastructure that has made it all possible. The first phase of Prometheus, our gigawatt-scale sup…</p>]]></content:encoded>
-<media:content url="https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg" medium="image" />
-<media:thumbnail url="https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg" />
-</item>
-<item>
-<title>Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myaqdbvcib2l</guid>
-<pubDate>Mon, 19 Oct 2026 18:20:43 +0000</pubDate>
-<description>AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675" alt="" /></p><p>AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675" />
-</item>
-<item>
-<title>Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myapj4c26r2d</guid>
-<pubDate>Mon, 19 Oct 2026 18:06:05 +0000</pubDate>
-<description>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" alt="" /></p><p>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" />
 </item>
 </channel>
 </rss>
