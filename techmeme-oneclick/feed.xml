@@ -5,8 +5,54 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 23 Oct 2026 15:03:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 19:07:51 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Iranian security officials say the country has detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again (Reuters)</title>
+<link>https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myks76sxdc2p</guid>
+<pubDate>Fri, 23 Oct 2026 18:20:51 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Kimi unveils K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by November 4 (Kimi)</title>
+<link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykqanuugw2t</guid>
+<pubDate>Fri, 23 Oct 2026 17:45:53 +0000</pubDate>
+<description>Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research.</description>
+<content:encoded><![CDATA[<p><img src="https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp" alt="" /></p><p>Introducing Kimi K3.1 Pro, our most capable 3T-class open-weight model with 1M-token context and major advances in coding, 3D modeling, and financial research.</p>]]></content:encoded>
+<media:content url="https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp" medium="image" />
+<media:thumbnail url="https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp" />
+</item>
+<item>
+<title>Anthropic attributes Mythos 5&#x27;s deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)</title>
+<link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykoc7whzy2a</guid>
+<pubDate>Fri, 23 Oct 2026 17:10:57 +0000</pubDate>
+<description>In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/97d61b79f99af31d2596eced7533e6d5e3ef7731-2000x1125.jpg" alt="" /></p><p>In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from Claude Mythos 5 further, to understand what they reveal about the model’s alignment.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/97d61b79f99af31d2596eced7533e6d5e3ef7731-2000x1125.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/97d61b79f99af31d2596eced7533e6d5e3ef7731-2000x1125.jpg" />
+</item>
+<item>
+<title>UK&#x27;s AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation (AI Security Institute)</title>
+<link>https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myknhd2tj42k</guid>
+<pubDate>Fri, 23 Oct 2026 16:55:55 +0000</pubDate>
+<description>We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6ad8abc845fd06825f5d94e6_Copy%20of%20Metacard%20(24).png" alt="" /></p><p>We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.</p>]]></content:encoded>
+<media:content url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6ad8abc845fd06825f5d94e6_Copy%20of%20Metacard%20(24).png" medium="image" />
+<media:thumbnail url="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a48/6ad8abc845fd06825f5d94e6_Copy%20of%20Metacard%20(24).png" />
+</item>
+<item>
+<title>Sources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE (Greg Ritchie/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-23/kalshi-courts-wall-street-in-bid-to-be-the-inflation-exchange-with-cpi-futures</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykjjwli7s22</guid>
+<pubDate>Fri, 23 Oct 2026 15:45:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints (Reuters)</title>
 <link>https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/</link>
@@ -840,54 +886,6 @@
 <pubDate>Wed, 21 Oct 2026 17:16:09 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The PHP Foundation says its RCE patches are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors (Wired)</title>
-<link>https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfn3szkgx2w</guid>
-<pubDate>Wed, 21 Oct 2026 17:06:10 +0000</pubDate>
-<description>The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" alt="" /></p><p>The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ad8c3fad8fc6a7c8e751dc0/191:100/w_1280,c_limit/102126-PHP.jpg" />
-</item>
-<item>
-<title>Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)</title>
-<link>https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myflgepqui2c</guid>
-<pubDate>Wed, 21 Oct 2026 16:36:17 +0000</pubDate>
-<description>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" alt="" /></p><p>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/191:100/w_1280,c_limit/business_ai_lab_recursive_improvement.jpg" />
-</item>
-<item>
-<title>Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed (Alex Konrad/Upstarts Media)</title>
-<link>https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfk22mdd52r</guid>
-<pubDate>Wed, 21 Oct 2026 16:11:30 +0000</pubDate>
-<description>Veteran CEO Akhil Iyer is combining AI and simulation software to help the U.S. Armed Forces in logistics, backed by Shield Capital, Conviction, Founders Fund, and IQT.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" alt="" /></p><p>Veteran CEO Akhil Iyer is combining AI and simulation software to help the U.S. Armed Forces in logistics, backed by Shield Capital, Conviction, Founders Fund, and IQT.</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!BKYO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc2f4279-8751-4b61-b9fc-0702ece1bdd8_8736x6552.jpeg" />
-</item>
-<item>
-<title>The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online (The PHP Foundation)</title>
-<link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfi3k7ack2i</guid>
-<pubDate>Wed, 21 Oct 2026 15:36:32 +0000</pubDate>
-<description>Describing the story behind how critical security vulnerabilities were found and fixed.</description>
-<content:encoded><![CDATA[<p><img src="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" alt="" /></p><p>Describing the story behind how critical security vulnerabilities were found and fixed.</p>]]></content:encoded>
-<media:content url="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" medium="image" />
-<media:thumbnail url="https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png" />
-</item>
-<item>
-<title>Several government, school, and hospital websites in Europe were taken offline as organizations rush to protect themselves from two critical PHP security flaws (Reuters)</title>
-<link>https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfhkahwol2u</guid>
-<pubDate>Wed, 21 Oct 2026 15:26:52 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
