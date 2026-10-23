@@ -5,8 +5,74 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 23 Oct 2026 19:07:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:05:41 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Memo: Helen Chiang, Xbox&#x27;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)</title>
+<link>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myl6a3zaw525</guid>
+<pubDate>Fri, 23 Oct 2026 21:56:06 +0000</pubDate>
+<description>Helen Chiang is leaving Microsoft after 21 years.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Helen Chiang is leaving Microsoft after 21 years.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myl3y2dn5725</guid>
+<pubDate>Fri, 23 Oct 2026 21:15:49 +0000</pubDate>
+<description>The funding, led by Red Dot Capital Partners, brings Mave’s total funding to $34 million. The company is developing AI that investigates alerts across existing security tools without requiring organizations to centralize their data.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/22/HJVAkuP2Mg/HJVAkuP2Mg_0_4_2500_1408_0_large.jpg" alt="" /></p><p>The funding, led by Red Dot Capital Partners, brings Mave’s total funding to $34 million. The company is developing AI that investigates alerts across existing security tools without requiring organizations to centralize their data.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/22/HJVAkuP2Mg/HJVAkuP2Mg_0_4_2500_1408_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/22/HJVAkuP2Mg/HJVAkuP2Mg_0_4_2500_1408_0_large.jpg" />
+</item>
+<item>
+<title>Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber (The Information)</title>
+<link>https://www.theinformation.com/articles/instacart-exploring-sale</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykz7ztnkv2k</guid>
+<pubDate>Fri, 23 Oct 2026 20:26:35 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions (Rachel Metz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-23/openai-to-train-ai-models-without-internet-after-cyber-incidents</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykyvtycr226</guid>
+<pubDate>Fri, 23 Oct 2026 20:20:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &quot;to reduce potential misuse risk while preserving general usefulness&quot; (Matthias Bastian/The Decoder)</title>
+<link>https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykwfqq7br2u</guid>
+<pubDate>Fri, 23 Oct 2026 19:36:06 +0000</pubDate>
+<description>Moonshot AI&#x27;s Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/10/kimi_k31pro-1200x715.png" alt="" /></p><p>Moonshot AI&#x27;s Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points.</p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/10/kimi_k31pro-1200x715.png" medium="image" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/10/kimi_k31pro-1200x715.png" />
+</item>
+<item>
+<title>Artificial Analysis says Kimi K3.1 Pro lands 4th on its Intelligence Index, behind only Opus 5.5 (max), Sonnet 5.5 (max), and Muse Wonder Full (max) (@artificialanlys)</title>
+<link>https://x.com/artificialanlys/status/2113688083145314416</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykvtrb3yf2k</guid>
+<pubDate>Fri, 23 Oct 2026 19:26:02 +0000</pubDate>
+<description>Kimi K3.1 Pro launches at 4th on the Artificial Analysis Intelligence Index scoring 55, making large gains in agentic performance; it will be the leading open-weights model once its weights are published @Kimi_Moonshot&#x27;s new reasoning model gains 11 points over Kimi K3 (max, 44). It trails only Cl…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HVVTHDTaAAAyAl-?format=webp&amp;name=large" alt="" /></p><p>Kimi K3.1 Pro launches at 4th on the Artificial Analysis Intelligence Index scoring 55, making large gains in agentic performance; it will be the leading open-weights model once its weights are published @Kimi_Moonshot&#x27;s new reasoning model gains 11 points over Kimi K3 (max, 44). It trails only Cl…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HVVTHDTaAAAyAl-?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HVVTHDTaAAAyAl-?format=webp&amp;name=large" />
+</item>
+<item>
+<title>Global PC shipments fell 21% YoY in Q3 to 57M units, as memory and other costs pushed prices up; Lenovo retained its market leadership despite a 23% decline (Minsoo Kang/Counterpoint Research)</title>
+<link>https://counterpointresearch.com/en/insights/global-pc-shipments-plunge-21-percent-in-q3-2026</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mykvchwuig2t</guid>
+<pubDate>Fri, 23 Oct 2026 19:16:22 +0000</pubDate>
+<description>Counterpoint Research Insight</description>
+<content:encoded><![CDATA[<p><img src="https://counterpointresearch.com/images/og/og-default.png" alt="" /></p><p>Counterpoint Research Insight</p>]]></content:encoded>
+<media:content url="https://counterpointresearch.com/images/og/og-default.png" medium="image" />
+<media:thumbnail url="https://counterpointresearch.com/images/og/og-default.png" />
+</item>
 <item>
 <title>Iranian security officials say the country has detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again (Reuters)</title>
 <link>https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/</link>
@@ -822,68 +888,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfzo266to2j</guid>
 <pubDate>Wed, 21 Oct 2026 20:51:07 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)</title>
-<link>https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfxyflwbb2s</guid>
-<pubDate>Wed, 21 Oct 2026 20:21:07 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% to $12.99B on a $9.89B AG settlement charge, and family DAP up 3% to 3.64B for September (Meta)</title>
-<link>https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfxgf7sdy2j</guid>
-<pubDate>Wed, 21 Oct 2026 20:11:02 +0000</pubDate>
-<description>Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter ended September 30, 2026. &quot;We hit major milestones this quarter toward delivering personal superintelligence for everyone - including launching Muse and Muse Wonder, our first frontier model,&quot; said Mark Zuckerberg, Meta founder and CEO. &quot;Our investments are paying off, the core business is strong, and we&#x27;re seeing velocity across the board.&quot; Third Quarter 2026 Financial Highlights Three Months Ended September 30, % Change In millions, except percentages and per share amounts 2026 2025 Revenue $ 64,601 $ 51,242 26 % Costs and expenses 51,613 30,707 68 % Income from operations $ 12,988 $ 20,535 (37) % Operating margin 20 % 40 % Provision for income taxes $ 3,141 $ 18,954 (83) % Effective tax rate 24 % 87 % Net income</description>
-<content:encoded><![CDATA[<p><img src="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" alt="" /></p><p>Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter ended September 30, 2026. &quot;We hit major milestones this quarter toward delivering personal superintelligence for everyone - including launching Muse and Muse Wonder, our first frontier model,&quot; said Mark Zuckerberg, Meta founder and CEO. &quot;Our investments are paying off, the core business is strong, and we&#x27;re seeing velocity across the board.&quot; Third Quarter 2026 Financial Highlights Three Months Ended September 30, % Change In millions, except percentages and per share amounts 2026 2025 Revenue $ 64,601 $ 51,242 26 % Costs and expenses 51,613 30,707 68 % Income from operations $ 12,988 $ 20,535 (37) % Operating margin 20 % 40 % Provision for income taxes $ 3,141 $ 18,954 (83) % Effective tax rate 24 % 87 % Net income</p>]]></content:encoded>
-<media:content url="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" medium="image" />
-<media:thumbnail url="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" />
-</item>
-<item>
-<title>OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)</title>
-<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfvzpposm2s</guid>
-<pubDate>Wed, 21 Oct 2026 19:46:03 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfu35yecd22</guid>
-<pubDate>Wed, 21 Oct 2026 19:11:04 +0000</pubDate>
-<description>Microsoft is opening up Xbox Cloud Gaming to anyone in November.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Microsoft is opening up Xbox Cloud Gaming to anyone in November.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Flapping Airplanes, which is working on methods to train AI models on less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjEzMywiZXhwIjoxNzkzMjA2OTMzLCJhcnRpY2xlSWQiOiJUTjlPSzFLSVVQU1UwMCIsImJjb25uZWN0SWQiOiIyMjNDRDM2NDg0QzY0OTc3QjY5ODE0Rjc1MTYxNDRGNyJ9.2ECQs48uRgaUOE9dkbaIGZ556qBFOPomk4VxMDMXvHE</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfpdbmbf62w</guid>
-<pubDate>Wed, 21 Oct 2026 17:46:08 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal (Jonathan Vanian/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfopedf2t24</guid>
-<pubDate>Wed, 21 Oct 2026 17:35:00 +0000</pubDate>
-<description>Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" alt="" /></p><p>Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout (Jason Schreier/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfnnoi7dj2r</guid>
-<pubDate>Wed, 21 Oct 2026 17:16:09 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
