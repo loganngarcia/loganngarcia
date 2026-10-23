@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 23 Oct 2026 05:10:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 10:10:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Greece&#x27;s parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users&#x27; ages (Angeliki Koutantou/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myjvp4ybza2u</guid>
+<pubDate>Fri, 23 Oct 2026 09:50:47 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)</title>
+<link>https://www.anthropic.com/research/formal-verification</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myjtqyvyve26</guid>
+<pubDate>Fri, 23 Oct 2026 09:16:03 +0000</pubDate>
+<description>Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" alt="" /></p><p>Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" />
+</item>
+<item>
+<title>SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myjiw3fxck2g</guid>
+<pubDate>Fri, 23 Oct 2026 06:02:02 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)</title>
 <link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</link>
@@ -862,36 +888,6 @@
 <pubDate>Wed, 21 Oct 2026 14:08:27 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>PHP releases security fixes for two critical unauthenticated RCE vulnerabilities, urging all PHP users to update; all web-serving deployments are affected (PHP)</title>
-<link>https://www.php.net/archive/2026.php#2026-10-21-5</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfcydz2w52i</guid>
-<pubDate>Wed, 21 Oct 2026 14:05:17 +0000</pubDate>
-<description>PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.</description>
-<content:encoded><![CDATA[<p><img src="https://www.php.net/images/meta-image.png" alt="" /></p><p>PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.</p>]]></content:encoded>
-<media:content url="https://www.php.net/images/meta-image.png" medium="image" />
-<media:thumbnail url="https://www.php.net/images/meta-image.png" />
-</item>
-<item>
-<title>ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)</title>
-<link>https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfcapcwdq2z</guid>
-<pubDate>Wed, 21 Oct 2026 13:52:03 +0000</pubDate>
-<description>The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" alt="" /></p><p>The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.</p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" medium="image" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" />
-</item>
-<item>
-<title>Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March (Rosie Harris-Davison/City A.M.)</title>
-<link>https://www.cityam.com/legora-raises-550-in-funding-to-lead-global-expansion/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfbwoah562z</guid>
-<pubDate>Wed, 21 Oct 2026 13:46:26 +0000</pubDate>
-<description>Legal tech firm Legora has raised $550m in E series funding as the startup looks to build out its footprint in the US, Europe, and the Asia-Pacific region.</description>
-<content:encoded><![CDATA[<p><img src="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" alt="" /></p><p>Legal tech firm Legora has raised $550m in E series funding as the startup looks to build out its footprint in the US, Europe, and the Asia-Pacific region.</p>]]></content:encoded>
-<media:content url="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" medium="image" />
-<media:thumbnail url="https://www.cityam.com/wp-content/uploads/2025/12/legal-tech-AI-firm-copy-1.jpg" />
 </item>
 </channel>
 </rss>
