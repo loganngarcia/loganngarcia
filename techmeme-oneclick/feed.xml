@@ -5,8 +5,26 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 19:14:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 21:39:25 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)</title>
+<link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mynnbv6oxn2t</guid>
+<pubDate>Sat, 24 Oct 2026 21:30:52 +0000</pubDate>
+<description>Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.</description>
+<content:encoded><![CDATA[<p><img src="https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png" alt="" /></p><p>Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech. Subscribe for daily updates.</p>]]></content:encoded>
+<media:content url="https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png" medium="image" />
+<media:thumbnail url="https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png" />
+</item>
+<item>
+<title>Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)</title>
+<link>https://www.theinformation.com/articles/anthropics-margin-openais-opportunity</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mynhfxbzh72h</guid>
+<pubDate>Sat, 24 Oct 2026 19:45:46 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)</title>
 <link>https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;smid=url-share</link>
@@ -868,26 +886,6 @@
 <pubDate>Thu, 22 Oct 2026 03:01:44 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities&#x27; public disclosure (Lily Hay Newman/Wired)</title>
-<link>https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygnro2ich2t</guid>
-<pubDate>Thu, 22 Oct 2026 02:51:03 +0000</pubDate>
-<description>Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad9723edb7d4e16032f01fc/191:100/w_1280,c_limit/Security_HackersExploitingPHPBugsinAmazon.jpg" alt="" /></p><p>Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ad9723edb7d4e16032f01fc/191:100/w_1280,c_limit/Security_HackersExploitingPHPBugsinAmazon.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ad9723edb7d4e16032f01fc/191:100/w_1280,c_limit/Security_HackersExploitingPHPBugsinAmazon.jpg" />
-</item>
-<item>
-<title>GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)</title>
-<link>https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygkzjtn6t2s</guid>
-<pubDate>Thu, 22 Oct 2026 02:01:46 +0000</pubDate>
-<description>The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" alt="" /></p><p>The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" />
 </item>
 </channel>
 </rss>
