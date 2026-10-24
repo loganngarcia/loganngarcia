@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 16:51:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 19:14:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)</title>
+<link>https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myn7lqkhrh2v</guid>
+<pubDate>Sat, 24 Oct 2026 17:25:50 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
 <item>
 <title>An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#x27;s optical networking chips, and more (Steven Rosenbush/Wall Street Journal)</title>
 <link>https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&amp;reflink=desktopwebshare_permalink</link>
@@ -880,14 +888,6 @@
 <content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" alt="" /></p><p>The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.</p>]]></content:encoded>
 <media:content url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" medium="image" />
 <media:thumbnail url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/191:100/w_1280,c_limit/2027%20Cadillac%20Escalade%20IQ.jpg" />
-</item>
-<item>
-<title>Sources: advisers within Elon Musk&#x27;s empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myghw5kgth2s</guid>
-<pubDate>Thu, 22 Oct 2026 01:06:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
