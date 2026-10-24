@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:05:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:35:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylgupl34w2n</guid>
+<pubDate>Sat, 24 Oct 2026 00:30:48 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)</title>
+<link>https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylcfsb6y62k</guid>
+<pubDate>Fri, 23 Oct 2026 23:10:52 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Memo: Helen Chiang, Xbox&#x27;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)</title>
 <link>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</link>
@@ -870,24 +886,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYxNDI3NiwiZXhwIjoxNzkzMjE5MDc2LCJhcnRpY2xlSWQiOiJUTjZESlZUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.q9Qa14j48qtAHKu_qndGn-NfmTTT6GH40NNt8Ryh-C4</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg2iyo7zc2j</guid>
 <pubDate>Wed, 21 Oct 2026 21:06:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)</title>
-<link>https://claude.com/resources/articles/claude-duet</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg2ccjvmh2k</guid>
-<pubDate>Wed, 21 Oct 2026 21:02:26 +0000</pubDate>
-<description>Claude Duet is a new app where Claude works as a proactive agent. The research preview opens by waitlist today for Pro and Max subscribers in the US.</description>
-<content:encoded><![CDATA[<p><img src="https://claude.com/resources/articles/claude-duet/opengraph-image/og" alt="" /></p><p>Claude Duet is a new app where Claude works as a proactive agent. The research preview opens by waitlist today for Pro and Max subscribers in the US.</p>]]></content:encoded>
-<media:content url="https://claude.com/resources/articles/claude-duet/opengraph-image/og" medium="image" />
-<media:thumbnail url="https://claude.com/resources/articles/claude-duet/opengraph-image/og" />
-</item>
-<item>
-<title>Filing: Meta says Mark Zuckerberg is considering leaving California if it passes a one-time 5% tax on billionaires; voters will decide on the measure next month (Pierre Paulden/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myfzo266to2j</guid>
-<pubDate>Wed, 21 Oct 2026 20:51:07 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
