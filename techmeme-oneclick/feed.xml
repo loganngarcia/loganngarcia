@@ -5,8 +5,36 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 00:35:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 04:59:33 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)</title>
+<link>https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylrreuzm32s</guid>
+<pubDate>Sat, 24 Oct 2026 03:45:47 +0000</pubDate>
+<description>Google&#x27;s updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</description>
+<content:encoded><![CDATA[<p><img src="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" alt="" /></p><p>Google&#x27;s updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</p>]]></content:encoded>
+<media:content url="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" medium="image" />
+<media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" />
+</item>
+<item>
+<title>Andy Jassy says AWS capacity for 2027 is &quot;largely sold out&quot; and a &quot;good chunk&quot; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)</title>
+<link>https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myloydws7a2f</guid>
+<pubDate>Sat, 24 Oct 2026 02:56:00 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)</title>
+<link>https://www.bbc.com/news/articles/cqdjv8xllvyyo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myljomxpjh2k</guid>
+<pubDate>Sat, 24 Oct 2026 01:21:05 +0000</pubDate>
+<description>The chancellor will unveil AI spending aimed at shoring up the UK&#x27;s defences in Wednesday&#x27;s Budget.</description>
+<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" alt="" /></p><p>The chancellor will unveil AI spending aimed at shoring up the UK&#x27;s defences in Wednesday&#x27;s Budget.</p>]]></content:encoded>
+<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" medium="image" />
+<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" />
+</item>
 <item>
 <title>OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)</title>
 <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
@@ -862,32 +890,6 @@
 <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" alt="" /></p><p>GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.</p>]]></content:encoded>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" medium="image" />
 <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" />
-</item>
-<item>
-<title>Texas Instruments reports Q3 revenue up 28% YoY to $6.06B, above $5.93B est., net income up 78% YoY to $2.43B, and forecasts $5.8B-$6.3B in Q4, vs. $5.73B est. (Ian King/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/texas-instruments-forecast-tops-estimates-after-demand-picks-up</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg5cahh6o2e</guid>
-<pubDate>Wed, 21 Oct 2026 21:56:06 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)</title>
-<link>https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg3drafzb2k</guid>
-<pubDate>Wed, 21 Oct 2026 21:21:09 +0000</pubDate>
-<description>CEO Mark Zuckerberg announces 10M users for Meta&#x27;s Muse AI app since September. Meta&#x27;s stock was up after its third-quarter earnings report.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ad90f58510d67c758d857b7?width=1200&amp;format=jpeg" alt="" /></p><p>CEO Mark Zuckerberg announces 10M users for Meta&#x27;s Muse AI app since September. Meta&#x27;s stock was up after its third-quarter earnings report.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ad90f58510d67c758d857b7?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ad90f58510d67c758d857b7?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Meta expects its 2026 capex to be $135B-$145B, vs. $130B-$145B previously, and forecasts Q4 revenue of $73B-$76B, vs. $73.6B est.; META jumps 3%+ after hours (Riley Griffin/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYxNDI3NiwiZXhwIjoxNzkzMjE5MDc2LCJhcnRpY2xlSWQiOiJUTjZESlZUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.q9Qa14j48qtAHKu_qndGn-NfmTTT6GH40NNt8Ryh-C4</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg2iyo7zc2j</guid>
-<pubDate>Wed, 21 Oct 2026 21:06:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
