@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 00:37:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:25:04 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5c3efda506069bb4b55.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mym3bcwche2s</guid>
+<pubDate>Sat, 24 Oct 2026 06:35:46 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/" rel="related" type="text/html" />
+<description>Using the latest GPT model, cyber researchers in OpenAI’s Project Daybreak community found one of the most critical internet bugs in recent memory. It’s part of an all-out sprint to secure the web bef...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ada3b0ddb6ef0e22a6e5cc7%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1919%2C1079%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" alt="" /></p><p>Using the latest GPT model, cyber researchers in OpenAI’s Project Daybreak community found one of the most critical internet bugs in recent memory. It’s part of an all-out sprint to secure the web bef...</p><p><a href="https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ada3b0ddb6ef0e22a6e5cc7%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1919%2C1079%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ada3b0ddb6ef0e22a6e5cc7%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1919%2C1079%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ada3b0ddb6ef0e22a6e5cc7%2F0x0.jpg%3Fformat%3Djpg%26crop%3D1919%2C1079%2Cx0%2Cy0%2Csafe%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/16022eb8eb0dcf1bd6b9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylyhwyoxl2f</guid>
+<pubDate>Sat, 24 Oct 2026 05:45:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/" rel="related" type="text/html" />
+<description>The discovery of two ​serious flaws in PHP this week set off a global scramble to ‌keep websites safe from hackers, showing just how critical the three-decade-old open-source programming language is t...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIBJXRWG5Y5KPJMS4Z2CCESU2JI.jpg%3Fauth%3D7bd17e1c07c264badafd55df70e3e85ebc8066abd3856b33488eec63a9b10db7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The discovery of two ​serious flaws in PHP this week set off a global scramble to ‌keep websites safe from hackers, showing just how critical the three-decade-old open-source programming language is t...</p><p><a href="https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIBJXRWG5Y5KPJMS4Z2CCESU2JI.jpg%3Fauth%3D7bd17e1c07c264badafd55df70e3e85ebc8066abd3856b33488eec63a9b10db7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIBJXRWG5Y5KPJMS4Z2CCESU2JI.jpg%3Fauth%3D7bd17e1c07c264badafd55df70e3e85ebc8066abd3856b33488eec63a9b10db7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIBJXRWG5Y5KPJMS4Z2CCESU2JI.jpg%3Fauth%3D7bd17e1c07c264badafd55df70e3e85ebc8066abd3856b33488eec63a9b10db7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7eeed84f974ee5183557.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylrreuzm32s</guid>
+<pubDate>Sat, 24 Oct 2026 03:45:47 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/" rel="related" type="text/html" />
+<description>Google's updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</description>
+<content:encoded><![CDATA[<p><img src="https://www.androidauthority.com/wp-content/uploads/2026/06/Google_Symbol_0.svg" alt="" /></p><p>Google's updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</p><p><a href="https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.androidauthority.com/wp-content/uploads/2026/06/Google_Symbol_0.svg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/06/Google_Symbol_0.svg" />
+<enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/06/Google_Symbol_0.svg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Andy Jassy says AWS capacity for 2027 is "largely sold out" and a "good chunk" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/78a41cb749ea1ed40d6c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myloydws7a2f</guid>
+<pubDate>Sat, 24 Oct 2026 02:56:00 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says" rel="related" type="text/html" />
+<description>Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy said on an Andreessen Horowitz podcast released on Friday. “‘26 is obviously at this point sold out. [2027] is largely sold out. We always leave a certain amount for on demand and our inference service Bedrock or EC2 but largely sold out all the big chunks. A good chunk of ‘28 is sold out,” Jassy</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Amazon Web Services capacity is mostly booked up through at least next year, Amazon CEO Andy Jassy said on an Andreessen Horowitz podcast released on Friday. “‘26 is obviously at this point sold out. [2027] is largely sold out. We always leave a certain amount for on demand and our inference service Bedrock or EC2 but largely sold out all the big chunks. A good chunk of ‘28 is sold out,” Jassy</p><p><a href="https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
+<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c58f43d7ff14ab1791c3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myljomxpjh2k</guid>
+<pubDate>Sat, 24 Oct 2026 01:21:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bbc.com/news/articles/cqdjv8xllvyyo" rel="related" type="text/html" />
+<description>The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.</description>
+<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" alt="" /></p><p>The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.</p><p><a href="https://www.bbc.com/news/articles/cqdjv8xllvyyo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" />
+<enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>OpenAI says it built an "offline world" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/48e2274fdf2ba9fe48db.html</link>
@@ -776,76 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ad91fe64d6862e6eb064d60%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ad91fe64d6862e6eb064d60%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6ad91fe64d6862e6eb064d60%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/678fb4881de9d78baa52.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhvhg36zi2t</guid>
-<pubDate>Thu, 22 Oct 2026 14:41:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion" rel="related" type="text/html" />
-<description>The startup anticipates another fundraise next year.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FDPWpY-VwuiFrp2wyIfbDe7ERRUI%3D%2F1366x768%2Fsmart%2F2021%2F10%2F22%2F163059-1634920259137.jpg" alt="" /></p><p>The startup anticipates another fundraise next year.</p><p><a href="https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FDPWpY-VwuiFrp2wyIfbDe7ERRUI%3D%2F1366x768%2Fsmart%2F2021%2F10%2F22%2F163059-1634920259137.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FDPWpY-VwuiFrp2wyIfbDe7ERRUI%3D%2F1366x768%2Fsmart%2F2021%2F10%2F22%2F163059-1634920259137.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FDPWpY-VwuiFrp2wyIfbDe7ERRUI%3D%2F1366x768%2Fsmart%2F2021%2F10%2F22%2F163059-1634920259137.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>President Trump says he called Sundar Pichai to ask Google Maps to rename the Atlantic Ocean, though he would "probably pass" following Pichai's pushback (Victoria Craw/Washington Post)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/af0d12fe7a7964cfeeaa.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhtbxq4gc2g</guid>
-<pubDate>Thu, 22 Oct 2026 14:02:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.washingtonpost.com/politics/2026/10/22/trump-says-he-called-google-ceo-sundar-pichai-discuss-renaming-atlantic-ocean/" rel="related" type="text/html" />
-<description>The president said he discussed renaming the Atlantic Ocean with Google CEO Sundar Pichai, who replied: "Please don't ask us to do that."</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FSCWXP7QVMT6OTQCDUFPDPI7KJY.JPG%26w%3D1440" alt="" /></p><p>The president said he discussed renaming the Atlantic Ocean with Google CEO Sundar Pichai, who replied: "Please don't ask us to do that."</p><p><a href="https://www.washingtonpost.com/politics/2026/10/22/trump-says-he-called-google-ceo-sundar-pichai-discuss-renaming-atlantic-ocean/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FSCWXP7QVMT6OTQCDUFPDPI7KJY.JPG%26w%3D1440" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FSCWXP7QVMT6OTQCDUFPDPI7KJY.JPG%26w%3D1440" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FSCWXP7QVMT6OTQCDUFPDPI7KJY.JPG%26w%3D1440" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/029ab17415b982cf2da8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhsfsehce2u</guid>
-<pubDate>Thu, 22 Oct 2026 13:46:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/" rel="related" type="text/html" />
-<description>Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.</description>
-<content:encoded><![CDATA[<p><img src="https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg" alt="" /></p><p>Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.</p><p><a href="https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg" />
-<enclosure url="https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple is rolling out a new "Made for iPhone Duo" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a9d8e2c00d1a33727872.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhrt7hwlg2j</guid>
-<pubDate>Thu, 22 Oct 2026 13:36:10 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store" rel="related" type="text/html" />
-<description>A new Duo badge will appear across the App Store.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>A new Duo badge will appear across the App Store.</p><p><a href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: the Pentagon quietly establishes the Technology Support Office (TSO), an agency to execute covert sabotage, cyberattacks, and supply chain disruptions (Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9bdfcdaf85ea72650395.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhqpbx63k2k</guid>
-<pubDate>Thu, 22 Oct 2026 13:16:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327" rel="related" type="text/html" />
-<description>The creation of the Technology Support Office signals the Defense Department's intent to ramp up a range of aggressive covert activities abroad.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F34%252Faf%252Fcd5877b44ae19b71288637a1f3cb%252Fmain-pentagonspyagency.jpg" alt="" /></p><p>The creation of the Technology Support Office signals the Defense Department's intent to ramp up a range of aggressive covert activities abroad.</p><p><a href="https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F34%252Faf%252Fcd5877b44ae19b71288637a1f3cb%252Fmain-pentagonspyagency.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F34%252Faf%252Fcd5877b44ae19b71288637a1f3cb%252Fmain-pentagonspyagency.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F34%252Faf%252Fcd5877b44ae19b71288637a1f3cb%252Fmain-pentagonspyagency.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
