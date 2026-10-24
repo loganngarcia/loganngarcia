@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 04:59:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:23:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at OpenAI&#x27;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)</title>
+<link>https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mym3bcwche2s</guid>
+<pubDate>Sat, 24 Oct 2026 06:35:46 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)</title>
+<link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylyhwyoxl2f</guid>
+<pubDate>Sat, 24 Oct 2026 05:45:47 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)</title>
 <link>https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/</link>
@@ -872,24 +888,6 @@
 <pubDate>Wed, 21 Oct 2026 22:36:07 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>IBM reports Q3 revenue up 5% YoY to $17.1B, above $16.82B est., net income up 26% to $2.19B, software revenue up 8% to $7.8B, and infrastructure revenue up 4% (Elias Schisgall/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg6ozl2342k</guid>
-<pubDate>Wed, 21 Oct 2026 22:21:08 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>GitLab patches a critical flaw that lets unauthenticated attackers run code on self-managed servers, affecting every release since 7.0 in 2014 (Swati Khandelwal/The Hacker News)</title>
-<link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myg65mb7ig2u</guid>
-<pubDate>Wed, 21 Oct 2026 22:11:24 +0000</pubDate>
-<description>GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.</description>
-<content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" alt="" /></p><p>GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.</p>]]></content:encoded>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" medium="image" />
-<media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg" />
 </item>
 </channel>
 </rss>
