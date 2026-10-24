@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:27:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:51:04 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#x27;s optical networking chips, and more (Steven Rosenbush/Wall Street Journal)</title>
+<link>https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mymzqbxl3p2f</guid>
+<pubDate>Sat, 24 Oct 2026 15:41:00 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Block unveils Dessa, a &quot;true speech-to-speech&quot; AI model trained on &quot;nothing but human conversation&quot; that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mymvtcqjwv27</guid>
+<pubDate>Sat, 24 Oct 2026 14:31:07 +0000</pubDate>
+<description>Hello, Dessa?</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Hello, Dessa?</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)</title>
+<link>https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mymsqvzvg42f</guid>
+<pubDate>Sat, 24 Oct 2026 13:36:05 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Inside Meta&#x27;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)</title>
 <link>https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings</link>
@@ -860,34 +886,6 @@
 <link>https://www.bloomberg.com/news/features/2026-10-22/tesla-spacex-merger-why-musk-wants-a-deal-before-trump-leaves-office</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myghw5kgth2s</guid>
 <pubDate>Thu, 22 Oct 2026 01:06:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)</title>
-<link>https://blog.railway.com/p/security-disclosure-wednesday-october-21st</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygekplcgg2u</guid>
-<pubDate>Thu, 22 Oct 2026 00:06:06 +0000</pubDate>
-<description>Railway detected anomalous activity involving systems that store customer environment variables and recommends your immediate attention</description>
-<content:encoded><![CDATA[<p><img src="https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&amp;q=90" alt="" /></p><p>Railway detected anomalous activity involving systems that store customer environment variables and recommends your immediate attention</p>]]></content:encoded>
-<media:content url="https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&amp;q=90" medium="image" />
-<media:thumbnail url="https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&amp;q=90" />
-</item>
-<item>
-<title>AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/10/20/auxoai-raises-over-20m-to-bring-ai-expertise-to-the-enterprise-and-redesign-how-work-gets-done/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygdpumged2j</guid>
-<pubDate>Wed, 21 Oct 2026 23:51:05 +0000</pubDate>
-<description>AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2025/01/dataanalysts.jpeg" alt="" /></p><p>AuxoAI raises over $20M to bring AI expertise to the enterprise and redesign how work gets done - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2025/01/dataanalysts.jpeg" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2025/01/dataanalysts.jpeg" />
-</item>
-<item>
-<title>Filing: Mark Zuckerberg commits to staying in Meta&#x27;s HQ jurisdiction in return for nonvoting shares; he weighed leaving California over a proposed wealth tax (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygbr6qgpe2v</guid>
-<pubDate>Wed, 21 Oct 2026 23:16:02 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
