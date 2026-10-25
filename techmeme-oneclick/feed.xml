@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 25 Oct 2026 19:16:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 21:53:11 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &quot;death and consolidation&quot; (Elon Musk/@elonmusk)</title>
+<link>https://x.com/elonmusk/status/2114434646914068862</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myq62bvot226</guid>
+<pubDate>Sun, 25 Oct 2026 21:36:10 +0000</pubDate>
+<description>Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. SpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink &amp; launch revenue. That means…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt="" /></p><p>Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. SpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink &amp; launch revenue. That means…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" />
+</item>
 <item>
 <title>Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &quot;delay-in-delivery&quot; coverage from brokers like Marsh (Ann Davis Vaughan/The Information)</title>
 <link>https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance</link>
@@ -872,16 +882,6 @@
 <pubDate>Thu, 22 Oct 2026 09:46:35 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad&#x27;s (John Gruber/Daring Fireball)</title>
-<link>https://daringfireball.net/2026/10/the_iphone_duo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myh76al43d2z</guid>
-<pubDate>Thu, 22 Oct 2026 08:02:19 +0000</pubDate>
-<description>It’s been a lot of fun trying the Duo out for a week, but it feels like I’ve gotten to use an extraordinarily polished prototype — not a finished product that I’d want to buy and carry.</description>
-<content:encoded><![CDATA[<p><img src="https://daringfireball.net/graphics/df-wide-card.png" alt="" /></p><p>It’s been a lot of fun trying the Duo out for a week, but it feels like I’ve gotten to use an extraordinarily polished prototype — not a finished product that I’d want to buy and carry.</p>]]></content:encoded>
-<media:content url="https://daringfireball.net/graphics/df-wide-card.png" medium="image" />
-<media:thumbnail url="https://daringfireball.net/graphics/df-wide-card.png" />
 </item>
 </channel>
 </rss>
