@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 25 Oct 2026 06:57:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 12:22:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)</title>
+<link>https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myp2le35ms2i</guid>
+<pubDate>Sun, 25 Oct 2026 11:01:28 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
 <item>
 <title>How a Blackstone-led $2.3B private credit loan to CoreWeave in 2023 became a blueprint for chip-backed debt, which is on track to become a $1T market (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit</link>
@@ -876,14 +884,6 @@
 <pubDate>Thu, 22 Oct 2026 06:46:00 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok&#x27;s European business over lunch with Charles Kushner, the US ambassador to France (Financial Times)</title>
-<link>https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myh2mybzdc2n</guid>
-<pubDate>Thu, 22 Oct 2026 06:41:04 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
