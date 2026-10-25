@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 24 Oct 2026 23:43:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 01:43:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A look at Meta&#x27;s role in Brazil&#x27;s runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-24/meta-unseats-musk-as-tech-villain-for-lula-in-brazil-s-election</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myo2owgk7s2n</guid>
+<pubDate>Sun, 25 Oct 2026 01:30:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)</title>
 <link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
@@ -878,14 +886,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800" alt="" /></p><p>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers&#x27; behalf, with controls over spending and transaction approvals.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800" />
-</item>
-<item>
-<title>Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China&#x27;s largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mygoerilmo2k</guid>
-<pubDate>Thu, 22 Oct 2026 03:01:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
