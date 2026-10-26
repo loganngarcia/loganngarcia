@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 25 Oct 2026 23:46:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 01:49:12 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)</title>
+<link>https://www.ifixit.com/News/119895/iphone-duo-teardown</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myqieyaxba2t</guid>
+<pubDate>Mon, 26 Oct 2026 00:41:06 +0000</pubDate>
+<description>We took the Duo all the way down to the gears, followed glowing dust into its hinge, and put its crease-hiding nano-texture under the microscope.</description>
+<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/10/24232224/iPhone-Duo_94.jpg" alt="" /></p><p>We took the Duo all the way down to the gears, followed glowing dust into its hinge, and put its crease-hiding nano-texture under the microscope.</p>]]></content:encoded>
+<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/10/24232224/iPhone-Duo_94.jpg" medium="image" />
+<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/10/24232224/iPhone-Duo_94.jpg" />
+</item>
 <item>
 <title>Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O&#x27;Brien/The Verge)</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
@@ -874,16 +884,6 @@
 <pubDate>Thu, 22 Oct 2026 10:11:15 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at Huawei and DeepSeek&#x27;s mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)</title>
-<link>https://newsletter.semianalysis.com/p/huawei-deepseek</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myhfjv5npi2k</guid>
-<pubDate>Thu, 22 Oct 2026 09:56:12 +0000</pubDate>
-<description>Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!7Mqu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43d3c739-99d0-4f53-b33b-d7025bdc04b9_1672x941.png" alt="" /></p><p>Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!7Mqu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43d3c739-99d0-4f53-b33b-d7025bdc04b9_1672x941.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!7Mqu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43d3c739-99d0-4f53-b33b-d7025bdc04b9_1672x941.png" />
 </item>
 </channel>
 </rss>
