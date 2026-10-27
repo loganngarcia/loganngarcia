@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 02:28:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 08:16:04 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0db8a4674c9892fb27f8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mytryivtkh24</guid>
+<pubDate>Tue, 27 Oct 2026 08:11:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The investment comes as Nvidia and Meta Platforms expand their partnership on the Facebook parent’s artificial-intelligence offering Muse.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11983570%2Fsocial" alt="" /></p><p>The investment comes as Nvidia and Meta Platforms expand their partnership on the Facebook parent’s artificial-intelligence offering Muse.</p><p><a href="https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?st=4eEQYV&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11983570%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11983570%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-11983570%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Microsoft patches a severe flaw in its Android Authenticator app that could let untrusted apps impersonate Microsoft apps and obtain delegated account tokens (Abinaya/Cyber Security News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/db6b4c477e562355eeea.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mytj2yh7rz27</guid>
+<pubDate>Tue, 27 Oct 2026 05:31:24 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://cybersecuritynews.com/microsoft-authenticator-flaw/" rel="related" type="text/html" />
+<description>Microsoft fixed a high-severity Android Authenticator flaw that could let malicious apps steal work account access tokens.</description>
+<content:encoded><![CDATA[<p><img src="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" alt="" /></p><p>Microsoft fixed a high-severity Android Authenticator flaw that could let malicious apps steal work account access tokens.</p><p><a href="https://cybersecuritynews.com/microsoft-authenticator-flaw/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" medium="image" type="image/webp" />
+<media:thumbnail url="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" />
+<enclosure url="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods (Lisa Cavazuti/NBC News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ba3c1f57b69679d015e9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mythomdmsj2i</guid>
+<pubDate>Tue, 27 Oct 2026 05:06:35 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733" rel="related" type="text/html" />
+<description>Trucking, supply chain and security industry veterans detailed to NBC News how thieves staged dramatic robberies as part of the growing theft of tech equipment.</description>
+<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-grand-theft-ai-V2-cs-4e5ae8.jpg" alt="" /></p><p>Trucking, supply chain and security industry veterans detailed to NBC News how thieves staged dramatic robberies as part of the growing theft of tech equipment.</p><p><a href="https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-grand-theft-ai-V2-cs-4e5ae8.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-grand-theft-ai-V2-cs-4e5ae8.jpg" />
+<enclosure url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261023-grand-theft-ai-V2-cs-4e5ae8.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dbbfe80bb2853a95b6b7.html</link>
@@ -492,10 +534,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/" rel="related" type="text/html" />
 <description>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" />
-<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261838" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p><p><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261838" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261838" />
+<enclosure url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261838" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)</title>
@@ -890,20 +932,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-herzogenaurach-hero-eQ8OP4ZKGVH1dUldqPwwKQifowDYiy.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f1a2c15ba51f6aaac982.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mypooryd4j2f</guid>
-<pubDate>Sun, 25 Oct 2026 17:01:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec?accessToken=zwAAAaFxOz_Wkc9aIaf-OSlOEdO1cYzkv9d47A.MEYCIQDRs1kzjWFXImamrm3ktUUwHRNGP9pjk8vLbabih2luXQIhAJQ5-ZFBptzq0jHKh6HmB61eNgYePpLRa5dmLIckcTF2&amp;sharetype=gift&amp;token=d03f3ab2-b10b-4279-adea-2a9c009b105b" rel="related" type="text/html" />
-<description>Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fae099f49-0dcd-4c7b-8c22-88aa11ac7f2e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom</p><p><a href="https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec?accessToken=zwAAAaFxOz_Wkc9aIaf-OSlOEdO1cYzkv9d47A.MEYCIQDRs1kzjWFXImamrm3ktUUwHRNGP9pjk8vLbabih2luXQIhAJQ5-ZFBptzq0jHKh6HmB61eNgYePpLRa5dmLIckcTF2&amp;sharetype=gift&amp;token=d03f3ab2-b10b-4279-adea-2a9c009b105b">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fae099f49-0dcd-4c7b-8c22-88aa11ac7f2e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fae099f49-0dcd-4c7b-8c22-88aa11ac7f2e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fae099f49-0dcd-4c7b-8c22-88aa11ac7f2e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>ETH Zürich Teaches a Humanoid to Climb, Vault and Recover by Planning Body Contacts</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ae8345a8b648ae4d2cb.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning</guid>
@@ -918,20 +946,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eth-acp-climbing-3Km2rxNdLXw5KQjJxrmW19mnHnX4oL.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/096eea80cde3dff5aed3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myphxtaxq22f</guid>
-<pubDate>Sun, 25 Oct 2026 15:01:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjkzNzUyMiwiZXhwIjoxNzkzNTQyMzIyLCJhcnRpY2xlSWQiOiJUTkdVVzFLR0lGUVAwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.oFJ_0EAST-knSAxKOS4texLXpPwXxHNMAnkwhZBjOEU" rel="related" type="text/html" />
-<description>Also: The company rolls out a retail store tool to reduce wasted inventory.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipgZEQYo1qNg%2Fv7%2F1200x800.jpg" alt="" /></p><p>Also: The company rolls out a retail store tool to reduce wasted inventory.</p><p><a href="https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjkzNzUyMiwiZXhwIjoxNzkzNTQyMzIyLCJhcnRpY2xlSWQiOiJUTkdVVzFLR0lGUVAwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.oFJ_0EAST-knSAxKOS4texLXpPwXxHNMAnkwhZBjOEU">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipgZEQYo1qNg%2Fv7%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipgZEQYo1qNg%2Fv7%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipgZEQYo1qNg%2Fv7%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>AGIBOT Coordinates 110 Production Humanoids in Guinness-Certified Dance Performance</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2cd4c03dc5fb9aaf71c9.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record</guid>
@@ -944,20 +958,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b7579173ae4e68014c97.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myp2le35ms2i</guid>
-<pubDate>Sun, 25 Oct 2026 11:01:28 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability" rel="related" type="text/html" />
-<description>Washington is losing patience with AI leaders.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP3avmGVjuYRdZnU0joylLhOq9rQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F24%2F1792848388200.jpg" alt="" /></p><p>Washington is losing patience with AI leaders.</p><p><a href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP3avmGVjuYRdZnU0joylLhOq9rQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F24%2F1792848388200.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP3avmGVjuYRdZnU0joylLhOq9rQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F24%2F1792848388200.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FP3avmGVjuYRdZnU0joylLhOq9rQ%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F24%2F1792848388200.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Enact Raises $30M Pre-Seed to Give Factory Robots a Sense of Force</title>
@@ -2010,20 +2010,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -2050,6 +2036,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
