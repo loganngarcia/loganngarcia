@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 08:16:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:37:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Softmax Has Been Broken This Whole Time?</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/06292a5fe49f6be8524b.html</link>
+<guid isPermaLink="false">combined:a1fa4cfa0a457aa59d7837fa1fca93285b9af4f3</guid>
+<pubDate>Tue, 27 Oct 2026 19:00:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/softmax-has-been-broken-this-whole-time" rel="related" type="text/html" />
+<description>plus more about BeNice, Large Flow LM, and Why is AI-generated language so hard to understand?</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8b6d5bd8-30d1-4a28-aad4-58ad34266ff3/issue_131.jpg?t=1793121549" alt="" /></p><p>plus more about BeNice, Large Flow LM, and Why is AI-generated language so hard to understand?</p><p><a href="https://mail.bycloud.ai/p/softmax-has-been-broken-this-whole-time">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8b6d5bd8-30d1-4a28-aad4-58ad34266ff3/issue_131.jpg?t=1793121549" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8b6d5bd8-30d1-4a28-aad4-58ad34266ff3/issue_131.jpg?t=1793121549" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8b6d5bd8-30d1-4a28-aad4-58ad34266ff3/issue_131.jpg?t=1793121549" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Hybrid Reasoning: Interleaving Token and Latent Reasoning?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b083f40d9a4d6493bcbc.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>What even is a &gt;&lt; former (yes &gt;&lt; former)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9f27a30092d7bb205da8.html</link>
-<guid isPermaLink="false">combined:7b9aa1499d376b5d0a8d8ea4700d6796d52a48da</guid>
-<pubDate>Tue, 23 Jun 2026 19:30:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/what-even-is-a-former-yes-former" rel="related" type="text/html" />
-<description>plus more about Looped World Models, Fixed-Point Reasoners, and ExpRL</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bfd4e929-4370-4337-aa66-2810fdb03a0d/issue_113.jpg?t=1782236169" alt="" /></p><p>plus more about Looped World Models, Fixed-Point Reasoners, and ExpRL</p><p><a href="https://mail.bycloud.ai/p/what-even-is-a-former-yes-former">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bfd4e929-4370-4337-aa66-2810fdb03a0d/issue_113.jpg?t=1782236169" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bfd4e929-4370-4337-aa66-2810fdb03a0d/issue_113.jpg?t=1782236169" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bfd4e929-4370-4337-aa66-2810fdb03a0d/issue_113.jpg?t=1782236169" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>

@@ -5,8 +5,106 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 08:16:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:37:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>DeepMind Pairs Genie 4 With Gemini Argon to Simulate Apollo Playing Checkers</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a5d36004ef517e4c0b0b.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation</guid>
+<pubDate>Tue, 27 Oct 2026 17:09:29 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation" rel="related" type="text/html" />
+<description>The interactive world model takes task instructions from Argon as it generates a simulated Apollo scene, offering an early glimpse of reasoning-guided robotics environments.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" alt="" /></p><p>The interactive world model takes task instructions from Argon as it generates a simulated Apollo scene, offering an early glimpse of reasoning-guided robotics environments.</p><p><a href="https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>This Week’s Newsletter: Voxel, Unitree H2-X and Europe’s Humanoid Push</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b511b7401a2fb2645e08.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-27-voxel-unitree-europe</guid>
+<pubDate>Tue, 27 Oct 2026 17:00:36 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-27-voxel-unitree-europe" rel="related" type="text/html" />
+<description>Catch up on Voxel’s home-robot pitch, Unitree’s H2-X showcase, Europe’s new humanoids and training facilities, and our latest features in the free weekly briefing.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-october-27-collage-LG7J5faTLC5JJwGnoSoOVCpq7gEShp.webp" alt="" /></p><p>Catch up on Voxel’s home-robot pitch, Unitree’s H2-X showcase, Europe’s new humanoids and training facilities, and our latest features in the free weekly briefing.</p><p><a href="https://www.humanoidsdaily.com/news/humanoids-daily-newsletter-october-27-voxel-unitree-europe">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-october-27-collage-LG7J5faTLC5JJwGnoSoOVCpq7gEShp.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-october-27-collage-LG7J5faTLC5JJwGnoSoOVCpq7gEShp.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-october-27-collage-LG7J5faTLC5JJwGnoSoOVCpq7gEShp.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Luxonis Launches OAK 4 FFC to Put Five Robot Cameras on One Vision Computer</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7bd1628e5dd617f1408.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/luxonis-oak-4-ffc-humanoid-vision-computer</guid>
+<pubDate>Tue, 27 Oct 2026 13:41:56 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/luxonis-oak-4-ffc-humanoid-vision-computer" rel="related" type="text/html" />
+<description>The compact board supports custom camera layouts, onboard depth and AI processing, and scene-based calibration. The $849 developer kit is shipping now, with cameras sold separately.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" alt="" /></p><p>The compact board supports custom camera layouts, onboard depth and AI processing, and scene-based calibration. The $849 developer kit is shipping now, with cameras sold separately.</p><p><a href="https://www.humanoidsdaily.com/news/luxonis-oak-4-ffc-humanoid-vision-computer">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Machenta Raises $40 Million to Teach Robots New Tasks From One Demonstration</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8ee01a85a88156c4e94.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning</guid>
+<pubDate>Tue, 27 Oct 2026 12:27:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning" rel="related" type="text/html" />
+<description>The London startup says its simulation-trained model can adapt to new tasks without fine-tuning, with early demonstrations extending to humanoid hands.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" alt="" /></p><p>The London startup says its simulation-trained model can adapt to new tasks without fine-tuning, with early demonstrations extending to humanoid hands.</p><p><a href="https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5182268ccef8b8d99696.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/worldoracle-tests-world-models-against-real-world-executions</guid>
+<pubDate>Tue, 27 Oct 2026 10:37:39 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/features/worldoracle-tests-world-models-against-real-world-executions" rel="related" type="text/html" />
+<description>WorldOracle tests whether action-conditioned world models predict what robots actually do, revealing gaps in object motion and long-horizon accuracy.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" alt="" /></p><p>WorldOracle tests whether action-conditioned world models predict what robots actually do, revealing gaps in object motion and long-horizon accuracy.</p><p><a href="https://www.humanoidsdaily.com/features/worldoracle-tests-world-models-against-real-world-executions">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" medium="image" type="image/png" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Tesla’s Lars Moravy Floats Optimus as a Cybercab Charging Helper</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/57bef8d5094e856b0947.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-lars-moravy-optimus-cybercab-charging-helper</guid>
+<pubDate>Tue, 27 Oct 2026 10:25:08 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-lars-moravy-optimus-cybercab-charging-helper" rel="related" type="text/html" />
+<description>In a Munro Live discussion, Moravy suggests Optimus could help Cybercab use existing charging infrastructure, without announcing a firm deployment timetable.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cybercab-optimus-collage-1kWtAHU2FLzizmUaO6P9MWFUX8xCDW.webp" alt="" /></p><p>In a Munro Live discussion, Moravy suggests Optimus could help Cybercab use existing charging infrastructure, without announcing a firm deployment timetable.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-lars-moravy-optimus-cybercab-charging-helper">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cybercab-optimus-collage-1kWtAHU2FLzizmUaO6P9MWFUX8xCDW.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cybercab-optimus-collage-1kWtAHU2FLzizmUaO6P9MWFUX8xCDW.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/cybercab-optimus-collage-1kWtAHU2FLzizmUaO6P9MWFUX8xCDW.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Boston Dynamics Taps Korean Suppliers for Atlas, With 10,000-Robot Preparations Reported</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/af0cb11f19edf8d2e355.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/boston-dynamics-atlas-korean-suppliers-10000-preparations</guid>
+<pubDate>Tue, 27 Oct 2026 08:00:33 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-korean-suppliers-10000-preparations" rel="related" type="text/html" />
+<description>KED Global reports a Hyundai Mobis-led component lineup and preparations for 10,000 Atlas robots. Final order quantities and prices remain undecided.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-korean-suppliers-hero-y2eCqwk4Qg6CRJ9b8dKjaXT9XHt2Os.webp" alt="" /></p><p>KED Global reports a Hyundai Mobis-led component lineup and preparations for 10,000 Atlas robots. Final order quantities and prices remain undecided.</p><p><a href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-korean-suppliers-10000-preparations">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-korean-suppliers-hero-y2eCqwk4Qg6CRJ9b8dKjaXT9XHt2Os.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-korean-suppliers-hero-y2eCqwk4Qg6CRJ9b8dKjaXT9XHt2Os.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/atlas-korean-suppliers-hero-y2eCqwk4Qg6CRJ9b8dKjaXT9XHt2Os.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Boston Dynamics Employee Petition Against ICE Robot Deal Tests Its Ethical Guardrails</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9c02bcc2632ee54b2b3f.html</link>
@@ -398,104 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-agco-digit-hero-UgYyfXfufYaLYPeOIfyWHjHbbJy2oM.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Faraday Future Moves to Give Its Robotics Business a Separate Listed Home in $200 Million Deal</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c67f57584377e1d53289.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/faraday-future-200-million-robotics-deal-delivery-questions</guid>
-<pubDate>Tue, 20 Oct 2026 12:22:12 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/faraday-future-200-million-robotics-deal-delivery-questions" rel="related" type="text/html" />
-<description>FF EAI Robotics Ecosystem has agreed to acquire Faraday Future’s robotics business in an all-stock deal. The team explains what changes, its partner-hardware strategy and the plans that remain in place.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-robotics-deal-hero-AcrGjmzSfsDy94HOPlVLe864Ajr3yE.webp" alt="" /></p><p>FF EAI Robotics Ecosystem has agreed to acquire Faraday Future’s robotics business in an all-stock deal. The team explains what changes, its partner-hardware strategy and the plans that remain in place.</p><p><a href="https://www.humanoidsdaily.com/news/faraday-future-200-million-robotics-deal-delivery-questions">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-robotics-deal-hero-AcrGjmzSfsDy94HOPlVLe864Ajr3yE.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-robotics-deal-hero-AcrGjmzSfsDy94HOPlVLe864Ajr3yE.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/faraday-robotics-deal-hero-AcrGjmzSfsDy94HOPlVLe864Ajr3yE.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Unitree Shares Jump 16% as China Pushes Robots Into Everyday Commerce</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6058c817075e6c781842.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-shares-surge-october-19-robotics-policy</guid>
-<pubDate>Mon, 19 Oct 2026 20:54:47 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/unitree-shares-surge-october-19-robotics-policy" rel="related" type="text/html" />
-<description>Unitree closed up 16.15% at ¥495.92 as robotics stocks rallied, China published new embodied-AI guidance and the company prepared for its October 22 conference.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp" alt="" /></p><p>Unitree closed up 16.15% at ¥495.92 as robotics stocks rallied, China published new embodied-AI guidance and the company prepared for its October 22 conference.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-shares-surge-october-19-robotics-policy">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-stock-editorial-preview-Yoh5Gv0s95YoIHUSK0VGtEXy2wGpmU.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>“I Cannot Love Digit 5”: Agility Co-Founder Explains His Robot’s Compromises</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d17d069809b7d390d174.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-digit-5-redesign-hurst-safety-weight</guid>
-<pubDate>Mon, 19 Oct 2026 17:31:50 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agility-digit-5-redesign-hurst-safety-weight" rel="related" type="text/html" />
-<description>Jonathan Hurst says Digit 5 is the robot Agility needs today, but not the one he dreamed of building. His essay explains the commercial demands behind that tension.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-hurst-hero-lljCrbehhN4Lb4A57O7QE4WQTFnv5j.webp" alt="" /></p><p>Jonathan Hurst says Digit 5 is the robot Agility needs today, but not the one he dreamed of building. His essay explains the commercial demands behind that tension.</p><p><a href="https://www.humanoidsdaily.com/news/agility-digit-5-redesign-hurst-safety-weight">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-hurst-hero-lljCrbehhN4Lb4A57O7QE4WQTFnv5j.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-hurst-hero-lljCrbehhN4Lb4A57O7QE4WQTFnv5j.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/digit-5-hurst-hero-lljCrbehhN4Lb4A57O7QE4WQTFnv5j.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Figure’s Humanoid Has Walked 348 Miles on a Treadmill—and It’s Still Going</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/830db06bebd3ee75b71d.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps</guid>
-<pubDate>Mon, 19 Oct 2026 17:06:50 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps" rel="related" type="text/html" />
-<description>Brett Adcock says Figure 03 has covered 348 miles in a treadmill stress test that began as a side project to expose failures—and is still running.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp" alt="" /></p><p>Brett Adcock says Figure 03 has covered 348 miles in a treadmill stress test that began as a side project to expose failures—and is still running.</p><p><a href="https://www.humanoidsdaily.com/news/figure-03-nine-day-treadmill-million-steps">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-treadmill-oORqgHJ6uIl2PwIChh1vGxxc67UnkO.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tesla Makes Its Case for Board Continuity Ahead of December 3 Shareholder Vote</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d292f3f0b114f2d886af.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-december-3-shareholder-meeting-board-letter</guid>
-<pubDate>Mon, 19 Oct 2026 15:35:53 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tesla-december-3-shareholder-meeting-board-letter" rel="related" type="text/html" />
-<description>Tesla’s new shareholder letter urges the re-election of Musk, Denholm and Straubel, citing its AI and manufacturing ambitions ahead of the December 3 meeting.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp" alt="" /></p><p>Tesla’s new shareholder letter urges the re-election of Musk, Denholm and Straubel, citing its AI and manufacturing ambitions ahead of the December 3 meeting.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-december-3-shareholder-meeting-board-letter">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-letter-16x9-H5j4mGUnX15ATECeNlmHWEZB9FQWwg.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>From Moonwalking to Heavy Lifting: KAIST Humanoid v0.9 Moves 35 kg Objects</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d81d77458e73eaee5924.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing</guid>
-<pubDate>Mon, 19 Oct 2026 12:59:32 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing" rel="related" type="text/html" />
-<description>KAIST’s latest humanoid demonstration uses onboard vision to push objects up to 35 kg and lift up to 20 kg, extending its work from locomotion to object handling.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-v09-preview-6IXijSbSPftcHnYWdxF8GR7NiuO1rp.webp" alt="" /></p><p>KAIST’s latest humanoid demonstration uses onboard vision to push objects up to 35 kg and lift up to 20 kg, extending its work from locomotion to object handling.</p><p><a href="https://www.humanoidsdaily.com/news/kaist-humanoid-v0-9-whole-body-lifting-pushing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-v09-preview-6IXijSbSPftcHnYWdxF8GR7NiuO1rp.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-v09-preview-6IXijSbSPftcHnYWdxF8GR7NiuO1rp.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/kaist-v09-preview-6IXijSbSPftcHnYWdxF8GR7NiuO1rp.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Agility Taps Logistics Veteran Mark Vale for Board Role Ahead of Merger Vote</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/29607e453bbe61c7b8cb.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-mark-vale-board-audit-committee-merger</guid>
-<pubDate>Mon, 19 Oct 2026 12:29:47 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agility-mark-vale-board-audit-committee-merger" rel="related" type="text/html" />
-<description>Agility has named Mark Vale as its expected post-merger audit committee chair. Shareholders are scheduled to vote on the transaction on November 2.</description>
-<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" alt="" /></p><p>Agility has named Mark Vale as its expected post-merger audit committee chair. Shareholders are scheduled to vote on the transaction on November 2.</p><p><a href="https://www.humanoidsdaily.com/news/agility-mark-vale-board-audit-committee-merger">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" />
-<enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1772058601999.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
