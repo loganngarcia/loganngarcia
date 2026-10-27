@@ -5,8 +5,26 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 26 Oct 2026 23:40:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 02:25:49 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>China&#x27;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)</title>
+<link>https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myt4zed6z52t</guid>
+<pubDate>Tue, 27 Oct 2026 01:55:44 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Ahead of US midterms, ChatGPT draws images &quot;depicting election interference or that may discourage voting&quot; in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)</title>
+<link>https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myt4hml34l2f</guid>
+<pubDate>Tue, 27 Oct 2026 01:45:49 +0000</pubDate>
+<description>ChatGPT is cracking down on photorealistic, political deepfakes ahead of next week’s US midterm elections.</description>
+<content:encoded><![CDATA[<p><img src="https://www.cnet.com/wp-content/uploads/sites/2/CNET-AI-OpenAI-03.jpg" alt="" /></p><p>ChatGPT is cracking down on photorealistic, political deepfakes ahead of next week’s US midterm elections.</p>]]></content:encoded>
+<media:content url="https://www.cnet.com/wp-content/uploads/sites/2/CNET-AI-OpenAI-03.jpg" medium="image" />
+<media:thumbnail url="https://www.cnet.com/wp-content/uploads/sites/2/CNET-AI-OpenAI-03.jpg" />
+</item>
 <item>
 <title>Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)</title>
 <link>https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html</link>
@@ -267,9 +285,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myrs2qala22n</guid>
 <pubDate>Mon, 26 Oct 2026 13:06:59 +0000</pubDate>
 <description>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261841" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261841" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261841" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839" />
 </item>
 <item>
 <title>Google DeepMind&#x27;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)</title>
@@ -872,24 +890,6 @@
 <content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" alt="" /></p><p>Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years.</p>]]></content:encoded>
 <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" medium="image" />
 <media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" />
-</item>
-<item>
-<title>SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myjiw3fxck2g</guid>
-<pubDate>Fri, 23 Oct 2026 06:02:02 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myjflg5jnh2t</guid>
-<pubDate>Fri, 23 Oct 2026 05:02:23 +0000</pubDate>
-<description>Oura alleges in its newest lawsuit that Ultrahuman&#x27;s Ring Pro infringes two of its patents.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800" alt="" /></p><p>Oura alleges in its newest lawsuit that Ultrahuman&#x27;s Ring Pro infringes two of its patents.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800" />
 </item>
 </channel>
 </rss>
