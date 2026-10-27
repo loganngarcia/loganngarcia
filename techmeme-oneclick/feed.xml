@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 14:36:42 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:36:58 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Memo: Amazon says measuring AI adoption solely by token usage or code generation is &quot;deeply flawed,&quot; as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myux7326la2f</guid>
+<pubDate>Tue, 27 Oct 2026 19:16:53 +0000</pubDate>
+<description>Amazon has rapidly integrated AI across the e-commerce giant&#x27;s sprawling business operations under CEO Andy Jassy.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&amp;w=1920&amp;h=1080" alt="" /></p><p>Amazon has rapidly integrated AI across the e-commerce giant&#x27;s sprawling business operations under CEO Andy Jassy.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108134198-1745256717148-gettyimages-2201505934-ALEXA_AI_UNVEILING.jpeg?v=1761348966&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)</title>
+<link>https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myutjndfic27</guid>
+<pubDate>Tue, 27 Oct 2026 18:11:13 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 (Kurt Schlosser/GeekWire)</title>
+<link>https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myupqnddrj2v</guid>
+<pubDate>Tue, 27 Oct 2026 17:03:32 +0000</pubDate>
+<description>The Seattle startup says bookings grew nearly fivefold over the past year as employers look for ways to rein in rising health care costs.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/rohandsouza.png" alt="" /></p><p>The Seattle startup says bookings grew nearly fivefold over the past year as employers look for ways to rein in rising health care costs.</p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/rohandsouza.png" medium="image" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/rohandsouza.png" />
+</item>
+<item>
+<title>Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI&#x27;s Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myunxezqkf2t</guid>
+<pubDate>Tue, 27 Oct 2026 16:31:31 +0000</pubDate>
+<description>Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&amp;w=1920&amp;h=1080" alt="" /></p><p>Oracle is integrating OpenAI’s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI’s Jalapeño chip to OCI.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108469757-1793120004299-Screenshot-2026-10-27-at-125228_PM.jpg?v=1793128447&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myumtbxmkf2f</guid>
+<pubDate>Tue, 27 Oct 2026 16:11:20 +0000</pubDate>
+<description>Do you want to explore a realistic AI-generated world?</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.0468973306098%2C100%2C93.90620533878&amp;w=1200" alt="" /></p><p>Do you want to explore a realistic AI-generated world?</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.0468973306098%2C100%2C93.90620533878&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0%2C3.0468973306098%2C100%2C93.90620533878&amp;w=1200" />
+</item>
+<item>
+<title>Anthropic&#x27;s S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn&#x27;t be profitable (Stephanie Palazzolo/The Information)</title>
+<link>https://www.theinformation.com/articles/anthropics-85-margin-reality-check-skeptics</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myujzs2zap2f</guid>
+<pubDate>Tue, 27 Oct 2026 15:21:17 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)</title>
 <link>https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10</link>
@@ -59,9 +115,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myucr74kcz2l</guid>
 <pubDate>Tue, 27 Oct 2026 13:11:13 +0000</pubDate>
 <description>Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" alt="" /></p><p>Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271832" alt="" /></p><p>Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271832" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610271832" />
 </item>
 <item>
 <title>Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6 (Apple)</title>
@@ -69,9 +125,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myuclmkuri2s</guid>
 <pubDate>Tue, 27 Oct 2026 13:08:05 +0000</pubDate>
 <description>Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" alt="" /></p><p>Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271300" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831" alt="" /></p><p>Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831" />
 </item>
 <item>
 <title>The FCC warns TP-Link that three routers exceeded power limits and it may have submitted &quot;false or incorrect information&quot;, a move that could allow further bans (Bloomberg)</title>
@@ -180,10 +236,8 @@
 <link>https://cybersecuritynews.com/microsoft-authenticator-flaw/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mytj2yh7rz27</guid>
 <pubDate>Tue, 27 Oct 2026 05:31:24 +0000</pubDate>
-<description>Microsoft fixed a high-severity Android Authenticator flaw that could let malicious apps steal work account access tokens.</description>
-<content:encoded><![CDATA[<p><img src="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" alt="" /></p><p>Microsoft fixed a high-severity Android Authenticator flaw that could let malicious apps steal work account access tokens.</p>]]></content:encoded>
-<media:content url="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" medium="image" />
-<media:thumbnail url="http://cybersecuritynews.com/wp-content/uploads/2026/10/Microsoft-Authenticator-Flaw-Lets-Malicious-Android-Apps-Steal-Account-Tokens-With-Zero-Permissions.webp" />
+<description>From cybersecuritynews.com</description>
+<content:encoded><![CDATA[<p>From cybersecuritynews.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods (Lisa Cavazuti/NBC News)</title>
@@ -352,10 +406,8 @@
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/few-vcs-mentioned-in-anthropic-ipo-filing-except-spark-capital-AzO2iia3OGgCOvgbzPAt</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mys566kmgp2f</guid>
 <pubDate>Mon, 26 Oct 2026 16:25:46 +0000</pubDate>
-<description>Venture capital firms are largely absent from Anthropic’s IPO prospectus, with one exception: Spark Capital, an early investor whose general partner, Yasmin Razavi, is the sole venture capitalist to sit on the company’s board. Spark has invested nearly $800 million in Anthropic across six funding r</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-925349/social" alt="" /></p><p>Venture capital firms are largely absent from Anthropic’s IPO prospectus, with one exception: Spark Capital, an early investor whose general partner, Yasmin Razavi, is the sole venture capitalist to sit on the company’s board. Spark has invested nearly $800 million in Anthropic across six funding r</p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-925349/social" medium="image" />
-<media:thumbnail url="https://images.wsj.net/im-925349/social" />
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (Camila Grigera Naón/Fortune)</title>
@@ -475,9 +527,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myrs2qala22n</guid>
 <pubDate>Mon, 26 Oct 2026 13:06:59 +0000</pubDate>
 <description>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271301" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271301" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271301" />
+<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271831" alt="" /></p><p>Apple unveils the all-new iPad mini, featuring an OLED display in a thinner design, a leap in performance with A20 Pro, and water and dust resistance.</p>]]></content:encoded>
+<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271831" medium="image" />
+<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610271831" />
 </item>
 <item>
 <title>Google DeepMind&#x27;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)</title>
@@ -836,60 +888,6 @@
 <pubDate>Sat, 24 Oct 2026 13:36:05 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Inside Meta&#x27;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)</title>
-<link>https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mymiohfr642t</guid>
-<pubDate>Sat, 24 Oct 2026 10:35:45 +0000</pubDate>
-<description>Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.</description>
-<content:encoded><![CDATA[<p><img src="https://media.newyorker.com/photos/6ad90262f2edf1d49fc96cf4/16:9/w_1280,c_limit/FF_01%20(3).jpg" alt="" /></p><p>Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.</p>]]></content:encoded>
-<media:content url="https://media.newyorker.com/photos/6ad90262f2edf1d49fc96cf4/16:9/w_1280,c_limit/FF_01%20(3).jpg" medium="image" />
-<media:thumbnail url="https://media.newyorker.com/photos/6ad90262f2edf1d49fc96cf4/16:9/w_1280,c_limit/FF_01%20(3).jpg" />
-</item>
-<item>
-<title>A look at OpenAI&#x27;s Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)</title>
-<link>https://www.forbes.com/sites/thomasbrewster/2026/10/23/inside-openais-plan-to-protect-the-internet-before-hackers-break-it/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mym3bcwche2s</guid>
-<pubDate>Sat, 24 Oct 2026 06:35:46 +0000</pubDate>
-<description>From www.forbes.com</description>
-<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)</title>
-<link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylyhwyoxl2f</guid>
-<pubDate>Sat, 24 Oct 2026 05:45:47 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)</title>
-<link>https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mylrreuzm32s</guid>
-<pubDate>Sat, 24 Oct 2026 03:45:47 +0000</pubDate>
-<description>Google&#x27;s updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</description>
-<content:encoded><![CDATA[<p><img src="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" alt="" /></p><p>Google&#x27;s updated Privacy Policy reveals how Personal Intelligence could use your Gmail and Photos data for targeted ads.</p>]]></content:encoded>
-<media:content url="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" medium="image" />
-<media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg" />
-</item>
-<item>
-<title>Andy Jassy says AWS capacity for 2027 is &quot;largely sold out&quot; and a &quot;good chunk&quot; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)</title>
-<link>https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myloydws7a2f</guid>
-<pubDate>Sat, 24 Oct 2026 02:56:00 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)</title>
-<link>https://www.bbc.com/news/articles/cqdjv8xllvyyo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myljomxpjh2k</guid>
-<pubDate>Sat, 24 Oct 2026 01:21:05 +0000</pubDate>
-<description>The chancellor will unveil AI spending aimed at shoring up the UK&#x27;s defences in Wednesday&#x27;s Budget.</description>
-<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" alt="" /></p><p>The chancellor will unveil AI spending aimed at shoring up the UK&#x27;s defences in Wednesday&#x27;s Budget.</p>]]></content:encoded>
-<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" medium="image" />
-<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg" />
 </item>
 </channel>
 </rss>
