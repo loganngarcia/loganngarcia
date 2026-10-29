@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 29 Oct 2026 12:52:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:47:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How AGIBOT’s Physical Reasoning Dataset Connects Planning With Robot Actions</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a5767d4452328dedeb19.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/how-agibot-physical-reasoning-dataset-connects-planning-robot-actions</guid>
+<pubDate>Thu, 29 Oct 2026 17:30:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/how-agibot-physical-reasoning-dataset-connects-planning-robot-actions" rel="related" type="text/html" />
+<description>A closer look at how AGIBOT WORLD Release 4 uses changing task conditions, memory and spatial annotations to connect decisions with robot movements.</description>
+<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/api/article-media/4f495be5-35a4-46ad-8836-2b97a6976f54/be9e1c5a-0f9e-448f-89e0-9182f6a86fda.webp" alt="" /></p><p>A closer look at how AGIBOT WORLD Release 4 uses changing task conditions, memory and spatial annotations to connect decisions with robot movements.</p><p><a href="https://www.humanoidsdaily.com/news/how-agibot-physical-reasoning-dataset-connects-planning-robot-actions">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.humanoidsdaily.com/api/article-media/4f495be5-35a4-46ad-8836-2b97a6976f54/be9e1c5a-0f9e-448f-89e0-9182f6a86fda.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://www.humanoidsdaily.com/api/article-media/4f495be5-35a4-46ad-8836-2b97a6976f54/be9e1c5a-0f9e-448f-89e0-9182f6a86fda.webp" />
+<enclosure url="https://www.humanoidsdaily.com/api/article-media/4f495be5-35a4-46ad-8836-2b97a6976f54/be9e1c5a-0f9e-448f-89e0-9182f6a86fda.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Bleu Robotics Raises €5M to Teach Industrial Humanoids New Tasks in Under an Hour</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e34ee06c33b0c09eec92.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training</guid>
+<pubDate>Thu, 29 Oct 2026 12:41:06 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training" rel="related" type="text/html" />
+<description>The French startup is developing robot-learning software that it says needs around ten demonstrations, with initial factory deployments still ahead.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp" alt="" /></p><p>The French startup is developing robot-learning software that it says needs around ten demonstrations, with initial factory deployments still ahead.</p><p><a href="https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/bleu-engraving-hero-G2KdovdmNFoYvRTEpkUWoxEain9D8h.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>AGIBOT Introduces Worken, New AI Models and G2 Max at Innovation Day 2026</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/494ce42f01234e06b628.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/origami-s1-hero-NcukU4wgrfknNGCusRMFPJYGzKA0T8.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>NVIDIA Releases Flora to Turn Robot Videos Into Training Data</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ab52327fda3fb9f3528.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models</guid>
-<pubDate>Wed, 21 Oct 2026 12:59:39 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models" rel="related" type="text/html" />
-<description>Flora labels actions and scores robot performance from video. NVIDIA reports 200,000 hours processed daily, with model weights available for research under noncommercial terms.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" alt="" /></p><p>Flora labels actions and scores robot performance from video. NVIDIA reports 200,000 hours processed daily, with model weights available for research under noncommercial terms.</p><p><a href="https://www.humanoidsdaily.com/news/nvidia-flora-robot-video-training-data-models">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-flora-hero-JNtnV9mOQtWvEvo1j6J1Wj1oYsMI8s.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Humanoid Expands NVIDIA Collaboration, Replacing Two Robot Computers With One</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d6a9fdb75de1b6a5fbda.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing</guid>
-<pubDate>Wed, 21 Oct 2026 11:52:10 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing" rel="related" type="text/html" />
-<description>The UK robot maker says Jetson Thor consolidates two onboard computers into one, as it integrates NVIDIA tools for sensing, AI inference and real-time control.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" alt="" /></p><p>The UK robot maker says Jetson Thor consolidates two onboard computers into one, as it integrates NVIDIA tools for sensing, AI inference and real-time control.</p><p><a href="https://www.humanoidsdaily.com/news/humanoid-nvidia-jetson-thor-onboard-computing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-nvidia-hero-y2uowSJOhTOhT96vjzA8ttj0PsK0uN.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
