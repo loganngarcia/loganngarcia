@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 02:29:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:54:08 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)</title>
+<link>https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3fdtbtnn2f</guid>
+<pubDate>Fri, 30 Oct 2026 08:46:03 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How a wave of startups are betting on AI to make formal software verification practical and essential, including &amp;Truth, which launches with a $70M seed (Paresh Dave/Wired)</title>
+<link>https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz35sllxko2f</guid>
+<pubDate>Fri, 30 Oct 2026 06:31:09 +0000</pubDate>
+<description>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" alt="" /></p><p>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" />
+</item>
+<item>
+<title>TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)</title>
+<link>https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2yv5mwog2n</guid>
+<pubDate>Fri, 30 Oct 2026 05:03:06 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)</title>
+<link>https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2y7k5wq32i</guid>
+<pubDate>Fri, 30 Oct 2026 04:51:01 +0000</pubDate>
+<description>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" alt="" /></p><p>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</p>]]></content:encoded>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" medium="image" />
+<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" />
+</item>
+<item>
+<title>CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)</title>
+<link>https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2viv2gmj2i</guid>
+<pubDate>Fri, 30 Oct 2026 04:02:33 +0000</pubDate>
+<description>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</description>
+<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" alt="" /></p><p>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</p>]]></content:encoded>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" medium="image" />
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" />
+</item>
+<item>
+<title>Sources: DeepSeek doubled its latest round&#x27;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)</title>
+<link>https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2tz7dk462f</guid>
+<pubDate>Fri, 30 Oct 2026 03:35:53 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)</title>
+<link>https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2smtc6vg2s</guid>
+<pubDate>Fri, 30 Oct 2026 03:11:04 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2qxo2ckc2v</guid>
+<pubDate>Fri, 30 Oct 2026 02:41:20 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz (Katherine Doherty/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us</link>
@@ -36,8 +106,8 @@
 <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2lx75xhp2h</guid>
 <pubDate>Fri, 30 Oct 2026 01:11:36 +0000</pubDate>
-<description>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon&#x27;s CEO says.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" alt="" /></p><p>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon&#x27;s CEO says.</p>]]></content:encoded>
+<description>The success of blockbuster hits like &quot;Project Hail Mary&quot; and &quot;Verity&quot; is only part of the story, Amazon&#x27;s CEO says.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" alt="" /></p><p>The success of blockbuster hits like &quot;Project Hail Mary&quot; and &quot;Verity&quot; is only part of the story, Amazon&#x27;s CEO says.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" />
 </item>
@@ -808,84 +878,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>A big new product from Apple.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>John Ternus says the Mac is &quot;first and foremost an indirect input device&quot;, but touch is &quot;comfortable and handy&quot; sometimes; Apple long resisted touchscreen Macs (Steven Levy/Wired)</title>
-<link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myxbqmjno62n</guid>
-<pubDate>Wed, 28 Oct 2026 17:30:59 +0000</pubDate>
-<description>An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/191:100/w_1280,c_limit/1027_AppleNF_Illustration_v1.jpg" alt="" /></p><p>An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/191:100/w_1280,c_limit/1027_AppleNF_Illustration_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/191:100/w_1280,c_limit/1027_AppleNF_Illustration_v1.jpg" />
-</item>
-<item>
-<title>Apple unveils a touchscreen MacBook Pro with a 14&quot; or 16&quot; PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+ (Apple)</title>
-<link>https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myxaz2spd62i</guid>
-<pubDate>Wed, 28 Oct 2026 17:17:48 +0000</pubDate>
-<description>Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.</description>
-<content:encoded><![CDATA[<p><img src="https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610291908" alt="" /></p><p>Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.</p>]]></content:encoded>
-<media:content url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610291908" medium="image" />
-<media:thumbnail url="https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610291908" />
-</item>
-<item>
-<title>Google unveils Gemini 4 Carbon, its &quot;strongest model with state-of-the-art cybersecurity&quot; capabilities, ranked #1 on Artificial Analysis&#x27; new Intelligence Index (Koray Kavukcuoglu/Google)</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myxalb7ou32l</guid>
-<pubDate>Wed, 28 Oct 2026 17:10:05 +0000</pubDate>
-<description>Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" alt="" /></p><p>Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.</p>]]></content:encoded>
-<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" medium="image" />
-<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" />
-</item>
-<item>
-<title>GitHub says it&#x27;s seeing 7.4B commits per month, up from 2.9B in August, and has added 4M CPU cores and 160PB of storage in 2026 so far to support this growth (Frederic Lardinois/The New Stack)</title>
-<link>https://thenewstack.io/github-7-4b-commits-september/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myx6optpj62n</guid>
-<pubDate>Wed, 28 Oct 2026 16:36:14 +0000</pubDate>
-<description>GitHub now sees 7.4 billion commits a month, driven largely by AI agents, and is adding 4 million CPU cores and rearchitecting its platform to keep up.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/10/9b7c9d43-img_5916-scaled.jpg" alt="" /></p><p>GitHub now sees 7.4 billion commits a month, driven largely by AI agents, and is adding 4 million CPU cores and rearchitecting its platform to keep up.</p>]]></content:encoded>
-<media:content url="https://cdn.thenewstack.io/media/2026/10/9b7c9d43-img_5916-scaled.jpg" medium="image" />
-<media:thumbnail url="https://cdn.thenewstack.io/media/2026/10/9b7c9d43-img_5916-scaled.jpg" />
-</item>
-<item>
-<title>GitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more (Meredith Shubel/The New Stack)</title>
-<link>https://thenewstack.io/github-copilot-fusion/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myx6fguwil2t</guid>
-<pubDate>Wed, 28 Oct 2026 16:31:02 +0000</pubDate>
-<description>Developers pick the effort level. Copilot Fusion picks the models. An AT&amp;T engineer say it&#x27;s &quot;improved token efficiency.&quot;</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/10/b78f2934-screenshot-2026-10-28-at-12.17.49.png" alt="" /></p><p>Developers pick the effort level. Copilot Fusion picks the models. An AT&amp;T engineer say it&#x27;s &quot;improved token efficiency.&quot;</p>]]></content:encoded>
-<media:content url="https://cdn.thenewstack.io/media/2026/10/b78f2934-screenshot-2026-10-28-at-12.17.49.png" medium="image" />
-<media:thumbnail url="https://cdn.thenewstack.io/media/2026/10/b78f2934-screenshot-2026-10-28-at-12.17.49.png" />
-</item>
-<item>
-<title>Reddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a recommendation-driven feed (Aisha Malik/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myx5ceog4c2s</guid>
-<pubDate>Wed, 28 Oct 2026 16:11:26 +0000</pubDate>
-<description>The For You feed combines posts from communities users have joined with recommendations tailored to their interests.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800" alt="" /></p><p>The For You feed combines posts from communities users have joined with recommendations tailored to their interests.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800" />
-</item>
-<item>
-<title>OpenAI says it&#x27;s launching an election &quot;war room&quot; ahead of the US midterms to identify potential spread of misinfo or other efforts to disrupt the elections (Calder McHugh/Politico)</title>
-<link>https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myx3dz7uzj2t</guid>
-<pubDate>Wed, 28 Oct 2026 15:36:32 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myx2ifbpvc2v</guid>
-<pubDate>Wed, 28 Oct 2026 15:21:06 +0000</pubDate>
-<description>Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2025/06/A-ghostly-AI-agent-creating-blue-speech-sound-waveforms-in-a-dark-space-abstract-art-muted-colors-1.jpeg" alt="" /></p><p>Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2025/06/A-ghostly-AI-agent-creating-blue-speech-sound-waveforms-in-a-dark-space-abstract-art-muted-colors-1.jpeg" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2025/06/A-ghostly-AI-agent-creating-blue-speech-sound-waveforms-in-a-dark-space-abstract-art-muted-colors-1.jpeg" />
 </item>
 </channel>
 </rss>
