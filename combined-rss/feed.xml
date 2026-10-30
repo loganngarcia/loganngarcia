@@ -5,8 +5,92 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 20:10:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:53:24 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8db91145f7c889d7abc6.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4ukhpj5b24</guid>
+<pubDate>Fri, 30 Oct 2026 22:50:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-30/alphabet-is-in-talks-to-join-trump-s-golden-dome-defense-program" rel="related" type="text/html" />
+<description>Alphabet Inc.’s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billion Golden Dome missile defense program, according to people familiar ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimoxsL.2oocM%2Fv0%2F1200x800.jpg" alt="" /></p><p>Alphabet Inc.’s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billion Golden Dome missile defense program, according to people familiar ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-30/alphabet-is-in-talks-to-join-trump-s-golden-dome-defense-program">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimoxsL.2oocM%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimoxsL.2oocM%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimoxsL.2oocM%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0aecde9c7e78cd29aa60.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4s23caah27</guid>
+<pubDate>Fri, 30 Oct 2026 22:05:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/" rel="related" type="text/html" />
+<description>The new funding nearly triples what the Vancouver, Wash.-based semiconductor startup had raised when it came out of stealth last year. Powerlattice says its tech can cut AI chip energy use by more than half.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" alt="" /></p><p>The new funding nearly triples what the Vancouver, Wash.-based semiconductor startup had raised when it came out of stealth last year. Powerlattice says its tech can cut AI chip energy use by more than half.</p><p><a href="https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" />
+<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/25a528e218b1080ce941.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4ooq3e7b2s</guid>
+<pubDate>Fri, 30 Oct 2026 21:05:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out" rel="related" type="text/html" />
+<description>OpenAI, Google, Microsoft, and Anthropic are implementing the new setting.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>OpenAI, Google, Microsoft, and Anthropic are implementing the new setting.</p><p><a href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b2d8b2cd220dd0ce24cf.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4o5wlvf52s</guid>
+<pubDate>Fri, 30 Oct 2026 20:56:29 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/" rel="related" type="text/html" />
+<description>OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even when a question appears ​harmless, as part of new safeguards aimed at preventing ‌real-...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5GD2UJG5PJMPRHCNEVCK7VR3PE.jpg%3Fauth%3D26fa86ae245349c07ef785e4879f8610d4f17dbf5e6e3f85f8fe261cb1d59f2b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even when a question appears ​harmless, as part of new safeguards aimed at preventing ‌real-...</p><p><a href="https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5GD2UJG5PJMPRHCNEVCK7VR3PE.jpg%3Fauth%3D26fa86ae245349c07ef785e4879f8610d4f17dbf5e6e3f85f8fe261cb1d59f2b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5GD2UJG5PJMPRHCNEVCK7VR3PE.jpg%3Fauth%3D26fa86ae245349c07ef785e4879f8610d4f17dbf5e6e3f85f8fe261cb1d59f2b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F5GD2UJG5PJMPRHCNEVCK7VR3PE.jpg%3Fauth%3D26fa86ae245349c07ef785e4879f8610d4f17dbf5e6e3f85f8fe261cb1d59f2b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance (CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/945642cb40ba075256b9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4mz525ua2f</guid>
+<pubDate>Fri, 30 Oct 2026 20:35:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html" rel="related" type="text/html" />
+<description>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" alt="" /></p><p>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</p><p><a href="https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Reddit closed down 29.27% on Friday, the worst drop since becoming a public company in 2024, after it forecast weak Q4 revenue (Caleigh Keating/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3c779ccb586702175e94.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4miguzss24</guid>
+<pubDate>Fri, 30 Oct 2026 20:26:34 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html" rel="related" type="text/html" />
+<description>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" alt="" /></p><p>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</p><p><a href="https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B (Brody Ford/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/673aea4968d92162ce6b.html</link>
@@ -20,6 +104,20 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3LX3jZtFG9k%2Fv1%2F1200x816.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3LX3jZtFG9k%2Fv1%2F1200x816.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3LX3jZtFG9k%2Fv1%2F1200x816.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Tesla Reportedly Plans Optimus Reservations for Early December</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4f2d33ed40ad87ea7eee.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit</guid>
+<pubDate>Fri, 30 Oct 2026 19:44:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit" rel="related" type="text/html" />
+<description>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" alt="" /></p><p>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Chainalysis says Binance hackers used automated money-laundering patterns not seen before; Elliptic: almost all of the $6.3B was taken in the first 30 minutes (Financial Times)</title>
@@ -842,90 +940,6 @@
 <enclosure url="https://tii.imgix.net/production/articles/18070/5a435e4c-55fe-4bd5-be46-6f3c07e7dfc8.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Alphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2 (Davey Alba/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/caaca23ef25142409135.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzoujyina24</guid>
-<pubDate>Thu, 29 Oct 2026 16:31:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows" rel="related" type="text/html" />
-<description>Alphabet Inc. has said demand for its cloud services is increasing at a rapid clip, pointing to growth in its backlog of cloud contracts that it hasn’t yet fulfilled. However, more than a third of tha...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimBxAhvTRG7o%2Fv1%2F1200x800.jpg" alt="" /></p><p>Alphabet Inc. has said demand for its cloud services is increasing at a rapid clip, pointing to growth in its backlog of cloud contracts that it hasn’t yet fulfilled. However, more than a third of tha...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimBxAhvTRG7o%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimBxAhvTRG7o%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FimBxAhvTRG7o%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+ (Stephen Morris/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d225e11fda1fe7a7f00c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzolsdewj2v</guid>
-<pubDate>Thu, 29 Oct 2026 16:26:15 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d" rel="related" type="text/html" />
-<description>Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F38ce4d6d-01b2-4cbb-a03f-7d93a093374a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations</p><p><a href="https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F38ce4d6d-01b2-4cbb-a03f-7d93a093374a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F38ce4d6d-01b2-4cbb-a03f-7d93a093374a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F38ce4d6d-01b2-4cbb-a03f-7d93a093374a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Airbnb spent $12.6M+ since 2025 to become a top LA political contributor, backing Mayor Karen Bass and pushing for friendlier rules ahead of the 2028 Olympics (Liam Dillon/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5addc6b97b7e06e45937.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myznzv37zl2t</guid>
-<pubDate>Thu, 29 Oct 2026 16:16:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/10/29/la-mayor-airbnb-olympics-01137680" rel="related" type="text/html" />
-<description>The online rental platform has become one of the largest political donors in Los Angeles in a bid to expand its business before the 2028 Olympics.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Ff5%252Fa2%252Fb749eb0c43d481498ce451e02634%252Fchina-olympics-beijing-uyghurs-sponsors-23668.jpg" alt="" /></p><p>The online rental platform has become one of the largest political donors in Los Angeles in a bid to expand its business before the 2028 Olympics.</p><p><a href="https://www.politico.com/news/2026/10/29/la-mayor-airbnb-olympics-01137680">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Ff5%252Fa2%252Fb749eb0c43d481498ce451e02634%252Fchina-olympics-beijing-uyghurs-sponsors-23668.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Ff5%252Fa2%252Fb749eb0c43d481498ce451e02634%252Fchina-olympics-beijing-uyghurs-sponsors-23668.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Ff5%252Fa2%252Fb749eb0c43d481498ce451e02634%252Fchina-olympics-beijing-uyghurs-sponsors-23668.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Canada-based Cohere completes the first close of a round that it expects to total up to $5B, with Canada agreeing to invest up to $1.14B, at a $20.5B valuation (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c9cc5ed1bad67f6fac9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myznqtpvfu2l</guid>
-<pubDate>Thu, 29 Oct 2026 16:11:10 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value" rel="related" type="text/html" />
-<description>Cohere Inc., an artificial intelligence model maker, is in the process of raising a large funding round at a $20.5 billion valuation, roughly tripling its value from a year ago.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiifft1YkmK1A%2Fv1%2F1200x800.jpg" alt="" /></p><p>Cohere Inc., an artificial intelligence model maker, is in the process of raising a large funding round at a $20.5 billion valuation, roughly tripling its value from a year ago.</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiifft1YkmK1A%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiifft1YkmK1A%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiifft1YkmK1A%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Situational Awareness is pitching clients to invest in Fluidstack alongside it in a round that values the neocloud at $40B, up from $18B in September (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8c65484f80ac555d221.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myznhqtw542t</guid>
-<pubDate>Thu, 29 Oct 2026 16:06:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise" rel="related" type="text/html" />
-<description>Situational Awareness is raising money from its investors to plow into neocloud startup Fluidstack Ltd., just three months after highly levered bets on artificial intelligence firms nearly led to the ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiliKl3ClFcM0%2Fv1%2F1200x818.jpg" alt="" /></p><p>Situational Awareness is raising money from its investors to plow into neocloud startup Fluidstack Ltd., just three months after highly levered bets on artificial intelligence firms nearly led to the ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiliKl3ClFcM0%2Fv1%2F1200x818.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiliKl3ClFcM0%2Fv1%2F1200x818.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiliKl3ClFcM0%2Fv1%2F1200x818.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The UK FCA, which sued Justin Sun-linked crypto exchange HTX in 2025 for "unlawfully promoting crypto asset services", says HTX will exit the UK in a settlement (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3b4d2457f6a52a6de131.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzladhzrb24</guid>
-<pubDate>Thu, 29 Oct 2026 15:26:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&amp;sharetype=gift&amp;token=79c04867-fa52-4e5e-a203-5f1a092f1136&amp;syn-25a6b1a6=1" rel="related" type="text/html" />
-<description>Venture linked to billionaire Trump backer Justin Sun sued by FCA for ‘unlawfully promoting crypto asset services’</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F07047876-6b2e-4aeb-ab1a-68461dbec26d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Venture linked to billionaire Trump backer Justin Sun sued by FCA for ‘unlawfully promoting crypto asset services’</p><p><a href="https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&amp;sharetype=gift&amp;token=79c04867-fa52-4e5e-a203-5f1a092f1136&amp;syn-25a6b1a6=1">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F07047876-6b2e-4aeb-ab1a-68461dbec26d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F07047876-6b2e-4aeb-ab1a-68461dbec26d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F07047876-6b2e-4aeb-ab1a-68461dbec26d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Bleu Robotics Raises €5M to Teach Industrial Humanoids New Tasks in Under an Hour</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e34ee06c33b0c09eec92.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/bleu-robotics-5m-industrial-humanoid-training</guid>
@@ -1330,20 +1344,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>NEURA Unveils Lighter 4NE1 Gen 4 as TUM RoboGym Opens in Munich</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4e11b2307772b8d4d9f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory</guid>
-<pubDate>Fri, 23 Oct 2026 05:11:40 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory" rel="related" type="text/html" />
-<description>The redesigned humanoid arrives alongside a new robot training center, while a separate NXAI partnership targets memory for multi-step tasks.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" alt="" /></p><p>The redesigned humanoid arrives alongside a new robot training center, while a separate NXAI partnership targets memory for multi-step tasks.</p><p><a href="https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Hybrid Reasoning: Interleaving Token and Latent Reasoning?</title>
@@ -2018,20 +2018,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -2044,6 +2030,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>

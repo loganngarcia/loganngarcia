@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 20:10:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:53:24 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tesla Reportedly Plans Optimus Reservations for Early December</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4f2d33ed40ad87ea7eee.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit</guid>
+<pubDate>Fri, 30 Oct 2026 19:44:57 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit" rel="related" type="text/html" />
+<description>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" alt="" /></p><p>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>What Is Worken? AGIBOT’s Proposed Measure of Productive Robot Work</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f886a8e922b42d13c1cb.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>NEURA Unveils Lighter 4NE1 Gen 4 as TUM RoboGym Opens in Munich</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4e11b2307772b8d4d9f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory</guid>
-<pubDate>Fri, 23 Oct 2026 05:11:40 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory" rel="related" type="text/html" />
-<description>The redesigned humanoid arrives alongside a new robot training center, while a separate NXAI partnership targets memory for multi-step tasks.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" alt="" /></p><p>The redesigned humanoid arrives alongside a new robot training center, while a separate NXAI partnership targets memory for multi-step tasks.</p><p><a href="https://www.humanoidsdaily.com/news/neura-4ne1-gen4-tum-robogym-nxai-memory">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-gen4-hero-k9cMcYmcNK3cXT2QsIyyZo1GxmtRmz.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
