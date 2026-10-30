@@ -5,8 +5,120 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 02:34:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:58:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5741b393460f999ab884.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3fdtbtnn2f</guid>
+<pubDate>Fri, 30 Oct 2026 08:46:03 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b" rel="related" type="text/html" />
+<description>Streaming service plans to charge users up to $5 a month to use the feature</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F744fa188-f2ac-43b6-b521-01c727157a1a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Streaming service plans to charge users up to $5 a month to use the feature</p><p><a href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F744fa188-f2ac-43b6-b521-01c727157a1a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F744fa188-f2ac-43b6-b521-01c727157a1a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F744fa188-f2ac-43b6-b521-01c727157a1a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>How a wave of startups are betting on AI to make formal software verification practical and essential, including &amp;Truth, which launches with a $70M seed (Paresh Dave/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2aa84b8c0fc4ac93cb0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz35sllxko2f</guid>
+<pubDate>Fri, 30 Oct 2026 06:31:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/" rel="related" type="text/html" />
+<description>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" alt="" /></p><p>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</p><p><a href="https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" />
+<enclosure url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/73741696a0edb3c02b35.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2yv5mwog2n</guid>
+<pubDate>Fri, 30 Oct 2026 05:03:06 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/" rel="related" type="text/html" />
+<description>North Korean hackers were ​behind a $6.3 billion ‌raid on cryptocurrency exchange Binance, according to ​US blockchain ​analysis firm TRM Labs.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3IZFFU5T7FJS3J6XTMH5U424YQ.jpg%3Fauth%3D8c06d3b2dda7cd25ffe3d154908f3f8fa3d2eb40fe1bba6807d9b2f5f74bd045%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>North Korean hackers were ​behind a $6.3 billion ‌raid on cryptocurrency exchange Binance, according to ​US blockchain ​analysis firm TRM Labs.</p><p><a href="https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3IZFFU5T7FJS3J6XTMH5U424YQ.jpg%3Fauth%3D8c06d3b2dda7cd25ffe3d154908f3f8fa3d2eb40fe1bba6807d9b2f5f74bd045%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3IZFFU5T7FJS3J6XTMH5U424YQ.jpg%3Fauth%3D8c06d3b2dda7cd25ffe3d154908f3f8fa3d2eb40fe1bba6807d9b2f5f74bd045%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F3IZFFU5T7FJS3J6XTMH5U424YQ.jpg%3Fauth%3D8c06d3b2dda7cd25ffe3d154908f3f8fa3d2eb40fe1bba6807d9b2f5f74bd045%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed431f896cf4c07aab6e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2y7k5wq32i</guid>
+<pubDate>Fri, 30 Oct 2026 04:51:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack" rel="related" type="text/html" />
+<description>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" alt="" /></p><p>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</p><p><a href="https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" />
+<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0677e2156adf43a640af.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2viv2gmj2i</guid>
+<pubDate>Fri, 30 Oct 2026 04:02:33 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343" rel="related" type="text/html" />
+<description>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</description>
+<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" alt="" /></p><p>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</p><p><a href="https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" />
+<enclosure url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/eb64622d3441644b3371.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2tz7dk462f</guid>
+<pubDate>Fri, 30 Oct 2026 03:35:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players" rel="related" type="text/html" />
+<description>Chinese AI star DeepSeek’s nearly $16 billion funding round this month involved not only a deluge of capital but a who’s who of Chinese tech investors—and some of the country’s most powerful state-backed institutions, according to details of the round obtained by The Information. It was only the ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18083/29c0de28-083a-43b1-ba4e-6e5636a407cc.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Chinese AI star DeepSeek’s nearly $16 billion funding round this month involved not only a deluge of capital but a who’s who of Chinese tech investors—and some of the country’s most powerful state-backed institutions, according to details of the round obtained by The Information. It was only the ...</p><p><a href="https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18083/29c0de28-083a-43b1-ba4e-6e5636a407cc.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18083/29c0de28-083a-43b1-ba4e-6e5636a407cc.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18083/29c0de28-083a-43b1-ba4e-6e5636a407cc.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from "potential disruption" amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6631c96112db163f20b1.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2smtc6vg2s</guid>
+<pubDate>Fri, 30 Oct 2026 03:11:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1" rel="related" type="text/html" />
+<description>Reliance on the island for AI chip production puts it among America’s top foreign policy interests.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fopinion-images.wsj.net%2Fim-33406375%2Fsocial" alt="" /></p><p>Reliance on the island for AI chip production puts it among America’s top foreign policy interests.</p><p><a href="https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fopinion-images.wsj.net%2Fim-33406375%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fopinion-images.wsj.net%2Fim-33406375%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fopinion-images.wsj.net%2Fim-33406375%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6c7b92ca15d9d45a0f8e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2qxo2ckc2v</guid>
+<pubDate>Fri, 30 Oct 2026 02:41:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order" rel="related" type="text/html" />
+<description>Indian AI infrastructure firm AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia Corp.’s next-generation chips, according to people familiar wi...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyaefJIOLK9Q%2Fv0%2F1200x800.jpg" alt="" /></p><p>Indian AI infrastructure firm AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia Corp.’s next-generation chips, according to people familiar wi...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyaefJIOLK9Q%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyaefJIOLK9Q%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiyaefJIOLK9Q%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz (Katherine Doherty/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e99e98969eb140b9f3ba.html</link>
@@ -29,8 +141,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49" rel="related" type="text/html" />
-<description>Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue</p><p><a href="https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49">Open Original Article</a></p>]]></content:encoded>
+<description>World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach</p><p><a href="https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
@@ -54,8 +166,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/" rel="related" type="text/html" />
-<description>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" alt="" /></p><p>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.</p><p><a href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/">Open Original Article</a></p>]]></content:encoded>
+<description>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" alt="" /></p><p>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</p><p><a href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" />
 <enclosure url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" type="image/jpeg" length="0" />
@@ -667,11 +779,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html" rel="related" type="text/html" />
-<description>Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO (Lauren McCarthy/New York Times)</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-largeHorizontalJumbo.jpg" alt="" /></p><p>Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO (Lauren McCarthy/New York Times)</p><p><a href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-largeHorizontalJumbo.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
+<description>The prediction market raised $1 billion in a new funding round and landed a market value almost double that of rival Polymarket. But legal challenges to its business persist.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-facebookJumbo.jpg" alt="" /></p><p>The prediction market raised $1 billion in a new funding round and landed a market value almost double that of rival Polymarket. But legal challenges to its business persist.</p><p><a href="https://www.nytimes.com/2026/10/29/business/dealbook/its-investors-say-kalshi-is-worth-40-billion-is-an-ipo-next.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-facebookJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fmultimedia%2F29db-tarekmansour-fbmq%2F29db-tarekmansour-fbmq-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the food platform market consolidates (Anuja Bharat Mistry/Reuters)</title>
@@ -756,118 +868,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiCs64uG63WQk%2Fv2%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiCs64uG63WQk%2Fv2%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiCs64uG63WQk%2Fv2%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Vladimir Putin praises Elon Musk as a "real genius" and says Russia is in "close contact" with Musk and the US to coordinate Rassvet and Starlink satellites (Kali Hays/BBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/da4344bac2380a1cc4ef.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyzai37m42h</guid>
-<pubDate>Thu, 29 Oct 2026 10:04:06 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bbc.com/news/articles/c63djl148n3eo" rel="related" type="text/html" />
-<description>The Russian President praised Musk and said they are in "close" contact.</description>
-<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg" alt="" /></p><p>The Russian President praised Musk and said they are in "close" contact.</p><p><a href="https://www.bbc.com/news/articles/c63djl148n3eo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg" />
-<enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism (Federico Viticci/MacStories)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6d0797cc46b2fbfab1b1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyyjlhhcj2n</guid>
-<pubDate>Thu, 29 Oct 2026 09:51:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.macstories.net/stories/macbook-pro-with-touch-a-mac-for-the-ipad-generation/" rel="related" type="text/html" />
-<description>Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I’ve gotten used to a certain type of computer interaction that Steve Jobs once decried as “ergonomically terrible”: working with a keyboard, but sometimes also touching the screen. Of course, that interaction became even more common</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" alt="" /></p><p>Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I’ve gotten used to a certain type of computer interaction that Steve Jobs once decried as “ergonomically terrible”: working with a keyboard, but sometimes also touching the screen. Of course, that interaction became even more common</p><p><a href="https://www.macstories.net/stories/macbook-pro-with-touch-a-mac-for-the-ipad-generation/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" />
-<enclosure url="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3a98aeac04dbefe2a3c5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myywuv7muc24</guid>
-<pubDate>Thu, 29 Oct 2026 09:21:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F00dc-chips-01-zhpm%2F00dc-chips-01-zhpm-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.</p><p><a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F00dc-chips-01-zhpm%2F00dc-chips-01-zhpm-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F00dc-chips-01-zhpm%2F00dc-chips-01-zhpm-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F28%2Fmultimedia%2F00dc-chips-01-zhpm%2F00dc-chips-01-zhpm-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Bloomberg, Susquehanna, and Jump Trading signed up for Truth Social's fast API feed of President Trump's posts, paying $60K to $100K per month (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/310735327ec97767fce9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myywli52v52f</guid>
-<pubDate>Thu, 29 Oct 2026 09:16:35 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/" rel="related" type="text/html" />
-<description>Truth Social, the social media platform founded by President Donald Trump, has signed up news and data provider Bloomberg and two Wall Street ​firms for faster access to the president’s posts, which i...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ2F2Z2RCPZN67AMO7DNQ47FMYU.jpg%3Fauth%3Df4c6356cd581ada0470c84550eaac861803262833d10302c6e3cf23bdbc767e6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Truth Social, the social media platform founded by President Donald Trump, has signed up news and data provider Bloomberg and two Wall Street ​firms for faster access to the president’s posts, which i...</p><p><a href="https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ2F2Z2RCPZN67AMO7DNQ47FMYU.jpg%3Fauth%3Df4c6356cd581ada0470c84550eaac861803262833d10302c6e3cf23bdbc767e6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ2F2Z2RCPZN67AMO7DNQ47FMYU.jpg%3Fauth%3Df4c6356cd581ada0470c84550eaac861803262833d10302c6e3cf23bdbc767e6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ2F2Z2RCPZN67AMO7DNQ47FMYU.jpg%3Fauth%3Df4c6356cd581ada0470c84550eaac861803262833d10302c6e3cf23bdbc767e6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say, is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/075d65c125fda51c8d97.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyw55a5462i</guid>
-<pubDate>Thu, 29 Oct 2026 09:08:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo" rel="related" type="text/html" />
-<description>Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg. Josh Payne must now take his startup public at a tumultuous moment for the AI industry.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicNDW7dsL8S4%2Fv0%2F1200x701.jpg" alt="" /></p><p>Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg. Josh Payne must now take his startup public at a tumultuous moment for the AI industry.</p><p><a href="https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicNDW7dsL8S4%2Fv0%2F1200x701.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicNDW7dsL8S4%2Fv0%2F1200x701.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FicNDW7dsL8S4%2Fv0%2F1200x701.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety (Olivia Carville/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/52176af7311fae1afcc9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyo6aglm626</guid>
-<pubDate>Thu, 29 Oct 2026 06:46:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/features/2026-snapchat-speed-filter/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIwNzE4MCwiZXhwIjoxNzkzODExOTgwLCJhcnRpY2xlSWQiOiJUTk0xMEpLR0lGUTkwMCIsImJjb25uZWN0SWQiOiJDNThFOEMzNjMyRjI0NTM1OENDMzIzRUY5MzhEMjNEQyJ9.qfUdVdtrBK0GRZlyK6YevADziq9ibNyfXA3i-pzldLA" rel="related" type="text/html" />
-<description>A Snapchat filter sparked a trend of kids filming themselves driving as fast as they could. The deadly fallout forced a reckoning, forming the base of a successful legal strategy now holding social me...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi.ptfFMiUouw%2Fv0%2F-1x-1.webp" alt="" /></p><p>A Snapchat filter sparked a trend of kids filming themselves driving as fast as they could. The deadly fallout forced a reckoning, forming the base of a successful legal strategy now holding social me...</p><p><a href="https://www.bloomberg.com/features/2026-snapchat-speed-filter/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIwNzE4MCwiZXhwIjoxNzkzODExOTgwLCJhcnRpY2xlSWQiOiJUTk0xMEpLR0lGUTkwMCIsImJjb25uZWN0SWQiOiJDNThFOEMzNjMyRjI0NTM1OENDMzIzRUY5MzhEMjNEQyJ9.qfUdVdtrBK0GRZlyK6YevADziq9ibNyfXA3i-pzldLA">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi.ptfFMiUouw%2Fv0%2F-1x-1.webp" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi.ptfFMiUouw%2Fv0%2F-1x-1.webp" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi.ptfFMiUouw%2Fv0%2F-1x-1.webp" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f0bae0626c07351e1b1e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myynvgis2l2f</guid>
-<pubDate>Thu, 29 Oct 2026 06:41:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/" rel="related" type="text/html" />
-<description>STMicroelectronics raised its 2026 forecast for AI data centre revenue on Thursday, after demand from data centres and satellite operators helped it beat market expectations for third-quarter earnings...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6KZMJTTSGZJFHB7LV3AYBDWCN4.jpg%3Fauth%3Ddd5d242b1d523be67918386bd91abb2174ac1bdc056907f74b45126c7d474594%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>STMicroelectronics raised its 2026 forecast for AI data centre revenue on Thursday, after demand from data centres and satellite operators helped it beat market expectations for third-quarter earnings...</p><p><a href="https://www.reuters.com/business/retail-consumer/stmicro-beats-q3-profit-estimates-sees-q4-sales-above-4-billion-2026-10-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6KZMJTTSGZJFHB7LV3AYBDWCN4.jpg%3Fauth%3Ddd5d242b1d523be67918386bd91abb2174ac1bdc056907f74b45126c7d474594%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6KZMJTTSGZJFHB7LV3AYBDWCN4.jpg%3Fauth%3Ddd5d242b1d523be67918386bd91abb2174ac1bdc056907f74b45126c7d474594%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6KZMJTTSGZJFHB7LV3AYBDWCN4.jpg%3Fauth%3Ddd5d242b1d523be67918386bd91abb2174ac1bdc056907f74b45126c7d474594%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e27dc26d222b0da642a9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myymiwih2c2s</guid>
-<pubDate>Thu, 29 Oct 2026 06:16:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship" rel="related" type="text/html" />
-<description>When Pony Ma called Tencent Holdings Ltd.’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through a company that for years dominated the industry with WeChat. The social...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAItewIG6o50%2Fv0%2F1200x800.jpg" alt="" /></p><p>When Pony Ma called Tencent Holdings Ltd.’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through a company that for years dominated the industry with WeChat. The social...</p><p><a href="https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAItewIG6o50%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAItewIG6o50%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAItewIG6o50%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AGIBOT Introduces Worken, New AI Models and G2 Max at Innovation Day 2026</title>
