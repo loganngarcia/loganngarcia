@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 20:04:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:40:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-30/alphabet-is-in-talks-to-join-trump-s-golden-dome-defense-program</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4ukhpj5b24</guid>
+<pubDate>Fri, 30 Oct 2026 22:50:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)</title>
+<link>https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4s23caah27</guid>
+<pubDate>Fri, 30 Oct 2026 22:05:55 +0000</pubDate>
+<description>The new funding nearly triples what the Vancouver, Wash.-based semiconductor startup had raised when it came out of stealth last year. Powerlattice says its tech can cut AI chip energy use by more than half.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" alt="" /></p><p>The new funding nearly triples what the Vancouver, Wash.-based semiconductor startup had raised when it came out of stealth last year. Powerlattice says its tech can cut AI chip energy use by more than half.</p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" medium="image" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg" />
+</item>
+<item>
+<title>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)</title>
+<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4ooq3e7b2s</guid>
+<pubDate>Fri, 30 Oct 2026 21:05:53 +0000</pubDate>
+<description>OpenAI, Google, Microsoft, and Anthropic are implementing the new setting.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>OpenAI, Google, Microsoft, and Anthropic are implementing the new setting.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4o5wlvf52s</guid>
+<pubDate>Fri, 30 Oct 2026 20:56:29 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government&#x27;s stake, after issuing weaker-than-expected guidance (CNBC)</title>
+<link>https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4mz525ua2f</guid>
+<pubDate>Fri, 30 Oct 2026 20:35:54 +0000</pubDate>
+<description>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" alt="" /></p><p>Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Reddit closed down 29.27% on Friday, the worst drop since becoming a public company in 2024, after it forecast weak Q4 revenue (Caleigh Keating/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4miguzss24</guid>
+<pubDate>Fri, 30 Oct 2026 20:26:34 +0000</pubDate>
+<description>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" alt="" /></p><p>Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&amp;w=1920&amp;h=1080" />
+</item>
 <item>
 <title>Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet&#x27;s $1T and Meta&#x27;s $800B (Brody Ford/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-30/big-tech-holds-3-trillion-in-spending-commitments-for-ai-boom</link>
@@ -816,62 +872,6 @@
 <pubDate>Thu, 29 Oct 2026 03:56:09 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myycqjp5et2n</guid>
-<pubDate>Thu, 29 Oct 2026 03:21:29 +0000</pubDate>
-<description>Samsung Electronics reported third-quarter earnings on Thursday.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&amp;w=1920&amp;h=1080" alt="" /></p><p>Samsung Electronics reported third-quarter earnings on Thursday.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)</title>
-<link>https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myy6e4bujf2t</guid>
-<pubDate>Thu, 29 Oct 2026 02:02:57 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS&#x27; Okta login system (Wired)</title>
-<link>https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myy5yrfrm52t</guid>
-<pubDate>Thu, 29 Oct 2026 01:56:37 +0000</pubDate>
-<description>The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" alt="" /></p><p>The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" />
-</item>
-<item>
-<title>Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myy2yyoadn27</guid>
-<pubDate>Thu, 29 Oct 2026 01:03:03 +0000</pubDate>
-<description>Windows and Xbox revenues have declined during Microsoft’s first quarter of the 2027 financial year.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Windows and Xbox revenues have declined during Microsoft’s first quarter of the 2027 financial year.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal (Jonathan Stempel/Reuters)</title>
-<link>https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myxza7gyeo2s</guid>
-<pubDate>Thu, 29 Oct 2026 00:31:18 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: AI coding startup Cognition weighs a new funding round before year&#x27;s end after receiving offers valuing it at $70B-$80B, up from $48B in September (Katie Roof/Business Insider)</title>
-<link>https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myxyp5etk72t</guid>
-<pubDate>Thu, 29 Oct 2026 00:21:45 +0000</pubDate>
-<description>The potential jump in valuation and investor interest underscores the frenzy around AI coding.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ae210baca24d51c5f89fcd6?width=1200&amp;format=jpeg" alt="" /></p><p>The potential jump in valuation and investor interest underscores the frenzy around AI coding.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ae210baca24d51c5f89fcd6?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ae210baca24d51c5f89fcd6?width=1200&amp;format=jpeg" />
 </item>
 </channel>
 </rss>
