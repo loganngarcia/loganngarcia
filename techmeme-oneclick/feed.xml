@@ -5,8 +5,66 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 02:46:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 08:57:07 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)</title>
+<link>https://commanding-heights.com/#top</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5oaxzyai2s</guid>
+<pubDate>Sat, 31 Oct 2026 06:30:51 +0000</pubDate>
+<description>An essay by Will Manidis and Joe Roberts. Technological revolutions are almost never born where they ultimately create wealth.</description>
+<content:encoded><![CDATA[<p><img src="https://commanding-heights.com/og/og.png" alt="" /></p><p>An essay by Will Manidis and Joe Roberts. Technological revolutions are almost never born where they ultimately create wealth.</p>]]></content:encoded>
+<media:content url="https://commanding-heights.com/og/og.png" medium="image" />
+<media:thumbnail url="https://commanding-heights.com/og/og.png" />
+</item>
+<item>
+<title>When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &quot;being used 5% of the time&quot; (Andrew E. Freedman/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5n7a4nj72v</guid>
+<pubDate>Sat, 31 Oct 2026 06:11:58 +0000</pubDate>
+<description>OpenAI CEO Sam Altman said in a podcast interview that &quot;it&#x27;s quite terrible&quot; for people to have RAM in their own PCs when it could go into AI data centers.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/Dsf9PuWymXVCr7nc5FwWtZ-2560-80.jpg" alt="" /></p><p>OpenAI CEO Sam Altman said in a podcast interview that &quot;it&#x27;s quite terrible&quot; for people to have RAM in their own PCs when it could go into AI data centers.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/Dsf9PuWymXVCr7nc5FwWtZ-2560-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Dsf9PuWymXVCr7nc5FwWtZ-2560-80.jpg" />
+</item>
+<item>
+<title>Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5k2x4lae2s</guid>
+<pubDate>Sat, 31 Oct 2026 05:15:54 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>S&amp;P downgraded Meta&#x27;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)</title>
+<link>https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5jt7uorg24</guid>
+<pubDate>Sat, 31 Oct 2026 05:11:34 +0000</pubDate>
+<description>Meta has been given a negative outlook by S&amp;P Global Ratings due to the company&#x27;s hefty capital expenditures and concerns about free cash flow.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&amp;w=1920&amp;h=1080" alt="" /></p><p>Meta has been given a negative outlook by S&amp;P Global Ratings due to the company&#x27;s hefty capital expenditures and concerns about free cash flow.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Anthropic says a malicious actor used access to Cursor&#x27;s marketplace to publish a &quot;tampered&quot; copy of the Claude Code extension, which it didn&#x27;t build or publish (Felix Rieseberg/@felixrieseberg)</title>
+<link>https://x.com/felixrieseberg/status/2116170451466543578</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5jc4by7o26</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:00 +0000</pubDate>
+<description>We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels a…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1544558915819487233/qMrauBqx_400x400.jpg" alt="" /></p><p>We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels a…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/profile_images/1544558915819487233/qMrauBqx_400x400.jpg" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/profile_images/1544558915819487233/qMrauBqx_400x400.jpg" />
+</item>
+<item>
+<title>John Ternus says Apple doesn&#x27;t &quot;want to ship AI for AI&#x27;s sake&quot; and that Tim Cook is &quot;available to help wherever I ask&quot; on policy; Ternus has yet to meet Trump (Steven Levy/Wired)</title>
+<link>https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz5hl3nrx727</guid>
+<pubDate>Sat, 31 Oct 2026 04:31:14 +0000</pubDate>
+<description>Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/191:100/w_1280,c_limit/Backchannel-Top-Art-10302026.jpg" alt="" /></p><p>Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/191:100/w_1280,c_limit/Backchannel-Top-Art-10302026.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/191:100/w_1280,c_limit/Backchannel-Top-Art-10302026.jpg" />
+</item>
 <item>
 <title>Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)</title>
 <link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
@@ -816,60 +874,6 @@
 <pubDate>Thu, 29 Oct 2026 06:16:11 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was &quot;shared without their authorization&quot; (Wired)</title>
-<link>https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myylx7d6oe2s</guid>
-<pubDate>Thu, 29 Oct 2026 06:06:17 +0000</pubDate>
-<description>Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae2b697af20331957eab942/191:100/w_1280,c_limit/2195830714" alt="" /></p><p>Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ae2b697af20331957eab942/191:100/w_1280,c_limit/2195830714" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ae2b697af20331957eab942/191:100/w_1280,c_limit/2195830714" />
-</item>
-<item>
-<title>National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myylrjaufq27</guid>
-<pubDate>Thu, 29 Oct 2026 06:03:06 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyjyz52ta2f</guid>
-<pubDate>Thu, 29 Oct 2026 05:31:30 +0000</pubDate>
-<description>The announcement came alongside parent company Alphabet&#x27;s third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800" alt="" /></p><p>The announcement came alongside parent company Alphabet&#x27;s third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit&#x27;s profit miss weigh on investor sentiment (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyjq7helw2f</guid>
-<pubDate>Thu, 29 Oct 2026 05:26:35 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyjhkkke227</guid>
-<pubDate>Thu, 29 Oct 2026 05:21:44 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google&#x27;s search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to &quot;lower monetization&quot; in AI Mode (Simon Sharwood/The Register)</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyivgoond2l</guid>
-<pubDate>Thu, 29 Oct 2026 05:11:36 +0000</pubDate>
-<description>That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud</description>
-<content:encoded><![CDATA[<p><img src="https://image.theregister.com/5306186.jpg?imageId=5306186&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud</p>]]></content:encoded>
-<media:content url="https://image.theregister.com/5306186.jpg?imageId=5306186&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" />
-<media:thumbnail url="https://image.theregister.com/5306186.jpg?imageId=5306186&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
 </item>
 </channel>
 </rss>
