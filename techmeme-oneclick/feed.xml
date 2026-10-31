@@ -5,15 +5,17 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 19:15:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 22:33:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
 <item>
 <title>Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#x27;s ChatGPT share link (Swati Khandelwal/The Hacker News)</title>
 <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6yaoksax2t</guid>
 <pubDate>Sat, 31 Oct 2026 19:02:18 +0000</pubDate>
-<description>From thehackernews.com</description>
-<content:encoded><![CDATA[<p>From thehackernews.com</p>]]></content:encoded>
+<description>OpenAI fixed a P1 ChatGPT flaw that let malicious shared links execute code in signed-in sessions and access private conversations.</description>
+<content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1700-nu-rw-lo-l85-e365/chatgpt.jpg" alt="" /></p><p>OpenAI fixed a P1 ChatGPT flaw that let malicious shared links execute code in signed-in sessions and access private conversations.</p>]]></content:encoded>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1700-nu-rw-lo-l85-e365/chatgpt.jpg" medium="image" />
+<media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1700-nu-rw-lo-l85-e365/chatgpt.jpg" />
 </item>
 <item>
 <title>Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)</title>
