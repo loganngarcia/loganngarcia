@@ -5,8 +5,32 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 15:08:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 19:15:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#x27;s ChatGPT share link (Swati Khandelwal/The Hacker News)</title>
+<link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6yaoksax2t</guid>
+<pubDate>Sat, 31 Oct 2026 19:02:18 +0000</pubDate>
+<description>From thehackernews.com</description>
+<content:encoded><![CDATA[<p>From thehackernews.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)</title>
+<link>https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6pas5ke42l</guid>
+<pubDate>Sat, 31 Oct 2026 16:21:18 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens (Angela Christy/Reuters)</title>
+<link>https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6nbztzya2t</guid>
+<pubDate>Sat, 31 Oct 2026 15:46:12 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>How AI detectors like Pangram are changing human writing: authors drop em dashes, &quot;not X, but Y&quot; phrasing, and words like &quot;delve&quot;, or add typos, to look human (Morgan Meaker/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/features/2026-10-30/how-ai-detectors-like-pangram-are-changing-human-writing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzM2MDg2MCwiZXhwIjoxNzkzOTY1NjYwLCJhcnRpY2xlSWQiOiJUTlBLU0FLSVVQU0MwMCIsImJjb25uZWN0SWQiOiI1MEU0OTBGQjhDNTM0MkREODAwRUEyNTQ1RjBCMThCOCJ9.QWmO8ZCSYNuUI7oMX4N9wEkQtBDq_LYD89yJOMz3bfE</link>
@@ -852,30 +876,6 @@
 <pubDate>Thu, 29 Oct 2026 09:21:50 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Bloomberg, Susquehanna, and Jump Trading signed up for Truth Social&#x27;s fast API feed of President Trump&#x27;s posts, paying $60K to $100K per month (Reuters)</title>
-<link>https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myywli52v52f</guid>
-<pubDate>Thu, 29 Oct 2026 09:16:35 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say, is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyw55a5462i</guid>
-<pubDate>Thu, 29 Oct 2026 09:08:33 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat&#x27;s speed filter, sparked social media&#x27;s legal reckoning over user safety (Olivia Carville/Bloomberg)</title>
-<link>https://www.bloomberg.com/features/2026-snapchat-speed-filter/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzIwNzE4MCwiZXhwIjoxNzkzODExOTgwLCJhcnRpY2xlSWQiOiJUTk0xMEpLR0lGUTkwMCIsImJjb25uZWN0SWQiOiJDNThFOEMzNjMyRjI0NTM1OENDMzIzRUY5MzhEMjNEQyJ9.qfUdVdtrBK0GRZlyK6YevADziq9ibNyfXA3i-pzldLA</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myyo6aglm626</guid>
-<pubDate>Thu, 29 Oct 2026 06:46:00 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
