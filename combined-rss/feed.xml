@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 15:47:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 19:34:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e8eb82345a00ebfce05a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6yaoksax2t</guid>
+<pubDate>Sat, 31 Oct 2026 19:02:18 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html" rel="related" type="text/html" />
+<description>OpenAI fixed a P1 ChatGPT flaw that let malicious shared links execute code in signed-in sessions and access private conversations.</description>
+<content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" alt="" /></p><p>OpenAI fixed a P1 ChatGPT flaw that let malicious shared links execute code in signed-in sessions and access private conversations.</p><p><a href="https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" />
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5801a13d789312f92bd3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6pas5ke42l</guid>
+<pubDate>Sat, 31 Oct 2026 16:21:18 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push" rel="related" type="text/html" />
+<description>Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Meta Platforms has built a prototype humanoid with Chinese robotics company Fourier and is already working on a second version, as the social media giant steps up efforts to develop robots for people’s homes, according to people familiar with the initiative. Meta and Fourier built the roughly ...</p><p><a href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18087/e0dccb6e-5d64-40c7-be5e-76da17926003.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens (Angela Christy/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/79ad806da2f2ac02a24a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz6nbztzya2t</guid>
+<pubDate>Sat, 31 Oct 2026 15:46:12 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/" rel="related" type="text/html" />
+<description>Crypto exchange Binance said on ​Saturday it has been able to replace 90% of the amount stolen ‌after a record $6.3 billion hack of its platform, by using company money to buy new tokens.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ6TLJBXFWZJ2FKVEL2XCO2IRWY.jpg%3Fauth%3Dd6062d6549acfc01cb9917178aa4b0856fb564a1853611582decf50a36eeb248%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Crypto exchange Binance said on ​Saturday it has been able to replace 90% of the amount stolen ‌after a record $6.3 billion hack of its platform, by using company money to buy new tokens.</p><p><a href="https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ6TLJBXFWZJ2FKVEL2XCO2IRWY.jpg%3Fauth%3Dd6062d6549acfc01cb9917178aa4b0856fb564a1853611582decf50a36eeb248%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ6TLJBXFWZJ2FKVEL2XCO2IRWY.jpg%3Fauth%3Dd6062d6549acfc01cb9917178aa4b0856fb564a1853611582decf50a36eeb248%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQ6TLJBXFWZJ2FKVEL2XCO2IRWY.jpg%3Fauth%3Dd6062d6549acfc01cb9917178aa4b0856fb564a1853611582decf50a36eeb248%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>How AI detectors like Pangram are changing human writing: authors drop em dashes, "not X, but Y" phrasing, and words like "delve", or add typos, to look human (Morgan Meaker/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f287cfdd624f95786acc.html</link>
@@ -885,48 +927,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Google, Meta, and other tech companies are resisting broad ICE user data demands as they face potential Democratic-led congressional investigations (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ba4b750a84f67dc1c20d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz25fdmkxc2f</guid>
-<pubDate>Thu, 29 Oct 2026 20:51:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?st=BLSqTK&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>Google, Meta and other tech firms are pushing back against broad ICE demands for user data as the federal agency scours platforms for immigration speech.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97853099%2Fsocial" alt="" /></p><p>Google, Meta and other tech firms are pushing back against broad ICE demands for user data as the federal agency scours platforms for immigration speech.</p><p><a href="https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?st=BLSqTK&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97853099%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97853099%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-97853099%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic's supply-chain automation technology across its distribution network (Sanskriti Shekhar/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3fbc0a626d72820d57ae.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz24tpseth26</guid>
-<pubDate>Thu, 29 Oct 2026 20:41:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/" rel="related" type="text/html" />
-<description>Walmart said on Thursday it had ​extended its agreement with AI robotics ‌firm Symbotic , committing about $6 billion over several years to bring more automation capabilities to its distribution ​ne...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FFJR6PMSSWVJ3LE5BGBOAOQSATU.jpg%3Fauth%3D3fecf356dd21dfe3fd48260081902b47b8ff4860e07d32e72f7f98fae7efab31%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Walmart said on Thursday it had ​extended its agreement with AI robotics ‌firm Symbotic , committing about $6 billion over several years to bring more automation capabilities to its distribution ​ne...</p><p><a href="https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FFJR6PMSSWVJ3LE5BGBOAOQSATU.jpg%3Fauth%3D3fecf356dd21dfe3fd48260081902b47b8ff4860e07d32e72f7f98fae7efab31%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FFJR6PMSSWVJ3LE5BGBOAOQSATU.jpg%3Fauth%3D3fecf356dd21dfe3fd48260081902b47b8ff4860e07d32e72f7f98fae7efab31%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FFJR6PMSSWVJ3LE5BGBOAOQSATU.jpg%3Fauth%3D3fecf356dd21dfe3fd48260081902b47b8ff4860e07d32e72f7f98fae7efab31%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours (Jonathan Vanian/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a55580d72f57b382842e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz24fa7cf62i</guid>
-<pubDate>Thu, 29 Oct 2026 20:33:07 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html" rel="related" type="text/html" />
-<description>Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" alt="" /></p><p>Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks</p><p><a href="https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>How AGIBOT’s Physical Reasoning Dataset Connects Planning With Robot Actions</title>
@@ -2021,20 +2021,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -2047,6 +2033,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
