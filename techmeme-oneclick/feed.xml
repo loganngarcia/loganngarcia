@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 22:33:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 01:26:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% (Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/10/30/how-an-obscure-website-became-force-americas-election-information-machine/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkzMzMyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0NzE4Nzk5LCJpYXQiOjE3OTMzMzI4MDAsImp0aSI6ImFlZmU1ZmI3LThlMmItNDYwOC1iMmVhLWJiZDg2YTFmZDQ1ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMzAvaG93LWFuLW9ic2N1cmUtd2Vic2l0ZS1iZWNhbWUtZm9yY2UtYW1lcmljYXMtZWxlY3Rpb24taW5mb3JtYXRpb24tbWFjaGluZS8ifQ.lCIALy15UkNNilYI0FU_HKDmoqz6MM-BgZD4xUT8pME&amp;itid=gfta</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz7j2rriwf2i</guid>
+<pubDate>Sun, 01 Nov 2026 00:03:14 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#x27;s ChatGPT share link (Swati Khandelwal/The Hacker News)</title>
 <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
@@ -870,14 +878,6 @@
 <content:encoded><![CDATA[<p><img src="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" alt="" /></p><p>Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I’ve gotten used to a certain type of computer interaction that Steve Jobs once decried as “ergonomically terrible”: working with a keyboard, but sometimes also touching the screen. Of course, that interaction became even more common</p>]]></content:encoded>
 <media:content url="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" medium="image" />
 <media:thumbnail url="https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg" />
-</item>
-<item>
-<title>US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing (New York Times)</title>
-<link>https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myywuv7muc24</guid>
-<pubDate>Thu, 29 Oct 2026 09:21:50 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
