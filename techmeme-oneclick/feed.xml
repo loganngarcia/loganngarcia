@@ -5,8 +5,46 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 19:14:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 22:53:28 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#x27;s PIF retains 51% (Dean Takahashi/GamesBeat)</title>
+<link>https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbtjbdlfu2t</guid>
+<pubDate>Sun, 01 Nov 2026 22:15:37 +0000</pubDate>
+<description>Saudi Arabia-based oil and energy firm Aramco has acquired a 49% stake in AI firm Humain for $2.6 billion today.</description>
+<content:encoded><![CDATA[<p><img src="https://gamesbeat.com/wp-content/uploads/2026/11/aramco.jpg" alt="" /></p><p>Saudi Arabia-based oil and energy firm Aramco has acquired a 49% stake in AI firm Humain for $2.6 billion today.</p>]]></content:encoded>
+<media:content url="https://gamesbeat.com/wp-content/uploads/2026/11/aramco.jpg" medium="image" />
+<media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2026/11/aramco.jpg" />
+</item>
+<item>
+<title>OpenAI plans a post-midterms policy and PR blitz, pushing mandatory &quot;speed limits&quot; for powerful AI and rebranding its data centers as &quot;AI compute campuses&quot; (Axios)</title>
+<link>https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbqysw4nv2n</guid>
+<pubDate>Sun, 01 Nov 2026 21:30:37 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How &quot;get-paid-to&quot; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders (John Herrman/New York Magazine)</title>
+<link>https://nymag.com/intelligencer/article/down-and-out-in-the-app-store.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzborbnsu52t</guid>
+<pubDate>Sun, 01 Nov 2026 20:50:37 +0000</pubDate>
+<description>Is getting paid to scroll a symptom of the economy or its entire future?</description>
+<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/957/7df/4b8de9e811df890e6bc621baf5814ec0b2-screentimelead-1029.1x.rsocial.w1200.jpg" alt="" /></p><p>Is getting paid to scroll a symptom of the economy or its entire future?</p>]]></content:encoded>
+<media:content url="https://pyxis.nymag.com/v1/imgs/957/7df/4b8de9e811df890e6bc621baf5814ec0b2-screentimelead-1029.1x.rsocial.w1200.jpg" medium="image" />
+<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/957/7df/4b8de9e811df890e6bc621baf5814ec0b2-screentimelead-1029.1x.rsocial.w1200.jpg" />
+</item>
+<item>
+<title>ServiceNow confirms it acquired Israeli startup Sweep to speed up customers&#x27; migrations to its CRM, for an undisclosed price estimated at hundreds of millions (Allon Sinai/CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/yxdvdp8sm</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzblg2hbig27</guid>
+<pubDate>Sun, 01 Nov 2026 19:50:39 +0000</pubDate>
+<description>Bill McDermott said rollouts now take &quot;a month … 30 days, 60 days&quot; for large companies, as ServiceNow pushes into CRM.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/04/27/ryf8MP36Wx/ryf8MP36Wx_509_123_1388_781_0_large.jpg" alt="" /></p><p>Bill McDermott said rollouts now take &quot;a month … 30 days, 60 days&quot; for large companies, as ServiceNow pushes into CRM.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/04/27/ryf8MP36Wx/ryf8MP36Wx_509_123_1388_781_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/04/27/ryf8MP36Wx/ryf8MP36Wx_509_123_1388_781_0_large.jpg" />
+</item>
 <item>
 <title>Analysis: candidates backing a data center moratorium could win up to 15 of 36 US governors&#x27; races on Tuesday, including in Texas, Ohio, Michigan, and New York (Shane Burke/The Information)</title>
 <link>https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races</link>
@@ -842,42 +880,6 @@
 <pubDate>Thu, 29 Oct 2026 15:16:09 +0000</pubDate>
 <description>From www.axios.com</description>
 <content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Ottawa-based Solink, which uses AI to pull data from already-installed security cameras, raised $100M+ led by Vertu Capital, bringing its total raised to $198M+ (Duncan Riley/SiliconANGLE)</title>
-<link>https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzk47mg5g26</guid>
-<pubDate>Thu, 29 Oct 2026 15:05:57 +0000</pubDate>
-<description>Solink raises more than $100M to pull business data from security cameras with AI - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2023/07/solink.jpg" alt="" /></p><p>Solink raises more than $100M to pull business data from security cameras with AI - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2023/07/solink.jpg" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2023/07/solink.jpg" />
-</item>
-<item>
-<title>Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price (Claire Rychlewski/Axios)</title>
-<link>https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myziprrcy42f</guid>
-<pubDate>Thu, 29 Oct 2026 14:41:06 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index (Radhika Rajkumar/ZDNET)</title>
-<link>https://www.zdnet.com/innovation/mistral-large-4-weights-release/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzi5px3d22t</guid>
-<pubDate>Thu, 29 Oct 2026 14:31:00 +0000</pubDate>
-<description>Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.</description>
-<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" alt="" /></p><p>Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.</p>]]></content:encoded>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" medium="image" />
-<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" />
-</item>
-<item>
-<title>Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 (Harshita Mary Varghese/Reuters)</title>
-<link>https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzg6taci427</guid>
-<pubDate>Thu, 29 Oct 2026 13:55:50 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
