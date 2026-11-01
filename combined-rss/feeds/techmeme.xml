@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 08:06:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 15:01:44 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021 (Gunjan Banerji/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fa6f25551e27266d2699.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzanvdtjjf2v</guid>
+<pubDate>Sun, 01 Nov 2026 11:02:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG" rel="related" type="text/html" />
+<description>With trillions of dollars riding on the artificial-intelligence trade, investors, traders and even tech executives are hunting for high-stakes protection.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76627623%2Fsocial" alt="" /></p><p>With trillions of dollars riding on the artificial-intelligence trade, investors, traders and even tech executives are hunting for high-stakes protection.</p><p><a href="https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76627623%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76627623%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-76627623%2Fsocial" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A look at a crude campaign of cyberattacks by Russia-linked hacktivist groups that have caused physical damage in NATO-aligned countries over the past two years (Ryan Gallagher/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/011f9c8e3eb8aef155ce.html</link>
@@ -829,20 +843,6 @@
 <media:content url="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" medium="image" type="image/png" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" />
 <enclosure url="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" type="image/png" length="0" />
-</item>
-<item>
-<title>On Amazon's earnings call, Andy Jassy says outside AI shopping agents are "still not great, nor more convenient than coming to a retailer directly" (Sebastian Herrera/Fortune)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5da4261f2fd45212773e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2j5gchwi2f</guid>
-<pubDate>Fri, 30 Oct 2026 00:21:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/" rel="related" type="text/html" />
-<description>In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" alt="" /></p><p>In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.</p><p><a href="https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" />
-<enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
