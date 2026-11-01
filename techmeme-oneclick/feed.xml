@@ -5,8 +5,52 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 14:43:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 19:14:32 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Analysis: candidates backing a data center moratorium could win up to 15 of 36 US governors&#x27; races on Tuesday, including in Texas, Ohio, Michigan, and New York (Shane Burke/The Information)</title>
+<link>https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbhrtrp6g2f</guid>
+<pubDate>Sun, 01 Nov 2026 18:45:40 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at VC-backed glossy magazine Colossus, whose glowing profiles of Zuckerberg and other tech titans win industry praise, as Kara Swisher says it is PR (Andrew Fedorov/The San Francisco Standard)</title>
+<link>https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbg455t5o2s</guid>
+<pubDate>Sun, 01 Nov 2026 18:15:37 +0000</pubDate>
+<description>A venture capitalist’s glossy quarterly wants to be The New Yorker for tech billionaires.</description>
+<content:encoded><![CDATA[<p><img src="https://assets.sfstandard.com/image/994911177489/image_l6om3i77f560574ritlsr0ql0q/-S1200x630-FPNG" alt="" /></p><p>A venture capitalist’s glossy quarterly wants to be The New Yorker for tech billionaires.</p>]]></content:encoded>
+<media:content url="https://assets.sfstandard.com/image/994911177489/image_l6om3i77f560574ritlsr0ql0q/-S1200x630-FPNG" medium="image" />
+<media:thumbnail url="https://assets.sfstandard.com/image/994911177489/image_l6om3i77f560574ritlsr0ql0q/-S1200x630-FPNG" />
+</item>
+<item>
+<title>Binance says net outflows were $3.64B, or 2.1% of assets, in the 9.5 hours after it began restoring withdrawals; DefiLlama puts 24-hour net outflows at $4.05B (Zack Abrams/The Block)</title>
+<link>https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbe5i5ias2t</guid>
+<pubDate>Sun, 01 Nov 2026 17:40:35 +0000</pubDate>
+<description>From www.theblock.co</description>
+<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
+</item>
+<item>
+<title>Google&#x27;s data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow (Amir Efrati/The Information)</title>
+<link>https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbc6wre5a2s</guid>
+<pubDate>Sun, 01 Nov 2026 17:05:36 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration&#x27;s AI policy (Harry Lambert/Colossus)</title>
+<link>https://colossus.com/article/michael-kratsios-office-frontier-ostp/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzb4uzgyae2l</guid>
+<pubDate>Sun, 01 Nov 2026 15:30:35 +0000</pubDate>
+<description>The fight to regulate AI and reform American science runs through a little-known White House office, and the Thiel-turned-Trump aide in charge of it</description>
+<content:encoded><![CDATA[<p><img src="https://colossus.com/wp-content/uploads/2026/10/Kratsios-preview-card-2.png" alt="" /></p><p>The fight to regulate AI and reform American science runs through a little-known White House office, and the Thiel-turned-Trump aide in charge of it</p>]]></content:encoded>
+<media:content url="https://colossus.com/wp-content/uploads/2026/10/Kratsios-preview-card-2.png" medium="image" />
+<media:thumbnail url="https://colossus.com/wp-content/uploads/2026/10/Kratsios-preview-card-2.png" />
+</item>
 <item>
 <title>Solve: the cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021 (Gunjan Banerji/Wall Street Journal)</title>
 <link>https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG</link>
@@ -834,48 +878,6 @@
 <pubDate>Thu, 29 Oct 2026 13:55:50 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation (Micah Barkley/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/ai-assistant-startup-wabi-raises-55-million-at-1-25-billion-value</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzfnemaja2t</guid>
-<pubDate>Thu, 29 Oct 2026 13:46:04 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/microsoft-kicks-off-first-us-high-grade-bond-sale-since-2017</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzf2xq5vd2f</guid>
-<pubDate>Thu, 29 Oct 2026 13:35:46 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more (John Collison/Cheeky Pint)</title>
-<link>https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzbz2q3bu2t</guid>
-<pubDate>Thu, 29 Oct 2026 12:41:01 +0000</pubDate>
-<description>From cheekypint.substack.com</description>
-<content:encoded><![CDATA[<p>From cheekypint.substack.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Q&amp;A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more (Ben Thompson/Stratechery)</title>
-<link>https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzbjindvy2i</guid>
-<pubDate>Thu, 29 Oct 2026 12:32:19 +0000</pubDate>
-<description>An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.</description>
-<content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" alt="" /></p><p>An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.</p>]]></content:encoded>
-<media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" medium="image" />
-<media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" />
-</item>
-<item>
-<title>Circuit Mind, which uses AI to automate electronics and circuit design, raised $25M, including an $18.5M Series A led by Norwest, and plans a US relocation (Natalie Breymeyer/Axios)</title>
-<link>https://www.axios.com/pro/all-deals/2026/10/28/circuit-mind-25m-ai-electronics-design</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzaomkgze2h</guid>
-<pubDate>Thu, 29 Oct 2026 12:17:17 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
