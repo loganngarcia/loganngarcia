@@ -5,8 +5,42 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 22:53:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 02:04:34 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Letter: the White House argues it doesn&#x27;t have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions (Leo Schwartz/The Information)</title>
+<link>https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzc7ary66v2s</guid>
+<pubDate>Mon, 02 Nov 2026 01:45:37 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan&#x27;s Walden Catalyst; it has raised $50M to date (Geoff Weiss/Business Insider)</title>
+<link>https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzc5l5a37p2t</guid>
+<pubDate>Mon, 02 Nov 2026 01:15:37 +0000</pubDate>
+<description>Backed by Intel CEO Lip-Bu Tan&#x27;s VC firm, Hyperbolic raised $30 million to make it easier for companies to rent compute across different AI clouds.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6adf996ac8572251b1980211?width=1200&amp;format=jpeg" alt="" /></p><p>Backed by Intel CEO Lip-Bu Tan&#x27;s VC firm, Hyperbolic raised $30 million to make it easier for companies to rent compute across different AI clouds.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6adf996ac8572251b1980211?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6adf996ac8572251b1980211?width=1200&amp;format=jpeg" />
+</item>
+<item>
+<title>A look at Binance&#x27;s efforts to contain the hack, including creating a global war room of ~100 people, coordinating with other crypto firms and the FBI, and more (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-31/rogue-code-2-test-runs-and-no-sleep-inside-the-binance-hack</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzc27ulkzn27</guid>
+<pubDate>Mon, 02 Nov 2026 00:15:37 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How IShowSpeed became YouTube&#x27;s top livestreamer with 62M+ subscribers, as his 24/7 &quot;IRL streams&quot; that last days mingle childlike wonder with teenage mischief (Jon Caramanica/New York Times)</title>
+<link>https://www.nytimes.com/2026/10/29/magazine/ishowspeed-america-tour-livestream.html?unlocked_article_code=1.MVE.2S6N.BZdzqpeTtD8j&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbwurlvqo2v</guid>
+<pubDate>Sun, 01 Nov 2026 23:15:44 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#x27;s PIF retains 51% (Dean Takahashi/GamesBeat)</title>
 <link>https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b/</link>
@@ -848,38 +882,6 @@
 <pubDate>Thu, 29 Oct 2026 16:16:14 +0000</pubDate>
 <description>From www.politico.com</description>
 <content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Canada-based Cohere completes the first close of a round that it expects to total up to $5B, with Canada agreeing to invest up to $1.14B, at a $20.5B valuation (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myznqtpvfu2l</guid>
-<pubDate>Thu, 29 Oct 2026 16:11:10 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Situational Awareness is pitching clients to invest in Fluidstack alongside it in a round that values the neocloud at $40B, up from $18B in September (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/situational-awareness-pitches-investors-on-fluidstack-fundraise</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myznhqtw542t</guid>
-<pubDate>Thu, 29 Oct 2026 16:06:05 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The UK FCA, which sued Justin Sun-linked crypto exchange HTX in 2025 for &quot;unlawfully promoting crypto asset services&quot;, says HTX will exit the UK in a settlement (Financial Times)</title>
-<link>https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?accessToken=zwAAAaGH5sPHkc9Uwjbvr3pA39OfD6vz1sgl0g.MEUCIGQ8rE8WIjOcep-oKi8Udw7YBYD5v0QqOa_A7Zk8I5WoAiEA7dyy_tqO0pfOLIUI-hRE_N7sHiukV98-c7snAM_rvkU&amp;sharetype=gift&amp;token=79c04867-fa52-4e5e-a203-5f1a092f1136&amp;syn-25a6b1a6=1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzladhzrb24</guid>
-<pubDate>Thu, 29 Oct 2026 15:26:09 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Collective, which uses AI to automate bookkeeping for solo business owners, raised a $40M Series B and $60M in nondilutive capital from GC&#x27;s Customer Value Fund (Natalie Breymeyer/Axios)</title>
-<link>https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3myzkogxncx2h</guid>
-<pubDate>Thu, 29 Oct 2026 15:16:09 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
