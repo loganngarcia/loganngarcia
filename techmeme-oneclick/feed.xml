@@ -5,8 +5,250 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 09:22:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 19:40:24 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying &quot;automation and AI are fundamentally shifting how software companies operate&quot; (Liam Proven/The Register)</title>
+<link>https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdzwlnkb226</guid>
+<pubDate>Mon, 02 Nov 2026 19:15:46 +0000</pubDate>
+<description>&#x27;Modern tooling is already changing our daily workflows&#x27; says CEO at open source biz</description>
+<content:encoded><![CDATA[<p><img src="https://image.theregister.com/5243339.jpg?imageId=5243339&amp;x=0&amp;y=2.5&amp;cropw=100&amp;croph=71.67&amp;panox=0&amp;panoy=2.5&amp;panow=100&amp;panoh=71.67&amp;width=1200&amp;height=683" alt="" /></p><p>&#x27;Modern tooling is already changing our daily workflows&#x27; says CEO at open source biz</p>]]></content:encoded>
+<media:content url="https://image.theregister.com/5243339.jpg?imageId=5243339&amp;x=0&amp;y=2.5&amp;cropw=100&amp;croph=71.67&amp;panox=0&amp;panoy=2.5&amp;panow=100&amp;panoh=71.67&amp;width=1200&amp;height=683" medium="image" />
+<media:thumbnail url="https://image.theregister.com/5243339.jpg?imageId=5243339&amp;x=0&amp;y=2.5&amp;cropw=100&amp;croph=71.67&amp;panox=0&amp;panoy=2.5&amp;panow=100&amp;panoh=71.67&amp;width=1200&amp;height=683" />
+</item>
+<item>
+<title>OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain (OpenAI)</title>
+<link>https://openai.com/index/grid-protectors-program</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdwuec2sd2n</guid>
+<pubDate>Mon, 02 Nov 2026 18:20:50 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M (John Werner/Forbes)</title>
+<link>https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdv6moamr2h</guid>
+<pubDate>Mon, 02 Nov 2026 17:50:46 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>DeepSeek releases a &quot;creator mode&quot; that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench (Debby Wu/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdumscp2d2l</guid>
+<pubDate>Mon, 02 Nov 2026 17:40:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic confirms new Claude Code limits &quot;to steer it away from recreating someone else&#x27;s specific game&quot;, saying IP infringement violates its usage policy (Bruno Ferreira/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdsobf7nj2t</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:50 +0000</pubDate>
+<description>Meanwhile, we now have direct reports of reverse engineering efforts being blocked, while online complaints grow.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/qziRh5FuRAUAAnNS3QuCiU-2070-80.jpg" alt="" /></p><p>Meanwhile, we now have direct reports of reverse engineering efforts being blocked, while online complaints grow.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/qziRh5FuRAUAAnNS3QuCiU-2070-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/qziRh5FuRAUAAnNS3QuCiU-2070-80.jpg" />
+</item>
+<item>
+<title>Israeli startup 42AI, which is developing a &quot;behavioral world model&quot; that tries to predict human behavior, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdrl3usm527</guid>
+<pubDate>Mon, 02 Nov 2026 16:46:10 +0000</pubDate>
+<description>Here&#x27;s a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895" alt="" /></p><p>Here&#x27;s a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895" />
+</item>
+<item>
+<title>Amended S-1: Anthropic says it has purchase commitments and lease agreements of $895.4B, &quot;substantially all of which is related to compute and infrastructure&quot; (Ashley Capoot/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdqyh4d6x2t</guid>
+<pubDate>Mon, 02 Nov 2026 16:35:44 +0000</pubDate>
+<description>Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company&#x27;s financials through the first half of the year.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080" alt="" /></p><p>Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company&#x27;s financials through the first half of the year.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Putin orders owners of non-state data centers to reserve 10% of capacity for Russia&#x27;s IT infrastructure after Ukrainian drone attacks on Russian facilities (Reuters)</title>
+<link>https://www.reuters.com/technology/putin-orders-private-data-centres-set-aside-10-capacity-support-it-2026-11-02/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdqgnqgto2h</guid>
+<pubDate>Mon, 02 Nov 2026 16:25:47 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of OpenAI VP of Global Creative Partnerships Charles Porch, hired from Meta, who is using his Instagram playbook to rehabilitate AI&#x27;s cultural image (Charlotte Klein/New York Magazine)</title>
+<link>https://nymag.com/intelligencer/article/charles-porch-openai-sam-altman-instagram-gwyneth-paltrow.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdoieak7e2t</guid>
+<pubDate>Mon, 02 Nov 2026 15:50:57 +0000</pubDate>
+<description>He is rich, super-connected, and tasked with getting celebrities to like AI.</description>
+<content:encoded><![CDATA[<p><img src="https://pyxis.nymag.com/v1/imgs/1bc/710/7a64e6033215570cb5168fb9a84a2dd609-75840027.1x.rsocial.w1200.jpg" alt="" /></p><p>He is rich, super-connected, and tasked with getting celebrities to like AI.</p>]]></content:encoded>
+<media:content url="https://pyxis.nymag.com/v1/imgs/1bc/710/7a64e6033215570cb5168fb9a84a2dd609-75840027.1x.rsocial.w1200.jpg" medium="image" />
+<media:thumbnail url="https://pyxis.nymag.com/v1/imgs/1bc/710/7a64e6033215570cb5168fb9a84a2dd609-75840027.1x.rsocial.w1200.jpg" />
+</item>
+<item>
+<title>Sources detail Anthropic&#x27;s compute deal spree: 3.5GW+ in expected capacity in 2026, expanding direct hardware procurement to include Nvidia and AMD, and more (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdmteetx22f</guid>
+<pubDate>Mon, 02 Nov 2026 15:21:19 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filings: Oracle is selling $10B in common stock and $10B in bonds, as it rushes to line up financing to pay for its data center buildout; ORCL falls 5%+ (Kelly Cloonan/Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/oracle-looks-to-raise-20-billion-to-fund-ai-ambitions-582c814f?st=19tHqn&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdmjlqepk2v</guid>
+<pubDate>Mon, 02 Nov 2026 15:15:51 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Apple is developing a tabletop robot with a 9&quot; screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics (Aaron Tilley/The Information)</title>
+<link>https://www.theinformation.com/articles/inside-apples-slog-create-first-robot</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdlfkwdyh2f</guid>
+<pubDate>Mon, 02 Nov 2026 14:55:42 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>S-1: Anthropic reports Q3 revenue up 12x YoY to nearly $17B, a net loss of $23.3B, up from $12.1B in Q3 2025, and operating expenses up 292% to $17.5B (Bailey Lipschultz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdkvjtmdu2f</guid>
+<pubDate>Mon, 02 Nov 2026 14:46:44 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Memo: Alphabet is issuing €6B in euro-denominated debt across seven tranches, attracting €17B+ of demand; the company sold €9B of bonds earlier in 2026 (Reuters)</title>
+<link>https://www.reuters.com/business/finance/alphabet-kicks-off-6-billion-bond-sale-tests-appetite-tech-debt-2026-11-02/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdkchmxsh2f</guid>
+<pubDate>Mon, 02 Nov 2026 14:36:04 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Email: OpenAI plans to merge ChatGPT&#x27;s Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience (Ivan Mehta/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdjq23uys2t</guid>
+<pubDate>Mon, 02 Nov 2026 14:25:46 +0000</pubDate>
+<description>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" /></p><p>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Elon Musk says the cost of serving Grok Bot was &quot;unsustainably high relative to revenue&quot;, following subscriber complaints regarding rapid usage limit depletion (Siladitya Ray/Forbes)</title>
+<link>https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdfju4hgm2v</guid>
+<pubDate>Mon, 02 Nov 2026 13:10:43 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at AI safety debates and the rising popularity of &quot;Stop Unilaterally + Raise Awareness&quot;, or SURA; safety-focused AI labs shouldn&#x27;t abandon the AI race (Scott Alexander/LessWrong)</title>
+<link>https://www.lesswrong.com/posts/xikGZ8fuhdG6DApAo/against-sura</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdfax5xaf2f</guid>
+<pubDate>Mon, 02 Nov 2026 13:05:45 +0000</pubDate>
+<description>The AI Futures Project[1] distinguishes several different plans for navigating the AI transition, which I&#x27;ll lump into two broader categories: …</description>
+<content:encoded><![CDATA[<p><img src="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xikGZ8fuhdG6DApAo/dbafx1l9pilqpnobqbpb" alt="" /></p><p>The AI Futures Project[1] distinguishes several different plans for navigating the AI transition, which I&#x27;ll lump into two broader categories: …</p>]]></content:encoded>
+<media:content url="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xikGZ8fuhdG6DApAo/dbafx1l9pilqpnobqbpb" medium="image" />
+<media:thumbnail url="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/xikGZ8fuhdG6DApAo/dbafx1l9pilqpnobqbpb" />
+</item>
+<item>
+<title>Analysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, including $216M to America PAC, the highest non-candidate spend ever (Theodore Schleifer/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdeoxzo7w2h</guid>
+<pubDate>Mon, 02 Nov 2026 12:55:41 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies (Rest of World)</title>
+<link>https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzddudcf3n24</guid>
+<pubDate>Mon, 02 Nov 2026 12:40:47 +0000</pubDate>
+<description>A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.</description>
+<content:encoded><![CDATA[<p><img src="https://restofworld.org/wp-content/uploads/2026/10/illo_alignment_final.jpg" alt="" /></p><p>A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.</p>]]></content:encoded>
+<media:content url="https://restofworld.org/wp-content/uploads/2026/10/illo_alignment_final.jpg" medium="image" />
+<media:thumbnail url="https://restofworld.org/wp-content/uploads/2026/10/illo_alignment_final.jpg" />
+</item>
+<item>
+<title>Marvell&#x27;s $115B Lumentum acquisition is one of the biggest tech deals ever and 2026&#x27;s top M&amp;A deal; Lumentum is up 128% YTD, giving it a ~$76B market cap (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzddedtjp72s</guid>
+<pubDate>Mon, 02 Nov 2026 12:31:51 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&amp;T rebuffed requests for network access (Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdczomcbq2n</guid>
+<pubDate>Mon, 02 Nov 2026 12:25:53 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Marvell agrees to acquire optical components maker Lumentum in a $115B deal, as it seeks to rival Broadcom; Nvidia invested $2B in both Marvell and Lumentum (Anhata Rooprai/Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdcrfyfyv2t</guid>
+<pubDate>Mon, 02 Nov 2026 12:21:16 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Supermarkets across Belgium and Sweden report sudden overnight temperature spikes in fridges and freezers due to suspected hacks, mirroring French cyberattacks (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdasjei7a2t</guid>
+<pubDate>Mon, 02 Nov 2026 11:46:05 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Investigation: a network of 400+ domains and apps linked to Chinese-language developers bypasses app store reviews to generate nonconsensual deepfakes and CSAM (Matt Burgess/Wired)</title>
+<link>https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzdaajs4op26</guid>
+<pubDate>Mon, 02 Nov 2026 11:36:02 +0000</pubDate>
+<description>WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg" alt="" /></p><p>WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6adfc11328ba980ed3d0219a/191:100/w_1280,c_limit/Security_ChinaAppsBehindDeepFakes_v1.jpg" />
+</item>
+<item>
+<title>British physicist and materials scientist Cyril Hilsum, widely recognized as &quot;the father of liquid crystals&quot; for enabling flat-panel display tech, died at 101 (Michael S. Rosenwald/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html?unlocked_article_code=1.NFE.gD-P.2F70K4AuzFTo&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzd744lkxf2f</guid>
+<pubDate>Mon, 02 Nov 2026 11:15:40 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Ukraine says its air raid alert app was compromised late Sunday, sending false warnings of &quot;nuclear danger&quot;; Russia confirms a similar hack of its alerts app (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzd5ycbjxd2v</guid>
+<pubDate>Mon, 02 Nov 2026 10:55:38 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: Anthropic plans to raise up to $3.5B from Japanese investors as part of its IPO, joining Australia, Canada, and parts of Europe in having direct access (Yasutaka Tamura/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzd55kdyj22s</guid>
+<pubDate>Mon, 02 Nov 2026 10:40:41 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Fan fiction site AO3 says it could take two to four weeks to restore service after a security incident; AO3 hosts 18M+ works and has 11M+ registered users (Bruce Gil/Gizmodo)</title>
+<link>https://gizmodo.com/popular-fan-fiction-site-ao3-could-be-offline-for-a-month-following-security-incident-2000833091</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzczsa5wd626</guid>
+<pubDate>Mon, 02 Nov 2026 09:40:40 +0000</pubDate>
+<description>From gizmodo.com</description>
+<content:encoded><![CDATA[<p>From gizmodo.com</p>]]></content:encoded>
+</item>
 <item>
 <title>A profile of UCLA professor Terence Tao, who was once enthusiastic about AI&#x27;s role in math but now warns of AI destroying the field&#x27;s deliberative process (Rivka Galchen/New Yorker)</title>
 <link>https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever?currentPage=all</link>
@@ -644,250 +886,6 @@
 <pubDate>Fri, 30 Oct 2026 09:40:58 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)</title>
-<link>https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3fdtbtnn2f</guid>
-<pubDate>Fri, 30 Oct 2026 08:46:03 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How a wave of startups are betting on AI to make formal software verification practical and essential, including &amp;Truth, which launches with a $70M seed (Paresh Dave/Wired)</title>
-<link>https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz35sllxko2f</guid>
-<pubDate>Fri, 30 Oct 2026 06:31:09 +0000</pubDate>
-<description>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" alt="" /></p><p>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6ae296f756ee4dcb93f119e9/191:100/w_1280,c_limit/Business_Software%20Verification%20Is%20the%20Hot%20New%20Answer%20to%20the%20AI%20Safety%20Crisis_v1.jpg" />
-</item>
-<item>
-<title>TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)</title>
-<link>https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2yv5mwog2n</guid>
-<pubDate>Fri, 30 Oct 2026 05:03:06 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)</title>
-<link>https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2y7k5wq32i</guid>
-<pubDate>Fri, 30 Oct 2026 04:51:01 +0000</pubDate>
-<description>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" alt="" /></p><p>Blockchain data shows that funds started being withdrawn from Binance wallets at about 4.24am Hong Kong time on Friday.</p>]]></content:encoded>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" medium="image" />
-<media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/5eeed08c-a5dc-407b-ac1f-615e1cbc2823_04612427.jpg?itok=PPU2nsr_&amp;v=1793330533" />
-</item>
-<item>
-<title>CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)</title>
-<link>https://www.nbcnews.com/tech/security/china-linked-hackers-used-ai-target-200-organizations-crowdstrike-says-rcna606343</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2viv2gmj2i</guid>
-<pubDate>Fri, 30 Oct 2026 04:02:33 +0000</pubDate>
-<description>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</description>
-<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" alt="" /></p><p>Chinese state-linked hackers targeted more than 200 organizations in just 11 days, using AI to attack governments and businesses worldwide, according to CrowdStrike.</p>]]></content:encoded>
-<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" medium="image" />
-<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-deepseek-vl-1105a-9f737a.jpg" />
-</item>
-<item>
-<title>Sources: DeepSeek doubled its latest round&#x27;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)</title>
-<link>https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2tz7dk462f</guid>
-<pubDate>Fri, 30 Oct 2026 03:35:53 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)</title>
-<link>https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?st=f8ABT1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2smtc6vg2s</guid>
-<pubDate>Fri, 30 Oct 2026 03:11:04 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2qxo2ckc2v</guid>
-<pubDate>Fri, 30 Oct 2026 02:41:20 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz (Katherine Doherty/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/nyse-owner-plans-market-for-hyperliquid-perpetual-futures-in-us</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2pbhtkjr27</guid>
-<pubDate>Fri, 30 Oct 2026 02:11:02 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Binance &quot;temporarily suspended&quot; all deposits and withdrawals as it investigates security issues and works with law enforcement; Binance.US says it&#x27;s unaffected (George Steer/Financial Times)</title>
-<link>https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2nd6p6er24</guid>
-<pubDate>Fri, 30 Oct 2026 01:36:12 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours (Elias Schisgall/MarketWatch)</title>
-<link>https://www.marketwatch.com/story/twilio-lifts-outlook-after-higher-3q-profit-revenue-c94a2d4f</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2m7fk2kn2n</guid>
-<pubDate>Fri, 30 Oct 2026 01:16:11 +0000</pubDate>
-<description>From www.marketwatch.com</description>
-<content:encoded><![CDATA[<p>From www.marketwatch.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Andy Jassy says Prime Video has &quot;a revenue run rate in the tens of billions of dollars and is now profitable in its own right&quot; (Julie Bort/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2lx75xhp2h</guid>
-<pubDate>Fri, 30 Oct 2026 01:11:36 +0000</pubDate>
-<description>The success of blockbuster hits like &quot;Project Hail Mary&quot; and &quot;Verity&quot; is only part of the story, Amazon&#x27;s CEO says.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" alt="" /></p><p>The success of blockbuster hits like &quot;Project Hail Mary&quot; and &quot;Verity&quot; is only part of the story, Amazon&#x27;s CEO says.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767" />
-</item>
-<item>
-<title>Meta quietly launches Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they own, in Indonesia, Singapore, and Thailand (Aisha Malik/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2kapcoos2f</guid>
-<pubDate>Fri, 30 Oct 2026 00:41:07 +0000</pubDate>
-<description>The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" alt="" /></p><p>The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625" />
-</item>
-<item>
-<title>On Amazon&#x27;s earnings call, Andy Jassy says outside AI shopping agents are &quot;still not great, nor more convenient than coming to a retailer directly&quot; (Sebastian Herrera/Fortune)</title>
-<link>https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2j5gchwi2f</guid>
-<pubDate>Fri, 30 Oct 2026 00:21:24 +0000</pubDate>
-<description>In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" alt="" /></p><p>In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Sandisk reports Q1 revenue up 378% YoY to $11B, vs. $10.7B est., forecasts Q2 revenue above est., announces an 8-for-1 stock split; SNDK drops 4%+ after hours (MarketWatch)</title>
-<link>https://www.morningstar.com/news/marketwatch/20261029556/sandisk-sees-revenue-nearly-quintuple-and-a-stock-split-is-on-the-way</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2ge5rrlq2f</guid>
-<pubDate>Thu, 29 Oct 2026 23:31:28 +0000</pubDate>
-<description>From www.morningstar.com</description>
-<content:encoded><![CDATA[<p>From www.morningstar.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Pinterest reports Q3 revenue up 12% YoY to $1.17B, vs. $1.21B est., global MAUs up 10% to 661M, and forecasts Q4 revenue below est.; PINS drops 8%+ after hours (Liz Moyer/Barron&#x27;s Online)</title>
-<link>https://www.barrons.com/articles/pinterest-earnings-stock-price-ec2101b6</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2froi3tb2n</guid>
-<pubDate>Thu, 29 Oct 2026 23:21:08 +0000</pubDate>
-<description>From www.barrons.com</description>
-<content:encoded><![CDATA[<p>From www.barrons.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Polymarket resumes trading after a security incident with a third-party provider, which a source says is DebugBear, and says it will reimburse affected traders (Reuters)</title>
-<link>https://www.reuters.com/business/polymarket-reports-major-outage-suspends-trading-actions-2026-10-29/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2ewncj6o2t</guid>
-<pubDate>Thu, 29 Oct 2026 23:06:01 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use (Phoebe Liu/The Information)</title>
-<link>https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2eexsruz26</guid>
-<pubDate>Thu, 29 Oct 2026 22:56:08 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Binance says it is investigating a &quot;potential security issue&quot; as suspicious outflows reach up to $5.8B; Tether freezes 1.5B+ USDT, Circle freezes 800M+ USDC (The Block)</title>
-<link>https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2cp4d22w2h</guid>
-<pubDate>Thu, 29 Oct 2026 22:26:01 +0000</pubDate>
-<description>From www.theblock.co</description>
-<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
-</item>
-<item>
-<title>Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains (Olga Kharif/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz2azpc7jj2s</guid>
-<pubDate>Thu, 29 Oct 2026 21:56:09 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Roblox reports Q3 bookings down 12% YoY to $1.7B, vs. $1.63B est., and DAUs down 9% to 138M, vs. 145.8M est.; RBLX drops 16%+ after hours (Cecilia D&#x27;Anastasio/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz27e7cvuk2f</guid>
-<pubDate>Thu, 29 Oct 2026 21:26:14 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Instagram is offering select creators $50K to $500K to cross-post their long-form YouTube content to its new &quot;Features&quot; product (Business Insider)</title>
-<link>https://www.businessinsider.com/instagram-offers-youtube-creators-six-figure-longform-video-deals-2026-10</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz26izry5h2s</guid>
-<pubDate>Thu, 29 Oct 2026 21:11:02 +0000</pubDate>
-<description>Instagram is offering select creators six-figure deals, some of which have reached $500,000, to post long-form videos to its new &quot;Features&quot; product.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6ae37da1f48fadd1d8881e72?width=1200&amp;format=jpeg" alt="" /></p><p>Instagram is offering select creators six-figure deals, some of which have reached $500,000, to post long-form videos to its new &quot;Features&quot; product.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6ae37da1f48fadd1d8881e72?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6ae37da1f48fadd1d8881e72?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Amazon reports Q3 AWS revenue up 39% YoY to $45.98B, above $45.29B est., and AWS operating income up 55% to $17.77B, above $16.97B est. (Jordan Novet/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz25okyqtb2h</guid>
-<pubDate>Thu, 29 Oct 2026 20:56:14 +0000</pubDate>
-<description>Amazon&#x27;s cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" alt="" /></p><p>Amazon&#x27;s cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108293854-1776683960801-gettyimages-2272185412-3h4a2784_ulewp7vl.jpeg?v=1793304670&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Sources: Google, Meta, and other tech companies are resisting broad ICE user data demands as they face potential Democratic-led congressional investigations (Wall Street Journal)</title>
-<link>https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?st=BLSqTK&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz25fdmkxc2f</guid>
-<pubDate>Thu, 29 Oct 2026 20:51:04 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic&#x27;s supply-chain automation technology across its distribution network (Sanskriti Shekhar/Reuters)</title>
-<link>https://www.reuters.com/technology/walmart-commits-6-billion-expand-symbotic-deal-2026-10-29/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz24tpseth26</guid>
-<pubDate>Thu, 29 Oct 2026 20:41:13 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours (Jonathan Vanian/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz24fa7cf62i</guid>
-<pubDate>Thu, 29 Oct 2026 20:33:07 +0000</pubDate>
-<description>Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" alt="" /></p><p>Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Amazon spent $77B+ on property and equipment in Q3, leading to a free cash outflow of $42.4B; Amazon said in July that it would likely spend $220B in 2026 capex (Matt Day/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz24bkk42c24</guid>
-<pubDate>Thu, 29 Oct 2026 20:31:04 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Intel reports Q3 revenue up 21% YoY to $16.5B, vs. $16.5B est., and forecasts Q4 revenue and adjusted EPS below estimates; INTC drops 16%+ after hours (Katie Tarasov/CNBC)</title>
-<link>https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz23yqe3v326</guid>
-<pubDate>Thu, 29 Oct 2026 20:26:08 +0000</pubDate>
-<description>Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&amp;w=1920&amp;h=1080" alt="" /></p><p>Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
