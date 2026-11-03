@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 16:58:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:14:15 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>JEPA Just Proved The Platonic Representation Hypothesis</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c9b2e5756488af7c2a1.html</link>
+<guid isPermaLink="false">combined:ebb3b650496289d836bf2b4cca2ea8ed0e242cc3</guid>
+<pubDate>Tue, 03 Nov 2026 18:30:00 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/jepa-just-proved-the-platonic-representation-hypothesis" rel="related" type="text/html" />
+<description>plus more about Training Models with a Single Algorithm, How to Loop Your Transformer, MTP done right, and Evolving Agent Teams</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" alt="" /></p><p>plus more about Training Models with a Single Algorithm, How to Loop Your Transformer, MTP done right, and Evolving Agent Teams</p><p><a href="https://mail.bycloud.ai/p/jepa-just-proved-the-platonic-representation-hypothesis">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Softmax Has Been Broken This Whole Time?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/06292a5fe49f6be8524b.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fc2960e0-8280-4123-b4f9-9358761d456f/issue_115.jpg?t=1783448016" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fc2960e0-8280-4123-b4f9-9358761d456f/issue_115.jpg?t=1783448016" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fc2960e0-8280-4123-b4f9-9358761d456f/issue_115.jpg?t=1783448016" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>DeepSeek Just dropped a new speculative decoding method!</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/442fe32272dc7ad034df.html</link>
-<guid isPermaLink="false">combined:940266120c27ff6129ee3ac1057427474ca76f67</guid>
-<pubDate>Tue, 30 Jun 2026 19:30:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/deepseek-just-dropped-a-new-speculative-decoding-method" rel="related" type="text/html" />
-<description>plus more about Tapered LMs, Improved LLDMs, AutoData, and You Don't Need To Run Every Eval</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" alt="" /></p><p>plus more about Tapered LMs, Improved LLDMs, AutoData, and You Don't Need To Run Every Eval</p><p><a href="https://mail.bycloud.ai/p/deepseek-just-dropped-a-new-speculative-decoding-method">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4bdd02c0-a05b-4aaa-b590-f1f46af1ea1d/issue_114.jpg?t=1782845888" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>
