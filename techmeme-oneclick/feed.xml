@@ -5,8 +5,128 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 19:40:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:47:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)</title>
+<link>https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzeodc3t5i2t</guid>
+<pubDate>Tue, 03 Nov 2026 01:20:46 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>John Ternus says Apple expects memory costs to increase into December and beyond; Apple&#x27;s inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzeo2g2voa2l</guid>
+<pubDate>Tue, 03 Nov 2026 01:15:49 +0000</pubDate>
+<description>Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800" alt="" /></p><p>Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzemepq3vd2i</guid>
+<pubDate>Tue, 03 Nov 2026 00:45:47 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzek57heds27</guid>
+<pubDate>Tue, 03 Nov 2026 00:05:48 +0000</pubDate>
+<description>The one-year-old startup is now valued at $300 million.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900" alt="" /></p><p>The one-year-old startup is now valued at $300 million.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900" />
+</item>
+<item>
+<title>Anthropic S-1 claims it may &quot;imminently meet&quot; its RSI threshold and may fail to identify &quot;significant acceleration&quot; in its development until after it&#x27;s occurred (Julie Bort/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzegrxb3m524</guid>
+<pubDate>Mon, 02 Nov 2026 23:05:49 +0000</pubDate>
+<description>RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" alt="" /></p><p>RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" />
+</item>
+<item>
+<title>Brazil&#x27;s largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46.4M in assets, per Arkham; Tether froze 4.5M+ USDT in response (Jason Shubnell/The Block)</title>
+<link>https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzefxyhij52f</guid>
+<pubDate>Mon, 02 Nov 2026 22:51:18 +0000</pubDate>
+<description>From www.theblock.co</description>
+<content:encoded><![CDATA[<p>From www.theblock.co</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzedponhgi2s</guid>
+<pubDate>Mon, 02 Nov 2026 22:10:51 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)</title>
+<link>https://www.thewrap.com/industry-news/business/apple-earnings-q4-2026/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzed6qaepn2f</guid>
+<pubDate>Mon, 02 Nov 2026 22:01:23 +0000</pubDate>
+<description>Apple reported fourth quarter earnings that saw the tech giant reach an all-time high in services with $31.57 billion coming in for Apple TV, Apple Music, iCloud, the App Store and more.</description>
+<content:encoded><![CDATA[<p><img src="https://www.thewrap.com/wp-content/uploads/2026/05/033126-Apple-Earnings-Art.jpg" alt="" /></p><p>Apple reported fourth quarter earnings that saw the tech giant reach an all-time high in services with $31.57 billion coming in for Apple TV, Apple Music, iCloud, the App Store and more.</p>]]></content:encoded>
+<media:content url="https://www.thewrap.com/wp-content/uploads/2026/05/033126-Apple-Earnings-Art.jpg" medium="image" />
+<media:thumbnail url="https://www.thewrap.com/wp-content/uploads/2026/05/033126-Apple-Earnings-Art.jpg" />
+</item>
+<item>
+<title>Apple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, and Wearables, Home, and Accessories down 8% to $8.3B (Marcus Mendes/9to5Mac)</title>
+<link>https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzecm5cyjg24</guid>
+<pubDate>Mon, 02 Nov 2026 21:50:59 +0000</pubDate>
+<description>Apple just released its earnings report for the fourth fiscal quarter of 2026. Here’s the full breakdown.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple just released its earnings report for the fourth fiscal quarter of 2026. Here’s the full breakdown.</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., and net income up 12% to $30.7B, in John Ternus&#x27; first earnings report (Apple)</title>
+<link>https://www.businesswire.com/news/home/20261102433950/en/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzec2h2r5t2n</guid>
+<pubDate>Mon, 02 Nov 2026 21:41:05 +0000</pubDate>
+<description>From www.businesswire.com</description>
+<content:encoded><![CDATA[<p>From www.businesswire.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Palantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% to $984M, and raises FY 2026 revenue guidance to ~$8.53B (Samantha Subin/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzebhzgvha2f</guid>
+<pubDate>Mon, 02 Nov 2026 21:30:47 +0000</pubDate>
+<description>Palantir&#x27;s commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&amp;w=1920&amp;h=1080" alt="" /></p><p>Palantir&#x27;s commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108369598-1790701524916-gettyimages-2297198796-TRUMP_TECH_AI.jpeg?v=1790701583&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Roku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M (Todd Spangler/Variety)</title>
+<link>https://variety.com/2026/tv/news/roku-q3-2026-earnings-media-advertising-sales-growth-1236937827/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzean7o2az2f</guid>
+<pubDate>Mon, 02 Nov 2026 21:15:47 +0000</pubDate>
+<description>Roku reported Q3 2026 earnings results, with growth of 24% to $1.5 billion in revenue as media and entertainment ad spending growth hit a four-year high.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/11/Roku-Toy-Story-5-Screensaver.png?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Roku reported Q3 2026 earnings results, with growth of 24% to $1.5 billion in revenue as media and entertainment ad spending growth hit a four-year high.</p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/11/Roku-Toy-Story-5-Screensaver.png?w=1000&amp;h=563&amp;crop=1" medium="image" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/11/Roku-Toy-Story-5-Screensaver.png?w=1000&amp;h=563&amp;crop=1" />
+</item>
+<item>
+<title>Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B&#x27;s weights to make it better at math (Rikiya Takehi)</title>
+<link>https://rikiyat.github.io/blog/weight-space-programming/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mze4j6vydo2h</guid>
+<pubDate>Mon, 02 Nov 2026 20:01:57 +0000</pubDate>
+<description>We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms.</description>
+<content:encoded><![CDATA[<p><img src="https://rikiyat.github.io/images/blog/weight-space-programming.png" alt="" /></p><p>We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms.</p>]]></content:encoded>
+<media:content url="https://rikiyat.github.io/images/blog/weight-space-programming.png" medium="image" />
+<media:thumbnail url="https://rikiyat.github.io/images/blog/weight-space-programming.png" />
+</item>
 <item>
 <title>Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying &quot;automation and AI are fundamentally shifting how software companies operate&quot; (Liam Proven/The Register)</title>
 <link>https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950</link>
@@ -390,8 +510,10 @@
 <link>https://www.nytimes.com/2026/10/29/magazine/ishowspeed-america-tour-livestream.html?unlocked_article_code=1.MVE.2S6N.BZdzqpeTtD8j&amp;smid=url-share</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzbwurlvqo2v</guid>
 <pubDate>Sun, 01 Nov 2026 23:15:44 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+<description>Livestreaming is unstoppably ascendant — and often boring. IShowSpeed became the king of the form by bringing his act into the real world.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/08/magazine/08mag-ishowspeed-14/08mag-ishowspeed-14-facebookJumbo.jpg" alt="" /></p><p>Livestreaming is unstoppably ascendant — and often boring. IShowSpeed became the king of the form by bringing his act into the real world.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/11/08/magazine/08mag-ishowspeed-14/08mag-ishowspeed-14-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/11/08/magazine/08mag-ishowspeed-14/08mag-ishowspeed-14-facebookJumbo.jpg" />
 </item>
 <item>
 <title>Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#x27;s PIF retains 51% (Dean Takahashi/GamesBeat)</title>
@@ -774,118 +896,6 @@
 <content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HV5MwwNWAAA5hUI?format=webp&amp;name=large" alt="" /></p><p>We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do. We’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. Newer accounts ke…</p>]]></content:encoded>
 <media:content url="https://pbs.twimg.com/media/HV5MwwNWAAA5hUI?format=webp&amp;name=large" medium="image" />
 <media:thumbnail url="https://pbs.twimg.com/media/HV5MwwNWAAA5hUI?format=webp&amp;name=large" />
-</item>
-<item>
-<title>Google says its Suncatcher prototype data center satellite is online after an October 1 launch, with Gemma 4 generating a haiku about being in space (Tim Fernholz/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4gmcrri42f</guid>
-<pubDate>Fri, 30 Oct 2026 18:41:22 +0000</pubDate>
-<description>The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800" alt="" /></p><p>The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)</title>
-<link>https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4fhun5hk2f</guid>
-<pubDate>Fri, 30 Oct 2026 18:20:58 +0000</pubDate>
-<description>Salesforce is acquiring defence tech startup Rune Technologies for $375 million in a combination of shares and cash, according to</description>
-<content:encoded><![CDATA[<p><img src="https://resiliencemedia.co/wp-content/uploads/2026/10/aszwtvejgs8.jpg" alt="" /></p><p>Salesforce is acquiring defence tech startup Rune Technologies for $375 million in a combination of shares and cash, according to</p>]]></content:encoded>
-<media:content url="https://resiliencemedia.co/wp-content/uploads/2026/10/aszwtvejgs8.jpg" medium="image" />
-<media:thumbnail url="https://resiliencemedia.co/wp-content/uploads/2026/10/aszwtvejgs8.jpg" />
-</item>
-<item>
-<title>Salesforce agrees to acquire Rune, which raised ~$30M to make AI military logistics software, as it expands its year-old Missionforce defense business (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/10/29/salesforce-rune-defense</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz4blua4p62t</guid>
-<pubDate>Fri, 30 Oct 2026 17:11:38 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>London&#x27;s High Court dismisses Meta, TikTok, and X&#x27;s challenge to Ofcom&#x27;s Online Safety Act information requests, rejecting arguments they were disproportionate (Sam Tobin/Reuters)</title>
-<link>https://www.reuters.com/world/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-2026-10-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz467plw4j2s</guid>
-<pubDate>Fri, 30 Oct 2026 16:11:09 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)</title>
-<link>https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3ymipzzb24</guid>
-<pubDate>Fri, 30 Oct 2026 14:30:55 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future&#x27;s network (Ian Krietzberg/Puck)</title>
-<link>https://puck.news/ai/2026/10/pro-ai-pacs-are-retreating-from-the-midterms</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3u5gmyih2t</guid>
-<pubDate>Fri, 30 Oct 2026 13:10:55 +0000</pubDate>
-<description>From puck.news</description>
-<content:encoded><![CDATA[<p>From puck.news</p>]]></content:encoded>
-</item>
-<item>
-<title>CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/cxmt-turns-third-quarter-net-profit-544-billion-yuan-2026-10-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3rdvvu2f2v</guid>
-<pubDate>Fri, 30 Oct 2026 12:20:51 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. (Takashi Mochizuki/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3posa5mb2n</guid>
-<pubDate>Fri, 30 Oct 2026 11:51:09 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)</title>
-<link>https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3p4m4uzh2v</guid>
-<pubDate>Fri, 30 Oct 2026 11:40:58 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Binance reveals that a follow-up investigation has found &quot;additional points of breach&quot; beyond a possibly compromised laptop and says this was a &quot;complex attack&quot; (@binance)</title>
-<link>https://x.com/binance/status/2116089661408108712</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3npnf2ow2h</guid>
-<pubDate>Fri, 30 Oct 2026 11:15:50 +0000</pubDate>
-<description>Investigation update: Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach. This was a complex attack, and we are doing all we can in coordination with law enforcement…</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HV3cQDOaoAAtEPC?format=webp&amp;name=large" alt="" /></p><p>Investigation update: Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach. This was a complex attack, and we are doing all we can in coordination with law enforcement…</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/media/HV3cQDOaoAAtEPC?format=webp&amp;name=large" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/media/HV3cQDOaoAAtEPC?format=webp&amp;name=large" />
-</item>
-<item>
-<title>Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z (Marina Temkin/TechCrunch)</title>
-<link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3keqw4ef26</guid>
-<pubDate>Fri, 30 Oct 2026 10:16:03 +0000</pubDate>
-<description>Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream&#x27;s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675" alt="" /></p><p>Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream&#x27;s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675" />
-</item>
-<item>
-<title>Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M (Tamara Djurickovic/Tech.eu)</title>
-<link>https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3k4swxys26</guid>
-<pubDate>Fri, 30 Oct 2026 10:11:37 +0000</pubDate>
-<description>From tech.eu</description>
-<content:encoded><![CDATA[<p>From tech.eu</p>]]></content:encoded>
-</item>
-<item>
-<title>Inside Nscale&#x27;s 2,250-acre, 8GW Monarch Compute Campus in West Virginia, which has been hit by construction issues, local opposition, and financing risks (Financial Times)</title>
-<link>https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?accessToken=zwAAAaIi1GfplNO5KUuRDu5BO9O93gVp9IU5udPuhsS2H-RGftOPGJwI3yiK_9PrOGFWW_lO3dOA8oA_3uHjPdPy3p88MpBOh9O7wlVDACXyqwE.MEUCIQCTfptZcpPISYntlhh1mjoa3g6HxEZajv0OSQGMtt_QEQIgSVZwVMNDn0Bf_KARrNJmOPbLhMU516inUsUkdvr2i-0&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mz3ifzcj4g27</guid>
-<pubDate>Fri, 30 Oct 2026 09:40:58 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
