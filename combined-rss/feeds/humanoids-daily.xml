@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 22:14:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 02:24:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>LiberAI Unveils Liber-0: Learning from Human Experience for Zero-Shot Robot Manipulation</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3dc070fee3d3de0b9ccf.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/liberai-unveils-liber-0-zero-shot-robot-manipulation</guid>
+<pubDate>Wed, 04 Nov 2026 02:00:00 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/features/liberai-unveils-liber-0-zero-shot-robot-manipulation" rel="related" type="text/html" />
+<description>LiberAI's Liber-0 world action model learns from more than 2.2 million hours of human experience and reached 36.0% success on 60 GPT-6-proposed tasks without task-specific robot demonstrations.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/liberai-liber-0-zero-shot-manipulation-1793699938454.webp" alt="" /></p><p>LiberAI's Liber-0 world action model learns from more than 2.2 million hours of human experience and reached 36.0% success on 60 GPT-6-proposed tasks without task-specific robot demonstrations.</p><p><a href="https://www.humanoidsdaily.com/features/liberai-unveils-liber-0-zero-shot-robot-manipulation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/liberai-liber-0-zero-shot-manipulation-1793699938454.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/liberai-liber-0-zero-shot-manipulation-1793699938454.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/liberai-liber-0-zero-shot-manipulation-1793699938454.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Schaeffler to Cut 3,460 Jobs in Europe, Names Humanoid Robotics as a Growth Area</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/48a836d6e0f4380f3fc9.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5182268ccef8b8d99696.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/worldoracle-tests-world-models-against-real-world-executions</guid>
-<pubDate>Tue, 27 Oct 2026 10:37:39 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/features/worldoracle-tests-world-models-against-real-world-executions" rel="related" type="text/html" />
-<description>WorldOracle tests whether action-conditioned world models predict what robots actually do, revealing gaps in object motion and long-horizon accuracy.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" alt="" /></p><p>WorldOracle tests whether action-conditioned world models predict what robots actually do, revealing gaps in object motion and long-horizon accuracy.</p><p><a href="https://www.humanoidsdaily.com/features/worldoracle-tests-world-models-against-real-world-executions">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" medium="image" type="image/png" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/worldoracle-client-grasp-comparison.png" type="image/png" length="0" />
 </item>
 </channel>
 </rss>
