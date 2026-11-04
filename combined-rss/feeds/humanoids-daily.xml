@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 04 Nov 2026 02:24:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 09:38:43 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>RobotWorld 2026 Opens With Humanoids and Physical AI in Focus</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/375470d11bec6497936d.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robotworld-2026-humanoids-physical-ai-manufacturing</guid>
+<pubDate>Wed, 04 Nov 2026 07:52:26 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/robotworld-2026-humanoids-physical-ai-manufacturing" rel="related" type="text/html" />
+<description>The Korean robotics exhibition brings together 402 companies from 17 countries, with a new humanoid pavilion and demonstrations spanning robot hands and factory automation.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" alt="" /></p><p>The Korean robotics exhibition brings together 402 companies from 17 countries, with a new humanoid pavilion and demonstrations spanning robot hands and factory automation.</p><p><a href="https://www.humanoidsdaily.com/news/robotworld-2026-humanoids-physical-ai-manufacturing">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>LiberAI Unveils Liber-0: Learning from Human Experience for Zero-Shot Robot Manipulation</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3dc070fee3d3de0b9ccf.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/oak4-ffc-humanoid-5H85mIse69i3WkHZe3eIkmNsFuJSaS.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Machenta Raises $40 Million to Teach Robots New Tasks From One Demonstration</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8ee01a85a88156c4e94.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning</guid>
-<pubDate>Tue, 27 Oct 2026 12:27:06 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning" rel="related" type="text/html" />
-<description>The London startup says its simulation-trained model can adapt to new tasks without fine-tuning, with early demonstrations extending to humanoid hands.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" alt="" /></p><p>The London startup says its simulation-trained model can adapt to new tasks without fine-tuning, with early demonstrations extending to humanoid hands.</p><p><a href="https://www.humanoidsdaily.com/news/machenta-40-million-instant-robot-learning">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machenta-hero-xFrukMYuWqCiBBbHpEyCkTFHBo1osk.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
