@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 04 Nov 2026 17:30:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 22:50:12 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>RoboColosseum Launches Real-World Robot AI Benchmark With Unitree Support</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3eeaa8c1b362db955126.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1</guid>
+<pubDate>Wed, 04 Nov 2026 15:10:52 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1" rel="related" type="text/html" />
+<description>The initiative offers more than 100 robots and 10,000 free evaluation hours, while initial G1 tests reveal how far robot policies remain from reliably completing tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" alt="" /></p><p>The initiative offers more than 100 robots and 10,000 free evaluation hours, while initial G1 tests reveal how far robot policies remain from reliably completing tasks.</p><p><a href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" medium="image" type="image/png" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" type="image/png" length="0" />
+</item>
 <item>
 <title>KIST’s KAPEX Humanoid Reportedly Uses Over 90% Korean-Made Core Components</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b92c61fc161b06569874.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>DeepMind Pairs Genie 4 With Gemini Argon to Simulate Apollo Playing Checkers</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a5d36004ef517e4c0b0b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation</guid>
-<pubDate>Tue, 27 Oct 2026 17:09:29 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation" rel="related" type="text/html" />
-<description>The interactive world model takes task instructions from Argon as it generates a simulated Apollo scene, offering an early glimpse of reasoning-guided robotics environments.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" alt="" /></p><p>The interactive world model takes task instructions from Argon as it generates a simulated Apollo scene, offering an early glimpse of reasoning-guided robotics environments.</p><p><a href="https://www.humanoidsdaily.com/news/deepmind-genie-4-gemini-argon-apollo-robot-simulation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/genie4-argon-hero-UfPaFot6nnvTDslIDNBZDLYW6dK27U.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
