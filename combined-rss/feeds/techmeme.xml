@@ -5,8 +5,498 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 10:19:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:07:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before (Tom Warren/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3072ee2cf0ef098f890f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlf72bhrt2i</guid>
+<pubDate>Thu, 05 Nov 2026 17:25:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign" rel="related" type="text/html" />
+<description>The new design focuses on speed and usability.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" alt="" /></p><p>The new design focuses on speed and usability.</p><p><a href="https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ "novel" vulnerabilities in Firefox (Djohnson/CyberScoop)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e3b02af5858936aaa2b8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlenlelwa2v</guid>
+<pubDate>Thu, 05 Nov 2026 17:16:13 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://cyberscoop.com/openai-gpt-6-cyber-security-model/" rel="related" type="text/html" />
+<description>OpenAI announces GPT-6 Cyber, a red teaming model designed for vulnerability discovery and patching, backed by stricter anti-misuse guardrails.</description>
+<content:encoded><![CDATA[<p><img src="https://cyberscoop.com/wp-content/uploads/sites/3/2026/07/GettyImages-2275331393.jpg" alt="" /></p><p>OpenAI announces GPT-6 Cyber, a red teaming model designed for vulnerability discovery and patching, backed by stricter anti-misuse guardrails.</p><p><a href="https://cyberscoop.com/openai-gpt-6-cyber-security-model/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cyberscoop.com/wp-content/uploads/sites/3/2026/07/GettyImages-2275331393.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cyberscoop.com/wp-content/uploads/sites/3/2026/07/GettyImages-2275331393.jpg" />
+<enclosure url="https://cyberscoop.com/wp-content/uploads/sites/3/2026/07/GettyImages-2275331393.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Marc Lore's Wonder files confidentially for a US IPO; the company, which acquired Grubhub for $650M in 2025, raised $650M at a $9B pre-money valuation in July (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fd2b51cf2ec0d0baff64.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzleeffyvn2f</guid>
+<pubDate>Thu, 05 Nov 2026 17:11:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/" rel="related" type="text/html" />
+<description>Wonder Group, a food-delivery startup led by former Walmart executive Marc Lore, said on ​Thursday it had confidentially filed for a US IPO, ‌laying the groundwork for a stock market listing as it pre...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FO6GIVYSFUFKNPNQ3YLRWQXVBTU.jpg%3Fauth%3D84645ff3190c1fc2a94020ff8b5588ce57c8f6602aace3937f97c6505849675b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Wonder Group, a food-delivery startup led by former Walmart executive Marc Lore, said on ​Thursday it had confidentially filed for a US IPO, ‌laying the groundwork for a stock market listing as it pre...</p><p><a href="https://www.reuters.com/business/marc-lores-wonder-group-confidentially-files-us-ipo-2026-11-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FO6GIVYSFUFKNPNQ3YLRWQXVBTU.jpg%3Fauth%3D84645ff3190c1fc2a94020ff8b5588ce57c8f6602aace3937f97c6505849675b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FO6GIVYSFUFKNPNQ3YLRWQXVBTU.jpg%3Fauth%3D84645ff3190c1fc2a94020ff8b5588ce57c8f6602aace3937f97c6505849675b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FO6GIVYSFUFKNPNQ3YLRWQXVBTU.jpg%3Fauth%3D84645ff3190c1fc2a94020ff8b5588ce57c8f6602aace3937f97c6505849675b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b529285c262b3aff5c1f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzle6qo4ld2f</guid>
+<pubDate>Thu, 05 Nov 2026 17:07:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch" rel="related" type="text/html" />
+<description>GPT-6 Cyber is a big step up from OpenAI’s last cybersecurity model.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>GPT-6 Cyber is a big step up from OpenAI’s last cybersecurity model.</p><p><a href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6df7f589692b33471805.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzldvbs32z2f</guid>
+<pubDate>Thu, 05 Nov 2026 17:02:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition" rel="related" type="text/html" />
+<description>Defense tech startup set to acquire Echodyne Corp., which sells radar sensors to government and commercial customers.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinjuquI4rnuA%2Fv1%2F1200x800.jpg" alt="" /></p><p>Defense tech startup set to acquire Echodyne Corp., which sells radar sensors to government and commercial customers.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinjuquI4rnuA%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinjuquI4rnuA%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinjuquI4rnuA%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Aina, which raised $5.5M, launches an "AI ring" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0f2052ea73f7a4c11ac6.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzldau5wiy2n</guid>
+<pubDate>Thu, 05 Nov 2026 16:51:12 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/" rel="related" type="text/html" />
+<description>Aina's ring can also take calls and help you dictate notes on your Mac.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805" alt="" /></p><p>Aina's ring can also take calls and help you dictate notes on your Mac.</p><p><a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Aina-Ring-Hands.jpeg?resize=1200,805" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Microsoft is tightening oversight of some data center projects, stepping away from those it deems risky, and debating whether to ink new neocloud deals (Brody Ford/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fdc3ed9d471d2968cab5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlcoq4ghd26</guid>
+<pubDate>Thu, 05 Nov 2026 16:41:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs" rel="related" type="text/html" />
+<description>Microsoft Corp. helped create the “neocloud” boom, signing tens of billions of dollars in contracts with upstart data center operators in an effort to sate the crushing appetite for its cloud and AI s...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTRYX94tJRSM%2Fv0%2F1200x799.jpg" alt="" /></p><p>Microsoft Corp. helped create the “neocloud” boom, signing tens of billions of dollars in contracts with upstart data center operators in an effort to sate the crushing appetite for its cloud and AI s...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTRYX94tJRSM%2Fv0%2F1200x799.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTRYX94tJRSM%2Fv0%2F1200x799.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiTRYX94tJRSM%2Fv0%2F1200x799.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Greece's parliament approves a 10% capital gains tax on crypto, exempting gains of up to €500 a year, in the country's first comprehensive crypto tax framework (Lefteris Papadimas/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/eabc91fe2e4944a3a7d8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlcfvkorw2n</guid>
+<pubDate>Thu, 05 Nov 2026 16:36:07 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/" rel="related" type="text/html" />
+<description>Greece's parliament approved on Thursday a bill that imposes ​a 10% capital gains tax ‌on cryptocurrencies, the first comprehensive legal framework for taxing crypto assets in Greece.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Greece's parliament approved on Thursday a bill that imposes ​a 10% capital gains tax ‌on cryptocurrencies, the first comprehensive legal framework for taxing crypto assets in Greece.</p><p><a href="https://www.reuters.com/business/finance/greek-parliament-approves-10-tax-cryptocurrency-gains-2026-11-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google, Meta, and TikTok file lawsuits to block a California law that bans online platforms from providing "psychologically exploitative features" to under-16s (Jonathan Stempel/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/af6e37f619dcea628784.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlbttrtp72f</guid>
+<pubDate>Thu, 05 Nov 2026 16:26:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/" rel="related" type="text/html" />
+<description>Google , Meta Platforms and ​TikTok sued California to block enforcement of a new state law intended to limit the risk of ‌addicting children under age 16 to online platforms.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJAHELVCMXFIPXJ73KV5HGIKWDI.jpg%3Fauth%3D731096dfbbe7cb2b9de3a4f84769fe5e5f3fc715de469375704dda99f4858da0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Google , Meta Platforms and ​TikTok sued California to block enforcement of a new state law intended to limit the risk of ‌addicting children under age 16 to online platforms.</p><p><a href="https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJAHELVCMXFIPXJ73KV5HGIKWDI.jpg%3Fauth%3D731096dfbbe7cb2b9de3a4f84769fe5e5f3fc715de469375704dda99f4858da0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJAHELVCMXFIPXJ73KV5HGIKWDI.jpg%3Fauth%3D731096dfbbe7cb2b9de3a4f84769fe5e5f3fc715de469375704dda99f4858da0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJAHELVCMXFIPXJ73KV5HGIKWDI.jpg%3Fauth%3D731096dfbbe7cb2b9de3a4f84769fe5e5f3fc715de469375704dda99f4858da0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Motorola launches the $1,599+ Signature 27, featuring a Snapdragon 8 Elite Extreme Gen 6 chipset, a 6.8-inch Tandem OLED display, and seven years of OS updates (Ben Schoon/9to5Google)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/33b2a600daf19f8fdda8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlazp5uft2h</guid>
+<pubDate>Thu, 05 Nov 2026 16:11:24 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/" rel="related" type="text/html" />
+<description>Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but...</p><p><a href="https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+<enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Humble Robotics, which is building cabless electric autonomous trucks for regional routes under 250 miles, raised $51M, taking its total funding to $75M (Rya Jetha/Business Insider)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/601b0ad32ac532e91eb8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlak44ggz2t</guid>
+<pubDate>Thu, 05 Nov 2026 16:02:41 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11" rel="related" type="text/html" />
+<description>Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aeb54449270da3cc6668010?width=1200&amp;format=jpeg" alt="" /></p><p>Humble Robotics raised $51 million to build electric, cabless self-driving trucks. Founder Eyal Cohen previously worked at Apple, Uber, and Waabi.</p><p><a href="https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.insider.com/6aeb54449270da3cc6668010?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.insider.com/6aeb54449270da3cc6668010?width=1200&amp;format=jpeg" />
+<enclosure url="https://i.insider.com/6aeb54449270da3cc6668010?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fae077b6d1eb8b4482e0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl7mdp7ge2h</guid>
+<pubDate>Thu, 05 Nov 2026 15:46:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2" rel="related" type="text/html" />
+<description>The automaker is working with Liquid AI, a startup that spun out of MIT, to run AI models directly in the car, rather than the cloud.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81754044%2Fsocial" alt="" /></p><p>The automaker is working with Liquid AI, a startup that spun out of MIT, to run AI models directly in the car, rather than the cloud.</p><p><a href="https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81754044%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81754044%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-81754044%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Dropbox plans to acquire AI storage startup Tigris Data for $350M, its largest acquisition to date; Tigris raised ~$31.9M from Spark, a16z, and others (Mary Ann Azevedo/Crunchbase News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a60287cf885f744ca877.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl7dcmwzf26</guid>
+<pubDate>Thu, 05 Nov 2026 15:40:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/" rel="related" type="text/html" />
+<description>Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007.</description>
+<content:encoded><![CDATA[<p><img src="https://news.crunchbase.com/wp-content/uploads/MA-shopping.jpg" alt="" /></p><p>Dropbox has announced plans to acquire Tigris Data for $350 million in a transaction the company told Crunchbase News would mark its largest acquisition since its founding in 2007.</p><p><a href="https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://news.crunchbase.com/wp-content/uploads/MA-shopping.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/MA-shopping.jpg" />
+<enclosure url="https://news.crunchbase.com/wp-content/uploads/MA-shopping.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>ElevenLabs says users can now publish AI-generated music made with ElevenMusic directly on SoundCloud and that users have created 25M+ tracks using its models (Ivan Mehta/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/68e0dfb6fa301d8ed143.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl6rkbrfs24</guid>
+<pubDate>Thu, 05 Nov 2026 15:31:03 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/" rel="related" type="text/html" />
+<description>ElevenLabs said more than 25 million tracks have been generated using its music models.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675" alt="" /></p><p>ElevenLabs said more than 25 million tracks have been generated using its music models.</p><p><a href="https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/ElevenMusicxSoundcloud.jpg?resize=1200,675" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Apple plans to raise ~$7B from its first investment-grade bond offering in more than a year to fund share buybacks, dividends, and capital expenditures (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9397734ffb580c5ccce3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl6ic3bdm2t</guid>
+<pubDate>Thu, 05 Nov 2026 15:25:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree" rel="related" type="text/html" />
+<description>Apple Inc. is planning to raise about $7 billion from its first investment-grade bond offering in more than a year to help fund share buybacks, adding to a flurry of debt issuance by US technology hea...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiqkivYNVGt3M%2Fv1%2F1200x800.jpg" alt="" /></p><p>Apple Inc. is planning to raise about $7 billion from its first investment-grade bond offering in more than a year to help fund share buybacks, adding to a flurry of debt issuance by US technology hea...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/apple-kicks-off-high-grade-debt-sale-joining-issuance-spree">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiqkivYNVGt3M%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiqkivYNVGt3M%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiqkivYNVGt3M%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Autonomous drone delivery startup Zipline raised $1.5B at a $21.5B valuation, up from $7.85B after raising $600M in January, and plans to grow US manufacturing (Kelly Cloonan/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ca5aaaf5f9d01f4b81e5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl5eplzpc2n</guid>
+<pubDate>Thu, 05 Nov 2026 15:05:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec?st=DJV1r5&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>Chief Executive Keller Cliffton, who co-founded Zipline in 2014, said the company’s skyrocketing valuation is a sign that autonomous delivery has finally gained wider acceptance among both investors a...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" alt="" /></p><p>Chief Executive Keller Cliffton, who co-founded Zipline in 2014, said the company’s skyrocketing valuation is a sign that autonomous delivery has finally gained wider acceptance among both investors a...</p><p><a href="https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec?st=DJV1r5&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>The MacBook Pro's PROLED XDR display is the best display you can buy right now, but touch adds little to the experience and it lacks Apple Pencil support (Jaron Schneider/PetaPixel)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8966f322e373d4816c07.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl3ql2vak2l</guid>
+<pubDate>Thu, 05 Nov 2026 14:36:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/" rel="related" type="text/html" />
+<description>Apple's M5 Max MacBook Pro with PROLED has a lighter chassis, touch control support, and the best laptop display we've ever tested.</description>
+<content:encoded><![CDATA[<p><img src="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" alt="" /></p><p>Apple's M5 Max MacBook Pro with PROLED has a lighter chassis, touch control support, and the best laptop display we've ever tested.</p><p><a href="https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" />
+<enclosure url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>MacBook Pro with PROLED XDR Display review: gorgeous screen, touch is useful, strong performance and speakers, and a Dynamic Island, but pricey and no Face ID (Andrew E. Freedman/Tom's Hardware)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7123ace081c8d398ef39.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl2cutr742n</guid>
+<pubDate>Thu, 05 Nov 2026 14:11:16 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review" rel="related" type="text/html" />
+<description>Sure, touch is there, too.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" alt="" /></p><p>Sure, touch is there, too.</p><p><a href="https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" />
+<enclosure url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>United Airlines is rolling out a custom native Spotify seatback app across its fleet, letting users log into their accounts, powered by Starlink's Wi-Fi (Andrew J. Hawkins/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f70186f1864aa4b05887.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkxiu5gjd2h</guid>
+<pubDate>Thu, 05 Nov 2026 13:20:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi" rel="related" type="text/html" />
+<description>Say goodbye to canned airplane playlists.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" alt="" /></p><p>Say goodbye to canned airplane playlists.</p><p><a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Apple rolls out Retention Messaging, letting developers present personalized text, images, or special offers to users who are canceling their subscriptions (Marcus Mendes/9to5Mac)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8c5761b3e77fac96c9f4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkwnxk53l2v</guid>
+<pubDate>Thu, 05 Nov 2026 13:05:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/" rel="related" type="text/html" />
+<description>Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" alt="" /></p><p>Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.</p><p><a href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" />
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Agility Robotics is set to begin trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US (Samantha Kelly/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3637fc34ec75947a971b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkvclbrzd2t</guid>
+<pubDate>Thu, 05 Nov 2026 12:41:37 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us" rel="related" type="text/html" />
+<description>Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" alt="" /></p><p>Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources detail Dario Amodei's AI beliefs, shaped by forums like GiveWell and based on EA and "rationalism", and his disputes with Sam Altman and Greg Brockman (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/eb0fa5ee6198e221393e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkugc5ttq27</guid>
+<pubDate>Thu, 05 Nov 2026 12:25:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html" rel="related" type="text/html" />
+<description>Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" alt="" /></p><p>Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.</p><p><a href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Discord is moving its desktop app from Electron to Rust for improved speed and memory safety; its CTO shares an image of the Windows app using just 290MB of RAM (Tom Warren/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d60ee459231de83df2b8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzktwlzxtr2s</guid>
+<pubDate>Thu, 05 Nov 2026 12:17:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app" rel="related" type="text/html" />
+<description>Discord is moving its apps fully over to the Rust programming language.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Discord is moving its apps fully over to the Rust programming language.</p><p><a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Micron suspends construction of its $3B to $4.5B Fab 11E facility in Taiwan, set for 2028, due to mounting uncertainties over a local labor dispute (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c34468426089e239cbb4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkt6cinx32t</guid>
+<pubDate>Thu, 05 Nov 2026 12:03:26 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat" rel="related" type="text/html" />
+<description>Micron Technology Inc. has suspended plans for a memory chip plant in Taiwan due to a protracted labor dispute, according to people familiar with the matter, throwing into question the fate of a major...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" alt="" /></p><p>Micron Technology Inc. has suspended plans for a memory chip plant in Taiwan due to a protracted labor dispute, according to people familiar with the matter, throwing into question the fate of a major...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Amazon partners with Uber to make Uber Eats the "official" US restaurant delivery partner for Amazon Prime subscribers, after previously partnering with Grubhub (Andrew J. Hawkins/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd353a32e6725dc99150.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzksi7rn3b24</guid>
+<pubDate>Thu, 05 Nov 2026 11:51:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership" rel="related" type="text/html" />
+<description>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</p><p><a href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/png" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/png" length="0" />
+</item>
+<item>
+<title>Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a09fe05726be3f8f0233.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkrwm2j4l24</guid>
+<pubDate>Thu, 05 Nov 2026 11:41:14 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market" rel="related" type="text/html" />
+<description>UK consumers are spending over £1 billion ($1.4 billion) a year on artificial intelligence subscriptions, with Anthropic eating into OpenAI’s lead, research showed on Thursday.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" alt="" /></p><p>UK consumers are spending over £1 billion ($1.4 billion) a year on artificial intelligence subscriptions, with Anthropic eating into OpenAI’s lead, research showed on Thursday.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>X is rolling out a redesigned web app country by country for signed-in users, with a single unified server, saying it improves load times over slow connections (Jay Peters/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/182ee85c676e9ee3ca6b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkrgjjpxo2f</guid>
+<pubDate>Thu, 05 Nov 2026 11:32:15 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster" rel="related" type="text/html" />
+<description>It’s rolling out now.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It’s rolling out now.</p><p><a href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: at Jensen Huang's election event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e44a86af7fcf442fd89f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkr3lke6l24</guid>
+<pubDate>Thu, 05 Nov 2026 11:26:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>Americans’ vote for antidata-center candidates and ballot measures could rein in AI’s expansion and hobble economic growth.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-12250625%2Fsocial" alt="" /></p><p>Americans’ vote for antidata-center candidates and ballot measures could rein in AI’s expansion and hobble economic growth.</p><p><a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-12250625%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-12250625%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-12250625%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Hugging Face CEO Clément Delangue says his P(doom) is "close to zero", arguing that future AI risks stem from closed frontier AI labs, not open-source systems (Will Knight/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5c83259af9283ac2e5bb.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkqsq6o2q2s</guid>
+<pubDate>Thu, 05 Nov 2026 11:21:11 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/" rel="related" type="text/html" />
+<description>“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" alt="" /></p><p>“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.</p><p><a href="https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" />
+<enclosure url="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for automating advanced chip design, under Apache 2.0, costing $0.60/1M output (Carl Franzen/VentureBeat)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ac14cb29b3ce826e81b2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkqag65km26</guid>
+<pubDate>Thu, 05 Nov 2026 11:10:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks" rel="related" type="text/html" />
+<description>The appeal of Ricursive Intelligence's Ripple-65B Preview is the combination of downloadable weights, a permissive license, competitive company-reported coding results and a low-priced hosted entry point.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5kYuvfpzkAGvfVupw75mH6%2F8fb43bed196ba01908dd9400646861a2%2FGPU_Plunge_Into_Turquoise_Ripples.png%3Fw%3D800%26q%3D75" alt="" /></p><p>The appeal of Ricursive Intelligence's Ripple-65B Preview is the combination of downloadable weights, a permissive license, competitive company-reported coding results and a low-priced hosted entry point.</p><p><a href="https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5kYuvfpzkAGvfVupw75mH6%2F8fb43bed196ba01908dd9400646861a2%2FGPU_Plunge_Into_Turquoise_Ripples.png%3Fw%3D800%26q%3D75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5kYuvfpzkAGvfVupw75mH6%2F8fb43bed196ba01908dd9400646861a2%2FGPU_Plunge_Into_Turquoise_Ripples.png%3Fw%3D800%26q%3D75" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fjdtwqhzvc2n1%2F5kYuvfpzkAGvfVupw75mH6%2F8fb43bed196ba01908dd9400646861a2%2FGPU_Plunge_Into_Turquoise_Ripples.png%3Fw%3D800%26q%3D75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Nintendo reports Q2 net profit down 16% YoY to $468M, as rising Switch 2 component costs cut into its margins; Switch 2's H1 FY 2027 sales fell 37% YoY to 6.49M (Takashi Mochizuki/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7ef01be9808a35dc9f4.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkpxqlc3b2s</guid>
+<pubDate>Thu, 05 Nov 2026 11:06:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts" rel="related" type="text/html" />
+<description>Nintendo Co. reported a surprise quarterly profit decline, hurt by a dearth of major new game releases and rising Switch 2 component costs.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3p.b1Wx7URs%2Fv0%2F1200x800.jpg" alt="" /></p><p>Nintendo Co. reported a surprise quarterly profit decline, hurt by a dearth of major new game releases and rising Switch 2 component costs.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3p.b1Wx7URs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3p.b1Wx7URs%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi3p.b1Wx7URs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An interview with two Nintendo producers on the new Ocarina of Time remake for the Switch 2, which has modernized gameplay mechanics like full camera control (Andrew Webster/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0728407c59cdbc68b7ed.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkps7epok2f</guid>
+<pubDate>Thu, 05 Nov 2026 11:02:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi" rel="related" type="text/html" />
+<description>Producers Eiji Aonuma and Hidemaro Fujibayashi talk about bringing the first 3D Zelda to a whole new audience.﻿</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Producers Eiji Aonuma and Hidemaro Fujibayashi talk about bringing the first 3D Zelda to a whole new audience.﻿</p><p><a href="https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" type="image/png" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" type="image/png" length="0" />
+</item>
+<item>
+<title>OpenAI pledges to change how it handles data center deals, including avoiding nondisclosure agreements and cutting power usage, after Democrats' midterm wins (Dina Bass/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/caa4038e4dd3bf7eed6a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkovj3umz2s</guid>
+<pubDate>Thu, 05 Nov 2026 10:46:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry" rel="related" type="text/html" />
+<description>OpenAI said it will avoid nondisclosure agreements when it negotiates data center deals and ensure residents don’t pay for the electricity to power those projects, part of a framework the company beli...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FivZ2UYHBTjSQ%2Fv7%2F1200x800.jpg" alt="" /></p><p>OpenAI said it will avoid nondisclosure agreements when it negotiates data center deals and ensure residents don’t pay for the electricity to power those projects, part of a framework the company beli...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FivZ2UYHBTjSQ%2Fv7%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FivZ2UYHBTjSQ%2Fv7%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FivZ2UYHBTjSQ%2Fv7%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sunil Mittal, founder of India's second-largest telco Airtel, says Airtel-backed OneWeb can build a satellite-internet network independent of the US and China (Aryan Gupta/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0017217e0b842bfb6d21.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkokzzlip2h</guid>
+<pubDate>Thu, 05 Nov 2026 10:41:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink" rel="related" type="text/html" />
+<description>Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for cri...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FifG0YMrwsLuI%2Fv0%2F1200x800.jpg" alt="" /></p><p>Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for cri...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FifG0YMrwsLuI%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FifG0YMrwsLuI%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FifG0YMrwsLuI%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sony reports Q2 revenue of ~$21.7B, operating profit of $3.94B, both above est., and 2.6M PS5 sales, as GTA VI sparks a US sales jump, especially of the PS5 Pro (Takashi Mochizuki/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b1de265013b884e29f2d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkocl5puf2f</guid>
+<pubDate>Thu, 05 Nov 2026 10:36:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth" rel="related" type="text/html" />
+<description>Sony Group Corp. raised its profit outlook after a string of entertainment hits propelled better-than-expected results in the September quarter.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihXnQM7_PchU%2Fv0%2F1200x800.jpg" alt="" /></p><p>Sony Group Corp. raised its profit outlook after a string of entertainment hits propelled better-than-expected results in the September quarter.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/sony-lifts-outlook-after-spider-man-and-playstation-fuel-growth">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihXnQM7_PchU%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihXnQM7_PchU%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihXnQM7_PchU%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>OpenAI President Greg Brockman says H1 2026 was "pretty rough", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a "revenue inflection" in Q3 (Maxwell Zeff/Wall Street Journal)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be902fb0b1b3d892c155.html</link>
@@ -323,8 +813,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump" rel="related" type="text/html" />
-<description>Qualcomm Inc. tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinPuidNWewbc%2Fv0%2F1200x799.jpg" alt="" /></p><p>Qualcomm Inc. tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump">Open Original Article</a></p>]]></content:encoded>
+<description>Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher comp...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinPuidNWewbc%2Fv0%2F1200x799.jpg" alt="" /></p><p>Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher comp...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinPuidNWewbc%2Fv0%2F1200x799.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinPuidNWewbc%2Fv0%2F1200x799.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FinPuidNWewbc%2Fv0%2F1200x799.jpg" type="image/jpeg" length="0" />
@@ -356,496 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip72sJJfLbHE%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip72sJJfLbHE%2Fv1%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip72sJJfLbHE%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3da079d49f6d32762d23.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzj4lysvkw2f</guid>
-<pubDate>Wed, 04 Nov 2026 19:46:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/" rel="related" type="text/html" />
-<description>California-based chip company discloses price of deal first announced in August</description>
-<content:encoded><![CDATA[<p><img src="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt="" /></p><p>California-based chip company discloses price of deal first announced in August</p><p><a href="https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" />
-<enclosure url="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple says it will check iCloud items shared to "Anyone with the link" for "harmful content" in 27.3 OS versions, and may delete the content or disable accounts (Ryan Christoffel/9to5Mac)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/03acc5199e7ab816a37a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzj3ytrqfq2t</guid>
-<pubDate>Wed, 04 Nov 2026 19:36:07 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/" rel="related" type="text/html" />
-<description>iOS 27.3 makes a change to how public iCloud links work, with the aim of preventing harmful content from being shared. Here are the details.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>iOS 27.3 makes a change to how public iCloud links work, with the aim of preventing harmful content from being shared. Here are the details.</p><p><a href="https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2ebbe5d123f7aa1164ca.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziziua3m72i</guid>
-<pubDate>Wed, 04 Nov 2026 18:51:23 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor" rel="related" type="text/html" />
-<description>Meta is joining AI giants in a race to own coding.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FOHS0qSMTUq4GfjVKa5NFWkeEW_w%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402047784.jpeg" alt="" /></p><p>Meta is joining AI giants in a race to own coding.</p><p><a href="https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FOHS0qSMTUq4GfjVKa5NFWkeEW_w%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402047784.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FOHS0qSMTUq4GfjVKa5NFWkeEW_w%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402047784.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FOHS0qSMTUq4GfjVKa5NFWkeEW_w%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402047784.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2ce3b5e09639b983607d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziwt2y3un2f</guid>
-<pubDate>Wed, 04 Nov 2026 18:03:25 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw" rel="related" type="text/html" />
-<description>The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that’s eating up fr...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiJZXXoiwuxH0%2Fv1%2F1200x800.jpg" alt="" /></p><p>The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that’s eating up fr...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiJZXXoiwuxH0%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiJZXXoiwuxH0%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiJZXXoiwuxH0%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sequoia raised ~$10B in new funds, and announces it is shutting down its Arc accelerator and Scouts program, merging its early-stage and growth teams, and more (Connie Loizos/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ef307a681e274628dbd5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziv2qdk6z26</guid>
-<pubDate>Wed, 04 Nov 2026 17:31:55 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/" rel="related" type="text/html" />
-<description>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" alt="" /></p><p>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</p><p><a href="https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" medium="image" type="image/png" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" type="image/png" length="0" />
-</item>
-<item>
-<title>Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image detection, and Image Flash 1.0, which powers its AI video detection (Isaac Kasahara/Pangram)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/70ba798f4981486a37d4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzithwe7yb2f</guid>
-<pubDate>Wed, 04 Nov 2026 17:03:30 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.pangram.com/blog/introducing-pangram-image-1-0" rel="related" type="text/html" />
-<description>Introducing Pangram Image 1.0, our AI image and video detector.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" alt="" /></p><p>Introducing Pangram Image 1.0, our AI image and video detector.</p><p><a href="https://www.pangram.com/blog/introducing-pangram-image-1-0">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" medium="image" type="image/png" />
-<media:thumbnail url="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" />
-<enclosure url="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Titan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, for a total funding of $110M, says it has 30M users, up from 18M YoY (Ivan Mehta/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1053a9f09d61eda0639f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziss4a6nk2t</guid>
-<pubDate>Wed, 04 Nov 2026 16:51:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/" rel="related" type="text/html" />
-<description>Titan OS has raised $110 million in funding to date.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750" alt="" /></p><p>Titan OS has raised $110 million in funding to date.</p><p><a href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/TITAN_OS_26.jpeg?resize=1200,750" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/326a762d00299646e838.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziquiggwg2s</guid>
-<pubDate>Wed, 04 Nov 2026 16:16:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation" rel="related" type="text/html" />
-<description>Strong AI legislation now looks much more likely</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!YxN2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6b8368-9762-4f5b-927e-a44978e97105_1920x1080.png" alt="" /></p><p>Strong AI legislation now looks much more likely</p><p><a href="https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!YxN2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6b8368-9762-4f5b-927e-a44978e97105_1920x1080.png" medium="image" type="image/png" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!YxN2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6b8368-9762-4f5b-927e-a44978e97105_1920x1080.png" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!YxN2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6b8368-9762-4f5b-927e-a44978e97105_1920x1080.png" type="image/png" length="0" />
-</item>
-<item>
-<title>CoreWeave's stock and unsecured bonds fall after sweeping Democratic midterm victories, as Texas Governor-elect Gina Hinojosa calls for a data center moratorium (Katherine Schwartz/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4c865f6625e8f46ce4d5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziqkrmjbg2f</guid>
-<pubDate>Wed, 04 Nov 2026 16:11:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs" rel="related" type="text/html" />
-<description>CoreWeave Inc.’s bonds tumbled on Wednesday, in some cases to new lows, after Democratic candidates in favor of slowing down data-center construction won a number of gubernatorial races, including in ...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fivwqqu7cW7JM%2Fv1%2F1200x800.jpg" alt="" /></p><p>CoreWeave Inc.’s bonds tumbled on Wednesday, in some cases to new lows, after Democratic candidates in favor of slowing down data-center construction won a number of gubernatorial races, including in ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fivwqqu7cW7JM%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fivwqqu7cW7JM%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fivwqqu7cW7JM%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Tron, Tether, Binance, and TRM Labs' T3 Financial Crime Unit quietly dissolved in August due to slow response times, after freezing $250M in assets (Ryan Weeks/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6734cc93165b15c4ecd8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziq5t22ju2v</guid>
-<pubDate>Wed, 04 Nov 2026 16:04:10 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle" rel="related" type="text/html" />
-<description>An initiative set up by some of crypto’s largest companies to curb illicit activity has quietly been dissolved, at a time when crime involving digital assets continues to surge.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM1IL2DH2tHA%2Fv1%2F1200x800.jpg" alt="" /></p><p>An initiative set up by some of crypto’s largest companies to curb illicit activity has quietly been dissolved, at a time when crime involving digital assets continues to surge.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/crypto-giants-scrap-crime-fighting-alliance-as-hackers-circle">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM1IL2DH2tHA%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM1IL2DH2tHA%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiM1IL2DH2tHA%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff (Yueqi Yang/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7fdfad37167130d35bae.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzipgtaujf2s</guid>
-<pubDate>Wed, 04 Nov 2026 15:51:18 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/briefings/stablecoin-issuer-circle-cuts-5-jobs" rel="related" type="text/html" />
-<description>Stablecoin issuer Circle reported third-quarter revenue jumped 17% to $875 million, reflecting mostly a one-time bump from a token sale. At the same time, the company said it is cutting 5% of staff to align its organizational structure with its “operating model and strategic priorities.” Net income in the quarter was $226 million, up 5% from a year ago. The revenue growth was driven in part</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Stablecoin issuer Circle reported third-quarter revenue jumped 17% to $875 million, reflecting mostly a one-time bump from a token sale. At the same time, the company said it is cutting 5% of staff to align its organizational structure with its “operating model and strategic priorities.” Net income in the quarter was $226 million, up 5% from a year ago. The revenue growth was driven in part</p><p><a href="https://www.theinformation.com/briefings/stablecoin-issuer-circle-cuts-5-jobs">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
-<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/88db6c00addc75940bb0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzip6xkzkf2t</guid>
-<pubDate>Wed, 04 Nov 2026 15:46:54 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/" rel="related" type="text/html" />
-<description>Data-center developer TeraWulf said on Wednesday it has secured a credit backstop ​agreement with Alphabet's Google to support financing needs ‌for its data-center project with Claude creator Anthropi...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIN6YOL3NDFPYJOXZIOMXNEGCJM.jpg%3Fauth%3Df842ecf159be3338509caa2d2e1a7f68c12e4b214b50a22fd29fe3324ef458df%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Data-center developer TeraWulf said on Wednesday it has secured a credit backstop ​agreement with Alphabet's Google to support financing needs ‌for its data-center project with Claude creator Anthropi...</p><p><a href="https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIN6YOL3NDFPYJOXZIOMXNEGCJM.jpg%3Fauth%3Df842ecf159be3338509caa2d2e1a7f68c12e4b214b50a22fd29fe3324ef458df%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIN6YOL3NDFPYJOXZIOMXNEGCJM.jpg%3Fauth%3Df842ecf159be3338509caa2d2e1a7f68c12e4b214b50a22fd29fe3324ef458df%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FIN6YOL3NDFPYJOXZIOMXNEGCJM.jpg%3Fauth%3Df842ecf159be3338509caa2d2e1a7f68c12e4b214b50a22fd29fe3324ef458df%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3a5d1d853fac49867c0f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzinj2hsud2s</guid>
-<pubDate>Wed, 04 Nov 2026 15:16:45 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.citationneeded.news/2026-election-results/" rel="related" type="text/html" />
-<description>The industries’ biggest bets lost almost across the board.</description>
-<content:encoded><![CDATA[<p><img src="https://www.citationneeded.news/content/images/2026/11/us-sen-sherrod-brown-visits-the-121st-air-refueling-561af4.jpg" alt="" /></p><p>The industries’ biggest bets lost almost across the board.</p><p><a href="https://www.citationneeded.news/2026-election-results/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.citationneeded.news/content/images/2026/11/us-sen-sherrod-brown-visits-the-121st-air-refueling-561af4.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.citationneeded.news/content/images/2026/11/us-sen-sherrod-brown-visits-the-121st-air-refueling-561af4.jpg" />
-<enclosure url="https://www.citationneeded.news/content/images/2026/11/us-sen-sherrod-brown-visits-the-121st-air-refueling-561af4.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Singapore-based, Nigeria-focused payments company OPay halts its $300M US IPO hours after pricing it due to 11th-hour inquiries from Chinese regulators (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/39adfa4bfa313f8c14cb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzim3lnbcx2l</guid>
-<pubDate>Wed, 04 Nov 2026 14:51:19 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry" rel="related" type="text/html" />
-<description>Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familia...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiKy97VSxTrPI%2Fv1%2F1200x800.jpg" alt="" /></p><p>Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familia...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiKy97VSxTrPI%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiKy97VSxTrPI%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiKy97VSxTrPI%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US launch (Jagmeet Singh/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1f380d2995534c2f90cc.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzikyj3xu62l</guid>
-<pubDate>Wed, 04 Nov 2026 14:31:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/" rel="related" type="text/html" />
-<description>Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629" alt="" /></p><p>Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.</p><p><a href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629" medium="image" type="image/png" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2025/10/PR-lib-office-exterior-4.png?resize=1200,629" type="image/png" length="0" />
-</item>
-<item>
-<title>UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0e45fab4c22b9f278893.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzikgdqygo2i</guid>
-<pubDate>Wed, 04 Nov 2026 14:21:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/" rel="related" type="text/html" />
-<description>The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg" alt="" /></p><p>The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.</p><p><a href="https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg" />
-<enclosure url="https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/191:100/w_1280,c_limit/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The French Blood Establishment says external providers' blood cold storage units were hacked to raise temperatures, in a wave of refrigeration cyberattacks (Sawdah Bhaimiya/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2c21045d98e003ab70c4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzijti6k5i27</guid>
-<pubDate>Wed, 04 Nov 2026 14:11:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html" rel="related" type="text/html" />
-<description>French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&amp;w=1920&amp;h=1080" alt="" /></p><p>French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.</p><p><a href="https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sequoia says it is closing its London office after six years and consolidating operations back to the Bay Area, citing a lack of need for a local presence (Mike Butcher/Pathfounders)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c4fc93b37bc58df052d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzijem4hpt24</guid>
-<pubDate>Wed, 04 Nov 2026 14:02:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat" rel="related" type="text/html" />
-<description>Only one partner is confirmed as remaining for Sequoia in Europe so far.</description>
-<content:encoded><![CDATA[<p><img src="https://pathfounders.com/p/onerror=redirect/uploads/asset/file/071cb380-5550-4a00-9308-aea7885b1249/PN_Ad_5_FINAL.jpg?t=1786654554" alt="" /></p><p>Only one partner is confirmed as remaining for Sequoia in Europe so far.</p><p><a href="https://pathfounders.com/p/breaking-sequoia-shuts-london-office-in-shock-european-retreat">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://pathfounders.com/p/onerror=redirect/uploads/asset/file/071cb380-5550-4a00-9308-aea7885b1249/PN_Ad_5_FINAL.jpg?t=1786654554" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://pathfounders.com/p/onerror=redirect/uploads/asset/file/071cb380-5550-4a00-9308-aea7885b1249/PN_Ad_5_FINAL.jpg?t=1786654554" />
-<enclosure url="https://pathfounders.com/p/onerror=redirect/uploads/asset/file/071cb380-5550-4a00-9308-aea7885b1249/PN_Ad_5_FINAL.jpg?t=1786654554" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for "tens of thousands of cell sites" for a US-wide network in 2027 (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d0f70897ba611cd03d61.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziiki4dxa2v</guid>
-<pubDate>Wed, 04 Nov 2026 13:48:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network" rel="related" type="text/html" />
-<description>Qualcomm Inc. will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging th...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIZX5qmLW8Q4%2Fv1%2F1200x800.jpg" alt="" /></p><p>Qualcomm Inc. will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging th...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIZX5qmLW8Q4%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIZX5qmLW8Q4%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIZX5qmLW8Q4%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4fe8e71f0a8015f8dd0e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzihd6alhy2n</guid>
-<pubDate>Wed, 04 Nov 2026 13:26:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders" rel="related" type="text/html" />
-<description>Alphabet Inc.’s Waymo Co-Chief Executive Officer Tekedra Mawakana said her company’s plan to end an exclusive robotaxi partnership with Uber Technologies Inc. was in response to customer feedback aski...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHUA8nQcqPgU%2Fv0%2F1200x800.jpg" alt="" /></p><p>Alphabet Inc.’s Waymo Co-Chief Executive Officer Tekedra Mawakana said her company’s plan to end an exclusive robotaxi partnership with Uber Technologies Inc. was in response to customer feedback aski...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHUA8nQcqPgU%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHUA8nQcqPgU%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiHUA8nQcqPgU%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sentra, which helps restrict and monitor data access for AI agents, raised a $150M Series C led by Capital One Ventures, taking its total funding to $250M+ (Duncan Riley/SiliconANGLE)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/21aa77f509651d19de9d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzigrwdntp26</guid>
-<pubDate>Wed, 04 Nov 2026 13:16:27 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/" rel="related" type="text/html" />
-<description>Sentra raises $150M to control what AI agents can reach in corporate data - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/sentra.png" alt="" /></p><p>Sentra raises $150M to control what AI agents can reach in corporate data - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/sentra.png" medium="image" type="image/png" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/sentra.png" />
-<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/sentra.png" type="image/png" length="0" />
-</item>
-<item>
-<title>AI sales automation startup Nooks secures a $500M commitment from General Catalyst's CVF, which will take a share of the returns generated by the capital (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8d6fcec9a28af21b8ec9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzifyk4fof27</guid>
-<pubDate>Wed, 04 Nov 2026 13:02:15 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/" rel="related" type="text/html" />
-<description>Nooks has secured a $500 million commitment from General Catalyst's Customer Value Fund to finance the company's sales and marketing push, the sales automation startup said on ​Wednesday.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOG6RMKWAJZNQDBCHLTHDF25Z4U.jpg%3Fauth%3D5c13ed824f1ff11d3d3ca6d1b8acb8f6d55dd9bf5c8bb187402d74af41f3a5a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Nooks has secured a $500 million commitment from General Catalyst's Customer Value Fund to finance the company's sales and marketing push, the sales automation startup said on ​Wednesday.</p><p><a href="https://www.reuters.com/business/finance/ai-sales-startup-nooks-secures-500-million-funding-expansion-2026-11-04/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOG6RMKWAJZNQDBCHLTHDF25Z4U.jpg%3Fauth%3D5c13ed824f1ff11d3d3ca6d1b8acb8f6d55dd9bf5c8bb187402d74af41f3a5a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOG6RMKWAJZNQDBCHLTHDF25Z4U.jpg%3Fauth%3D5c13ed824f1ff11d3d3ca6d1b8acb8f6d55dd9bf5c8bb187402d74af41f3a5a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOG6RMKWAJZNQDBCHLTHDF25Z4U.jpg%3Fauth%3D5c13ed824f1ff11d3d3ca6d1b8acb8f6d55dd9bf5c8bb187402d74af41f3a5a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Uber reports Q3 revenue up 10% YoY to $14.8B, Gross Bookings up 20% to $59.8B, trips up 16% to 4B, and plans to scale its autonomous fleet to 2,000+ in 2027 (Rafe Rosner-Uddin/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e639ffde0fabc48cb474.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzifnly4h42f</guid>
-<pubDate>Wed, 04 Nov 2026 12:56:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af" rel="related" type="text/html" />
-<description>Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but will still trail rival Waymo</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F64de0bcd-8ce0-4edf-a511-989cfeb09a4a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but will still trail rival Waymo</p><p><a href="https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F64de0bcd-8ce0-4edf-a511-989cfeb09a4a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F64de0bcd-8ce0-4edf-a511-989cfeb09a4a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F64de0bcd-8ce0-4edf-a511-989cfeb09a4a.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>US voters in 29+ jurisdictions overwhelmingly pass data center bans or restrictions; S&amp;P says 145+ US projects were delayed or canceled through early August (Washington Post)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5f53ae256127008eb8d9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzifeg5t6e2n</guid>
-<pubDate>Wed, 04 Nov 2026 12:51:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/" rel="related" type="text/html" />
-<description>Local bans on data centers and the victory of gubernatorial and Senate candidates promising to regulate the projects could create headaches for the AI industry.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FVJU72DMOPQPD4EHX4ZFDKNDFG4.JPG%26w%3D1440" alt="" /></p><p>Local bans on data centers and the victory of gubernatorial and Senate candidates promising to regulate the projects could create headaches for the AI industry.</p><p><a href="https://www.washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FVJU72DMOPQPD4EHX4ZFDKNDFG4.JPG%26w%3D1440" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FVJU72DMOPQPD4EHX4ZFDKNDFG4.JPG%26w%3D1440" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FVJU72DMOPQPD4EHX4ZFDKNDFG4.JPG%26w%3D1440" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>HP names former GSK CEO Emma Walmsley as its new CEO, effective January 4, permanently filling the role after HP's Enrique Lores departed in February 2026 (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8c22f1610cdfb13101a9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziespgnri26</guid>
-<pubDate>Wed, 04 Nov 2026 12:41:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search" rel="related" type="text/html" />
-<description>HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP’s Enrique Lores departed earlier this year.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidQrAFMC3bJo%2Fv0%2F1200x800.jpg" alt="" /></p><p>HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP’s Enrique Lores departed earlier this year.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/hp-names-emma-walmsley-as-new-ceo-ending-monthlong-search">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidQrAFMC3bJo%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidQrAFMC3bJo%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FidQrAFMC3bJo%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Democrats running on AI regulation and anti-data center platforms won key races, including Sherrod Brown in Ohio, as leadership signals aggressive AI oversight (Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cbe38da06d767380bc01.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzidxq57g62s</guid>
-<pubDate>Wed, 04 Nov 2026 12:26:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/11/04/dems-made-big-tech-a-foil-and-they-couldnt-stop-winning-01148450" rel="related" type="text/html" />
-<description>Democrats turned voter frustration with the tech industry into a midterm advantage, delivering a warning to politicians who align themselves with Silicon Valley’s powerful interests.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fad%252F2d%252Fe4f9cf6f4e388d98a4b07b0a36f6%252Felection-2-26-california-48-75.jpg" alt="" /></p><p>Democrats turned voter frustration with the tech industry into a midterm advantage, delivering a warning to politicians who align themselves with Silicon Valley’s powerful interests.</p><p><a href="https://www.politico.com/news/2026/11/04/dems-made-big-tech-a-foil-and-they-couldnt-stop-winning-01148450">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fad%252F2d%252Fe4f9cf6f4e388d98a4b07b0a36f6%252Felection-2-26-california-48-75.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fad%252F2d%252Fe4f9cf6f4e388d98a4b07b0a36f6%252Felection-2-26-california-48-75.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252Fad%252F2d%252Fe4f9cf6f4e388d98a4b07b0a36f6%252Felection-2-26-california-48-75.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI acquires developer tools startup Pierre Computer for an undisclosed amount and plans to integrate Pierre's Code Storage feature directly into Codex (Madison Mills/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0ecd1977bd7ed68b7410.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzid4uhsyb2t</guid>
-<pubDate>Wed, 04 Nov 2026 12:10:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/11/04/openai-pierre-computer-github" rel="related" type="text/html" />
-<description>OpenAI wants to build a new nerve center for AI coders.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FNEbUJN2ZXdBWdghl8qPPx7g8eSM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402269405.jpeg" alt="" /></p><p>OpenAI wants to build a new nerve center for AI coders.</p><p><a href="https://www.axios.com/2026/11/04/openai-pierre-computer-github">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FNEbUJN2ZXdBWdghl8qPPx7g8eSM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402269405.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FNEbUJN2ZXdBWdghl8qPPx7g8eSM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402269405.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FNEbUJN2ZXdBWdghl8qPPx7g8eSM%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F10%2F07%2F1791402269405.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Democrats' US midterms victory is a win for hyperscalers and AI labs, a mixed bag for Nvidia, an advantage to China, and may make space data centers attractive (Ben Thompson/Stratechery)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0df6a628391f7d606adb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzibqvck5l27</guid>
-<pubDate>Wed, 04 Nov 2026 11:46:23 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://stratechery.com/2026/ai-on-the-ballot/" rel="related" type="text/html" />
-<description>Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?</description>
-<content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" alt="" /></p><p>Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?</p><p><a href="https://stratechery.com/2026/ai-on-the-ballot/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" />
-<enclosure url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Elon Musk's preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate (Calder Mchugh/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7c1af9a92521eadf72a7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzib6dffhe2l</guid>
-<pubDate>Wed, 04 Nov 2026 11:36:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/" rel="related" type="text/html" />
-<description>Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" alt="" /></p><p>Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.</p><p><a href="https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" />
-<enclosure url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google's capacity from 1999-2026 in 1.5 years (SemiAnalysis)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3fe0fd7bc0aed1b02b61.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziamfozyf2n</guid>
-<pubDate>Wed, 04 Nov 2026 11:25:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will" rel="related" type="text/html" />
-<description>Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" alt="" /></p><p>Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?</p><p><a href="https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google plans to spend $15B across 2027 and 2028 to expand its data center and cloud infrastructure in Malaysia, including building new computing hubs (Danial Azhar/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/946eaf17aab8b4646b99.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzia3hjvv52t</guid>
-<pubDate>Wed, 04 Nov 2026 11:16:31 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion" rel="related" type="text/html" />
-<description>Alphabet Inc.’s Google said it plans to spend $15 billion to expand data center and cloud operations in Malaysia as the artificial intelligence boom fuels demand for digital infrastructure.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipRFerydWlAc%2Fv1%2F1200x800.jpg" alt="" /></p><p>Alphabet Inc.’s Google said it plans to spend $15 billion to expand data center and cloud operations in Malaysia as the artificial intelligence boom fuels demand for digital infrastructure.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipRFerydWlAc%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipRFerydWlAc%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FipRFerydWlAc%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d538a907674ded04ba9c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi7iq23vs2t</guid>
-<pubDate>Wed, 04 Nov 2026 11:06:02 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/" rel="related" type="text/html" />
-<description>Alphabet's Google has expanded employee buyout offers to several ‌countries this year as it looks to rein in rising costs amid heavy spending on artificial intelligence.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FERLAE3YMMJKH7F2NXRRLDXR2FI.jpg%3Fauth%3D22ff73a194a64cd73986b75fe734559387108aec0f5e0e8e29c0c5bef12b9519%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Alphabet's Google has expanded employee buyout offers to several ‌countries this year as it looks to rein in rising costs amid heavy spending on artificial intelligence.</p><p><a href="https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FERLAE3YMMJKH7F2NXRRLDXR2FI.jpg%3Fauth%3D22ff73a194a64cd73986b75fe734559387108aec0f5e0e8e29c0c5bef12b9519%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FERLAE3YMMJKH7F2NXRRLDXR2FI.jpg%3Fauth%3D22ff73a194a64cd73986b75fe734559387108aec0f5e0e8e29c0c5bef12b9519%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FERLAE3YMMJKH7F2NXRRLDXR2FI.jpg%3Fauth%3D22ff73a194a64cd73986b75fe734559387108aec0f5e0e8e29c0c5bef12b9519%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Texas elects Democrats for governor and the US Senate for the first time in decades, creating uncertainty for its booming AI data center sector and Elon Musk (Nick Wingfield/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/86fca42c57f2fc01ed89.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi7ce54o52t</guid>
-<pubDate>Wed, 04 Nov 2026 11:02:28 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk" rel="related" type="text/html" />
-<description>Texas elected Democrats for governor and the U.S. Senate for the first time in decades, creating potential uncertainty for the state’s booming AI data center sector and its most prominent tech leader, Elon Musk. Gina Hinojosa, a Democratic congresswoman from the state, was projected to win the Texas governor’s race, prevailing over incumbent Republican governor Greg Abbott. And James Talarico,</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" alt="" /></p><p>Texas elected Democrats for governor and the U.S. Senate for the first time in decades, creating potential uncertainty for the state’s booming AI data center sector and its most prominent tech leader, Elon Musk. Gina Hinojosa, a Democratic congresswoman from the state, was projected to win the Texas governor’s race, prevailing over incumbent Republican governor Greg Abbott. And James Talarico,</p><p><a href="https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" />
-<enclosure url="https://tii.imgix.net/global/defaults/article_image_unavailable.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/996f6724b2bfdac26f04.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi6xh6w7q2i</guid>
-<pubDate>Wed, 04 Nov 2026 10:56:22 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best" rel="related" type="text/html" />
-<description>Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRFPOk3nCsaQ%2Fv0%2F1200x800.jpg" alt="" /></p><p>Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRFPOk3nCsaQ%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRFPOk3nCsaQ%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiRFPOk3nCsaQ%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>NBC exit poll: 56% said AI and data centers had been a "crucial or a major factor" in casting their votes for Congress, as candidates pledge to halt development (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e00fb1067410ad58f7a2.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi6fbsuml2f</guid>
-<pubDate>Wed, 04 Nov 2026 10:46:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5" rel="related" type="text/html" />
-<description>Gubernatorial wins in Texas, Georgia and Ohio and local ballot measures show depth of discontent with Trump-backed infrastructure spree</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa0297c92-8c2a-422b-940b-35b40e4046bd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Gubernatorial wins in Texas, Georgia and Ohio and local ballot measures show depth of discontent with Trump-backed infrastructure spree</p><p><a href="https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa0297c92-8c2a-422b-940b-35b40e4046bd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa0297c92-8c2a-422b-940b-35b40e4046bd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa0297c92-8c2a-422b-940b-35b40e4046bd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>

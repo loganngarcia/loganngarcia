@@ -5,8 +5,78 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 10:19:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:07:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Apple's HALO Teaches a Unitree G1 to Navigate Unseen Rooms With Simulation-Generated Data</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b9b988592896ce102c6e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1</guid>
+<pubDate>Thu, 05 Nov 2026 13:47:43 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1" rel="related" type="text/html" />
+<description>Trained on 300 hours of generated motion in simulated rooms, the onboard system completed 91% of 360 real-world trials without any teleoperation data.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" alt="" /></p><p>Trained on 300 hours of generated motion in simulated rooms, the onboard system completed 91% of 360 real-world trials without any teleoperation data.</p><p><a href="https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>CMU Introduces Pixel, a Sub-$15,000 Wheeled Robot Designed to Learn From Human Demonstrations</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/53e79e59948250576362.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/cmu-pixel-wheeled-robot-human-demonstrations</guid>
+<pubDate>Thu, 05 Nov 2026 13:42:45 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/cmu-pixel-wheeled-robot-human-demonstrations" rel="related" type="text/html" />
+<description>Pixel combines a low-cost two-armed robot with human demonstration tools and whole-body learning. Its companion Pixel-UMI study reports 87% average task progress across five tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&amp;w=1920&amp;q=75" alt="" /></p><p>Pixel combines a low-cost two-armed robot with human demonstration tools and whole-body learning. Its companion Pixel-UMI study reports 87% average task progress across five tasks.</p><p><a href="https://www.humanoidsdaily.com/news/cmu-pixel-wheeled-robot-human-demonstrations">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&amp;w=1920&amp;q=75" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&amp;w=1920&amp;q=75" />
+<enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>NEURA Robotics Partners With E.ON and enviaM on Grid Robotics, With Trials Expected in 2027</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2a14c3670bd265b25a58.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027</guid>
+<pubDate>Thu, 05 Nov 2026 13:04:53 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027" rel="related" type="text/html" />
+<description>The partners will train robotic skills at TUM RoboGym before testing inspections, asset monitoring and worker-support applications with grid operator MITNETZ STROM.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" alt="" /></p><p>The partners will train robotic skills at TUM RoboGym before testing inspections, asset monitoring and worker-support applications with grid operator MITNETZ STROM.</p><p><a href="https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>XPENG Highlights GroundingPI, a Vision Model for More Data-Efficient Robot Learning</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7a41ad24acffbf768cf.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation</guid>
+<pubDate>Thu, 05 Nov 2026 12:50:41 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation" rel="related" type="text/html" />
+<description>GroundingPI improves simulated robot manipulation with fewer demonstrations, offering a specialized visual foundation rather than an announced upgrade to XPENG’s IRON humanoid.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" alt="" /></p><p>GroundingPI improves simulated robot manipulation with fewer demonstrations, offering a specialized visual foundation rather than an announced upgrade to XPENG’s IRON humanoid.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" medium="image" type="image/png" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Agility Begins Trading on Nasdaq as AGLT, the First US-Listed Pure-Play Humanoid Company</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/60f0409db2cf7e57a659.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut</guid>
+<pubDate>Thu, 05 Nov 2026 12:27:33 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut" rel="related" type="text/html" />
+<description>The Churchill XI merger closed with about $465 million in gross capital, below the $600 million-plus projected in June, as Agility debuts with $1.78 million in 2025 sales.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" alt="" /></p><p>The Churchill XI merger closed with about $465 million in gross capital, below the $600 million-plus projected in June, as Agility debuts with $1.78 million in 2025 sales.</p><p><a href="https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>NYU's MABEL Puts a 56-DOF Mobile Bimanual Robot on an $8,056 Open-Source Parts List</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e57a2ce677f758ae278f.html</link>
@@ -426,76 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sergey-levine-pi-funding-hero-LIvSOwgjKswGX5sxMnNhmqx9rUsMrH.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sergey-levine-pi-funding-hero-LIvSOwgjKswGX5sxMnNhmqx9rUsMrH.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/sergey-levine-pi-funding-hero-LIvSOwgjKswGX5sxMnNhmqx9rUsMrH.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Unitree’s Quarterly Revenue Surges 70% as R&amp;D Spending Weighs on Profit</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/63e2720b0a7779b6f7bf.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit</guid>
-<pubDate>Wed, 28 Oct 2026 15:42:38 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit" rel="related" type="text/html" />
-<description>Unitree reports 665 million yuan in Q3 revenue, while profit falls 17.4% and R&amp;D spending rises 249.6%. A prior-year one-time expense complicates its nine-month earnings comparison.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-q3-h2-x-hero-fd9vJDVBeWO5T1K4cejp2n7OqXd5K6.webp" alt="" /></p><p>Unitree reports 665 million yuan in Q3 revenue, while profit falls 17.4% and R&amp;D spending rises 249.6%. A prior-year one-time expense complicates its nine-month earnings comparison.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-q3-2026-revenue-growth-rd-profit">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-q3-h2-x-hero-fd9vJDVBeWO5T1K4cejp2n7OqXd5K6.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-q3-h2-x-hero-fd9vJDVBeWO5T1K4cejp2n7OqXd5K6.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-q3-h2-x-hero-fd9vJDVBeWO5T1K4cejp2n7OqXd5K6.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Robbyant’s Embodied AI Challenge Will Send 15 Teams to a Real-Robot Final in Shanghai</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1a67613692d1a8eb4f76.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robbyant-embodied-ai-challenge-15-teams-shanghai-final</guid>
-<pubDate>Wed, 28 Oct 2026 14:13:28 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/robbyant-embodied-ai-challenge-15-teams-shanghai-final" rel="related" type="text/html" />
-<description>Robbyant tells Humanoids Daily that finalists will use AgileX’s Cobot Magic in a 48-hour hackathon. Tasks, scoring and advance access arrangements remain under development.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robbyant-embodied-ai-challenge-tFBmrZWWyztWmVEDJJHQxcpqaO3ZnP.webp" alt="" /></p><p>Robbyant tells Humanoids Daily that finalists will use AgileX’s Cobot Magic in a 48-hour hackathon. Tasks, scoring and advance access arrangements remain under development.</p><p><a href="https://www.humanoidsdaily.com/news/robbyant-embodied-ai-challenge-15-teams-shanghai-final">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robbyant-embodied-ai-challenge-tFBmrZWWyztWmVEDJJHQxcpqaO3ZnP.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robbyant-embodied-ai-challenge-tFBmrZWWyztWmVEDJJHQxcpqaO3ZnP.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robbyant-embodied-ai-challenge-tFBmrZWWyztWmVEDJJHQxcpqaO3ZnP.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Audi Tests Agile Robots’ Mobile Humanoids for Automotive Parts Sequencing</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1327d68ab8f00503bb3.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/audi-agile-robots-mobile-humanoids-parts-sequencing</guid>
-<pubDate>Wed, 28 Oct 2026 12:35:43 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/audi-agile-robots-mobile-humanoids-parts-sequencing" rel="related" type="text/html" />
-<description>Audi’s Ingolstadt proof of concept pairs Agile Robots’ mobile humanoids with virtual testing from Dassault Systèmes and NVIDIA, as automakers explore robotic material handling.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/audi-agile-robots-sequencing-hero-TBJb3O8nNa9iQt9aa9VdypMpIZxz84.webp" alt="" /></p><p>Audi’s Ingolstadt proof of concept pairs Agile Robots’ mobile humanoids with virtual testing from Dassault Systèmes and NVIDIA, as automakers explore robotic material handling.</p><p><a href="https://www.humanoidsdaily.com/news/audi-agile-robots-mobile-humanoids-parts-sequencing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/audi-agile-robots-sequencing-hero-TBJb3O8nNa9iQt9aa9VdypMpIZxz84.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/audi-agile-robots-sequencing-hero-TBJb3O8nNa9iQt9aa9VdypMpIZxz84.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/audi-agile-robots-sequencing-hero-TBJb3O8nNa9iQt9aa9VdypMpIZxz84.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Reward AI Shows OM-1 Handling Deliveries, Stairs and Household Chores</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/958417b0d29adcc6b40f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/reward-ai-om1-delivery-stairs-household-demo</guid>
-<pubDate>Wed, 28 Oct 2026 11:31:28 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/reward-ai-om1-delivery-stairs-household-demo" rel="related" type="text/html" />
-<description>Reward AI’s latest OM-1 video features delivery, stairway picking and household tasks, following its September debut of a policy trained on human demonstrations.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/reward-ai-om1-cybertruck-delivery-ljPIMvjq0fZoC61w3oBBDJHx0sVKjg.webp" alt="" /></p><p>Reward AI’s latest OM-1 video features delivery, stairway picking and household tasks, following its September debut of a policy trained on human demonstrations.</p><p><a href="https://www.humanoidsdaily.com/news/reward-ai-om1-delivery-stairs-household-demo">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/reward-ai-om1-cybertruck-delivery-ljPIMvjq0fZoC61w3oBBDJHx0sVKjg.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/reward-ai-om1-cybertruck-delivery-ljPIMvjq0fZoC61w3oBBDJHx0sVKjg.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/reward-ai-om1-cybertruck-delivery-ljPIMvjq0fZoC61w3oBBDJHx0sVKjg.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>LG Targets Home Humanoids Around 2030, With Robots and Appliances Designed to Work Together</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1ebb700f4e9f38caaa3b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/lg-home-humanoids-2030-robots-appliances-q3</guid>
-<pubDate>Wed, 28 Oct 2026 11:03:08 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/lg-home-humanoids-2030-robots-appliances-q3" rel="related" type="text/html" />
-<description>LG’s Q3 call outlines a path from industrial robotics to household use, with affordability, compatible appliances, training data and actuator production central to the plan.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" alt="" /></p><p>LG’s Q3 call outlines a path from industrial robotics to household use, with affordability, compatible appliances, training data and actuator production central to the plan.</p><p><a href="https://www.humanoidsdaily.com/news/lg-home-humanoids-2030-robots-appliances-q3">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
