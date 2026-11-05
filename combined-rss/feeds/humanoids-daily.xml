@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 02:54:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 10:19:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>NYU's MABEL Puts a 56-DOF Mobile Bimanual Robot on an $8,056 Open-Source Parts List</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e57a2ce677f758ae278f.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu</guid>
+<pubDate>Thu, 05 Nov 2026 06:56:39 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu" rel="related" type="text/html" />
+<description>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" alt="" /></p><p>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</p><p><a href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>RoboColosseum Launches Real-World Robot AI Benchmark With Unitree Support</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3eeaa8c1b362db955126.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>XPENG Says IRON’s Solid-State Battery Has Entered Small-Batch Production</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a13215afd074baed783.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production</guid>
-<pubDate>Wed, 28 Oct 2026 08:10:53 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production" rel="related" type="text/html" />
-<description>Vice president Gu Jie reports limited battery production while IRON remains pre-SOP. The exact production chemistry and performance specifications remain unclear.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" alt="" /></p><p>Vice president Gu Jie reports limited battery production while IRON remains pre-SOP. The exact production chemistry and performance specifications remain unclear.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>

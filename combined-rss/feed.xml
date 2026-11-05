@@ -5,8 +5,204 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 02:54:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 10:19:56 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OpenAI President Greg Brockman says H1 2026 was "pretty rough", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a "revenue inflection" in Q3 (Maxwell Zeff/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be902fb0b1b3d892c155.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkeb25qgn2t</guid>
+<pubDate>Thu, 05 Nov 2026 07:36:32 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5?st=hL3kyT&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
+<description>The ChatGPT maker’s president said it experienced a “revenue inflection” in the third quarter of 2026, driven by a growing enterprise business.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94535192%2Fsocial" alt="" /></p><p>The ChatGPT maker’s president said it experienced a “revenue inflection” in the third quarter of 2026, driven by a growing enterprise business.</p><p><a href="https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5?st=hL3kyT&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94535192%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94535192%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94535192%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY (Irina Anghel/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dfc09c3eb804ea792fca.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkdpfm4ya2s</guid>
+<pubDate>Thu, 05 Nov 2026 07:26:40 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market" rel="related" type="text/html" />
+<description>Artificial intelligence skills are no longer optional for the hundreds of thousands of young Britons seeking their first job, according to data from recruitment platforms that show how the technology ...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fihzi1q4YBkgw%2Fv0%2F1200x800.jpg" alt="" /></p><p>Artificial intelligence skills are no longer optional for the hundreds of thousands of young Britons seeking their first job, according to data from recruitment platforms that show how the technology ...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/ai-skills-are-make-or-break-in-uk-s-brutal-youth-jobs-market">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fihzi1q4YBkgw%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fihzi1q4YBkgw%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fihzi1q4YBkgw%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>NYU's MABEL Puts a 56-DOF Mobile Bimanual Robot on an $8,056 Open-Source Parts List</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e57a2ce677f758ae278f.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu</guid>
+<pubDate>Thu, 05 Nov 2026 06:56:39 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu" rel="related" type="text/html" />
+<description>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" alt="" /></p><p>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</p><p><a href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/375e8d830db912a7fd97.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkbhhgmeq2h</guid>
+<pubDate>Thu, 05 Nov 2026 06:46:26 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/" rel="related" type="text/html" />
+<description>Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/191:100/w_1280,c_limit/politics_ai_pac_election.jpg" alt="" /></p><p>Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.</p><p><a href="https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/191:100/w_1280,c_limit/politics_ai_pac_election.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/191:100/w_1280,c_limit/politics_ai_pac_election.jpg" />
+<enclosure url="https://media.wired.com/photos/6aea6fff1f18bdac7b5ae9c8/191:100/w_1280,c_limit/politics_ai_pac_election.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Chinese chipmakers' aggressive hiring of experienced engineers is increasingly at odds with efforts to protect trade secrets in Taiwan and South Korea (Jenny Lee/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d86b3d1578459a043a8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzka24rgp424</guid>
+<pubDate>Thu, 05 Nov 2026 06:21:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html" rel="related" type="text/html" />
+<description>Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108069758-1733118336505-2024-12-02T050134Z_2373890_RC2VCZ9ITXAP_RTRMADP_3_USA-CHINA-CHIPS.JPG?v=1733118398&amp;w=1920&amp;h=1080" alt="" /></p><p>Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.</p><p><a href="https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108069758-1733118336505-2024-12-02T050134Z_2373890_RC2VCZ9ITXAP_RTRMADP_3_USA-CHINA-CHIPS.JPG?v=1733118398&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108069758-1733118336505-2024-12-02T050134Z_2373890_RC2VCZ9ITXAP_RTRMADP_3_USA-CHINA-CHIPS.JPG?v=1733118398&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108069758-1733118336505-2024-12-02T050134Z_2373890_RC2VCZ9ITXAP_RTRMADP_3_USA-CHINA-CHIPS.JPG?v=1733118398&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: China's export curbs on critical metals have disrupted supplies of micro drill bits made mainly from tungsten carbide, used in PCBs and chip substrates (Cheng Ting-Fang/Nikkei Asia)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d8932db29d0fbe0556e8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzk7i7mnef2i</guid>
+<pubDate>Thu, 05 Nov 2026 06:11:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain" rel="related" type="text/html" />
+<description>Export controls on critical metal have sent price of key tool surging</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F7%2F3%2F4%2F13404376-3-eng-GB%2F254f669b1742-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Export controls on critical metal have sent price of key tool surging</p><p><a href="https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F7%2F3%2F4%2F13404376-3-eng-GB%2F254f669b1742-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F7%2F3%2F4%2F13404376-3-eng-GB%2F254f669b1742-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F7%2F3%2F4%2F13404376-3-eng-GB%2F254f669b1742-1f.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources and company memo: Chinese NAND flash maker YMTC has put its Shanghai IPO on hold as China tightens share sale approvals; YMTC sought to raise ~$4.9B (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bfa3221ad35a53b9ce52.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzk77cfaxr2n</guid>
+<pubDate>Thu, 05 Nov 2026 06:06:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04/" rel="related" type="text/html" />
+<description>Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO ​on hold, according to a company memo and three people with knowledge of the matter, as Beijing tightens approval for sha...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F7XEI7IOTBZIO5P5RSA3LV4GDFY.jpg%3Fauth%3D2feb94950386015b0f34969d65d7bbb2bf8184e7bcbb601bc31e9bf3f77793c9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Flash-memory chipmaker Yangtze Memory Technologies Co has put its Shanghai IPO ​on hold, according to a company memo and three people with knowledge of the matter, as Beijing tightens approval for sha...</p><p><a href="https://www.reuters.com/world/china/chinese-chipmaker-ymtc-puts-ipo-hold-weaker-markets-weigh-sources-say-2026-11-04/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F7XEI7IOTBZIO5P5RSA3LV4GDFY.jpg%3Fauth%3D2feb94950386015b0f34969d65d7bbb2bf8184e7bcbb601bc31e9bf3f77793c9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F7XEI7IOTBZIO5P5RSA3LV4GDFY.jpg%3Fauth%3D2feb94950386015b0f34969d65d7bbb2bf8184e7bcbb601bc31e9bf3f77793c9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F7XEI7IOTBZIO5P5RSA3LV4GDFY.jpg%3Fauth%3D2feb94950386015b0f34969d65d7bbb2bf8184e7bcbb601bc31e9bf3f77793c9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c23cf58f1ae7da459b86.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzk63jphze27</guid>
+<pubDate>Thu, 05 Nov 2026 05:46:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8" rel="related" type="text/html" />
+<description>Fresh blow ahead of start-up’s IPO as tech giant turns down option to more than double Texas data centre contract</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F930ce6ea-acc3-4b7f-adcb-a11c3f196c93.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Fresh blow ahead of start-up’s IPO as tech giant turns down option to more than double Texas data centre contract</p><p><a href="https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F930ce6ea-acc3-4b7f-adcb-a11c3f196c93.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F930ce6ea-acc3-4b7f-adcb-a11c3f196c93.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F930ce6ea-acc3-4b7f-adcb-a11c3f196c93.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Microsoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller (XBOX Wire)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/448398a9052799ee9102.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzk4pgsnvx2n</guid>
+<pubDate>Thu, 05 Nov 2026 05:21:25 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/" rel="related" type="text/html" />
+<description>Starting today, we’re rolling out two previews for XBOX Cloud Gaming. On supported Smart TVs, you can use your phone as a controller when you don’t have</description>
+<content:encoded><![CDATA[<p><img src="https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png" alt="" /></p><p>Starting today, we’re rolling out two previews for XBOX Cloud Gaming. On supported Smart TVs, you can use your phone as a controller when you don’t have</p><p><a href="https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png" medium="image" type="image/png" />
+<media:thumbnail url="https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png" />
+<enclosure url="https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named "Watermelon" (Charles Rollet/Business Insider)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/93dea57e67cdd56ec71d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzk26e4tds2f</guid>
+<pubDate>Thu, 05 Nov 2026 04:36:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11" rel="related" type="text/html" />
+<description>As AI models get more powerful, Meta stops naming them after fruit. Previous models were internally known as Watermelon, Avocado, and Mango.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aea5834cd2cd3a46a0f0850?width=1200&amp;format=jpeg" alt="" /></p><p>As AI models get more powerful, Meta stops naming them after fruit. Previous models were internally known as Watermelon, Avocado, and Mango.</p><p><a href="https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://i.insider.com/6aea5834cd2cd3a46a0f0850?width=1200&amp;format=jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://i.insider.com/6aea5834cd2cd3a46a0f0850?width=1200&amp;format=jpeg" />
+<enclosure url="https://i.insider.com/6aea5834cd2cd3a46a0f0850?width=1200&amp;format=jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/23739e2b80956f03911c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjz2lrgbe26</guid>
+<pubDate>Thu, 05 Nov 2026 04:16:05 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4" rel="related" type="text/html" />
+<description>Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F4d94014d-82c5-465c-904f-71691a373299.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong</p><p><a href="https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F4d94014d-82c5-465c-904f-71691a373299.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F4d94014d-82c5-465c-904f-71691a373299.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F4d94014d-82c5-465c-904f-71691a373299.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/27763f05893754482380.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjys7jlgi2f</guid>
+<pubDate>Thu, 05 Nov 2026 04:11:23 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup" rel="related" type="text/html" />
+<description>Palo Alto Networks is in talks to buy three-year-old Israeli security startup Clutch Security for around $500 million, according to people familiar with the matter. If finalized, the acquisition would be the fifth Palo Alto Networks has announced this year, as CEO Nikesh Arora seeks to bolster ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18116/bc4d846f-f8da-45df-8d1f-0b767d329edb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Palo Alto Networks is in talks to buy three-year-old Israeli security startup Clutch Security for around $500 million, according to people familiar with the matter. If finalized, the acquisition would be the fifth Palo Alto Networks has announced this year, as CEO Nikesh Arora seeks to bolster ...</p><p><a href="https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18116/bc4d846f-f8da-45df-8d1f-0b767d329edb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18116/bc4d846f-f8da-45df-8d1f-0b767d329edb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18116/bc4d846f-f8da-45df-8d1f-0b767d329edb.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e370d07956dc385d7610.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjwbbsu4y2f</guid>
+<pubDate>Thu, 05 Nov 2026 03:26:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest" rel="related" type="text/html" />
+<description>“When agents move money, someone still has to be licensed, auditable and liable,” says Seaya Nova as Pliant raises an $80M Series C.</description>
+<content:encoded><![CDATA[<p><img src="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" alt="" /></p><p>“When agents move money, someone still has to be licensed, auditable and liable,” says Seaya Nova as Pliant raises an $80M Series C.</p><p><a href="https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" />
+<enclosure url="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4f4c423c54260333db7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjucoowjk2s</guid>
+<pubDate>Thu, 05 Nov 2026 02:51:07 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://openai.com/index/a-thousand-fewer-paths-to-root" rel="related" type="text/html" />
+<description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.</description>
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.</p><p><a href="https://openai.com/index/a-thousand-fewer-paths-to-root">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" />
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
+</item>
 <item>
 <title>AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/76208ade4889513be806.html</link>
@@ -155,8 +351,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal" rel="related" type="text/html" />
-<description>Meta Platforms Inc. raised €9 billion from a debut euro debt bond sale that drew a record €53 billion of orders — the most for any corporate deal in Europe — after offering generous yields that even i...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirVwFnj1gV9Q%2Fv0%2F1200x800.jpg" alt="" /></p><p>Meta Platforms Inc. raised €9 billion from a debut euro debt bond sale that drew a record €53 billion of orders — the most for any corporate deal in Europe — after offering generous yields that even i...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal">Open Original Article</a></p>]]></content:encoded>
+<description>Meta Platforms Inc. raised €9 billion from a debut euro debt bond sale that drew a record of over €62 billion of orders — the most for any corporate deal in Europe — after offering generous yields tha...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirVwFnj1gV9Q%2Fv0%2F1200x800.jpg" alt="" /></p><p>Meta Platforms Inc. raised €9 billion from a debut euro debt bond sale that drew a record of over €62 billion of orders — the most for any corporate deal in Europe — after offering generous yields tha...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirVwFnj1gV9Q%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirVwFnj1gV9Q%2Fv0%2F1200x800.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FirVwFnj1gV9Q%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
@@ -694,34 +890,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa0297c92-8c2a-422b-940b-35b40e4046bd.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Legal shifts in Texas and Delaware leave Elon Musk's SpaceX-Tesla merger and Meta's new non-voting share plan better prepared to fend off shareholder lawsuits (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5b88262c69bc2aff4cca.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi3wm2cbi2f</guid>
-<pubDate>Wed, 04 Nov 2026 10:02:12 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364" rel="related" type="text/html" />
-<description>SpaceX-Tesla merger and Meta’s new share class expected to fend off legal challenges after shareholder rights diminished in Delaware and Texas</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F999c1968-1133-4d7b-b259-4b73d8b07f6c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>SpaceX-Tesla merger and Meta’s new share class expected to fend off legal challenges after shareholder rights diminished in Delaware and Texas</p><p><a href="https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F999c1968-1133-4d7b-b259-4b73d8b07f6c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F999c1968-1133-4d7b-b259-4b73d8b07f6c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F999c1968-1133-4d7b-b259-4b73d8b07f6c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/626d3932ded808322e16.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi32ltyiz24</guid>
-<pubDate>Wed, 04 Nov 2026 09:46:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing" rel="related" type="text/html" />
-<description>We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" alt="" /></p><p>We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries</p><p><a href="https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" medium="image" type="image/png" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Tokio Marine HCC and Adrian Flux Launch UK Home Insurance for Humanoid Robots</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2c635c4f68e41c7249b0.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/tokio-marine-adrian-flux-humanoid-robot-home-insurance</guid>
@@ -736,34 +904,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/humanoid-home-insurance-preview-KA0RQRW02P4TEciC3yAC03Zw213Cly.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Democrat James Talarico defeats Ken Paxton to win Texas's first Democratic Senate seat in 30+ years; Elon Musk spent $47M backing Paxton and attacked Talarico (Stephanie Findlay/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ebceaa9c808b1429b687.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhz3mzj2h2i</guid>
-<pubDate>Wed, 04 Nov 2026 09:11:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6" rel="related" type="text/html" />
-<description>Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F25bbc270-4ceb-40cb-b655-ee7c0a2bfbf8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent</p><p><a href="https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F25bbc270-4ceb-40cb-b655-ee7c0a2bfbf8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F25bbc270-4ceb-40cb-b655-ee7c0a2bfbf8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F25bbc270-4ceb-40cb-b655-ee7c0a2bfbf8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state (Sasha Rogelberg/Fortune)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d4310f1830820651d77.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhykxnyh72t</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/" rel="related" type="text/html" />
-<description>The Buckeye State has become the prototype for how the country will respond to the rapid buildout of AI.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" alt="" /></p><p>The Buckeye State has become the prototype for how the country will respond to the rapid buildout of AI.</p><p><a href="https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" />
-<enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>RobotWorld 2026 Opens With Humanoids and Physical AI in Focus</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/375470d11bec6497936d.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/robotworld-2026-humanoids-physical-ai-manufacturing</guid>
@@ -776,132 +916,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robotworld-2026-preview-16x9-GIBTziqehmKIgGjYtVnhH8K5sdltGZ.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/54d6359a4bc9481e8c59.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhtirthvs2f</guid>
-<pubDate>Wed, 04 Nov 2026 07:31:19 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&amp;sharetype=gift&amp;token=b4848b6e-823f-4d06-ad62-e40b39922426" rel="related" type="text/html" />
-<description>The US is building electricity lines at a quarter the rate of a decade ago</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F8f0af82c-1e4f-4cc7-b9f7-fb9fba536571.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>The US is building electricity lines at a quarter the rate of a decade ago</p><p><a href="https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&amp;sharetype=gift&amp;token=b4848b6e-823f-4d06-ad62-e40b39922426">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F8f0af82c-1e4f-4cc7-b9f7-fb9fba536571.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F8f0af82c-1e4f-4cc7-b9f7-fb9fba536571.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F8f0af82c-1e4f-4cc7-b9f7-fb9fba536571.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c1dedd2df8b0b7e66cd8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhswcxngr2t</guid>
-<pubDate>Wed, 04 Nov 2026 07:20:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/" rel="related" type="text/html" />
-<description>Chinese companies are pouring resources into developing the AI that could make machines useful across a wider range of jobs.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FG73KIUSXBNJL5L2BGTO5KIPOUU.jpg%3Fauth%3D599048c8b390fef38366d2c544e612f8c7eefe5570988957b45e80f1b7dc83b1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chinese companies are pouring resources into developing the AI that could make machines useful across a wider range of jobs.</p><p><a href="https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FG73KIUSXBNJL5L2BGTO5KIPOUU.jpg%3Fauth%3D599048c8b390fef38366d2c544e612f8c7eefe5570988957b45e80f1b7dc83b1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FG73KIUSXBNJL5L2BGTO5KIPOUU.jpg%3Fauth%3D599048c8b390fef38366d2c544e612f8c7eefe5570988957b45e80f1b7dc83b1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FG73KIUSXBNJL5L2BGTO5KIPOUU.jpg%3Fauth%3D599048c8b390fef38366d2c544e612f8c7eefe5570988957b45e80f1b7dc83b1%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/000257c283833c541991.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhrkd34qx2t</guid>
-<pubDate>Wed, 04 Nov 2026 06:56:23 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout" rel="related" type="text/html" />
-<description>Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing with a suspension of approvals under Republican Texas Governor Greg Abbot...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fic2rkLPc546w%2Fv0%2F1200x800.jpg" alt="" /></p><p>Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing with a suspension of approvals under Republican Texas Governor Greg Abbot...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fic2rkLPc546w%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fic2rkLPc546w%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fic2rkLPc546w%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AMD projects ~$17B in Q4 2026 revenue, compared to Intel's $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time (Simon Sharwood/The Register)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5443e3e2bd270d953eec.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhqfqtjlw27</guid>
-<pubDate>Wed, 04 Nov 2026 06:35:56 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448" rel="related" type="text/html" />
-<description>CEO says supply chain can cope with surging datacenter and AI demand</description>
-<content:encoded><![CDATA[<p><img src="https://image.theregister.com/1662910.jpg?imageId=1662910&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p><p>CEO says supply chain can cope with surging datacenter and AI demand</p><p><a href="https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.theregister.com/1662910.jpg?imageId=1662910&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.theregister.com/1662910.jpg?imageId=1662910&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" />
-<enclosure url="https://image.theregister.com/1662910.jpg?imageId=1662910&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation (Ivan Mehta/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a007c586a31ad83f1f57.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhpupdtto2f</guid>
-<pubDate>Wed, 04 Nov 2026 06:26:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/" rel="related" type="text/html" />
-<description>More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675" alt="" /></p><p>More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.</p><p><a href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8d7583beee2714a6d897.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhpc7iheh26</guid>
-<pubDate>Wed, 04 Nov 2026 06:16:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto" rel="related" type="text/html" />
-<description>Global stock markets erased a selloff sparked by a Democratic sweep of the US Congress, as uncertainty surrounding the midterms faded and dip-buyers rushed back into a bruised market.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZlbfJIJxnGs%2Fv0%2F1200x800.jpg" alt="" /></p><p>Global stock markets erased a selloff sparked by a Democratic sweep of the US Congress, as uncertainty surrounding the midterms faded and dip-buyers rushed back into a bruised market.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZlbfJIJxnGs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZlbfJIJxnGs%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZlbfJIJxnGs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ad43ee3f88057520318b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhoqm77ch2s</guid>
-<pubDate>Wed, 04 Nov 2026 06:06:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c" rel="related" type="text/html" />
-<description>Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F504961d5-55a0-4313-9995-8d4cc3487de1.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants</p><p><a href="https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F504961d5-55a0-4313-9995-8d4cc3487de1.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F504961d5-55a0-4313-9995-8d4cc3487de1.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F504961d5-55a0-4313-9995-8d4cc3487de1.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8d3bb16964539e64a017.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzho6stfi32f</guid>
-<pubDate>Wed, 04 Nov 2026 05:56:16 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered" rel="related" type="text/html" />
-<description>Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet s...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fin_pEQC1mr0Y%2Fv0%2F1200x800.jpg" alt="" /></p><p>Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet s...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fin_pEQC1mr0Y%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fin_pEQC1mr0Y%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fin_pEQC1mr0Y%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Q&amp;A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9937ebeff3d46452eba5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhjyp3zbn2v</guid>
-<pubDate>Wed, 04 Nov 2026 04:41:15 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.generalist.com/p/a-portrait-of-eight-billion-people" rel="related" type="text/html" />
-<description>Listen now | Inside Simile with Joon Sung Park.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!3mVL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae632c26-6d7e-46c6-a86f-81d49d368e2f_1456x1048.png" alt="" /></p><p>Listen now | Inside Simile with Joon Sung Park.</p><p><a href="https://www.generalist.com/p/a-portrait-of-eight-billion-people">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!3mVL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae632c26-6d7e-46c6-a86f-81d49d368e2f_1456x1048.png" medium="image" type="image/png" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!3mVL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae632c26-6d7e-46c6-a86f-81d49d368e2f_1456x1048.png" />
-<enclosure url="https://substackcdn.com/image/fetch/$s_!3mVL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae632c26-6d7e-46c6-a86f-81d49d368e2f_1456x1048.png" type="image/png" length="0" />
 </item>
 <item>
 <title>LiberAI Unveils Liber-0: Learning from Human Experience for Zero-Shot Robot Manipulation</title>
@@ -1336,20 +1350,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/LG-CLOiD.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>XPENG Says IRON’s Solid-State Battery Has Entered Small-Batch Production</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7a13215afd074baed783.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production</guid>
-<pubDate>Wed, 28 Oct 2026 08:10:53 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production" rel="related" type="text/html" />
-<description>Vice president Gu Jie reports limited battery production while IRON remains pre-SOP. The exact production chemistry and performance specifications remain unclear.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" alt="" /></p><p>Vice president Gu Jie reports limited battery production while IRON remains pre-SOP. The exact production chemistry and performance specifications remain unclear.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-iron-solid-state-battery-small-batch-production">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-beijing-auto-show-8q9yITEZYO5gJ3VmBZ5XkFhGdjI7YB.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Softmax Has Been Broken This Whole Time?</title>
