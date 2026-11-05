@@ -5,17 +5,123 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 05 Nov 2026 17:42:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 22:55:29 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlvfqacri2t</guid>
+<pubDate>Thu, 05 Nov 2026 22:16:03 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed exec Alice Huang, reported to be a Chinese asset (Kevin Breuninger/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlthkzsvm2t</guid>
+<pubDate>Thu, 05 Nov 2026 21:41:17 +0000</pubDate>
+<description>President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" alt="" /></p><p>President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>California State Senator Scott Wiener, author of AI safety law SB 53, won Tuesday&#x27;s election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)</title>
+<link>https://www.theinformation.com/articles/california-sends-ai-safety-lawmaker-congress</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlt5yh43m2f</guid>
+<pubDate>Thu, 05 Nov 2026 21:35:55 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>METR: Anthropic redacted much of the &quot;most informative&quot; evidence from METR&#x27;s 100-page report, so readers &quot;must rely on our judgment more than we consider ideal&quot; (@metr_evals)</title>
+<link>https://x.com/metr_evals/status/2118412194702598339</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlsvgeulr27</guid>
+<pubDate>Thu, 05 Nov 2026 21:31:08 +0000</pubDate>
+<description>We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative. As a consequence, the public must rely on our judgment more than we consider ideal.</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HWYcqjRa8AAHJV8?format=webp&amp;name=large" alt="" /></p><p>We submitted a ~100-page full report on our assessment to Anthropic. For the public version, Anthropic redacted a majority of the evidence we found most informative. As a consequence, the public must rely on our judgment more than we consider ideal.</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HWYcqjRa8AAHJV8?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HWYcqjRa8AAHJV8?format=webp&amp;name=large" />
+</item>
+<item>
+<title>Meta President Dina Powell McCormick says building new US data centers will be harder after midterm results, but it will be easier to expand existing projects (Meghan Bobrowsky/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/meta-president-says-midterm-results-will-make-building-data-centers-harder-f1d27c93?st=d9mJbm&amp;reflink=article_copyURL_share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlq3sm2im2v</guid>
+<pubDate>Thu, 05 Nov 2026 20:41:01 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm&#x27;s struggling ISP Brightspeed into a network of small data centers (The Information)</title>
+<link>https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlop4y6hq26</guid>
+<pubDate>Thu, 05 Nov 2026 20:16:02 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google plans to spend $17B to build its first Wyoming data center, pay for all the power it uses, and form a Community Council to address growth concerns (Davey Alba/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-05/google-plans-to-spend-17-billion-on-wyoming-data-center</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlmqhlu6b2v</guid>
+<pubDate>Thu, 05 Nov 2026 19:40:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlm6qdjao2n</guid>
+<pubDate>Thu, 05 Nov 2026 19:31:04 +0000</pubDate>
+<description>Do you want to chat with your Muse?</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" alt="" /></p><p>Do you want to chat with your Muse?</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200" />
+</item>
+<item>
+<title>Sources: about 600,000 of Nvidia&#x27;s H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)</title>
+<link>https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlln5i5go2s</guid>
+<pubDate>Thu, 05 Nov 2026 19:21:14 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>METR: Anthropic&#x27;s models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)</title>
+<link>https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlkm3cshp2f</guid>
+<pubDate>Thu, 05 Nov 2026 19:02:45 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>California&#x27;s Proposition 40, which proposes a one-time 5% tax on assets of billionaires for healthcare funding, seems headed for defeat as vote counts continue (Los Angeles Times)</title>
+<link>https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzljxjqfhz2f</guid>
+<pubDate>Thu, 05 Nov 2026 18:51:15 +0000</pubDate>
+<description>In one of the most expensive ballot fights in California history, opponents heavily outspent supporters of a billionaire tax to mostly fund healthcare. On Wednesday, the wealth tax appeared headed for defeat though results on Proposition 40 were too close to call.</description>
+<content:encoded><![CDATA[<p><img src="https://ca-times.brightspotcdn.com/dims4/default/4ad70e0/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2F35%2F74343e2f4ae0b1d76a9240f54a22%2Fgettyimages-2261847988.jpg" alt="" /></p><p>In one of the most expensive ballot fights in California history, opponents heavily outspent supporters of a billionaire tax to mostly fund healthcare. On Wednesday, the wealth tax appeared headed for defeat though results on Proposition 40 were too close to call.</p>]]></content:encoded>
+<media:content url="https://ca-times.brightspotcdn.com/dims4/default/4ad70e0/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2F35%2F74343e2f4ae0b1d76a9240f54a22%2Fgettyimages-2261847988.jpg" medium="image" />
+<media:thumbnail url="https://ca-times.brightspotcdn.com/dims4/default/4ad70e0/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2F35%2F74343e2f4ae0b1d76a9240f54a22%2Fgettyimages-2261847988.jpg" />
+</item>
+<item>
+<title>Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)</title>
+<link>https://www.zdnet.com/innovation/personal-finance-claude-anthropic/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlhybsfle2s</guid>
+<pubDate>Thu, 05 Nov 2026 18:15:53 +0000</pubDate>
+<description>Anthropic has released what appears to be its answer to ChatGPT Finances.</description>
+<content:encoded><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg" alt="" /></p><p>Anthropic has released what appears to be its answer to ChatGPT Finances.</p>]]></content:encoded>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg" medium="image" />
+<media:thumbnail url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg" />
+</item>
 <item>
 <title>Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before (Tom Warren/The Verge)</title>
 <link>https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlf72bhrt2i</guid>
 <pubDate>Thu, 05 Nov 2026 17:25:59 +0000</pubDate>
 <description>The new design focuses on speed and usability.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" alt="" /></p><p>The new design focuses on speed and usability.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;strip=all&amp;crop=0%2C4.3743779624242%2C100%2C91.251244075152&amp;w=1200" />
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-PC-App-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>The new design focuses on speed and usability.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-PC-App-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-PC-App-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
 </item>
 <item>
 <title>OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ &quot;novel&quot; vulnerabilities in Firefox (Djohnson/CyberScoop)</title>
@@ -790,110 +896,6 @@
 <content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" alt="" /></p><p>Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?</p>]]></content:encoded>
 <media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" medium="image" />
 <media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ" />
-</item>
-<item>
-<title>Elon Musk&#x27;s preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate (Calder Mchugh/Politico)</title>
-<link>https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzib6dffhe2l</guid>
-<pubDate>Wed, 04 Nov 2026 11:36:01 +0000</pubDate>
-<description>Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" alt="" /></p><p>Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.</p>]]></content:encoded>
-<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" medium="image" />
-<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/04/GettyImages-2297759294-scaled.jpg" />
-</item>
-<item>
-<title>Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google&#x27;s capacity from 1999-2026 in 1.5 years (SemiAnalysis)</title>
-<link>https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziamfozyf2n</guid>
-<pubDate>Wed, 04 Nov 2026 11:25:59 +0000</pubDate>
-<description>Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" alt="" /></p><p>Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!kpt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd05fc24d-e941-43b0-9d9a-cf671aecdf4c_2752x1536.jpeg" />
-</item>
-<item>
-<title>Google plans to spend $15B across 2027 and 2028 to expand its data center and cloud infrastructure in Malaysia, including building new computing hubs (Danial Azhar/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzia3hjvv52t</guid>
-<pubDate>Wed, 04 Nov 2026 11:16:31 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)</title>
-<link>https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi7iq23vs2t</guid>
-<pubDate>Wed, 04 Nov 2026 11:06:02 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Texas elects Democrats for governor and the US Senate for the first time in decades, creating uncertainty for its booming AI data center sector and Elon Musk (Nick Wingfield/The Information)</title>
-<link>https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi7ce54o52t</guid>
-<pubDate>Wed, 04 Nov 2026 11:02:28 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi6xh6w7q2i</guid>
-<pubDate>Wed, 04 Nov 2026 10:56:22 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NBC exit poll: 56% said AI and data centers had been a &quot;crucial or a major factor&quot; in casting their votes for Congress, as candidates pledge to halt development (Financial Times)</title>
-<link>https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi6fbsuml2f</guid>
-<pubDate>Wed, 04 Nov 2026 10:46:13 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Legal shifts in Texas and Delaware leave Elon Musk&#x27;s SpaceX-Tesla merger and Meta&#x27;s new non-voting share plan better prepared to fend off shareholder lawsuits (Financial Times)</title>
-<link>https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi3wm2cbi2f</guid>
-<pubDate>Wed, 04 Nov 2026 10:02:12 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)</title>
-<link>https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzi32ltyiz24</guid>
-<pubDate>Wed, 04 Nov 2026 09:46:33 +0000</pubDate>
-<description>We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" alt="" /></p><p>We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries</p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" medium="image" />
-<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!WYGs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25c874c2-9b02-4a24-9046-879cb1500023_1920x899.png" />
-</item>
-<item>
-<title>Democrat James Talarico defeats Ken Paxton to win Texas&#x27;s first Democratic Senate seat in 30+ years; Elon Musk spent $47M backing Paxton and attacked Talarico (Stephanie Findlay/Financial Times)</title>
-<link>https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhz3mzj2h2i</guid>
-<pubDate>Wed, 04 Nov 2026 09:11:20 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state (Sasha Rogelberg/Fortune)</title>
-<link>https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhykxnyh72t</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:01 +0000</pubDate>
-<description>The Buckeye State has become the prototype for how the country will respond to the rapid buildout of AI.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" alt="" /></p><p>The Buckeye State has become the prototype for how the country will respond to the rapid buildout of AI.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)</title>
-<link>https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&amp;sharetype=gift&amp;token=b4848b6e-823f-4d06-ad62-e40b39922426</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzhtirthvs2f</guid>
-<pubDate>Wed, 04 Nov 2026 07:31:19 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
