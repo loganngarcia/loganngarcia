@@ -5,8 +5,96 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:45:50 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 17:42:41 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)</title>
+<link>https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznw7mvbgh25</guid>
+<pubDate>Fri, 06 Nov 2026 17:35:51 +0000</pubDate>
+<description>Federal prosecutors say the suspects posed as corporate executives and high-powered attorneys, using AI to convince employees to transfer millions of dollars.</description>
+<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" alt="" /></p><p>Federal prosecutors say the suspects posed as corporate executives and high-powered attorneys, using AI to convince employees to transfer millions of dollars.</p>]]></content:encoded>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" medium="image" />
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" />
+</item>
+<item>
+<title>Researcher: *sshole, a decade-old OpenSSH flaw, lets attackers use a password of 256+ characters to log into passwordless accounts on some musl Linux systems (Lawrence Abrams/BleepingComputer)</title>
+<link>https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznslh2c5324</guid>
+<pubDate>Fri, 06 Nov 2026 16:30:53 +0000</pubDate>
+<description>A newly disclosed OpenSSH vulnerability dubbed &quot;*sshole&quot; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" alt="" /></p><p>A newly disclosed OpenSSH vulnerability dubbed &quot;*sshole&quot; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.</p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" medium="image" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" />
+</item>
+<item>
+<title>Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznqfutxyx2g</guid>
+<pubDate>Fri, 06 Nov 2026 15:51:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox&#x27;s board and co-chairs a new unit with Tubi, Fox One, and Roku (Todd Spangler/Variety)</title>
+<link>https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznpaylsxq2u</guid>
+<pubDate>Fri, 06 Nov 2026 15:31:21 +0000</pubDate>
+<description>Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.</p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" />
+</item>
+<item>
+<title>Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages (Qianer Liu/The Information)</title>
+<link>https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznnuzfdjx2s</guid>
+<pubDate>Fri, 06 Nov 2026 15:06:45 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows (Emmy Martin/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznlludp4224</guid>
+<pubDate>Fri, 06 Nov 2026 14:25:51 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)</title>
+<link>https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznhytls4j24</guid>
+<pubDate>Fri, 06 Nov 2026 13:21:31 +0000</pubDate>
+<description>From www.cybersecuritydive.com</description>
+<content:encoded><![CDATA[<p>From www.cybersecuritydive.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful &quot;rabbit holes&quot; (Alexander Martin/The Record)</title>
+<link>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzne2okaj62s</guid>
+<pubDate>Fri, 06 Nov 2026 12:10:58 +0000</pubDate>
+<description>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</description>
+<content:encoded><![CDATA[<p><img src="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" alt="" /></p><p>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</p>]]></content:encoded>
+<media:content url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" medium="image" />
+<media:thumbnail url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" />
+</item>
+<item>
+<title>Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznco2l2bw2v</guid>
+<pubDate>Fri, 06 Nov 2026 11:46:01 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznbsvuvav24</guid>
+<pubDate>Fri, 06 Nov 2026 11:30:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory in mid-2027 &quot;to make room for increased Cybercab production&quot; (Kana Inagaki/Financial Times)</title>
 <link>https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98</link>
@@ -804,94 +892,6 @@
 <pubDate>Wed, 04 Nov 2026 23:01:55 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Snap reports Q3 revenue up 14% YoY to $1.72B, in line with est., and DAUs up 4% to 495M, vs. 499M est.; SNAP drops 9%+ after hours (Spencer Soper/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjcyasp2t2f</guid>
-<pubDate>Wed, 04 Nov 2026 21:41:04 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Qualcomm reports Q4 revenue down 8% YoY to $10.3B, vs. $10.1B est., and handsets revenue down 26% to $5.14B, vs. $5.25B est.; QCOM drops 5%+ after hours (Ian King/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjcif2i6u2t</guid>
-<pubDate>Wed, 04 Nov 2026 21:32:11 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta raised €9B from its debut euro bond sale that drew a record €53B of orders, paying ~1.4x the risk premium Alphabet offered for similar bonds this week (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzja6wm77z2f</guid>
-<pubDate>Wed, 04 Nov 2026 20:51:07 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Apple cut some engineers&#x27; daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzj5xdfcrd24</guid>
-<pubDate>Wed, 04 Nov 2026 20:11:04 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)</title>
-<link>https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzj4lysvkw2f</guid>
-<pubDate>Wed, 04 Nov 2026 19:46:50 +0000</pubDate>
-<description>California-based chip company discloses price of deal first announced in August</description>
-<content:encoded><![CDATA[<p><img src="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt="" /></p><p>California-based chip company discloses price of deal first announced in August</p>]]></content:encoded>
-<media:content url="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" medium="image" />
-<media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/7JTDCVTPXNBSXHZRT3M6L2EH2Q.JPG?auth=d3e489250e350ade9cda6818d49492a2a2dbe0c2841b7befbbc32e7be4e0a817&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" />
-</item>
-<item>
-<title>Apple says it will check iCloud items shared to &quot;Anyone with the link&quot; for &quot;harmful content&quot; in 27.3 OS versions, and may delete the content or disable accounts (Ryan Christoffel/9to5Mac)</title>
-<link>https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzj3ytrqfq2t</guid>
-<pubDate>Wed, 04 Nov 2026 19:36:07 +0000</pubDate>
-<description>iOS 27.3 makes a change to how public iCloud links work, with the aim of preventing harmful content from being shared. Here are the details.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>iOS 27.3 makes a change to how public iCloud links work, with the aim of preventing harmful content from being shared. Here are the details.</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)</title>
-<link>https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziziua3m72i</guid>
-<pubDate>Wed, 04 Nov 2026 18:51:23 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Shares of US tech giants jump after Democrats&#x27; midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that&#x27;s draining cash flow (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziwt2y3un2f</guid>
-<pubDate>Wed, 04 Nov 2026 18:03:25 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sequoia raised ~$10B in new funds, and announces it is shutting down its Arc accelerator and Scouts program, merging its early-stage and growth teams, and more (Connie Loizos/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mziv2qdk6z26</guid>
-<pubDate>Wed, 04 Nov 2026 17:31:55 +0000</pubDate>
-<description>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" alt="" /></p><p>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649" />
-</item>
-<item>
-<title>Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image detection, and Image Flash 1.0, which powers its AI video detection (Isaac Kasahara/Pangram)</title>
-<link>https://www.pangram.com/blog/introducing-pangram-image-1-0</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzithwe7yb2f</guid>
-<pubDate>Wed, 04 Nov 2026 17:03:30 +0000</pubDate>
-<description>Introducing Pangram Image 1.0, our AI image and video detector.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" alt="" /></p><p>Introducing Pangram Image 1.0, our AI image and video detector.</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/6vunltag/production/d9e0f2c5b335fbb748927abe54503f2daf0c132b-2400x1350.png" />
 </item>
 </channel>
 </rss>
