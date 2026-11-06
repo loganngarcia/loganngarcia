@@ -5,8 +5,148 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:29:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 18:20:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7b628b9494f9e7c48590.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznw7mvbgh25</guid>
+<pubDate>Fri, 06 Nov 2026 17:35:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818" rel="related" type="text/html" />
+<description>Federal prosecutors say the suspects posed as corporate executives and high-powered attorneys, using AI to convince employees to transfer millions of dollars.</description>
+<content:encoded><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" alt="" /></p><p>Federal prosecutors say the suspects posed as corporate executives and high-powered attorneys, using AI to convince employees to transfer millions of dollars.</p><p><a href="https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" />
+<enclosure url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-moynihan-courthouse-new-york-mn-0850-b66a11.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Researcher: *sshole, a decade-old OpenSSH flaw, lets attackers use a password of 256+ characters to log into passwordless accounts on some musl Linux systems (Lawrence Abrams/BleepingComputer)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/671b07a9ce2d4371b8d5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznslh2c5324</guid>
+<pubDate>Fri, 06 Nov 2026 16:30:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/" rel="related" type="text/html" />
+<description>A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" alt="" /></p><p>A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.</p><p><a href="https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" />
+<enclosure url="https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/72e712c18f5d0e22cefa.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznqfutxyx2g</guid>
+<pubDate>Fri, 06 Nov 2026 15:51:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress" rel="related" type="text/html" />
+<description>Nvidia Corp. is in for tougher scrutiny from a new Democratic majority in Congress that’s set to demand answers from Chief Executive Officer Jensen Huang about whether the company is doing enough to k...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY3y9o14kCCM%2Fv0%2F1200x800.jpg" alt="" /></p><p>Nvidia Corp. is in for tougher scrutiny from a new Democratic majority in Congress that’s set to demand answers from Chief Executive Officer Jensen Huang about whether the company is doing enough to k...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY3y9o14kCCM%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY3y9o14kCCM%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY3y9o14kCCM%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Fox closes its $22B Roku acquisition well ahead of the expected 2027 date; Anthony Wood joins Fox's board and co-chairs a new unit with Tubi, Fox One, and Roku (Todd Spangler/Variety)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7575d5e0d5373a3f5f0f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznpaylsxq2u</guid>
+<pubDate>Fri, 06 Nov 2026 15:31:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/" rel="related" type="text/html" />
+<description>Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Surprise! Fox Corp. has closed its acquisition of streaming platform Roku, a deal valued at $22 billion, well ahead of the expected 2027 date.</p><p><a href="https://variety.com/2026/tv/news/fox-closes-roku-acquisition-1236941275/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" />
+<enclosure url="https://variety.com/wp-content/uploads/2026/08/Roku-Headquarters.jpg?w=1000&amp;h=563&amp;crop=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages (Qianer Liu/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d57a620a83f33f410097.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznnuzfdjx2s</guid>
+<pubDate>Fri, 06 Nov 2026 15:06:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending" rel="related" type="text/html" />
+<description>Taiwan Semiconductor Manufacturing Co. is considering expanding into the advanced memory chip manufacturing sector, a move that would give the world’s largest chipmaker an even bigger share of the AI hardware supply chain, according to two people with direct knowledge of the matter. The ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18123/6a6844f6-d62b-4a20-9c5c-0f9de14bbcae.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Taiwan Semiconductor Manufacturing Co. is considering expanding into the advanced memory chip manufacturing sector, a move that would give the world’s largest chipmaker an even bigger share of the AI hardware supply chain, according to two people with direct knowledge of the matter. The ...</p><p><a href="https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18123/6a6844f6-d62b-4a20-9c5c-0f9de14bbcae.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18123/6a6844f6-d62b-4a20-9c5c-0f9de14bbcae.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18123/6a6844f6-d62b-4a20-9c5c-0f9de14bbcae.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
+<item>
+<title>Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows (Emmy Martin/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a341634cecdf8947ae9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznlludp4224</guid>
+<pubDate>Fri, 06 Nov 2026 14:25:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html" rel="related" type="text/html" />
+<description>As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fbusiness%2F06biz-microsoft-employees-SUB%2F06biz-microsoft-employees-SUB-facebookJumbo.jpg" alt="" /></p><p>As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.</p><p><a href="https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fbusiness%2F06biz-microsoft-employees-SUB%2F06biz-microsoft-employees-SUB-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fbusiness%2F06biz-microsoft-employees-SUB%2F06biz-microsoft-employees-SUB-facebookJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F07%2Fbusiness%2F06biz-microsoft-employees-SUB%2F06biz-microsoft-employees-SUB-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/138b37488a6a87a7b86b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznhytls4j24</guid>
+<pubDate>Fri, 06 Nov 2026 13:21:31 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/" rel="related" type="text/html" />
+<description>Democrats’ big wins in the midterm elections are poised to transform cybersecurity policymaking and oversight on Capitol Hill, with potentially big implications for critical infrastructure operators and other businesses that work with the government.</description>
+<content:encoded><![CDATA[<p><img src="https://imgproxy.divecdn.com/Iz-ADk3ZSpAoAtk2Gbb_KmbzdFJXKBe2m3YRJce39cc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" alt="" /></p><p>Democrats’ big wins in the midterm elections are poised to transform cybersecurity policymaking and oversight on Capitol Hill, with potentially big implications for critical infrastructure operators and other businesses that work with the government.</p><p><a href="https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://imgproxy.divecdn.com/Iz-ADk3ZSpAoAtk2Gbb_KmbzdFJXKBe2m3YRJce39cc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://imgproxy.divecdn.com/Iz-ADk3ZSpAoAtk2Gbb_KmbzdFJXKBe2m3YRJce39cc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" />
+<enclosure url="https://imgproxy.divecdn.com/Iz-ADk3ZSpAoAtk2Gbb_KmbzdFJXKBe2m3YRJce39cc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful "rabbit holes" (Alexander Martin/The Record)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0da6cf00fb542a34b77f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzne2okaj62s</guid>
+<pubDate>Fri, 06 Nov 2026 12:10:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation" rel="related" type="text/html" />
+<description>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</description>
+<content:encoded><![CDATA[<p><img src="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" alt="" /></p><p>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</p><p><a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" />
+<enclosure url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c6b86e49a9bda5b17931.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznco2l2bw2v</guid>
+<pubDate>Fri, 06 Nov 2026 11:46:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/" rel="related" type="text/html" />
+<description>Democrats are laying the groundwork to investigate some of the country’s largest companies, setting off a scramble among executives who courted the president.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FHJ6CZE4LTNBWHPEOARMBTQ73YU.jpg%26w%3D1440" alt="" /></p><p>Democrats are laying the groundwork to investigate some of the country’s largest companies, setting off a scramble among executives who courted the president.</p><p><a href="https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FHJ6CZE4LTNBWHPEOARMBTQ73YU.jpg%26w%3D1440" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FHJ6CZE4LTNBWHPEOARMBTQ73YU.jpg%26w%3D1440" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FHJ6CZE4LTNBWHPEOARMBTQ73YU.jpg%26w%3D1440" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed10d364da59fdd0fc5c.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznbsvuvav24</guid>
+<pubDate>Fri, 06 Nov 2026 11:30:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling" rel="related" type="text/html" />
+<description>Nvidia Corp. is stepping up monitoring of AI accelerators sold in Southeast Asia, a strategic step to curtail semiconductor smuggling after criticism it hasn’t done enough to stop shipments from illeg...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi1tzVtDFZRcU%2Fv0%2F1200x800.jpg" alt="" /></p><p>Nvidia Corp. is stepping up monitoring of AI accelerators sold in Southeast Asia, a strategic step to curtail semiconductor smuggling after criticism it hasn’t done enough to stop shipments from illeg...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi1tzVtDFZRcU%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi1tzVtDFZRcU%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi1tzVtDFZRcU%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory in mid-2027 "to make room for increased Cybercab production" (Kana Inagaki/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3efe1c0a09ee1cdd0689.html</link>
@@ -281,11 +421,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share" rel="related" type="text/html" />
-<description>The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.</p><p><a href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-facebookJumbo.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+<description>Sources: NYT has entered exclusive negotiations to acquire Letterboxd for roughly $330M; A24 dropped out of negotiations after price expectations rose (New York Times)</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-largeHorizontalJumbo.jpg" alt="" /></p><p>Sources: NYT has entered exclusive negotiations to acquire Letterboxd for roughly $330M; A24 dropped out of negotiations after price expectations rose (New York Times)</p><p><a href="https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-largeHorizontalJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F29BIZ-LETTERBOXD%2F29BIZ-LETTERBOXD-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Cloudflare reports Q3 revenue up 39% YoY to $782.5M, above $737.2M est., a $34.1M net loss, and lifts its FY 2026 guidance; NET jumps 14%+ after hours (Elias Schisgall/Wall Street Journal)</title>
@@ -706,146 +846,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-20694505%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>The MacBook Pro's PROLED XDR display is the best display you can buy right now, but touch adds little to the experience and it lacks Apple Pencil support (Jaron Schneider/PetaPixel)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8966f322e373d4816c07.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl3ql2vak2l</guid>
-<pubDate>Thu, 05 Nov 2026 14:36:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/" rel="related" type="text/html" />
-<description>Apple's M5 Max MacBook Pro with PROLED has a lighter chassis, touch control support, and the best laptop display we've ever tested.</description>
-<content:encoded><![CDATA[<p><img src="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" alt="" /></p><p>Apple's M5 Max MacBook Pro with PROLED has a lighter chassis, touch control support, and the best laptop display we've ever tested.</p><p><a href="https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" />
-<enclosure url="https://petapixel.com/assets/uploads/2026/11/Apple-M5-Max-MacBook-Pro-with-PROLED-XDR-Review-Dont-Touch-It.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>MacBook Pro with PROLED XDR Display review: gorgeous screen, touch is useful, strong performance and speakers, and a Dynamic Island, but pricey and no Face ID (Andrew E. Freedman/Tom's Hardware)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7123ace081c8d398ef39.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzl2cutr742n</guid>
-<pubDate>Thu, 05 Nov 2026 14:11:16 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review" rel="related" type="text/html" />
-<description>Sure, touch is there, too.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" alt="" /></p><p>Sure, touch is there, too.</p><p><a href="https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" />
-<enclosure url="https://cdn.mos.cms.futurecdn.net/LbMhawpHCpsfZcmbETFvA4-2521-80.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>United Airlines is rolling out a custom native Spotify seatback app across its fleet, letting users log into their accounts, powered by Starlink's Wi-Fi (Andrew J. Hawkins/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f70186f1864aa4b05887.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkxiu5gjd2h</guid>
-<pubDate>Thu, 05 Nov 2026 13:20:55 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi" rel="related" type="text/html" />
-<description>Say goodbye to canned airplane playlists.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" alt="" /></p><p>Say goodbye to canned airplane playlists.</p><p><a href="https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0%2C4.0288596603244%2C100%2C91.942280679351&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple rolls out Retention Messaging, letting developers present personalized text, images, or special offers to users who are canceling their subscriptions (Marcus Mendes/9to5Mac)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8c5761b3e77fac96c9f4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkwnxk53l2v</guid>
-<pubDate>Thu, 05 Nov 2026 13:05:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/" rel="related" type="text/html" />
-<description>Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" alt="" /></p><p>Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.</p><p><a href="https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" />
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/11/macbook-pro-proled-xdr-touch-06-2.jpg?quality=82&amp;strip=all&amp;w=290&amp;h=145&amp;crop=1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Agility Robotics is set to begin trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US (Samantha Kelly/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3637fc34ec75947a971b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkvclbrzd2t</guid>
-<pubDate>Thu, 05 Nov 2026 12:41:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us" rel="related" type="text/html" />
-<description>Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" alt="" /></p><p>Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDmLF.b1VAi4%2Fv1%2F1200x801.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources detail Dario Amodei's AI beliefs, shaped by forums like GiveWell and based on EA and "rationalism", and his disputes with Sam Altman and Greg Brockman (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/eb0fa5ee6198e221393e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkugc5ttq27</guid>
-<pubDate>Thu, 05 Nov 2026 12:25:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html" rel="related" type="text/html" />
-<description>Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" alt="" /></p><p>Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.</p><p><a href="https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F29%2Fbusiness%2F00biz-amodei-profile%2F00biz-amodei-profile-facebookJumbo.png" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Discord is moving its desktop app from Electron to Rust for improved speed and memory safety; its CTO shares an image of the Windows app using just 290MB of RAM (Tom Warren/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d60ee459231de83df2b8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzktwlzxtr2s</guid>
-<pubDate>Thu, 05 Nov 2026 12:17:02 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app" rel="related" type="text/html" />
-<description>Discord is moving its apps fully over to the Rust programming language.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Discord is moving its apps fully over to the Rust programming language.</p><p><a href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Micron suspends construction of its $3B to $4.5B Fab 11E facility in Taiwan, set for 2028, due to mounting uncertainties over a local labor dispute (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c34468426089e239cbb4.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkt6cinx32t</guid>
-<pubDate>Thu, 05 Nov 2026 12:03:26 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat" rel="related" type="text/html" />
-<description>Micron Technology Inc. has suspended plans for a memory chip plant in Taiwan due to a protracted labor dispute, according to people familiar with the matter, throwing into question the fate of a major...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" alt="" /></p><p>Micron Technology Inc. has suspended plans for a memory chip plant in Taiwan due to a protracted labor dispute, according to people familiar with the matter, throwing into question the fate of a major...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiG2efzYKfW9k%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Amazon partners with Uber to make Uber Eats the "official" US restaurant delivery partner for Amazon Prime subscribers, after previously partnering with Grubhub (Andrew J. Hawkins/The Verge)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd353a32e6725dc99150.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzksi7rn3b24</guid>
-<pubDate>Thu, 05 Nov 2026 11:51:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership" rel="related" type="text/html" />
-<description>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</p><p><a href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/png" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/png" length="0" />
-</item>
-<item>
-<title>Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a09fe05726be3f8f0233.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkrwm2j4l24</guid>
-<pubDate>Thu, 05 Nov 2026 11:41:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market" rel="related" type="text/html" />
-<description>UK consumers are spending over £1 billion ($1.4 billion) a year on artificial intelligence subscriptions, with Anthropic eating into OpenAI’s lead, research showed on Thursday.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" alt="" /></p><p>UK consumers are spending over £1 billion ($1.4 billion) a year on artificial intelligence subscriptions, with Anthropic eating into OpenAI’s lead, research showed on Thursday.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiFSDrZQcP4Hs%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
