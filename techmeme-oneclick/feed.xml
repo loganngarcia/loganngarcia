@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 07 Nov 2026 19:29:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 22:55:57 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)</title>
+<link>https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzqxzbpdi32s</guid>
+<pubDate>Sat, 07 Nov 2026 22:46:05 +0000</pubDate>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Report: SEA makes up ~50% of APAC data center capacity being built, led by Malaysia and Thailand, which paused 49 and delayed approvals of 117 projects in Sept. (Arundhati Hazra/The Guardian)</title>
+<link>https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzquevanqw24</guid>
+<pubDate>Sat, 07 Nov 2026 21:41:00 +0000</pubDate>
+<description>Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago</description>
+<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=79165e86d1954daf6e66e67eb9becec8" alt="" /></p><p>Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago</p>]]></content:encoded>
+<media:content url="https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=79165e86d1954daf6e66e67eb9becec8" medium="image" />
+<media:thumbnail url="https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=79165e86d1954daf6e66e67eb9becec8" />
+</item>
+<item>
+<title>Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#x27;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)</title>
+<link>https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzqnojrdbm2t</guid>
+<pubDate>Sat, 07 Nov 2026 19:41:07 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO (Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-07/binance-says-kaiser-ng-leaving-names-justin-yek-new-cfo</link>
@@ -866,32 +892,6 @@
 <pubDate>Thu, 05 Nov 2026 11:26:08 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Hugging Face CEO Clément Delangue says his P(doom) is &quot;close to zero&quot;, arguing that future AI risks stem from closed frontier AI labs, not open-source systems (Will Knight/Wired)</title>
-<link>https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkqsq6o2q2s</guid>
-<pubDate>Thu, 05 Nov 2026 11:21:11 +0000</pubDate>
-<description>“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" alt="" /></p><p>“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6aeb930828f7263543de4332/191:100/w_1280,c_limit/WWF-Clement-Delangue-2.jpg" />
-</item>
-<item>
-<title>Ricursive releases Ripple-65B Preview, a general-purpose variant of its AI model for automating advanced chip design, under Apache 2.0, costing $0.60/1M output (Carl Franzen/VentureBeat)</title>
-<link>https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkqag65km26</guid>
-<pubDate>Thu, 05 Nov 2026 11:10:56 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nintendo reports Q2 net profit down 16% YoY to $468M, as rising Switch 2 component costs cut into its margins; Switch 2&#x27;s H1 FY 2027 sales fell 37% YoY to 6.49M (Takashi Mochizuki/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkpxqlc3b2s</guid>
-<pubDate>Thu, 05 Nov 2026 11:06:05 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
