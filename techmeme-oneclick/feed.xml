@@ -5,8 +5,44 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 22:26:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 02:10:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)</title>
+<link>https://thenewstack.io/meta-muse-specialized-models/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzoruu23ry27</guid>
+<pubDate>Sat, 07 Nov 2026 01:50:54 +0000</pubDate>
+<description>Meta trained new models using its frontier Muse Wonder model and is shipping them to all Muse and Meta AI users today, while keeping Wonder itself for harder subscriber tasks.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/11/b692c1f9-blogheader_light-1024x576.png" alt="" /></p><p>Meta trained new models using its frontier Muse Wonder model and is shipping them to all Muse and Meta AI users today, while keeping Wonder itself for harder subscriber tasks.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/11/b692c1f9-blogheader_light-1024x576.png" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/11/b692c1f9-blogheader_light-1024x576.png" />
+</item>
+<item>
+<title>CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B (Loren Grush/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzolsp5mnq24</guid>
+<pubDate>Sat, 07 Nov 2026 00:02:20 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple says the App Store has over 100K apps built for the iPhone Duo and &quot;thousands of optimized apps are being added to the store each day&quot; (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzojimxbrg2n</guid>
+<pubDate>Fri, 06 Nov 2026 23:20:54 +0000</pubDate>
+<description>The updates are unfolding.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The updates are unfolding.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project (Lynn Doan/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzoja2xy3p2s</guid>
+<pubDate>Fri, 06 Nov 2026 23:16:07 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China&#x27;s top spy agency MSS to collect intelligence on Jensen Huang (New York Times)</title>
 <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.OVE.Q7K1.pw9O9sjsZBW4&amp;smid=url-share</link>
@@ -854,40 +890,6 @@
 <pubDate>Thu, 05 Nov 2026 04:16:05 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)</title>
-<link>https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjys7jlgi2f</guid>
-<pubDate>Thu, 05 Nov 2026 04:11:23 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)</title>
-<link>https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjwbbsu4y2f</guid>
-<pubDate>Thu, 05 Nov 2026 03:26:08 +0000</pubDate>
-<description>“When agents move money, someone still has to be licensed, auditable and liable,” says Seaya Nova as Pliant raises an $80M Series C.</description>
-<content:encoded><![CDATA[<p><img src="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" alt="" /></p><p>“When agents move money, someone still has to be licensed, auditable and liable,” says Seaya Nova as Pliant raises an $80M Series C.</p>]]></content:encoded>
-<media:content url="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" medium="image" />
-<media:thumbnail url="https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg" />
-</item>
-<item>
-<title>OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)</title>
-<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjucoowjk2s</guid>
-<pubDate>Thu, 05 Nov 2026 02:51:07 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AppLovin reports Q3 revenue up 55% YoY to $2.18B, above $2.07B est., and forecasts Q4 revenue above estimates; APP surges 20%+ after hours (William Gavin/MarketWatch)</title>
-<link>https://www.morningstar.com/news/marketwatch/20261104599/this-years-worst-performing-sp-500-stock-is-finally-seeing-some-major-relief</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzjs2zozxb2n</guid>
-<pubDate>Thu, 05 Nov 2026 02:11:03 +0000</pubDate>
-<description>From www.morningstar.com</description>
-<content:encoded><![CDATA[<p>From www.morningstar.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
