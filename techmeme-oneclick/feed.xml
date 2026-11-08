@@ -5,8 +5,70 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 08 Nov 2026 02:02:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 08:55:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)</title>
+<link>https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrtqh6ggm2h</guid>
+<pubDate>Sun, 08 Nov 2026 07:02:13 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Internal documents leaked by Cisco workers angry over the company&#x27;s ties to Israel&#x27;s military show how it expanded its business as the war in Gaza dragged on (Alice Speri/The Guardian)</title>
+<link>https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrt4ogepb24</guid>
+<pubDate>Sun, 08 Nov 2026 06:51:10 +0000</pubDate>
+<description>Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war</description>
+<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0face194e288757b7375dcecfc089f9d" alt="" /></p><p>Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war</p>]]></content:encoded>
+<media:content url="https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0face194e288757b7375dcecfc089f9d" medium="image" />
+<media:thumbnail url="https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=0face194e288757b7375dcecfc089f9d" />
+</item>
+<item>
+<title>The crypto industry is bracing for a reckoning after Democrats won the US midterms and vowed to investigate the Trump family and its ties to the industry (Financial Times)</title>
+<link>https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrscengjr2t</guid>
+<pubDate>Sun, 08 Nov 2026 06:36:27 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model&#x27;s bias layer is shallow (Nous Research)</title>
+<link>https://nousresearch.com/arete</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrrgsfv3r27</guid>
+<pubDate>Sun, 08 Nov 2026 06:21:02 +0000</pubDate>
+<description>We post-trained Alibaba&#x27;s Qwen3.8-27B to reinforce Western values on a Chinese-trained model, and measured what changed with an 803-prompt eval across seven value categories.</description>
+<content:encoded><![CDATA[<p><img src="https://nousresearch.com/assets/nous-web/blog/arete1-card.webp" alt="" /></p><p>We post-trained Alibaba&#x27;s Qwen3.8-27B to reinforce Western values on a Chinese-trained model, and measured what changed with an 803-prompt eval across seven value categories.</p>]]></content:encoded>
+<media:content url="https://nousresearch.com/assets/nous-web/blog/arete1-card.webp" medium="image" />
+<media:thumbnail url="https://nousresearch.com/assets/nous-web/blog/arete1-card.webp" />
+</item>
+<item>
+<title>Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)</title>
+<link>https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrqlwcjzj27</guid>
+<pubDate>Sun, 08 Nov 2026 06:06:00 +0000</pubDate>
+<description>GenRobot AI, a Beijing-based company providing data infrastructure for robot development, has completed a $100 million Series A+ funding round. The</description>
+<content:encoded><![CDATA[<p><img src="https://i0.wp.com/technode.com/wp-content/uploads/2026/11/feed-20261102-cn-371974.png?fit=2350%2C1000&amp;ssl=1" alt="" /></p><p>GenRobot AI, a Beijing-based company providing data infrastructure for robot development, has completed a $100 million Series A+ funding round. The</p>]]></content:encoded>
+<media:content url="https://i0.wp.com/technode.com/wp-content/uploads/2026/11/feed-20261102-cn-371974.png?fit=2350%2C1000&amp;ssl=1" medium="image" />
+<media:thumbnail url="https://i0.wp.com/technode.com/wp-content/uploads/2026/11/feed-20261102-cn-371974.png?fit=2350%2C1000&amp;ssl=1" />
+</item>
+<item>
+<title>Filings: Apple saved $2.7B in taxes this year by routing up to $50B in profits through Singapore, exceeding the $2.6B in tax savings it achieved via Ireland (Financial Times)</title>
+<link>https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrq2w7rkq2k</guid>
+<pubDate>Sun, 08 Nov 2026 05:56:30 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)</title>
+<link>https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzrfgvrfij2h</guid>
+<pubDate>Sun, 08 Nov 2026 02:46:21 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight</link>
@@ -830,68 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.</p>]]></content:encoded>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
 <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Agility Robotics is set to begin trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US (Samantha Kelly/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkvclbrzd2t</guid>
-<pubDate>Thu, 05 Nov 2026 12:41:37 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources detail Dario Amodei&#x27;s AI beliefs, shaped by forums like GiveWell and based on EA and &quot;rationalism&quot;, and his disputes with Sam Altman and Greg Brockman (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkugc5ttq27</guid>
-<pubDate>Thu, 05 Nov 2026 12:25:48 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Discord is moving its desktop app from Electron to Rust for improved speed and memory safety; its CTO shares an image of the Windows app using just 290MB of RAM (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzktwlzxtr2s</guid>
-<pubDate>Thu, 05 Nov 2026 12:17:02 +0000</pubDate>
-<description>Discord is moving its apps fully over to the Rust programming language.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Discord is moving its apps fully over to the Rust programming language.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Sources: Micron suspends construction of its $3B to $4.5B Fab 11E facility in Taiwan, set for 2028, due to mounting uncertainties over a local labor dispute (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/micron-pauses-work-on-4-5-billion-taiwan-plant-after-labor-spat</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkt6cinx32t</guid>
-<pubDate>Thu, 05 Nov 2026 12:03:26 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon partners with Uber to make Uber Eats the &quot;official&quot; US restaurant delivery partner for Amazon Prime subscribers, after previously partnering with Grubhub (Andrew J. Hawkins/The Verge)</title>
-<link>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzksi7rn3b24</guid>
-<pubDate>Thu, 05 Nov 2026 11:51:05 +0000</pubDate>
-<description>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>You can now order Uber Eats directly in the Amazon app with $0 delivery fees on orders over $25 — no separate Uber account required.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkrwm2j4l24</guid>
-<pubDate>Thu, 05 Nov 2026 11:41:14 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>X is rolling out a redesigned web app country by country for signed-in users, with a single unified server, saying it improves load times over slow connections (Jay Peters/The Verge)</title>
-<link>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkrgjjpxo2f</guid>
-<pubDate>Thu, 05 Nov 2026 11:32:15 +0000</pubDate>
-<description>It’s rolling out now.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It’s rolling out now.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
 </item>
 </channel>
 </rss>
