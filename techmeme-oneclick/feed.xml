@@ -5,8 +5,16 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 07 Nov 2026 22:55:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 02:02:38 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzr6radxca2v</guid>
+<pubDate>Sun, 08 Nov 2026 00:46:51 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)</title>
 <link>https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows</link>
@@ -884,14 +892,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>It’s rolling out now.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Sources: at Jensen Huang&#x27;s election event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzkr3lke6l24</guid>
-<pubDate>Thu, 05 Nov 2026 11:26:08 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
