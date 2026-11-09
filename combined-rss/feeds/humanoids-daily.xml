@@ -5,8 +5,22 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 05:50:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:25:39 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>PrimeBOT Builds Its 10,000th Personal Robot, 14 Days After Its 5,000th</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6443a34fe40253348ac5.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/primebot-10000th-personal-robot-production</guid>
+<pubDate>Mon, 09 Nov 2026 07:51:36 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/primebot-10000th-personal-robot-production" rel="related" type="text/html" />
+<description>PrimeBOT says its 10,000th Q1 and T1 personal robot rolled off the line on November 8, with daily capacity at 240 units. It has not disclosed sales or deliveries.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" alt="" /></p><p>PrimeBOT says its 10,000th Q1 and T1 personal robot rolled off the line on November 8, with daily capacity at 240 units. It has not disclosed sales or deliveries.</p><p><a href="https://www.humanoidsdaily.com/news/primebot-10000th-personal-robot-production">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>Figure’s HQ Is Crawling With Figure 03 Robots. What Are They All Doing?</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8542662890cfb1d7a26.html</link>
@@ -482,20 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>HALO Teaches Humanoids to Coordinate With Human Partners During Shared Carrying Tasks</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0b03d597ec3df260a9fc.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/halo-humanoid-human-collaboration-carrying-research</guid>
-<pubDate>Fri, 30 Oct 2026 10:53:10 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/halo-humanoid-human-collaboration-carrying-research" rel="related" type="text/html" />
-<description>Researchers at UT Arlington and Carnegie Mellon demonstrate human–humanoid coordination, with motion-capture-supported tests showing both gains and remaining failures.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/halo-human-robot-carrying-hero-o5uhWj8G9KErhmEeGHwYBTXYSUVpT3.webp" alt="" /></p><p>Researchers at UT Arlington and Carnegie Mellon demonstrate human–humanoid coordination, with motion-capture-supported tests showing both gains and remaining failures.</p><p><a href="https://www.humanoidsdaily.com/news/halo-humanoid-human-collaboration-carrying-research">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/halo-human-robot-carrying-hero-o5uhWj8G9KErhmEeGHwYBTXYSUVpT3.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/halo-human-robot-carrying-hero-o5uhWj8G9KErhmEeGHwYBTXYSUVpT3.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/halo-human-robot-carrying-hero-o5uhWj8G9KErhmEeGHwYBTXYSUVpT3.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
