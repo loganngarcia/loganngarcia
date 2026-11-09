@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 14:25:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 23:30:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>"Robotics Is No Longer an Elitist Sport": NVIDIA Unveils GR00T 2 and Open-Sources the Stack Behind It</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07a557f18bcf3e74502a.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/nvidia-gr00t-2-world-action-model-corl-2026</guid>
+<pubDate>Mon, 09 Nov 2026 21:05:16 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/nvidia-gr00t-2-world-action-model-corl-2026" rel="related" type="text/html" />
+<description>Jim Fan presented the 2B-parameter model at CoRL. NVIDIA reports 95% success from five demonstrations per task; weights open in December, with data, SimFoundry and hardware designs out now.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp" alt="" /></p><p>Jim Fan presented the 2B-parameter model at CoRL. NVIDIA reports 95% success from five demonstrations per task; weights open in December, with data, SimFoundry and hardware designs out now.</p><p><a href="https://www.humanoidsdaily.com/news/nvidia-gr00t-2-world-action-model-corl-2026">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/nvidia-gr00t-2-g1-spill-cleanup-KYeHOxmPPMB8eHTcd57TKRFwqFcRMh.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Boston Dynamics Puts Atlas on Wheels to Push Its Motors to the Limit</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc7e7e4fe0562a0c1769.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/boston-dynamics-atlas-wheels-rl-actuator-test</guid>
+<pubDate>Mon, 09 Nov 2026 15:12:27 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-wheels-rl-actuator-test" rel="related" type="text/html" />
+<description>Boston Dynamics swapped Atlas's feet for scooter wheels on the ankle actuators and retrained its whole-body RL controller to roll, drift and spin-jump. It is a motor stress test, not a product.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-wheels-warehouse-skate-Utt605KopWtr2ceuwj3SGS7nJrkN0t.webp" alt="" /></p><p>Boston Dynamics swapped Atlas's feet for scooter wheels on the ankle actuators and retrained its whole-body RL controller to roll, drift and spin-jump. It is a motor stress test, not a product.</p><p><a href="https://www.humanoidsdaily.com/news/boston-dynamics-atlas-wheels-rl-actuator-test">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-wheels-warehouse-skate-Utt605KopWtr2ceuwj3SGS7nJrkN0t.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-wheels-warehouse-skate-Utt605KopWtr2ceuwj3SGS7nJrkN0t.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-wheels-warehouse-skate-Utt605KopWtr2ceuwj3SGS7nJrkN0t.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>PrimeBOT Builds Its 10,000th Personal Robot, 14 Days After Its 5,000th</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6443a34fe40253348ac5.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" />
 <enclosure url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tesla’s Optimus Data-Collection Effort Comes Into Focus After Scoble’s “Robot University” Claims</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3a61cad8a2ef8d65417b.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-data-collection-scoble-robot-university</guid>
-<pubDate>Fri, 30 Oct 2026 13:47:00 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-data-collection-scoble-robot-university" rel="related" type="text/html" />
-<description>Tesla job listings document motion-capture work and multi-shift data collection, while Robert Scoble’s claims about camera-covered suits and a Palo Alto operation remain unverified.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-recruitment-montage-zcAMDT6K8YlWpE8HCQSxz5KrjBpsAj.webp" alt="" /></p><p>Tesla job listings document motion-capture work and multi-shift data collection, while Robert Scoble’s claims about camera-covered suits and a Palo Alto operation remain unverified.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-data-collection-scoble-robot-university">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-recruitment-montage-zcAMDT6K8YlWpE8HCQSxz5KrjBpsAj.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-recruitment-montage-zcAMDT6K8YlWpE8HCQSxz5KrjBpsAj.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-recruitment-montage-zcAMDT6K8YlWpE8HCQSxz5KrjBpsAj.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Agility Robotics Expects $465M in Gross Capital Ahead of SPAC Merger Closing</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bc74db82a7617d720c5e.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-robotics-spac-465-million-closing</guid>
-<pubDate>Fri, 30 Oct 2026 13:12:49 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agility-robotics-spac-465-million-closing" rel="related" type="text/html" />
-<description>The expected financing includes $100 million already received. Agility targets a November 4 closing and November 5 Nasdaq debut, subject to shareholder approval and closing conditions.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" alt="" /></p><p>The expected financing includes $100 million already received. Agility targets a November 4 closing and November 5 Nasdaq debut, subject to shareholder approval and closing conditions.</p><p><a href="https://www.humanoidsdaily.com/news/agility-robotics-spac-465-million-closing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-tote-hero-3W4tScWDwZ8hko63BA1MxqL29NlOpC.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
