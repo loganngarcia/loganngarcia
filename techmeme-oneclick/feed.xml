@@ -5,8 +5,266 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:05:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 21:25:11 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>AI infrastructure provider Fireworks says hackers accessed some customers&#x27; datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)</title>
+<link>https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvtvxgneh2r</guid>
+<pubDate>Mon, 09 Nov 2026 21:15:57 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>SpaceX plans a gas-fired power plant and super-compute facility in Starbase, TX, with ~$24B of investment for initial phases, per a public hearing notice (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/spacex-plans-24-billion-data-center-and-gas-plant-in-texas</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvt476yuk2r</guid>
+<pubDate>Mon, 09 Nov 2026 21:01:33 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)</title>
+<link>https://thenewstack.io/anthropic-fable-coding-upgrade/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvpqy2qfn2e</guid>
+<pubDate>Mon, 09 Nov 2026 20:01:35 +0000</pubDate>
+<description>Claude Fable 5.2 cuts token prices by 20% and leads Anthropic’s coding comparisons, while a new Fast mode promises up to 2.5 times faster token generation.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/11/75d15cd2-claude-fable-5.2-image.jpg" alt="" /></p><p>Claude Fable 5.2 cuts token prices by 20% and leads Anthropic’s coding comparisons, while a new Fast mode promises up to 2.5 times faster token generation.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/11/75d15cd2-claude-fable-5.2-image.jpg" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/11/75d15cd2-claude-fable-5.2-image.jpg" />
+</item>
+<item>
+<title>Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat&#x27;s Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo&amp;utm_medium=gift-link</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvn7ofumw2d</guid>
+<pubDate>Mon, 09 Nov 2026 19:16:07 +0000</pubDate>
+<description>Like other Mythos releases, only vetted organizations can use 5.2 to start.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Like other Mythos releases, only vetted organizations can use 5.2 to start.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Anthropic releases Mythos 5.2 and Fable 5.2, saying they are &quot;best for the most ambitious, open-ended technical work&quot;, for $8/1M input and $40/1M output tokens (Anthropic)</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvmhxazep2u</guid>
+<pubDate>Mon, 09 Nov 2026 19:02:51 +0000</pubDate>
+<description>Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.</description>
+<content:encoded><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" alt="" /></p><p>Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.</p>]]></content:encoded>
+<media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" medium="image" />
+<media:thumbnail url="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" />
+</item>
+<item>
+<title>Mavria, which aims to build modular data centers that can be shipped by trucks, raised $130M across pre-seed and seed rounds at a $1B valuation led by Paradigm (Jennifer Hiller/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvlse6s4q2b</guid>
+<pubDate>Mon, 09 Nov 2026 18:50:47 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvkxipile2r</guid>
+<pubDate>Mon, 09 Nov 2026 18:35:45 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvjtyojpg2b</guid>
+<pubDate>Mon, 09 Nov 2026 18:15:54 +0000</pubDate>
+<description>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675" alt="" /></p><p>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675" />
+</item>
+<item>
+<title>Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco (Andrew J. Hawkins/The Verge)</title>
+<link>https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA&amp;utm_medium=gift-link</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvgjgdq332r</guid>
+<pubDate>Mon, 09 Nov 2026 17:16:18 +0000</pubDate>
+<description>Uber spent years trying to replace personal car ownership. Now, it wants to park your car.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Uber spent years trying to replace personal car ownership. Now, it wants to park your car.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+</item>
+<item>
+<title>French officials say Iran&#x27;s Revolutionary Guards were behind the cyberattacks that knocked out commercial refrigerators and freezers across France in October (Reuters)</title>
+<link>https://www.reuters.com/world/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say-2026-11-09/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvfxfpx6g2e</guid>
+<pubDate>Mon, 09 Nov 2026 17:06:13 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvdgdl5x32e</guid>
+<pubDate>Mon, 09 Nov 2026 16:20:53 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>In a 60 Minutes interview, Trump says the DOJ threatened a top exec at &quot;one of the big&quot; AI companies over &quot;bad&quot; activities and this &quot;person totally changed&quot; (Stevie Bonifield/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvcvfbaq42j</guid>
+<pubDate>Mon, 09 Nov 2026 16:11:25 +0000</pubDate>
+<description>Trump said, “I don’t mind guardrails” for AI.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200" alt="" /></p><p>Trump said, “I don’t mind guardrails” for AI.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200" />
+</item>
+<item>
+<title>An interview with ex-Shein Executive Chair Donald Tang who insists it was his decision to step down ahead of the troubled IPO, Shein&#x27;s valuation rout, and more (Patrick Jenkins/Financial Times)</title>
+<link>https://www.ft.com/content/109aa143-93b4-4b39-9ccd-4ae5a0cf3004</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvcfolrew2e</guid>
+<pubDate>Mon, 09 Nov 2026 16:02:38 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Disney and Adobe partner to develop proprietary &quot;artist-led&quot; generative AI models using Adobe Firefly Foundry to support Disney&#x27;s production pipeline (Jess Weatherbed/The Verge)</title>
+<link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvbqpxhuw2s</guid>
+<pubDate>Mon, 09 Nov 2026 15:50:54 +0000</pubDate>
+<description>The partnership will give Disney “early access” to AI tech for its resorts, cruise line, ESPN graphics, and more.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>The partnership will give Disney “early access” to AI tech for its resorts, cruise line, ESPN graphics, and more.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>Draft law: the EU&#x27;s Digital Fairness Act would require companies to let adults disable addictive features and will target AI bots that simulate relationships (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzvb6xgznj23</guid>
+<pubDate>Mon, 09 Nov 2026 15:40:58 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017 (David Pierce/The Verge)</title>
+<link>https://www.theverge.com/tech/1029676/medium-tk-notes-app</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzv7sur5kj23</guid>
+<pubDate>Mon, 09 Nov 2026 15:16:19 +0000</pubDate>
+<description>The company is betting that the future of blogging looks a lot like group chats.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&amp;strip=all&amp;crop=0%2C3.470920622186%2C100%2C93.058158755628&amp;w=1200" alt="" /></p><p>The company is betting that the future of blogging looks a lot like group chats.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&amp;strip=all&amp;crop=0%2C3.470920622186%2C100%2C93.058158755628&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/TK-hero.png?quality=90&amp;strip=all&amp;crop=0%2C3.470920622186%2C100%2C93.058158755628&amp;w=1200" />
+</item>
+<item>
+<title>Sources: Jensen Huang hired crisis communications firm Heller as early as October 2025; an NYT report in October 2025 on his Megaspeed ties caused tensions (Lauren Goode/Wired)</title>
+<link>https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzv6flgna523</guid>
+<pubDate>Mon, 09 Nov 2026 14:50:59 +0000</pubDate>
+<description>The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/191:100/w_1280,c_limit/Jensen%20Huang.jpg" alt="" /></p><p>The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/191:100/w_1280,c_limit/Jensen%20Huang.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/191:100/w_1280,c_limit/Jensen%20Huang.jpg" />
+</item>
+<item>
+<title>Spines, which uses AI agents to edit and proofread amateur authors&#x27; books, design their covers, and handle the layout, raised $29M in equity and $35M in debt (Assaf Gilead/Globes)</title>
+<link>https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzv5bkbgfn2e</guid>
+<pubDate>Mon, 09 Nov 2026 14:30:50 +0000</pubDate>
+<description>&amp;nbsp;</description>
+<content:encoded><![CDATA[<p><img src="https://res.cloudinary.com/globes/image/upload/t_800X392/v1794231309/Yehuda_Niv_-_CEO_of_Spines_-_-_Doron_Letzter_juj0bf.jpg" alt="" /></p><p>&amp;nbsp;</p>]]></content:encoded>
+<media:content url="https://res.cloudinary.com/globes/image/upload/t_800X392/v1794231309/Yehuda_Niv_-_CEO_of_Spines_-_-_Doron_Letzter_juj0bf.jpg" medium="image" />
+<media:thumbnail url="https://res.cloudinary.com/globes/image/upload/t_800X392/v1794231309/Yehuda_Niv_-_CEO_of_Spines_-_-_Doron_Letzter_juj0bf.jpg" />
+</item>
+<item>
+<title>Sources: Alice Huang and her partner pitched a Southeast Asia data center project to China-based investors in 2025, saying they had &quot;no problem securing GPUs&quot; (Financial Times)</title>
+<link>https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzv3oysqy52b</guid>
+<pubDate>Mon, 09 Nov 2026 14:02:34 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nominal, which builds software to make hardware manufacturing more efficient, raised $240M at a $3B valuation, up from $1B after raising $80M in March (Paayal Zaveri/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/hardware-testing-startup-nominal-valued-at-3-billion-in-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuzo5wma226</guid>
+<pubDate>Mon, 09 Nov 2026 13:26:18 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google unveils two specialized TPUs, the TPU 8tx, to be paired with AMD CPUs, and TPU 8i Max, a dual-chip package for long-context window tasks, launching 2027 (Dina Bass/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuxpbkz2v2e</guid>
+<pubDate>Mon, 09 Nov 2026 12:51:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Jensen Huang&#x27;s affair raises questions about Alice Huang&#x27;s access to his devices and Trump conversations, and represents &quot;another successful op&quot; for China&#x27;s MSS (Bill Bishop/@niubi)</title>
+<link>https://x.com/niubi/status/2119567347589541956</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuwuht7us2n</guid>
+<pubDate>Mon, 09 Nov 2026 12:36:09 +0000</pubDate>
+<description>On the Jensen Huang-Alice Huang affair, you have to give the MSS credit for running another successful op. They are good and getting better. I have seen some takes that it is no big deal he had an affair with an alleged PRC spy because he needed no pillow talk convincing to push for looser export…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/1981066888634327040/P5hS7zTx_400x400.jpg" alt="" /></p><p>On the Jensen Huang-Alice Huang affair, you have to give the MSS credit for running another successful op. They are good and getting better. I have seen some takes that it is no big deal he had an affair with an alleged PRC spy because he needed no pillow talk convincing to push for looser export…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/profile_images/1981066888634327040/P5hS7zTx_400x400.jpg" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/profile_images/1981066888634327040/P5hS7zTx_400x400.jpg" />
+</item>
+<item>
+<title>Alphabet&#x27;s Wing plans to invest up to $125M over two years to build a 15,000-square-foot facility in Fort Worth, Texas, to produce tens of thousands of drones (Mark R. Long/Wall Street Journal)</title>
+<link>https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuwcuq3mo2b</guid>
+<pubDate>Mon, 09 Nov 2026 12:26:18 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta says it is globally expanding Instagram&#x27;s AI age estimation tech to apply Teen Account protections to teens aged 13 to 17 who misrepresented their age (Jess Weatherbed/The Verge)</title>
+<link>https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuvq4gbpk2r</guid>
+<pubDate>Mon, 09 Nov 2026 12:15:49 +0000</pubDate>
+<description>Meta says it will expand Teen Account protections to millions more kids, even if they’ve misrepresented their age.﻿</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Meta says it will expand Teen Account protections to millions more kids, even if they’ve misrepresented their age.﻿</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+</item>
+<item>
+<title>A profile of Alice Huang, a suspected Chinese spy who founded Megaspeed in 2023 and spent years in Jensen Huang&#x27;s orbit; Megaspeed&#x27;s Nvidia imports top $4.6B (Mark Anderson/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/alice-huang-suspected-china-spy-spent-years-in-nvidia-s-orbit</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuv6wobea2b</guid>
+<pubDate>Mon, 09 Nov 2026 12:06:12 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>US voters in Harwood, North Dakota rejected a ballot measure that opposed Applied Digital&#x27;s $3B data center, set to open in 2027, bucking a nationwide backlash (Miriam Waldvogel/Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/11/08/only-town-america-that-said-yes-data-centers/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuuebzxor2b</guid>
+<pubDate>Mon, 09 Nov 2026 11:51:18 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>The US OCC grants Coinbase full approval for a trust bank charter; sources say it could expand Coinbase&#x27;s stablecoin business and let it issue stablecoins (Olga Kharif/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-09/coinbase-gets-final-regulatory-stamp-for-trust-bank-charter</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzutrt7bzw2r</guid>
+<pubDate>Mon, 09 Nov 2026 11:40:59 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amsterdam police arrested between 150 and 200 protesters for trespassing and violence at a Microsoft data center construction site owned by Pure Data Centers (Jowi Morales/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzuswoszg423</guid>
+<pubDate>Mon, 09 Nov 2026 11:25:48 +0000</pubDate>
+<description>It&#x27;s unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/TwLpg3gN7h8B8fkmMySvu4-1920-80.jpg" alt="" /></p><p>It&#x27;s unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/TwLpg3gN7h8B8fkmMySvu4-1920-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/TwLpg3gN7h8B8fkmMySvu4-1920-80.jpg" />
+</item>
+<item>
+<title>Internal EU assessment: Russia&#x27;s &quot;Operation Overload&quot; opportunistically exploited recent French riots by spreading fabricated videos impersonating Western media (Reuters)</title>
+<link>https://www.reuters.com/world/europe/covert-russian-network-exploited-french-riots-social-media-eu-report-says-2026-11-09/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzus45b46j2n</guid>
+<pubDate>Mon, 09 Nov 2026 11:10:57 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Jensen Huang maintains deep control over Nvidia, managing 60+ direct reports and owning a 3.56% stake, presenting a challenge for Nvidia&#x27;s 10-person board (New York Times)</title>
 <link>https://www.nytimes.com/2026/11/09/technology/jensun-huang-affair-nvidia.html</link>
@@ -624,258 +882,6 @@
 <pubDate>Fri, 06 Nov 2026 15:06:45 +0000</pubDate>
 <description>From www.theinformation.com</description>
 <content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Employees at Microsoft, long known for its stability in the industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows (Emmy Martin/New York Times)</title>
-<link>https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznlludp4224</guid>
-<pubDate>Fri, 06 Nov 2026 14:25:51 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)</title>
-<link>https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznhytls4j24</guid>
-<pubDate>Fri, 06 Nov 2026 13:21:31 +0000</pubDate>
-<description>From www.cybersecuritydive.com</description>
-<content:encoded><![CDATA[<p>From www.cybersecuritydive.com</p>]]></content:encoded>
-</item>
-<item>
-<title>In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful &quot;rabbit holes&quot; (Alexander Martin/The Record)</title>
-<link>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzne2okaj62s</guid>
-<pubDate>Fri, 06 Nov 2026 12:10:58 +0000</pubDate>
-<description>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</description>
-<content:encoded><![CDATA[<p><img src="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" alt="" /></p><p>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</p>]]></content:encoded>
-<media:content url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" medium="image" />
-<media:thumbnail url="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" />
-</item>
-<item>
-<title>Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)</title>
-<link>https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznco2l2bw2v</guid>
-<pubDate>Fri, 06 Nov 2026 11:46:01 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mznbsvuvav24</guid>
-<pubDate>Fri, 06 Nov 2026 11:30:50 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory in mid-2027 &quot;to make room for increased Cybercab production&quot; (Kana Inagaki/Financial Times)</title>
-<link>https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzn6zlz47c2h</guid>
-<pubDate>Fri, 06 Nov 2026 10:40:53 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzn2tev65e2g</guid>
-<pubDate>Fri, 06 Nov 2026 09:25:49 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Blockaid: Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in a single Ethereum transaction using wallet permissions that cost just $15 to set up (Sidhartha Shukla/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-06/hackers-paid-15-to-drain-2-5-billion-from-binance-in-one-hit</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmu4rqnwh2h</guid>
-<pubDate>Fri, 06 Nov 2026 07:25:49 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)</title>
-<link>https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzms6kjt332t</guid>
-<pubDate>Fri, 06 Nov 2026 06:51:00 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: China&#x27;s top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory (Reuters)</title>
-<link>https://www.reuters.com/world/china/chinas-top-flash-memory-chipmaker-targets-more-homegrown-tools-new-factory-2026-11-06/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmqivjk6m2v</guid>
-<pubDate>Fri, 06 Nov 2026 06:21:00 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan&#x27;s Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)</title>
-<link>https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmoayt66v2g</guid>
-<pubDate>Fri, 06 Nov 2026 05:40:48 +0000</pubDate>
-<description>Worries over data center curbs accelerate skid in Asian markets</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F0%2F6%2F0%2F13410605-3-eng-GB%2F0137cf6b4fe0-2026-10-15T022345Z_380004941_RC2D3OAP3ECB_RTRMADP_3_SOUTHKOREA-MARKETS.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Worries over data center curbs accelerate skid in Asian markets</p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F0%2F6%2F0%2F13410605-3-eng-GB%2F0137cf6b4fe0-2026-10-15T022345Z_380004941_RC2D3OAP3ECB_RTRMADP_3_SOUTHKOREA-MARKETS.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F0%2F6%2F0%2F13410605-3-eng-GB%2F0137cf6b4fe0-2026-10-15T022345Z_380004941_RC2D3OAP3ECB_RTRMADP_3_SOUTHKOREA-MARKETS.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
-</item>
-<item>
-<title>Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK&#x27;s Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)</title>
-<link>https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmm3azqp52b</guid>
-<pubDate>Fri, 06 Nov 2026 05:01:47 +0000</pubDate>
-<description>Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6aebade028f7263543de445a/191:100/w_1280,c_limit/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg" alt="" /></p><p>Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6aebade028f7263543de445a/191:100/w_1280,c_limit/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6aebade028f7263543de445a/191:100/w_1280,c_limit/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg" />
-</item>
-<item>
-<title>Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)</title>
-<link>https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmixeb7gk24</guid>
-<pubDate>Fri, 06 Nov 2026 04:05:55 +0000</pubDate>
-<description>Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall-1200x675.png" alt="" /></p><p>Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall-1200x675.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall-1200x675.png" />
-</item>
-<item>
-<title>Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmg5nwh7r2f</guid>
-<pubDate>Fri, 06 Nov 2026 03:15:46 +0000</pubDate>
-<description>Perplexity is taking on OpenAI and Anthropic.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>Perplexity is taking on OpenAI and Anthropic.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake (Financial Times)</title>
-<link>https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmdectn5b2f</guid>
-<pubDate>Fri, 06 Nov 2026 02:25:48 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky&#x27;s stealth AI lab; source: Chesky has self-funded it so far (The Information)</title>
-<link>https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzmbfvwtuu2s</guid>
-<pubDate>Fri, 06 Nov 2026 01:50:54 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year (Business Insider)</title>
-<link>https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm7h6jkjg2t</guid>
-<pubDate>Fri, 06 Nov 2026 01:15:49 +0000</pubDate>
-<description>Founded by Mira Murati, Thinking Machines Lab is set to close a new round that values the company at $40 billion.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aed0fed9270da3cc6668a95?width=1200&amp;format=jpeg" alt="" /></p><p>Founded by Mira Murati, Thinking Machines Lab is set to close a new round that values the company at $40 billion.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6aed0fed9270da3cc6668a95?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6aed0fed9270da3cc6668a95?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)</title>
-<link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm6dfau6p2h</guid>
-<pubDate>Fri, 06 Nov 2026 00:55:48 +0000</pubDate>
-<description>Thinking Machines has released Inkling 2 Small, scoring 31 on the Artificial Analysis Intelligence Index - their plan to release its weights would make it the highest-scoring open weights model developed outside China based on current rankings</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&amp;auto=format" alt="" /></p><p>Thinking Machines has released Inkling 2 Small, scoring 31 on the Artificial Analysis Intelligence Index - their plan to release its weights would make it the highest-scoring open weights model developed outside China based on current rankings</p>]]></content:encoded>
-<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&amp;auto=format" medium="image" />
-<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&amp;auto=format" />
-</item>
-<item>
-<title>Lyft reports Q3 revenue up 8% YoY to $1.82B, vs. $1.92B est., and a net loss of $0.03 a share, vs. an est. profit of $0.20 a share; LYFT drops 8%+ after hours (Kelly Cloonan/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm5s5ty7r2i</guid>
-<pubDate>Fri, 06 Nov 2026 00:46:10 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meta indefinitely pauses its new commercial terms, which critics say would let it scrape sites of business users, after publisher outcry and court injunctions (Nieman Lab)</title>
-<link>https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm57scw6q2t</guid>
-<pubDate>Fri, 06 Nov 2026 00:35:54 +0000</pubDate>
-<description>“We’re pausing the changes as we continue to engage with stakeholders and take our time to get this right.&quot;</description>
-<content:encoded><![CDATA[<p><img src="https://www.niemanlab.org/images/AdobeStock_858537249_Editorial_Use_Only-1536x914.jpeg" alt="" /></p><p>“We’re pausing the changes as we continue to engage with stakeholders and take our time to get this right.&quot;</p>]]></content:encoded>
-<media:content url="https://www.niemanlab.org/images/AdobeStock_858537249_Editorial_Use_Only-1536x914.jpeg" medium="image" />
-<media:thumbnail url="https://www.niemanlab.org/images/AdobeStock_858537249_Editorial_Use_Only-1536x914.jpeg" />
-</item>
-<item>
-<title>Sources: cloud security startup Cyera is planning to raise around $800M in a round led by Cyberstarts at a $20B valuation, up from $12B in June (Aaron Holmes/The Information)</title>
-<link>https://www.theinformation.com/articles/cyeras-800-million-haul-shows-cyber-fever-broken</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm4fgqf532v</guid>
-<pubDate>Fri, 06 Nov 2026 00:21:09 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing (Thinking Machines Lab)</title>
-<link>https://thinkingmachines.ai/news/inkling-2-small/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm44myzc42t</guid>
-<pubDate>Fri, 06 Nov 2026 00:16:14 +0000</pubDate>
-<description>Today we are introducing the second generation of Inkling models with the release of Inkling 2 Small.</description>
-<content:encoded><![CDATA[<p><img src="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" alt="" /></p><p>Today we are introducing the second generation of Inkling models with the release of Inkling 2 Small.</p>]]></content:encoded>
-<media:content url="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" medium="image" />
-<media:thumbnail url="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" />
-</item>
-<item>
-<title>Sources: major investors are increasingly skeptical Anthropic&#x27;s IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T (Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzm3txk7u32f</guid>
-<pubDate>Fri, 06 Nov 2026 00:11:23 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Unity has held talks to be acquired by a consortium including Silver Lake, which owns 8% of Unity, and Saudi Arabia&#x27;s PIF, discussing a ~$25B valuation (Reuters)</title>
-<link>https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlzvnzrax2l</guid>
-<pubDate>Thu, 05 Nov 2026 23:36:32 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: NYT has entered exclusive negotiations to acquire Letterboxd for roughly $330M; A24 dropped out of negotiations after price expectations rose (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.VI2A.KUZeZMAjpE-e&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlzlyaehk26</guid>
-<pubDate>Thu, 05 Nov 2026 23:31:08 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cloudflare reports Q3 revenue up 39% YoY to $782.5M, above $737.2M est., a $34.1M net loss, and lifts its FY 2026 guidance; NET jumps 14%+ after hours (Elias Schisgall/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/cloudflare-stock-surges-on-lifted-full-year-outlook-third-quarter-revenue-growth-984186bf</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlyrd5a3u2f</guid>
-<pubDate>Thu, 05 Nov 2026 23:16:13 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Airbnb reports Q3 revenue up 19% YoY to $4.9B, above est., Nights and Seats Booked up 16% to 155M, rises its FY 2026 revenue outlook; ABNB jumps 9%+ after hours (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlyilqk6e2i</guid>
-<pubDate>Thu, 05 Nov 2026 23:11:20 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlvfqacri2t</guid>
-<pubDate>Thu, 05 Nov 2026 22:16:03 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed exec Alice Huang, reported to be a Chinese asset (Kevin Breuninger/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzlthkzsvm2t</guid>
-<pubDate>Thu, 05 Nov 2026 21:41:17 +0000</pubDate>
-<description>President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" alt="" /></p><p>President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1793915165&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
