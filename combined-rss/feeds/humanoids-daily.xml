@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 10 Nov 2026 04:45:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:03:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Robbyant Open-Sources LingBot-Touch, One Tactile Model for Three Sensor Types</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0598562728400bea335e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/robbyant-lingbot-touch-open-source-tactile-model</guid>
+<pubDate>Tue, 10 Nov 2026 12:22:45 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/robbyant-lingbot-touch-open-source-tactile-model" rel="related" type="text/html" />
+<description>Ant Group's Robbyant has released LingBot-Touch under Apache 2.0. Across 26 real-robot tasks, its tactile tokens lifted four policies by 14 to 25 points, including on a hand whose sensor it never saw.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lingbot-touch-launch-video-padlock-tN918OGM8NCrjXEkCXg8xM6HGeyYav.webp" alt="" /></p><p>Ant Group's Robbyant has released LingBot-Touch under Apache 2.0. Across 26 real-robot tasks, its tactile tokens lifted four policies by 14 to 25 points, including on a hand whose sensor it never saw.</p><p><a href="https://www.humanoidsdaily.com/news/robbyant-lingbot-touch-open-source-tactile-model">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lingbot-touch-launch-video-padlock-tN918OGM8NCrjXEkCXg8xM6HGeyYav.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lingbot-touch-launch-video-padlock-tN918OGM8NCrjXEkCXg8xM6HGeyYav.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/lingbot-touch-launch-video-padlock-tN918OGM8NCrjXEkCXg8xM6HGeyYav.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>MACHINA Summit Moves to the Palais des Congrès for 2027, Names Wandercraft, Agility and Skild AI Speakers</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fafb9b44bda0af0dbed9.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/machina-summit-2027-palais-des-congres-paris-first-speakers</guid>
+<pubDate>Tue, 10 Nov 2026 11:38:26 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/machina-summit-2027-palais-des-congres-paris-first-speakers" rel="related" type="text/html" />
+<description>The Paris physical AI conference grows to two days and 3,500 expected attendees on 7–8 July 2027, closing with an invitation-only gala at Versailles.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machina-summit-2026-station-f-crowd-g52T5i4NANnyxO6xndxxmfmfymKway.webp" alt="" /></p><p>The Paris physical AI conference grows to two days and 3,500 expected attendees on 7–8 July 2027, closing with an invitation-only gala at Versailles.</p><p><a href="https://www.humanoidsdaily.com/news/machina-summit-2027-palais-des-congres-paris-first-speakers">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machina-summit-2026-station-f-crowd-g52T5i4NANnyxO6xndxxmfmfymKway.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machina-summit-2026-station-f-crowd-g52T5i4NANnyxO6xndxxmfmfymKway.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/machina-summit-2026-station-f-crowd-g52T5i4NANnyxO6xndxxmfmfymKway.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>"Robotics Is No Longer an Elitist Sport": NVIDIA Unveils GR00T 2 and Open-Sources the Stack Behind It</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07a557f18bcf3e74502a.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/meta-fourier-gr3-collage-LfrbnRqXFioewbFwKoa4cUfde63UD0.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Tesla Reportedly Plans Optimus Reservations for Early December</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4f2d33ed40ad87ea7eee.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit</guid>
-<pubDate>Fri, 30 Oct 2026 19:44:57 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit" rel="related" type="text/html" />
-<description>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" alt="" /></p><p>Humanoids Summit founder Modar Alaoui told The San Francisco Standard that Tesla plans reservations around its December event. Consumer delivery terms remain unclear.</p><p><a href="https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/tesla-optimus-reservations-collage-2boHFNZW4S2bYJyuTVMrolb1EAxu4i.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>What Is Worken? AGIBOT’s Proposed Measure of Productive Robot Work</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f886a8e922b42d13c1cb.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agibot-worken-robot-productivity-measure-explained</guid>
-<pubDate>Fri, 30 Oct 2026 14:13:00 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agibot-worken-robot-productivity-measure-explained" rel="related" type="text/html" />
-<description>AGIBOT’s Worken framework combines active robots, autonomous hours and task-specific output. Here is how the calculation works—and what it cannot tell you.</description>
-<content:encoded><![CDATA[<p><img src="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" alt="" /></p><p>AGIBOT’s Worken framework combines active robots, autonomous hours and task-specific output. Here is how the calculation works—and what it cannot tell you.</p><p><a href="https://www.humanoidsdaily.com/news/agibot-worken-robot-productivity-measure-explained">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" />
-<enclosure url="https://www.humanoidsdaily.com/api/article-media/5d8c5ffa-7d04-463e-bfad-5743787e2737/06621670-2e1e-46ec-a7eb-1725b6266800.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
