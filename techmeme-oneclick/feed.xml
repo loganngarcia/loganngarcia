@@ -5,17 +5,143 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 14:07:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:21:58 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>OKX and ICE&#x27;s joint venture OKXICE plans to launch a US tokenized stock venue on November 23 and list 70+ assets; 56 of the 62 companies it targeted objected (Scott Patterson/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22u5zkmwf2x</guid>
+<pubDate>Wed, 11 Nov 2026 21:03:47 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn&#x27;t written or reviewed any code (Todd Bishop/GeekWire)</title>
+<link>https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22s3ewbmj2x</guid>
+<pubDate>Wed, 11 Nov 2026 20:26:30 +0000</pubDate>
+<description>AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer&#x27;s own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" alt="" /></p><p>AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer&#x27;s own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.</p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" medium="image" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" />
+</item>
+<item>
+<title>Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22nlivykt2n</guid>
+<pubDate>Wed, 11 Nov 2026 19:06:03 +0000</pubDate>
+<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
+<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" alt="" /></p><p>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</p>]]></content:encoded>
+<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" medium="image" />
+<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" />
+</item>
+<item>
+<title>United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22m6qfd6y2y</guid>
+<pubDate>Wed, 11 Nov 2026 18:41:01 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Silicon Valley&#x27;s herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)</title>
+<link>https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22lmuo4yg2z</guid>
+<pubDate>Wed, 11 Nov 2026 18:31:01 +0000</pubDate>
+<description>From www.theatlantic.com</description>
+<content:encoded><![CDATA[<p>From www.theatlantic.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems (Kyt Dotson/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22itma4q727</guid>
+<pubDate>Wed, 11 Nov 2026 17:41:06 +0000</pubDate>
+<description>IBM Quantum announces upcoming Nighthawk r3 processor designed to execute 10,000 operations - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand-scaled.jpg" alt="" /></p><p>IBM Quantum announces upcoming Nighthawk r3 processor designed to execute 10,000 operations - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand-scaled.jpg" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand-scaled.jpg" />
+</item>
+<item>
+<title>Sources: self-driving simulation software maker Applied Intuition is in talks to raise at least $1.5B led by General Catalyst at a ~$30B pre-money valuation (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22gnfm2rp2x</guid>
+<pubDate>Wed, 11 Nov 2026 17:01:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Leaked memo: Meta&#x27;s head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown (Riley Griffin/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22f7y2i3w2y</guid>
+<pubDate>Wed, 11 Nov 2026 16:36:26 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)</title>
+<link>https://www.upstartsmedia.com/p/fintech-imprint-raises-130m</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22ewdfhrg2x</guid>
+<pubDate>Wed, 11 Nov 2026 16:31:02 +0000</pubDate>
+<description>Imprint CEO Daragh Murphy&#x27;s co-branded card startup is now solving loyalty for brands in agentic commerce.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!RN6C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png" alt="" /></p><p>Imprint CEO Daragh Murphy&#x27;s co-branded card startup is now solving loyalty for brands in agentic commerce.</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!RN6C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!RN6C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4bcb6bf-6b68-4c36-91ef-7ac1d2d26308_3225x2150.png" />
+</item>
+<item>
+<title>Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)</title>
+<link>https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22b2qiyy42n</guid>
+<pubDate>Wed, 11 Nov 2026 15:21:55 +0000</pubDate>
+<description>From www.forbes.com</description>
+<content:encoded><![CDATA[<p>From www.forbes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research (Robert Hart/The Verge)</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22ahdpatm2y</guid>
+<pubDate>Wed, 11 Nov 2026 15:11:04 +0000</pubDate>
+<description>DeepMind’s new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>DeepMind’s new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
+</item>
+<item>
+<title>Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22a7vws5c2z</guid>
+<pubDate>Wed, 11 Nov 2026 15:06:55 +0000</pubDate>
+<description>Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800" alt="" /></p><p>Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800" />
+</item>
+<item>
+<title>Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)</title>
+<link>https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n226rll4sv2x</guid>
+<pubDate>Wed, 11 Nov 2026 14:41:01 +0000</pubDate>
+<description>Exclusive: The company has raised $100 million in Series B funding at a $1.3 billion valuation.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/Copy-of-Copy-of-LF_01019A-e1794348055536.jpg?resize=1200,600" alt="" /></p><p>Exclusive: The company has raised $100 million in Series B funding at a $1.3 billion valuation.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Copy-of-Copy-of-LF_01019A-e1794348055536.jpg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Copy-of-Copy-of-LF_01019A-e1794348055536.jpg?resize=1200,600" />
+</item>
+<item>
+<title>After the US midterms, Palantir CEO Alex Karp pivots toward Democrats, describing his philosophy as progressive and acknowledging ICE&#x27;s enforcement missteps (Politico)</title>
+<link>https://www.politico.com/newsletters/playbook/2026/11/11/the-tech-right-pivots-left-01160648</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n225pca4zz2r</guid>
+<pubDate>Wed, 11 Nov 2026 14:21:50 +0000</pubDate>
+<description>From www.politico.com</description>
+<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
+</item>
 <item>
 <title>An analysis of 42 interviews since 2022: after US chip restrictions, Jensen Huang&#x27;s public rhetoric became more admiring of China and critical of export rules (J.D. Capelouto/Semafor)</title>
 <link>https://www.semafor.com/article/11/11/2026/tracking-how-jensen-huang-changed-his-stance-on-china</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n224m7g6an2n</guid>
 <pubDate>Wed, 11 Nov 2026 14:02:13 +0000</pubDate>
 <description>In podcast interviews, Jensen Huang began speaking more warmly of China after the US restricted Nvidia’s made-for-China chip in 2025 — and as he had an affair with a suspected Chinese spy.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/1d78e9970617539b22fe6f32661ca928f20ff131-4980x3325.jpg?rect=0,356,4980,2615&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>In podcast interviews, Jensen Huang began speaking more warmly of China after the US restricted Nvidia’s made-for-China chip in 2025 — and as he had an affair with a suspected Chinese spy.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/1d78e9970617539b22fe6f32661ca928f20ff131-4980x3325.jpg?rect=0,356,4980,2615&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/1d78e9970617539b22fe6f32661ca928f20ff131-4980x3325.jpg?rect=0,356,4980,2615&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
+<content:encoded><![CDATA[<p><img src="https://img.semafor.com/fd7c6de2a2dc53444cafa7a7721fa8649e274d29-1152x1205.png?rect=0,301,1152,605&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>In podcast interviews, Jensen Huang began speaking more warmly of China after the US restricted Nvidia’s made-for-China chip in 2025 — and as he had an affair with a suspected Chinese spy.</p>]]></content:encoded>
+<media:content url="https://img.semafor.com/fd7c6de2a2dc53444cafa7a7721fa8649e274d29-1152x1205.png?rect=0,301,1152,605&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
+<media:thumbnail url="https://img.semafor.com/fd7c6de2a2dc53444cafa7a7721fa8649e274d29-1152x1205.png?rect=0,301,1152,605&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
 </item>
 <item>
 <title>Sources: Anthropic&#x27;s IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)</title>
@@ -762,120 +888,6 @@
 <pubDate>Tue, 10 Nov 2026 10:55:49 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia&#x27;s corporate docs make no reference to &quot;succession planning&quot; (Financial Times)</title>
-<link>https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzxav3ekl62i</guid>
-<pubDate>Tue, 10 Nov 2026 10:40:46 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>China&#x27;s trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)</title>
-<link>https://www.reuters.com/world/asia-pacific/chinas-trade-surplus-soars-past-1-trillion-october-exports-jump-352-yy-2026-11-10/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzx46maox625</guid>
-<pubDate>Tue, 10 Nov 2026 09:16:37 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Meituan releases weights for LongCat-2.5, a 1.6T-parameter MoE model for long-horizon agentic tasks, under the MIT license, after unveiling it on November 1 (Carl Franzen/VentureBeat)</title>
-<link>https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzx2quiry627</guid>
-<pubDate>Tue, 10 Nov 2026 08:51:02 +0000</pubDate>
-<description>From venturebeat.com</description>
-<content:encoded><![CDATA[<p>From venturebeat.com</p>]]></content:encoded>
-</item>
-<item>
-<title>SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwvyg7wi22i</guid>
-<pubDate>Tue, 10 Nov 2026 07:25:47 +0000</pubDate>
-<description>SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1794333546&amp;w=1920&amp;h=1080" alt="" /></p><p>SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1794333546&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1794333546&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)</title>
-<link>https://www.axios.com/pro/fintech-deals/2026/11/09/geniosai-19-1m-factset-financial-analysis-ai</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwtrnwyey2z</guid>
-<pubDate>Tue, 10 Nov 2026 06:46:13 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-10/moonshot-rents-nvidia-s-top-ai-chips-in-china-documents-show</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwsw2gdrl2t</guid>
-<pubDate>Tue, 10 Nov 2026 06:30:46 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The White House picks Palantir CISO Michael LoSapio to lead the DHS&#x27; Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)</title>
-<link>https://www.reuters.com/world/white-house-nominates-palantirs-losapio-lead-homeland-securitys-cyber-agency-2026-11-09/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwq57acxc2y</guid>
-<pubDate>Tue, 10 Nov 2026 05:41:05 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Australia is drafting legislation for an AI safety regulator empowered to impose &quot;significant penalties&quot; after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwmrdhmjp2c</guid>
-<pubDate>Tue, 10 Nov 2026 04:40:46 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Analysis: Nvidia&#x27;s 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwlwrkltm2c</guid>
-<pubDate>Tue, 10 Nov 2026 04:25:54 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations (Kanishka Singh/Reuters)</title>
-<link>https://www.reuters.com/world/us-sues-lyft-alleges-it-denied-rides-passengers-with-service-dogs-wheelchairs-2026-11-10/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwl3pyn5a2s</guid>
-<pubDate>Tue, 10 Nov 2026 04:10:47 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care (Associated Press)</title>
-<link>https://apnews.com/article/california-billionaire-tax-4ae8cbdc057b99579818016f02ac9d9e</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwklupe7e2j</guid>
-<pubDate>Tue, 10 Nov 2026 04:01:55 +0000</pubDate>
-<description>From apnews.com</description>
-<content:encoded><![CDATA[<p>From apnews.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwh7jz5l52r</guid>
-<pubDate>Tue, 10 Nov 2026 03:01:20 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)</title>
-<link>https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwft2cy4j2u</guid>
-<pubDate>Tue, 10 Nov 2026 02:36:27 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: Anthropic now aims to raise up to $69.3B in its IPO (Reuters)</title>
-<link>https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzwcsdevfp2j</guid>
-<pubDate>Tue, 10 Nov 2026 01:42:21 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
