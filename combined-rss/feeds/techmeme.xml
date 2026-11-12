@@ -5,8 +5,246 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:35:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:51:50 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The FBI says North Korean hackers stole $400M+ in crypto in the last 18 months using "FaceStealer", a scheme involving fake video calls and AI deepfakes (A.J. Vicens/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e895c6903cfc99985343.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25n5ntbfu24</guid>
+<pubDate>Thu, 12 Nov 2026 23:36:17 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/" rel="related" type="text/html" />
+<description>North Korean state-backed hackers have stolen more than $400 million in cryptocurrency over the past 18 ​months using surreptitiously recorded images of people which ‌are then used to target their con...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FBTZX45E42JL5VNMPCBMOZXS6NQ.jpg%3Fauth%3D8259b86a85eacea54c418c6f3b888bf7eeb8c79ee43e8d97b39ac91b89205576%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>North Korean state-backed hackers have stolen more than $400 million in cryptocurrency over the past 18 ​months using surreptitiously recorded images of people which ‌are then used to target their con...</p><p><a href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FBTZX45E42JL5VNMPCBMOZXS6NQ.jpg%3Fauth%3D8259b86a85eacea54c418c6f3b888bf7eeb8c79ee43e8d97b39ac91b89205576%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FBTZX45E42JL5VNMPCBMOZXS6NQ.jpg%3Fauth%3D8259b86a85eacea54c418c6f3b888bf7eeb8c79ee43e8d97b39ac91b89205576%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FBTZX45E42JL5VNMPCBMOZXS6NQ.jpg%3Fauth%3D8259b86a85eacea54c418c6f3b888bf7eeb8c79ee43e8d97b39ac91b89205576%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs (Will DePue/Unemployment Labs)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d096a8a420fb437e10c5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25jjk6stz2v</guid>
+<pubDate>Thu, 12 Nov 2026 22:31:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://unemploymentlabs.com/checkpoint-forensics" rel="related" type="text/html" />
+<description>Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.</description>
+<content:encoded><![CDATA[<p><img src="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" alt="" /></p><p>Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.</p><p><a href="https://unemploymentlabs.com/checkpoint-forensics">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" medium="image" type="image/png" />
+<media:thumbnail url="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" />
+<enclosure url="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" type="image/png" length="0" />
+</item>
+<item>
+<title>The DOJ says it got court authorization to seize or restrain $1.2B of the $2.7B frozen by Tether and Circle after North Korea's $6.3B Binance hack on October 29 (Myles Miller/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/20fe606828b0c33aaed2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25ixfe4gh2u</guid>
+<pubDate>Thu, 12 Nov 2026 22:21:12 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack" rel="related" type="text/html" />
+<description>The Justice Department says it’s joined with the two biggest stablecoin issuers in efforts to secure almost half the money stolen when hackers absconded with more than $6 billion from the Binance cryp...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAeaZC.90x00%2Fv0%2F1200x800.jpg" alt="" /></p><p>The Justice Department says it’s joined with the two biggest stablecoin issuers in efforts to secure almost half the money stolen when hackers absconded with more than $6 billion from the Binance cryp...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAeaZC.90x00%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAeaZC.90x00%2Fv0%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiAeaZC.90x00%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d18c77674b90db6be8d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25io2uyov2v</guid>
+<pubDate>Thu, 12 Nov 2026 22:15:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/artificialanlys/status/2120941511223185722" rel="related" type="text/html" />
+<description>Google's new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet’s cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" alt="" /></p><p>Google's new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet’s cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi…</p><p><a href="https://x.com/artificialanlys/status/2120941511223185722">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" />
+<enclosure url="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China's access to AI chips and chipmaking tools (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/403237fcb80aaf912937.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25i5cai5z2f</guid>
+<pubDate>Thu, 12 Nov 2026 22:06:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures" rel="related" type="text/html" />
+<description>OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining moment...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLxQH_bDk_Qo%2Fv2%2F1200x800.jpg" alt="" /></p><p>OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining moment...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLxQH_bDk_Qo%2Fv2%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLxQH_bDk_Qo%2Fv2%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiLxQH_bDk_Qo%2Fv2%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Kalshi is in talks to raise funding at a $65B valuation, weeks after closing a round at a $40B valuation; its annual run rate recently surpassed $5B (Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4e27b3821dd115930429.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25hazes542a</guid>
+<pubDate>Thu, 12 Nov 2026 21:50:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation" rel="related" type="text/html" />
+<description>Weeks after closing a funding round at a $40 billion valuation, Kalshi is now in talks to raise more money from investors valuing the prediction market at $65 billion, according to people familiar wit...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi9qWVD5Su12s%2Fv1%2F1200x800.jpg" alt="" /></p><p>Weeks after closing a funding round at a $40 billion valuation, Kalshi is now in talks to raise more money from investors valuing the prediction market at $65 billion, according to people familiar wit...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi9qWVD5Su12s%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi9qWVD5Su12s%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi9qWVD5Su12s%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours (Jordan Novet/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/642026de4eb8cc0c7045.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25ggbo23426</guid>
+<pubDate>Thu, 12 Nov 2026 21:35:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html" rel="related" type="text/html" />
+<description>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" alt="" /></p><p>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</p><p><a href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>US AG Todd Blanche says the DOJ has not yet reached a conclusion on whether Alice Huang was a Chinese spy and "of course" the FBI is investigating (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4e005ff13e7bc7bb3e3f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25fvy2wtv2x</guid>
+<pubDate>Thu, 12 Nov 2026 21:26:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/" rel="related" type="text/html" />
+<description>US Attorney General ​Todd Blanche said ‌on Thursday that the Justice ​Department has ​not yet reached a ⁠conclusion on ​whether Alice Huang, ​the Chinese businesswoman who had an affair ​with former ​...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQGGYPT5S3JJ3JFAEFKVWCAS73Y.jpg%3Fauth%3D44c32678e9d43cd5314e6a2118347b15fc3bb281317d2bb1527e7a6432cb8186%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>US Attorney General ​Todd Blanche said ‌on Thursday that the Justice ​Department has ​not yet reached a ⁠conclusion on ​whether Alice Huang, ​the Chinese businesswoman who had an affair ​with former ​...</p><p><a href="https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQGGYPT5S3JJ3JFAEFKVWCAS73Y.jpg%3Fauth%3D44c32678e9d43cd5314e6a2118347b15fc3bb281317d2bb1527e7a6432cb8186%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQGGYPT5S3JJ3JFAEFKVWCAS73Y.jpg%3Fauth%3D44c32678e9d43cd5314e6a2118347b15fc3bb281317d2bb1527e7a6432cb8186%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FQGGYPT5S3JJ3JFAEFKVWCAS73Y.jpg%3Fauth%3D44c32678e9d43cd5314e6a2118347b15fc3bb281317d2bb1527e7a6432cb8186%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/728dc69d98d91c5f302e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25flzlyi52x</guid>
+<pubDate>Thu, 12 Nov 2026 21:21:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed" rel="related" type="text/html" />
+<description>Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest f...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fig2FEVjgRdRc%2Fv1%2F1200x800.jpg" alt="" /></p><p>Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest f...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fig2FEVjgRdRc%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fig2FEVjgRdRc%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fig2FEVjgRdRc%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cc25a87212480e0ecbf0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25fcnaoys2p</guid>
+<pubDate>Thu, 12 Nov 2026 21:15:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html" rel="related" type="text/html" />
+<description>Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" alt="" /></p><p>Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.</p><p><a href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" />
+<enclosure url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ce0ed0221181516565b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25adm4jui2v</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/" rel="related" type="text/html" />
+<description>The revelation follows two other extramarital affairs that led to his resignation. Huang's resignation could disrupt the AI industry ​that he helped shape. Nvidia shares have shed more than 30% of its...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLQWDKWYS3BKQPGDGJ455UOWSMI.jpg%3Fauth%3D81f2bf1f7fd20677bcdcf542189315ff99734d9a26bc7e22654fffdfa69a19d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The revelation follows two other extramarital affairs that led to his resignation. Huang's resignation could disrupt the AI industry ​that he helped shape. Nvidia shares have shed more than 30% of its...</p><p><a href="https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLQWDKWYS3BKQPGDGJ455UOWSMI.jpg%3Fauth%3D81f2bf1f7fd20677bcdcf542189315ff99734d9a26bc7e22654fffdfa69a19d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLQWDKWYS3BKQPGDGJ455UOWSMI.jpg%3Fauth%3D81f2bf1f7fd20677bcdcf542189315ff99734d9a26bc7e22654fffdfa69a19d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FLQWDKWYS3BKQPGDGJ455UOWSMI.jpg%3Fauth%3D81f2bf1f7fd20677bcdcf542189315ff99734d9a26bc7e22654fffdfa69a19d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Users report being unable to access Outlook, Teams, and other Microsoft 365 services; Microsoft says many of its servers became unexpectedly unavailable (Anna Washenko/Engadget)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dac53ecf2d1e36b36224.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25abl4dgx2z</guid>
+<pubDate>Thu, 12 Nov 2026 19:45:50 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/" rel="related" type="text/html" />
+<description>Outlook and Teams are among the platforms impacted by “elevated load” issues.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" alt="" /></p><p>Outlook and Teams are among the platforms impacted by “elevated load” issues.</p><p><a href="https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" />
+<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Kalshi ends the advisory contract it signed with Donald Trump Jr. in January 2025, after his VC firm 1789 Capital increased its stake in Polymarket (Anirban Sen/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ed64b2db09f2933b1a47.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n257qboglw2q</guid>
+<pubDate>Thu, 12 Nov 2026 19:36:10 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/" rel="related" type="text/html" />
+<description>Kalshi has ended its advisory contract with Donald Trump Jr after ‌his venture capital firm 1789 Capital increased its stake in arch-rival Polymarket, according to a spokesperson for the $40 billio...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZDCK6HBMDRMSLJ6A3W3MCUX7UU.jpg%3Fauth%3Dcd2cc853744b076e4d3f2513058d6ebd38751cc4cfd13d9d6390dd6b86c1f59a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Kalshi has ended its advisory contract with Donald Trump Jr after ‌his venture capital firm 1789 Capital increased its stake in arch-rival Polymarket, according to a spokesperson for the $40 billio...</p><p><a href="https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZDCK6HBMDRMSLJ6A3W3MCUX7UU.jpg%3Fauth%3Dcd2cc853744b076e4d3f2513058d6ebd38751cc4cfd13d9d6390dd6b86c1f59a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZDCK6HBMDRMSLJ6A3W3MCUX7UU.jpg%3Fauth%3Dcd2cc853744b076e4d3f2513058d6ebd38751cc4cfd13d9d6390dd6b86c1f59a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FZDCK6HBMDRMSLJ6A3W3MCUX7UU.jpg%3Fauth%3Dcd2cc853744b076e4d3f2513058d6ebd38751cc4cfd13d9d6390dd6b86c1f59a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5ab15edc0315d765dc1b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n257grv3uq27</guid>
+<pubDate>Thu, 12 Nov 2026 19:30:51 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/" rel="related" type="text/html" />
+<description>Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…</description>
+<content:encoded><![CDATA[<p><img src="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" alt="" /></p><p>Today, we're rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…</p><p><a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" medium="image" type="image/png" />
+<media:thumbnail url="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" />
+<enclosure url="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4662ddb7592e0d108996.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n256uvyanf2v</guid>
+<pubDate>Thu, 12 Nov 2026 19:20:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/" rel="related" type="text/html" />
+<description>Senior White House officials are discussing whether Commerce ​Secretary Howard Lutnick should be pushed out amid a spy scandal surrounding Nvidia's now-former CEO Jensen Huang, two people familiar wit...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOHODI5ZV4NJ5HHLV3VLZIWNZLQ.jpg%3Fauth%3Ddb6385261de4f65819f164a45d03f08aeb934d36e41de062ecd3a3491e26625e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Senior White House officials are discussing whether Commerce ​Secretary Howard Lutnick should be pushed out amid a spy scandal surrounding Nvidia's now-former CEO Jensen Huang, two people familiar wit...</p><p><a href="https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOHODI5ZV4NJ5HHLV3VLZIWNZLQ.jpg%3Fauth%3Ddb6385261de4f65819f164a45d03f08aeb934d36e41de062ecd3a3491e26625e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOHODI5ZV4NJ5HHLV3VLZIWNZLQ.jpg%3Fauth%3Ddb6385261de4f65819f164a45d03f08aeb934d36e41de062ecd3a3491e26625e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOHODI5ZV4NJ5HHLV3VLZIWNZLQ.jpg%3Fauth%3Ddb6385261de4f65819f164a45d03f08aeb934d36e41de062ecd3a3491e26625e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bd3872630d69c105277a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n255jezg3j2q</guid>
+<pubDate>Thu, 12 Nov 2026 18:56:31 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/" rel="related" type="text/html" />
+<description>After this week's Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the "Flash" branding.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>After this week's Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the "Flash" branding.</p><p><a href="https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+<enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens (Koray Kavukcuoglu/Google)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ec9fd4077cce6753e8ff.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n254ole76c2x</guid>
+<pubDate>Thu, 12 Nov 2026 18:41:32 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/" rel="related" type="text/html" />
+<description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows</description>
+<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt="" /></p><p>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows</p><p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" />
+<enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Binance says it has covered all of the $6.3B in cryptoassets stolen on October 29, using its profits and emergency funds to replace common and obscure tokens (Teresa Xie/Bloomberg)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4cd104f588e9994c368d.html</link>
@@ -156,10 +394,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad" rel="related" type="text/html" />
 <description>Alphabet’s CapitalG led the $300 million investment into the startup as it targets enterprises with agent-development platform.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-23818061/social" alt="" /></p><p>Alphabet’s CapitalG led the $300 million investment into the startup as it targets enterprises with agent-development platform.</p><p><a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-23818061/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-23818061/social" />
-<enclosure url="https://images.wsj.net/im-23818061/social" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-23818061%2Fsocial" alt="" /></p><p>Alphabet’s CapitalG led the $300 million investment into the startup as it targets enterprises with agent-development platform.</p><p><a href="https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-23818061%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-23818061%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-23818061%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Nvidia dropped 14% at Thursday's open after Jensen Huang resigned, erasing $600B+ in value and taking its market cap below $4T for the first time since 2025 (Bloomberg)</title>
@@ -184,10 +422,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/tech/ai/jensen-huang-built-nvidia-its-chips-made-the-ai-boom-possible-bef1b4bb?st=fd71DX&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
 <description>Nvidia’s first and only CEO turned semiconductors designed for videogames into the engine of the next technology revolution.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-57637296/social" alt="" /></p><p>Nvidia’s first and only CEO turned semiconductors designed for videogames into the engine of the next technology revolution.</p><p><a href="https://www.wsj.com/tech/ai/jensen-huang-built-nvidia-its-chips-made-the-ai-boom-possible-bef1b4bb?st=fd71DX&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-57637296/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-57637296/social" />
-<enclosure url="https://images.wsj.net/im-57637296/social" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57637296%2Fsocial" alt="" /></p><p>Nvidia’s first and only CEO turned semiconductors designed for videogames into the engine of the next technology revolution.</p><p><a href="https://www.wsj.com/tech/ai/jensen-huang-built-nvidia-its-chips-made-the-ai-boom-possible-bef1b4bb?st=fd71DX&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57637296%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57637296%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-57637296%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)</title>
@@ -422,10 +660,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=7WHtD8&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
 <description>Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-56195954/social" alt="" /></p><p>Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief.</p><p><a href="https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=7WHtD8&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-56195954/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-56195954/social" />
-<enclosure url="https://images.wsj.net/im-56195954/social" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56195954%2Fsocial" alt="" /></p><p>Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief.</p><p><a href="https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=7WHtD8&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56195954%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56195954%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-56195954%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>A look at potential Nvidia CEO candidates, including CFO Colette Kress, CUDA inventor Ian Buck, Arm CEO Rene Haas, and Apple Chief Hardware Officer Johny Srouji (Bloomberg)</title>
@@ -449,11 +687,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&amp;reflink=desktopwebshare_permalink" rel="related" type="text/html" />
-<description>China’s largest contract chip manufacturer more than doubled profit and reported another record revenue as spillover effects of the artificial-intelligence boom continued to boost demand and prices of its wafers.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-44612260/social" alt="" /></p><p>China’s largest contract chip manufacturer more than doubled profit and reported another record revenue as spillover effects of the artificial-intelligence boom continued to boost demand and prices of its wafers.</p><p><a href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-44612260/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-44612260/social" />
-<enclosure url="https://images.wsj.net/im-44612260/social" type="image/jpeg" length="0" />
+<description>China’s largest contract chip manufacturer more than doubled profit and reported another record revenue as spillover effects of the artificial-intelligence boom continued to boost demand and prices of...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-44612260%2Fsocial" alt="" /></p><p>China’s largest contract chip manufacturer more than doubled profit and reported another record revenue as spillover effects of the artificial-intelligence boom continued to boost demand and prices of...</p><p><a href="https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?st=4BA8bL&amp;reflink=desktopwebshare_permalink">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-44612260%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-44612260%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-44612260%2Fsocial" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>London-based Uforce, which makes unmanned air, sea, and land vehicles, raised $700M co-led by the UK National Wealth Fund and Valor Equity at a $6B valuation (Yazhou Sun/Bloomberg)</title>
@@ -604,248 +842,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5" rel="related" type="text/html" />
 <description>Last year, just as scrutiny of Megaspeed was rising, Nvidia stopped reporting Singapore revenue.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-33141886/social" alt="" /></p><p>Last year, just as scrutiny of Megaspeed was rising, Nvidia stopped reporting Singapore revenue.</p><p><a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-33141886/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-33141886/social" />
-<enclosure url="https://images.wsj.net/im-33141886/social" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia's board weighs ousting CEO Huang (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1a13dbc1327605ac26e1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23qa3nlxj2a</guid>
-<pubDate>Thu, 12 Nov 2026 05:26:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e" rel="related" type="text/html" />
-<description>Stock falls as much as 14% before recovering to trade 5% down on Thursday</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1ddbfb52-fd67-40b3-8717-503b0d4f478f.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Stock falls as much as 14% before recovering to trade 5% down on Thursday</p><p><a href="https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1ddbfb52-fd67-40b3-8717-503b0d4f478f.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1ddbfb52-fd67-40b3-8717-503b0d4f478f.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F1ddbfb52-fd67-40b3-8717-503b0d4f478f.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/479eff6e63915bde317b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23lkbfz2p2a</guid>
-<pubDate>Thu, 12 Nov 2026 04:02:14 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?st=epsgoa&amp;reflink=article_copyURL_share" rel="related" type="text/html" />
-<description>U.S. officials have repeatedly raised concerns about his influence with the president and the Nvidia CEO’s posture toward China.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-64758448/social" alt="" /></p><p>U.S. officials have repeatedly raised concerns about his influence with the president and the Nvidia CEO’s posture toward China.</p><p><a href="https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?st=epsgoa&amp;reflink=article_copyURL_share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-64758448/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-64758448/social" />
-<enclosure url="https://images.wsj.net/im-64758448/social" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b6cab54de45545caf838.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23jjhmojs2a</guid>
-<pubDate>Thu, 12 Nov 2026 03:25:59 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule" rel="related" type="text/html" />
-<description>The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI firms from remotely accessing advanced AI chips through data centers in other countries, according to two people familiar with the process. The move could help the department push back on criticism that it has ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18158/f7c2a2d0-81d8-4398-8c48-474f23de40d3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>The Commerce Department is finalizing a long-awaited rule that will prevent Chinese AI firms from remotely accessing advanced AI chips through data centers in other countries, according to two people familiar with the process. The move could help the department push back on criticism that it has ...</p><p><a href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/18158/f7c2a2d0-81d8-4398-8c48-474f23de40d3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/18158/f7c2a2d0-81d8-4398-8c48-474f23de40d3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/18158/f7c2a2d0-81d8-4398-8c48-474f23de40d3.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f2fb3615d2537f80d142.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23hc2ag3n2x</guid>
-<pubDate>Thu, 12 Nov 2026 02:46:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj" rel="related" type="text/html" />
-<description>The board is meeting Wednesday to determine the executive’s future.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/58f8229a00a6d10bdc452997f42fd85bab6fe689-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>The board is meeting Wednesday to determine the executive’s future.</p><p><a href="https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.semafor.com/58f8229a00a6d10bdc452997f42fd85bab6fe689-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://img.semafor.com/58f8229a00a6d10bdc452997f42fd85bab6fe689-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-<enclosure url="https://img.semafor.com/58f8229a00a6d10bdc452997f42fd85bab6fe689-5000x3333.jpg?rect=0,355,5000,2625&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia's chip exports to China and Huang's affair (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e83a9eaf12128e718752.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23gq32zdj2q</guid>
-<pubDate>Thu, 12 Nov 2026 02:36:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746" rel="related" type="text/html" />
-<description>Sens. Elizabeth Warren and Chris Coons asked for documents to be preserved, often an initial step before formal congressional investigations.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-75511052/social" alt="" /></p><p>Sens. Elizabeth Warren and Chris Coons asked for documents to be preserved, often an initial step before formal congressional investigations.</p><p><a href="https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-75511052/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-75511052/social" />
-<enclosure url="https://images.wsj.net/im-75511052/social" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Megaspeed founder Alice Huang has returned to her home country and is currently living in Beijing with the knowledge of security officials (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a44f3a66e352cc105bfa.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23dxbkgke2n</guid>
-<pubDate>Thu, 12 Nov 2026 01:46:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing" rel="related" type="text/html" />
-<description>The suspected Chinese spy at the center of a scandal that threatens to take down Nvidia Corp. Chief Executive Officer Jensen Huang has returned to her home country, people familiar with the matter sai...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip.7ecSWFwqM%2Fv0%2F1200x880.jpg" alt="" /></p><p>The suspected Chinese spy at the center of a scandal that threatens to take down Nvidia Corp. Chief Executive Officer Jensen Huang has returned to her home country, people familiar with the matter sai...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip.7ecSWFwqM%2Fv0%2F1200x880.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip.7ecSWFwqM%2Fv0%2F1200x880.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fip.7ecSWFwqM%2Fv0%2F1200x880.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Roku says it will wind down sales of smart home hardware to focus on streaming, days after Fox closed its acquisition; it will keep supporting existing devices (Janko Roettgers/Lowpass)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6446723beb07811fd25d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n23am4d73g2q</guid>
-<pubDate>Thu, 12 Nov 2026 00:46:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business" rel="related" type="text/html" />
-<description>No more cheap cameras and light bulbs: Roku is done with smart home products.</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/890b014c-b0be-47d3-a804-b71f620ffa17/SmartHome1-1-1024x576.jpg?t=1794340086" alt="" /></p><p>No more cheap cameras and light bulbs: Roku is done with smart home products.</p><p><a href="https://www.lowpass.cc/p/scoop-roku-is-exiting-the-smart-home-business">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/890b014c-b0be-47d3-a804-b71f620ffa17/SmartHome1-1-1024x576.jpg?t=1794340086" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/890b014c-b0be-47d3-a804-b71f620ffa17/SmartHome1-1-1024x576.jpg?t=1794340086" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/890b014c-b0be-47d3-a804-b71f620ffa17/SmartHome1-1-1024x576.jpg?t=1794340086" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Nina Trentmann/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dfffc5d39db5d7c46d6d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n236vvfesd2z</guid>
-<pubDate>Thu, 12 Nov 2026 00:16:05 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates" rel="related" type="text/html" />
-<description>Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6ha.2Nl_8Ao%2Fv0%2F1200x800.jpg" alt="" /></p><p>Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6ha.2Nl_8Ao%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6ha.2Nl_8Ao%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi6ha.2Nl_8Ao%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds' yield (Jeannine Amodeo/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b430cf8dee31787a6425.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n235jjd7fv2n</guid>
-<pubDate>Wed, 11 Nov 2026 23:51:16 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan" rel="related" type="text/html" />
-<description>CoreWeave Inc. is in talks with banks to raise at least $4 billion through an investment-grade loan to help the junk-rated company borrow more cheaply to finance its artificial intelligence chip capac...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_kaa2oRPgGA%2Fv0%2F1200x800.jpg" alt="" /></p><p>CoreWeave Inc. is in talks with banks to raise at least $4 billion through an investment-grade loan to help the junk-rated company borrow more cheaply to finance its artificial intelligence chip capac...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_kaa2oRPgGA%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_kaa2oRPgGA%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi_kaa2oRPgGA%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 (Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5b4239cdfca1062583d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n233tnwklc2a</guid>
-<pubDate>Wed, 11 Nov 2026 23:21:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls" rel="related" type="text/html" />
-<description>Trump approved action three times, sources say.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSEQvf7tge4VgxJEzb2shzd4FYqs%3D%2F0x243%3A4000x2493%2F1366x768%2F2026%2F11%2F11%2F1794427506540.jpeg" alt="" /></p><p>Trump approved action three times, sources say.</p><p><a href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSEQvf7tge4VgxJEzb2shzd4FYqs%3D%2F0x243%3A4000x2493%2F1366x768%2F2026%2F11%2F11%2F1794427506540.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSEQvf7tge4VgxJEzb2shzd4FYqs%3D%2F0x243%3A4000x2493%2F1366x768%2F2026%2F11%2F11%2F1794427506540.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FSEQvf7tge4VgxJEzb2shzd4FYqs%3D%2F0x243%3A4000x2493%2F1366x768%2F2026%2F11%2F11%2F1794427506540.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation (Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aa7a6317df2b31f93840.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22zvy7sgx2x</guid>
-<pubDate>Wed, 11 Nov 2026 22:46:39 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips" rel="related" type="text/html" />
-<description>Officials are at odds over a suspected chip diversion.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzpU52wE71Fi9wIdiAW8tp2gFPvA%3D%2F0x190%3A5199x3114%2F1366x768%2F2026%2F11%2F11%2F1794409250283.jpeg" alt="" /></p><p>Officials are at odds over a suspected chip diversion.</p><p><a href="https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzpU52wE71Fi9wIdiAW8tp2gFPvA%3D%2F0x190%3A5199x3114%2F1366x768%2F2026%2F11%2F11%2F1794409250283.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzpU52wE71Fi9wIdiAW8tp2gFPvA%3D%2F0x190%3A5199x3114%2F1366x768%2F2026%2F11%2F11%2F1794409250283.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FzpU52wE71Fi9wIdiAW8tp2gFPvA%3D%2F0x190%3A5199x3114%2F1366x768%2F2026%2F11%2F11%2F1794409250283.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Nvidia's board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/081caafcc522c70ea94e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22z6k6ra72x</guid>
-<pubDate>Wed, 11 Nov 2026 22:33:33 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad" rel="related" type="text/html" />
-<description>Nvidia Chief Executive Jensen Huang has resigned after two extramarital affairs, including one with a suspected Chinese spy and another with an employee.</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-16676512/social" alt="" /></p><p>Nvidia Chief Executive Jensen Huang has resigned after two extramarital affairs, including one with a suspected Chinese spy and another with an employee.</p><p><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-16676512/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-16676512/social" />
-<enclosure url="https://images.wsj.net/im-16676512/social" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/071d9c002fdefcb3f85c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22xl5yivi2q</guid>
-<pubDate>Wed, 11 Nov 2026 22:04:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html" rel="related" type="text/html" />
-<description>Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg" alt="" /></p><p>Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.</p><p><a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg" />
-<enclosure url="https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OKX and ICE's joint venture OKXICE plans to launch a US tokenized stock venue on November 23 and list 70+ assets; 56 of the 62 companies it targeted objected (Scott Patterson/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e2d796649fb0a236aefe.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22u5zkmwf2x</guid>
-<pubDate>Wed, 11 Nov 2026 21:03:47 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash" rel="related" type="text/html" />
-<description>Crypto’s race to grab a slice of the US stock market is picking up speed even as many of the companies whose shares are being targeted for tokenized trading are pushing back.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiHaAJ26btjo%2Fv1%2F1200x800.jpg" alt="" /></p><p>Crypto’s race to grab a slice of the US stock market is picking up speed even as many of the companies whose shares are being targeted for tokenized trading are pushing back.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-11/crypto-s-bid-to-shake-up-stock-trading-revs-up-despite-backlash">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiHaAJ26btjo%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiHaAJ26btjo%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiiHaAJ26btjo%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/96414f56b231c287dc4d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22s3ewbmj2x</guid>
-<pubDate>Wed, 11 Nov 2026 20:26:30 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/" rel="related" type="text/html" />
-<description>AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer's own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" alt="" /></p><p>AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer's own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find.</p><p><a href="https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" />
-<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/11/aws-emulator-1200.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8e4104a923ec61a4f8ae.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22nlivykt2n</guid>
-<pubDate>Wed, 11 Nov 2026 19:06:03 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/" rel="related" type="text/html" />
-<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" alt="" /></p><p>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</p><p><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" medium="image" type="image/png" />
-<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" />
-<enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" type="image/png" length="0" />
-</item>
-<item>
-<title>United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1cd6b791618ea6376629.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n22m6qfd6y2y</guid>
-<pubDate>Wed, 11 Nov 2026 18:41:01 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38" rel="related" type="text/html" />
-<description>The carrier says automated assistants present data-privacy risks; “I don’t want to create another middleman.”</description>
-<content:encoded><![CDATA[<p><img src="https://images.wsj.net/im-90719720/social" alt="" /></p><p>The carrier says automated assistants present data-privacy risks; “I don’t want to create another middleman.”</p><p><a href="https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.wsj.net/im-90719720/social" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.wsj.net/im-90719720/social" />
-<enclosure url="https://images.wsj.net/im-90719720/social" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33141886%2Fsocial" alt="" /></p><p>Last year, just as scrutiny of Megaspeed was rising, Nvidia stopped reporting Singapore revenue.</p><p><a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33141886%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33141886%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-33141886%2Fsocial" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
