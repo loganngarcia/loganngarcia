@@ -5,8 +5,160 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:12:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:41:21 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>The FBI says North Korean hackers stole $400M+ in crypto in the last 18 months using &quot;FaceStealer&quot;, a scheme involving fake video calls and AI deepfakes (A.J. Vicens/Reuters)</title>
+<link>https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25n5ntbfu24</guid>
+<pubDate>Thu, 12 Nov 2026 23:36:17 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs (Will DePue/Unemployment Labs)</title>
+<link>https://unemploymentlabs.com/checkpoint-forensics</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25jjk6stz2v</guid>
+<pubDate>Thu, 12 Nov 2026 22:31:21 +0000</pubDate>
+<description>Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.</description>
+<content:encoded><![CDATA[<p><img src="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" alt="" /></p><p>Our forensic analysis of publicly released AI models finds evidence that DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to NVIDIA’s Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models.</p>]]></content:encoded>
+<media:content url="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" medium="image" />
+<media:thumbnail url="https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4" />
+</item>
+<item>
+<title>The DOJ says it got court authorization to seize or restrain $1.2B of the $2.7B frozen by Tether and Circle after North Korea&#x27;s $6.3B Binance hack on October 29 (Myles Miller/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-12/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25ixfe4gh2u</guid>
+<pubDate>Thu, 12 Nov 2026 22:21:12 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Artificial Analysis&#x27; Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet&#x27;s cost but ~2.5x that of Sol (@artificialanlys)</title>
+<link>https://x.com/artificialanlys/status/2120941511223185722</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25io2uyov2v</guid>
+<pubDate>Thu, 12 Nov 2026 22:15:59 +0000</pubDate>
+<description>Google&#x27;s new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet’s cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" alt="" /></p><p>Google&#x27;s new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet’s cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi…</p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" medium="image" />
+<media:thumbnail url="https://pbs.twimg.com/media/HW8ZEDiXwAAqsot?format=webp&amp;name=large" />
+</item>
+<item>
+<title>Sources: OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China&#x27;s access to AI chips and chipmaking tools (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25i5cai5z2f</guid>
+<pubDate>Thu, 12 Nov 2026 22:06:36 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Kalshi is in talks to raise funding at a $65B valuation, weeks after closing a round at a $40B valuation; its annual run rate recently surpassed $5B (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25hazes542a</guid>
+<pubDate>Thu, 12 Nov 2026 21:50:48 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours (Jordan Novet/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25ggbo23426</guid>
+<pubDate>Thu, 12 Nov 2026 21:35:50 +0000</pubDate>
+<description>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" alt="" /></p><p>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>US AG Todd Blanche says the DOJ has not yet reached a conclusion on whether Alice Huang was a Chinese spy and &quot;of course&quot; the FBI is investigating (Reuters)</title>
+<link>https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25fvy2wtv2x</guid>
+<pubDate>Thu, 12 Nov 2026 21:26:43 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Anthropic&#x27;s IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25flzlyi52x</guid>
+<pubDate>Thu, 12 Nov 2026 21:21:09 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/12/business/spacex-data-center.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25fcnaoys2p</guid>
+<pubDate>Thu, 12 Nov 2026 21:15:55 +0000</pubDate>
+<description>Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" alt="" /></p><p>Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-facebookJumbo.jpg" />
+</item>
+<item>
+<title>Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation (Reuters)</title>
+<link>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25adm4jui2v</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:58 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Users report being unable to access Outlook, Teams, and other Microsoft 365 services; Microsoft says many of its servers became unexpectedly unavailable (Anna Washenko/Engadget)</title>
+<link>https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25abl4dgx2z</guid>
+<pubDate>Thu, 12 Nov 2026 19:45:50 +0000</pubDate>
+<description>Outlook and Teams are among the platforms impacted by “elevated load” issues.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" alt="" /></p><p>Outlook and Teams are among the platforms impacted by “elevated load” issues.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" />
+</item>
+<item>
+<title>Kalshi ends the advisory contract it signed with Donald Trump Jr. in January 2025, after his VC firm 1789 Capital increased its stake in Polymarket (Anirban Sen/Reuters)</title>
+<link>https://www.reuters.com/business/finance/kalshi-ends-donald-trump-jrs-advisory-contract-due-polymarket-conflict-2026-11-12/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n257qboglw2q</guid>
+<pubDate>Thu, 12 Nov 2026 19:36:10 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)</title>
+<link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n257grv3uq27</guid>
+<pubDate>Thu, 12 Nov 2026 19:30:51 +0000</pubDate>
+<description>Today, we&#x27;re rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…</description>
+<content:encoded><![CDATA[<p><img src="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" alt="" /></p><p>Today, we&#x27;re rolling out Gemini 4 Hydrogen inside Google Antigravity alongside a new model dropdown option called Orchestrator, which pairs Hydrogen with…</p>]]></content:encoded>
+<media:content url="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" medium="image" />
+<media:thumbnail url="https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png" />
+</item>
+<item>
+<title>Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)</title>
+<link>https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n256uvyanf2v</guid>
+<pubDate>Thu, 12 Nov 2026 19:20:52 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)</title>
+<link>https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n255jezg3j2q</guid>
+<pubDate>Thu, 12 Nov 2026 18:56:31 +0000</pubDate>
+<description>After this week&#x27;s Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the &quot;Flash&quot; branding.</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>After this week&#x27;s Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the &quot;Flash&quot; branding.</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Hydrogen-cover.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens (Koray Kavukcuoglu/Google)</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n254ole76c2x</guid>
+<pubDate>Thu, 12 Nov 2026 18:41:32 +0000</pubDate>
+<description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows</description>
+<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt="" /></p><p>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows</p>]]></content:encoded>
+<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" medium="image" />
+<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" />
+</item>
 <item>
 <title>Binance says it has covered all of the $6.3B in cryptoassets stolen on October 29, using its profits and emergency funds to replace common and obscure tokens (Teresa Xie/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens</link>
@@ -738,158 +890,6 @@
 <pubDate>Wed, 11 Nov 2026 11:36:50 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The European Commission introduces the Digital Fairness Act, which aims to curb addictive design features and manipulative &quot;dark patterns&quot; or face large fines (Gian Volpicelli/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-11/eu-targets-social-media-addiction-and-online-dark-patterns</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzztv2cv3t2z</guid>
-<pubDate>Wed, 11 Nov 2026 11:26:06 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Rather than being a spy, Alice Huang is likely a commercial fixer or &quot;white glove&quot; for businesses, leveraging a career in China&#x27;s capital-market structures (Desmond Shum)</title>
-<link>https://desmondshum.substack.com/p/alice-huang-the-spy-narrative-misses</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzztnxgsth2n</guid>
-<pubDate>Wed, 11 Nov 2026 11:22:08 +0000</pubDate>
-<description>From desmondshum.substack.com</description>
-<content:encoded><![CDATA[<p>From desmondshum.substack.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: the UK&#x27;s proposed under-16 social media ban is expanding to target recommender systems and user content, including YouTube Kids, Lego Play, and Spotify (Jessica Elgot/The Guardian)</title>
-<link>https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzt26f2tn2a</guid>
-<pubDate>Wed, 11 Nov 2026 11:11:04 +0000</pubDate>
-<description>Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=7f696d353c2fee4dab11b022dd716919" alt="" /></p><p>Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=7f696d353c2fee4dab11b022dd716919" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=7f696d353c2fee4dab11b022dd716919" />
-</item>
-<item>
-<title>Analysis: AI-driven e-commerce adoption surged during China&#x27;s month-long Singles Day festival, with event sales rising 2.4% between October 7 and October 31 (Reuters)</title>
-<link>https://www.reuters.com/business/retail-consumer/chinas-singles-day-shopping-festival-puts-ai-selling-power-test-2026-11-11/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzskskuog2v</guid>
-<pubDate>Wed, 11 Nov 2026 11:02:28 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>MacBook Pro with PROLED XDR teardown: a 5/10 score, a point above the M5 MacBook Pro, and Touch ID works with a new logic board; the backlit logo uses four LEDs (Elizabeth Chamberlain/iFixit News)</title>
-<link>https://www.ifixit.com/News/120152/we-tore-down-the-macbook-proled-xdr-and-found-the-secret-of-the-glowing-apple</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzrxieikk2r</guid>
-<pubDate>Wed, 11 Nov 2026 10:51:40 +0000</pubDate>
-<description>“Fancy new display” makes our screwdrivers nervous, and Apple’s latest MacBook has the fanciest display yet.</description>
-<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/11/10134551/MacBook-proled_61.jpg" alt="" /></p><p>“Fancy new display” makes our screwdrivers nervous, and Apple’s latest MacBook has the fanciest display yet.</p>]]></content:encoded>
-<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/11/10134551/MacBook-proled_61.jpg" medium="image" />
-<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/11/10134551/MacBook-proled_61.jpg" />
-</item>
-<item>
-<title>England&#x27;s university regulator says AI makes grading coursework &quot;close to impossible&quot; and recommends a return to &quot;AI-free assessment&quot; methods like written exams (Richard Adams/The Guardian)</title>
-<link>https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzrbcm4nn2r</guid>
-<pubDate>Wed, 11 Nov 2026 10:39:16 +0000</pubDate>
-<description>Office for Students says institutions in England should return to traditional exams and in-person presentations</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=e2d387c03ee68e491945ef880c521fec" alt="" /></p><p>Office for Students says institutions in England should return to traditional exams and in-person presentations</p>]]></content:encoded>
-<media:content url="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=e2d387c03ee68e491945ef880c521fec" medium="image" />
-<media:thumbnail url="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=e2d387c03ee68e491945ef880c521fec" />
-</item>
-<item>
-<title>VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)</title>
-<link>https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html?unlocked_article_code=1.PlE.e7Fx.YuauO1QXRsR3&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzhutyr4w2y</guid>
-<pubDate>Wed, 11 Nov 2026 07:51:14 +0000</pubDate>
-<description>Artificial intelligence is the latest example of how Silicon Valley ruins great innovations with ridiculous theories about them.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/09/opinion/09lanier/09lanier-facebookJumbo.jpg" alt="" /></p><p>Artificial intelligence is the latest example of how Silicon Valley ruins great innovations with ridiculous theories about them.</p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/11/09/opinion/09lanier/09lanier-facebookJumbo.jpg" medium="image" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/11/09/opinion/09lanier/09lanier-facebookJumbo.jpg" />
-</item>
-<item>
-<title>Nintendo sold 5.2M copies of its The Legend of Zelda: Ocarina of Time remake in just four days, giving the Switch 2 the blockbuster hit it had been waiting for (Vlad Savov/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzhcgzwi22n</guid>
-<pubDate>Wed, 11 Nov 2026 07:40:57 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)</title>
-<link>https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzfmt37vo2z</guid>
-<pubDate>Wed, 11 Nov 2026 07:10:57 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI4NDc3MCwiZXhwIjoxNzk0ODg5NTcwLCJhcnRpY2xlSWQiOiJUTzRXWU1UOU5KTFMwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.Xq11uN4ErgBDAumBnQgpBFOKvDFLrHVaUkOr6YY7ogM</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzdx5ocsf2v</guid>
-<pubDate>Wed, 11 Nov 2026 06:40:56 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html?unlocked_article_code=1.PVE.35wY.m-bZUc0uDvGw&amp;smid=nytcore-ios-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzctr3xvj2c</guid>
-<pubDate>Wed, 11 Nov 2026 06:21:09 +0000</pubDate>
-<description>Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-facebookJumbo.jpg" alt="" /></p><p>Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.</p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-facebookJumbo.jpg" medium="image" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-facebookJumbo.jpg" />
-</item>
-<item>
-<title>Records show China&#x27;s Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia H200 AI chips despite being on a US export blacklist (Eduardo Baptista/Reuters)</title>
-<link>https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzcl26bt52r</guid>
-<pubDate>Wed, 11 Nov 2026 06:16:16 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Researchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI (Dan Goodin/Ars Technica)</title>
-<link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzbzganum22</guid>
-<pubDate>Wed, 11 Nov 2026 06:06:25 +0000</pubDate>
-<description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" alt="" /></p><p>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</p>]]></content:encoded>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" medium="image" />
-<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" />
-</item>
-<item>
-<title>Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts (Marcus Mendes/9to5Mac)</title>
-<link>https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzzamnsgmk2y</guid>
-<pubDate>Wed, 11 Nov 2026 05:41:23 +0000</pubDate>
-<description>Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20.</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20.</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
-</item>
-<item>
-<title>Sources: Jensen Huang&#x27;s affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act (Politico)</title>
-<link>https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzz6omhw232x</guid>
-<pubDate>Wed, 11 Nov 2026 05:06:41 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia&#x27;s stock fell 5.47% on Tuesday, following a 4%+ drop on Monday after the revelation of Jensen Huang&#x27;s affair with Alice Huang, an alleged Chinese spy (April Roach/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzz5jj7bf42v</guid>
-<pubDate>Wed, 11 Nov 2026 04:45:56 +0000</pubDate>
-<description>Investors continue to weigh the potential fallout from CEO Jensen Huang&#x27;s affair with an alleged Chinese spy.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108374299-1791396501802-Screenshot_2026-10-07_at_20800_PM.png?v=1791396555&amp;w=1920&amp;h=1080" alt="" /></p><p>Investors continue to weigh the potential fallout from CEO Jensen Huang&#x27;s affair with an alleged Chinese spy.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108374299-1791396501802-Screenshot_2026-10-07_at_20800_PM.png?v=1791396555&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108374299-1791396501802-Screenshot_2026-10-07_at_20800_PM.png?v=1791396555&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Source: CFTC warned Kalshi of possible imminent charges over failure to notify the regulator of certain products; Kalshi says it is addressing the issue (Declan Harty/Politico)</title>
-<link>https://www.politico.com/news/2026/11/10/regulator-charges-prediction-market-kalshi-01159140</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3mzz3txdq7m27</guid>
-<pubDate>Wed, 11 Nov 2026 04:15:59 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
