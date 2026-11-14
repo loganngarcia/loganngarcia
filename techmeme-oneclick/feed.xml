@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 14 Nov 2026 04:56:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 11:56:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2b22gf5f32b</guid>
+<pubDate>Sat, 14 Nov 2026 08:05:07 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: despite Nvidia&#x27;s 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing&#x27;s chip self-sufficiency campaign (Eleanor Olcott/Financial Times)</title>
+<link>https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ay6gniqu2x</guid>
+<pubDate>Sat, 14 Nov 2026 07:31:34 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)</title>
+<link>https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2awn5pbou24</guid>
+<pubDate>Sat, 14 Nov 2026 07:04:00 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>WhiteMatter, which builds &quot;guardian&quot; AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)</title>
+<link>https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2aw7ljq3v2b</guid>
+<pubDate>Sat, 14 Nov 2026 06:56:25 +0000</pubDate>
+<description>WhiteMatter says more AI agents are the key to controlling AI agents. Read the pitch deck the startup used to raised $20 million to back its vision.</description>
+<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" alt="" /></p><p>WhiteMatter says more AI agents are the key to controlling AI agents. Read the pitch deck the startup used to raised $20 million to back its vision.</p>]]></content:encoded>
+<media:content url="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" medium="image" />
+<media:thumbnail url="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" />
+</item>
+<item>
+<title>Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)</title>
+<link>https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2av3xvldu2y</guid>
+<pubDate>Sat, 14 Nov 2026 06:36:30 +0000</pubDate>
+<description>From www.mobihealthnews.com</description>
+<content:encoded><![CDATA[<p>From www.mobihealthnews.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)</title>
+<link>https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2autonhhp2x</guid>
+<pubDate>Sat, 14 Nov 2026 06:31:52 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark (John Reynolds/Tech.eu)</title>
+<link>https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2asv4j3lk2v</guid>
+<pubDate>Sat, 14 Nov 2026 05:56:52 +0000</pubDate>
+<description>Tendrils Compute is one of several UK chip startups which investors are backing.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.tech.eu/uploads/2026/11/tendrils-878.png" alt="" /></p><p>Tendrils Compute is one of several UK chip startups which investors are backing.</p>]]></content:encoded>
+<media:content url="https://cdn.tech.eu/uploads/2026/11/tendrils-878.png" medium="image" />
+<media:thumbnail url="https://cdn.tech.eu/uploads/2026/11/tendrils-878.png" />
+</item>
+<item>
+<title>JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU&#x27;s approval of the deal (Tomoko Wakasugi/Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/business-deals/china-s-jd.com-completes-1.5bn-takeover-of-german-appliance-retailer</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2apx7wyzz2x</guid>
+<pubDate>Sat, 14 Nov 2026 05:04:22 +0000</pubDate>
+<description>E-commerce group&#x27;s acquisition approved with EU market conditions</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>E-commerce group&#x27;s acquisition approved with EU market conditions</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+</item>
 <item>
 <title>Analysis: Sam Bankman-Fried&#x27;s $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)</title>
 <link>https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&amp;sharetype=gift&amp;token=b0dedc93-80dc-4cab-9250-cec64180d7fc&amp;syn-25a6b1a6=1</link>
@@ -202,8 +272,10 @@
 <link>https://gizmodo.com/microsoft-outage-knocks-out-email-for-businesses-police-and-hospitals-2000839696</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n27kdqj57d2u</guid>
 <pubDate>Fri, 13 Nov 2026 17:51:20 +0000</pubDate>
-<description>From gizmodo.com</description>
-<content:encoded><![CDATA[<p>From gizmodo.com</p>]]></content:encoded>
+<description>Microsoft&#x27;s massive outage enters its second day, disrupting hospitals, government agencies, and businesses as the company works on a fix.</description>
+<content:encoded><![CDATA[<p><img src="https://gizmodo.com/app/uploads/2024/05/6cb21a1348288dc7390593a9f8ffbd89.jpg" alt="" /></p><p>Microsoft&#x27;s massive outage enters its second day, disrupting hospitals, government agencies, and businesses as the company works on a fix.</p>]]></content:encoded>
+<media:content url="https://gizmodo.com/app/uploads/2024/05/6cb21a1348288dc7390593a9f8ffbd89.jpg" medium="image" />
+<media:thumbnail url="https://gizmodo.com/app/uploads/2024/05/6cb21a1348288dc7390593a9f8ffbd89.jpg" />
 </item>
 <item>
 <title>Wall Street fears Jensen Huang&#x27;s ouster will slow Nvidia&#x27;s AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)</title>
@@ -830,74 +902,6 @@
 <content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-facebookJumbo.jpg" alt="" /></p><p>After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.</p>]]></content:encoded>
 <media:content url="https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-facebookJumbo.jpg" medium="image" />
 <media:thumbnail url="https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-facebookJumbo.jpg" />
-</item>
-<item>
-<title>Volodymyr Zelenskyy says Starshield faced &quot;systematic speed restrictions&quot; for several days; Ukrainian officials believe it is to pressure Kyiv amid peace talks (Financial Times)</title>
-<link>https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24gurxbxc24</guid>
-<pubDate>Thu, 12 Nov 2026 12:11:17 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist (Jess Weatherbed/The Verge)</title>
-<link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24gkqb62a2n</guid>
-<pubDate>Thu, 12 Nov 2026 12:05:40 +0000</pubDate>
-<description>Tabletop provides customizable, collaborative spaces for all your personal planning needs.﻿</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>Tabletop provides customizable, collaborative spaces for all your personal planning needs.﻿</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
-</item>
-<item>
-<title>Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs (Michael Acton/Financial Times)</title>
-<link>https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?accessToken=zwAAAaHPhFm5kdPkf31KiNdB5NOMd46o4HaTUw.MEYCIQDn7haOOhte2euVfaveEEuuu6oyLb6EGB81Ig-N5Kp9owIhAO4Keb4MB0HPnWJkYPv_ytT_h8nV4dAHcFZK6Tbb281i&amp;sharetype=gift&amp;token=ad013966-8ec4-4ec4-ada8-f1ecf13aa7e2&amp;syn-25a6b1a6=1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24gdddvcx22</guid>
-<pubDate>Thu, 12 Nov 2026 12:01:32 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Beijing says &quot;the US should stop fabricating the so-called Chinese spy narrative as a pretext for imposing technology restrictions&quot;; Trump and Xi meet next week (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-12/china-says-us-should-not-use-huang-scandal-to-justify-tech-curbs</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24fpyyypq2z</guid>
-<pubDate>Thu, 12 Nov 2026 11:50:43 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it &quot;acted internally&quot; (Sam Biddle/The Intercept)</title>
-<link>https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24ewa5esi27</guid>
-<pubDate>Thu, 12 Nov 2026 11:36:18 +0000</pubDate>
-<description>Top OpenAI national security officials told who they thought was a Ukrainian official that they want to expand their offensive military AI.</description>
-<content:encoded><![CDATA[<p><img src="https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2296642092_59a03a-e1794438975182.jpg?fit=5000%2C2500&amp;w=1200&amp;h=800" alt="" /></p><p>Top OpenAI national security officials told who they thought was a Ukrainian official that they want to expand their offensive military AI.</p>]]></content:encoded>
-<media:content url="https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2296642092_59a03a-e1794438975182.jpg?fit=5000%2C2500&amp;w=1200&amp;h=800" medium="image" />
-<media:thumbnail url="https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2296642092_59a03a-e1794438975182.jpg?fit=5000%2C2500&amp;w=1200&amp;h=800" />
-</item>
-<item>
-<title>A look at Russian ransomware-as-a-service group Qilin, which has become the world&#x27;s most active gang, likely run by 36-year-old Aleksey Mikhailovich Yakovtsev (Brian Krebs/Krebs on Security)</title>
-<link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24eeai4wh24</guid>
-<pubDate>Thu, 12 Nov 2026 11:26:15 +0000</pubDate>
-<description>From krebsonsecurity.com</description>
-<content:encoded><![CDATA[<p>From krebsonsecurity.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A look at Nvidia&#x27;s 10-person board, many of whom have known Jensen Huang for decades, including attorney Stephen Neal, VC Tench Coxe, and academic John Dabiri (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-12/the-nvidia-board-members-who-will-decide-jensen-huang-s-fate</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24e2gqfiv22</guid>
-<pubDate>Thu, 12 Nov 2026 11:20:46 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Alice Huang&#x27;s business partner and husband Kang Wei spoke openly of her Jensen Huang relationship; Wei, who knew Jensen for a decade, introduced them (Lingling Wei/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=7WHtD8&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n24diqqojf2x</guid>
-<pubDate>Thu, 12 Nov 2026 11:10:52 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
