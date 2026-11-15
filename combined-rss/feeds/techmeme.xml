@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:58:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:53:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6099da6e27a530750d4e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2dxv4y4wp2m</guid>
+<pubDate>Sun, 15 Nov 2026 12:04:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/" rel="related" type="text/html" />
+<description>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</p><p><a href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" />
+<enclosure url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0bbb539a464fd7480ca7.html</link>
@@ -832,20 +846,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Jensen Huang's biographer says there was a culture of omertà and deference towards Huang inside Nvidia that enabled him to "be his worst self" (Stephen Witt/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a78d3ad7ba046e7fb1d5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n277rjkk2g2v</guid>
-<pubDate>Fri, 13 Nov 2026 14:42:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>How to understand the former Nvidia chief’s stunning departure.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" alt="" /></p><p>How to understand the former Nvidia chief’s stunning departure.</p><p><a href="https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" />
-<enclosure url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>

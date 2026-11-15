@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:58:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:53:55 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6099da6e27a530750d4e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2dxv4y4wp2m</guid>
+<pubDate>Sun, 15 Nov 2026 12:04:21 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/" rel="related" type="text/html" />
+<description>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</p><p><a href="https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" />
+<enclosure url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Foundation Misses Payroll After CEO Borrowed $4.6 Million to Buy a Home</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/589d202db45d2d7c82b6.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/foundation-missed-payroll-pathak-4-6-million-loan</guid>
+<pubDate>Sun, 15 Nov 2026 10:50:24 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/foundation-missed-payroll-pathak-4-6-million-loan" rel="related" type="text/html" />
+<description>Foundation Future Industries has not paid staff since October 30, CNBC reports, after CEO Sankaet Pathak borrowed $4.6 million from the company in 2025. Sources also say its $24 million in Pentagon contracts came with the Boardwalk Robotics acquisition.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp" alt="" /></p><p>Foundation Future Industries has not paid staff since October 30, CNBC reports, after CEO Sankaet Pathak borrowed $4.6 million from the company in 2025. Sources also say its $24 million in Pentagon contracts came with the Boardwalk Robotics acquisition.</p><p><a href="https://www.humanoidsdaily.com/news/foundation-missed-payroll-pathak-4-6-million-loan">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/foundation-phantom-shotgun-red-background-LIUFWXyBky5cycvbSU7xoE1cOy3GFR.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>After SuperMimic, Open-Source Humanoid Motion Trackers Now Train in Minutes on One GPU</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e7644213ecbf5df5c423.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/supermimic-blinkmimic-xmimic-humanoid-motion-tracking-minutes</guid>
+<pubDate>Sun, 15 Nov 2026 10:10:13 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/supermimic-blinkmimic-xmimic-humanoid-motion-tracking-minutes" rel="related" type="text/html" />
+<description>A UC Berkeley paper released without code set off a run of community reimplementations. InstantTrack, BlinkMimic and XMimic cut Unitree G1 tracker training on a 40-clip benchmark to a few minutes, in simulation.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/supermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp" alt="" /></p><p>A UC Berkeley paper released without code set off a run of community reimplementations. InstantTrack, BlinkMimic and XMimic cut Unitree G1 tracker training on a 40-clip benchmark to a few minutes, in simulation.</p><p><a href="https://www.humanoidsdaily.com/news/supermimic-blinkmimic-xmimic-humanoid-motion-tracking-minutes">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/supermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/supermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/supermimic-world-model-g1-flip-llEJDWrUtgUmzCJjQI6E9nDmoYtkcV.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0bbb539a464fd7480ca7.html</link>
@@ -834,20 +876,6 @@
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108551028-1794578771117-gettyimages-2217128051-AFP_48PC9Y6.jpeg?v=1794578802&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Jensen Huang's biographer says there was a culture of omertà and deference towards Huang inside Nvidia that enabled him to "be his worst self" (Stephen Witt/New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a78d3ad7ba046e7fb1d5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n277rjkk2g2v</guid>
-<pubDate>Fri, 13 Nov 2026 14:42:11 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>How to understand the former Nvidia chief’s stunning departure.</description>
-<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" alt="" /></p><p>How to understand the former Nvidia chief’s stunning departure.</p><p><a href="https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html?unlocked_article_code=1.P1E.6bW-.jsvT3PNHnXvZ&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" />
-<enclosure url="https://static01.nyt.com/images/2026/11/15/opinion/12Witt/12Witt-facebookJumbo.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>ASUS Unveils Gallop, Its First Humanoid Robot, Already Packing Parts on Its Own Production Line</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f2560f815bb9f948c77e.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/asus-gallop-humanoid-robot-jetson-thor-2028</guid>
@@ -1324,20 +1352,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/liberai-liber-0-zero-shot-manipulation-1793699938454.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Schaeffler to Cut 3,460 Jobs in Europe, Names Humanoid Robotics as a Growth Area</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/48a836d6e0f4380f3fc9.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/schaeffler-job-cuts-europe-humanoid-robotics-growth</guid>
-<pubDate>Tue, 03 Nov 2026 18:38:01 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/schaeffler-job-cuts-europe-humanoid-robotics-growth" rel="related" type="text/html" />
-<description>The German supplier will close five sites and expects €480 million in one-time costs, while pointing to humanoid robotics and defense to absorb part of the reduction.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-herzogenaurach-hero-eQ8OP4ZKGVH1dUldqPwwKQifowDYiy.webp" alt="" /></p><p>The German supplier will close five sites and expects €480 million in one-time costs, while pointing to humanoid robotics and defense to absorb part of the reduction.</p><p><a href="https://www.humanoidsdaily.com/news/schaeffler-job-cuts-europe-humanoid-robotics-growth">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-herzogenaurach-hero-eQ8OP4ZKGVH1dUldqPwwKQifowDYiy.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-herzogenaurach-hero-eQ8OP4ZKGVH1dUldqPwwKQifowDYiy.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/schaeffler-herzogenaurach-hero-eQ8OP4ZKGVH1dUldqPwwKQifowDYiy.webp" type="image/webp" length="0" />
-</item>
-<item>
 <title>JEPA Just Proved The Platonic Representation Hypothesis</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c9b2e5756488af7c2a1.html</link>
 <guid isPermaLink="false">combined:ebb3b650496289d836bf2b4cca2ea8ed0e242cc3</guid>
@@ -1350,20 +1364,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/201c2ac9-038d-4384-b7e3-047359132c1b/issue_132.jpg?t=1793725013" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>This Week in Humanoids: Meta’s Reported Max, Factory Robots and Lumi’s Next Step</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/872cb7027f1b4dd69729.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/weekly-newsletter-meta-fourier-factory-robots-november-3</guid>
-<pubDate>Tue, 03 Nov 2026 18:10:59 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/weekly-newsletter-meta-fourier-factory-robots-november-3" rel="related" type="text/html" />
-<description>Our November 3 newsletter covers Meta and Fourier, factory robot trials, funding news and our interview with Lightberry’s CEO.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-november-3-collage-9rBT9NUNafiZJpDnj41RgnSg03KiT5.webp" alt="" /></p><p>Our November 3 newsletter covers Meta and Fourier, factory robot trials, funding news and our interview with Lightberry’s CEO.</p><p><a href="https://www.humanoidsdaily.com/news/weekly-newsletter-meta-fourier-factory-robots-november-3">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-november-3-collage-9rBT9NUNafiZJpDnj41RgnSg03KiT5.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-november-3-collage-9rBT9NUNafiZJpDnj41RgnSg03KiT5.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-november-3-collage-9rBT9NUNafiZJpDnj41RgnSg03KiT5.webp" type="image/webp" length="0" />
 </item>
 <item>
 <title>Softmax Has Been Broken This Whole Time?</title>
@@ -2010,18 +2010,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
@@ -2038,18 +2038,18 @@
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
 <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
 <source url="https://qwen.ai/research">Qwen Research</source>
 <category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
