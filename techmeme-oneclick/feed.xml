@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 15 Nov 2026 08:08:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:38:08 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)</title>
+<link>https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2dxv4y4wp2m</guid>
+<pubDate>Sun, 15 Nov 2026 12:04:21 +0000</pubDate>
+<description>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.</p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&amp;h=563&amp;crop=1" />
+</item>
 <item>
 <title>A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&#x27; most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)</title>
 <link>https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3</link>
@@ -886,14 +896,6 @@
 <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt="" /></p><p>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows</p>]]></content:encoded>
 <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" medium="image" />
 <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" />
-</item>
-<item>
-<title>Binance says it has covered all of the $6.3B in cryptoassets stolen on October 29, using its profits and emergency funds to replace common and obscure tokens (Teresa Xie/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-12/binance-finishes-covering-6-3-billion-of-stolen-customer-tokens</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n252gut2dc24</guid>
-<pubDate>Thu, 12 Nov 2026 18:01:26 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
