@@ -5,8 +5,32 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 15 Nov 2026 20:33:40 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 00:20:50 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Sources: Anthropic&#x27;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2f4pbppbw23</guid>
+<pubDate>Sun, 15 Nov 2026 23:03:13 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Amazon loses 40 Leo satellites after ULA&#x27;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture (Joey Roulette/Reuters)</title>
+<link>https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2f36w34xv2q</guid>
+<pubDate>Sun, 15 Nov 2026 22:36:10 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Analysis: Huawei&#x27;s Horinger data center, among China&#x27;s largest for AI, has ~7% of the compute of SpaceX&#x27;s Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)</title>
+<link>https://epochai.substack.com/p/what-huaweis-horinger-data-center</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ezeebvco2x</guid>
+<pubDate>Sun, 15 Nov 2026 22:03:25 +0000</pubDate>
+<description>From epochai.substack.com</description>
+<content:encoded><![CDATA[<p>From epochai.substack.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &quot;legitimate and lawful business&quot; as it opens an internal probe (Associated Press)</title>
 <link>https://apnews.com/article/singapore-megaspeed-alice-huang-nvidia-probe-e9e2e18169dce0b30a34f39715bf35ed</link>
@@ -856,32 +880,6 @@
 <link>https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25hazes542a</guid>
 <pubDate>Thu, 12 Nov 2026 21:50:48 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours (Jordan Novet/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25ggbo23426</guid>
-<pubDate>Thu, 12 Nov 2026 21:35:50 +0000</pubDate>
-<description>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" alt="" /></p><p>Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108550490-1794515369096-gettyimages-2299540938-TECHCRUNCH_DISRUPT.jpeg?v=1794515427&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>US AG Todd Blanche says the DOJ has not yet reached a conclusion on whether Alice Huang was a Chinese spy and &quot;of course&quot; the FBI is investigating (Reuters)</title>
-<link>https://www.reuters.com/world/china/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says-2026-11-12/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25fvy2wtv2x</guid>
-<pubDate>Thu, 12 Nov 2026 21:26:43 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Anthropic&#x27;s IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n25flzlyi52x</guid>
-<pubDate>Thu, 12 Nov 2026 21:21:09 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
 </item>
