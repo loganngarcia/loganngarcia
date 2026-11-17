@@ -5,8 +5,134 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 17 Nov 2026 01:56:35 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:16:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d54b14f2d58b19e8468.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ijkfygun2t</guid>
+<pubDate>Tue, 17 Nov 2026 07:31:07 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/" rel="related" type="text/html" />
+<description>Chinese entities are adopting increasingly sophisticated ways to use output from leading American AI models to train domestic rivals, as China aims to broaden its AI strategy and ​offset tightening US...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS6ACQ6KNRVODPJUWXAKOOK5KBY.jpg%3Fauth%3D43143bf13c6a5d4d57dbce3a3af5c4e003a904497430a4ee9762d40c74509e4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Chinese entities are adopting increasingly sophisticated ways to use output from leading American AI models to train domestic rivals, as China aims to broaden its AI strategy and ​offset tightening US...</p><p><a href="https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS6ACQ6KNRVODPJUWXAKOOK5KBY.jpg%3Fauth%3D43143bf13c6a5d4d57dbce3a3af5c4e003a904497430a4ee9762d40c74509e4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS6ACQ6KNRVODPJUWXAKOOK5KBY.jpg%3Fauth%3D43143bf13c6a5d4d57dbce3a3af5c4e003a904497430a4ee9762d40c74509e4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FS6ACQ6KNRVODPJUWXAKOOK5KBY.jpg%3Fauth%3D43143bf13c6a5d4d57dbce3a3af5c4e003a904497430a4ee9762d40c74509e4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Nvidia unveils its Rubin HPC GPU with "more than 50,000" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom's Hardware)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bdc8e7eacc0c5b792179.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ifnmwhlu2b</guid>
+<pubDate>Tue, 17 Nov 2026 06:21:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028" rel="related" type="text/html" />
+<description>Rubin HPC puts "over 50,000" CUDA cores on a chip, implies four-die layout</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" alt="" /></p><p>Rubin HPC puts "over 50,000" CUDA cores on a chip, implies four-die layout</p><p><a href="https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" medium="image" type="image/png" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" />
+<enclosure url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" type="image/png" length="0" />
+</item>
+<item>
+<title>The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its "no sell" list in June 2025 (Kanishka Singh/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/454cd46332c140382b12.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ieaeuqsc27</guid>
+<pubDate>Tue, 17 Nov 2026 05:56:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/asia-pacific/us-releases-details-of-megaspeed-probe-says-investigation-began-2024-2026-11-17/" rel="related" type="text/html" />
+<description>The US Commerce Department and ​Justice Department released information on Monday about Washington's investigation into Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The US Commerce Department and ​Justice Department released information on Monday about Washington's investigation into Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner...</p><p><a href="https://www.reuters.com/world/asia-pacific/us-releases-details-of-megaspeed-probe-says-investigation-began-2024-2026-11-17/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Analysis: Amazon's $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects (Rafe Rosner-Uddin/Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/97a315334947a2544350.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2idfqoyo223</guid>
+<pubDate>Tue, 17 Nov 2026 05:41:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f" rel="related" type="text/html" />
+<description>Voter revolts across the US threaten billions in AI investment as communities turn against Big Tech’s expansion</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Voter revolts across the US threaten billions in AI investment as communities turn against Big Tech’s expansion</p><p><a href="https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Meta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey (Karissa Bell/Engadget)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a6df2494566bd69efb37.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i7zyuflv2m</guid>
+<pubDate>Tue, 17 Nov 2026 04:40:53 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/" rel="related" type="text/html" />
+<description>Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" alt="" /></p><p>Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.</p><p><a href="https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" />
+<enclosure url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with "basically no human intervention", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/851a72a5bbe145948dca.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i5xxobrd2b</guid>
+<pubDate>Tue, 17 Nov 2026 04:03:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat" rel="related" type="text/html" />
+<description>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" alt="" /></p><p>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</p><p><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" />
+<enclosure url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87fab3b1b22bbc1858b7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i4fmswq42m</guid>
+<pubDate>Tue, 17 Nov 2026 03:35:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html" rel="related" type="text/html" />
+<description>Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" alt="" /></p><p>Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</p><p><a href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Jensen Huang's daughter remains in a senior Nvidia role; before Jensen Huang resigned, she was his de facto chief of staff with considerable authority (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1b4338b20147ce3c2646.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i3ksybq32m</guid>
+<pubDate>Tue, 17 Nov 2026 03:20:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
+<description>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" alt="" /></p><p>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</p><p><a href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" />
+<enclosure url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>macOS 27.3 beta warns if an app would get full device control, nudging users to "Choose Apps" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7afa97ca8bb003675961.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hyt7t6by2e</guid>
+<pubDate>Tue, 17 Nov 2026 02:31:49 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/" rel="related" type="text/html" />
+<description>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here's what Apple says is changing: The current Device Control and Data Access setting will be split into two options that…</description>
+<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" alt="" /></p><p>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here's what Apple says is changing: The current Device Control and Data Access setting will be split into two options that…</p><p><a href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" />
+<enclosure url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Sources: the US DOJ will review DoorDash's ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review (Jody Godoy/Reuters)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4ef4277f51a2aa5ccef1.html</link>
@@ -720,132 +846,6 @@
 <media:content url="https://techfundingnews.com/wp-content/uploads/2026/11/Kindo-team-.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://techfundingnews.com/wp-content/uploads/2026/11/Kindo-team-.jpg" />
 <enclosure url="https://techfundingnews.com/wp-content/uploads/2026/11/Kindo-team-.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users (Ivan Mehta/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/77828770ffb5c4ae52e6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fnwafc3d2m</guid>
-<pubDate>Mon, 16 Nov 2026 04:11:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/" rel="related" type="text/html" />
-<description>Apple's new app for a study will answer everyday medical questions.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800" alt="" /></p><p>Apple's new app for a study will answer everyday medical questions.</p><p><a href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/17c3ddce0b3654e66a3d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fmjczgts2l</guid>
-<pubDate>Mon, 16 Nov 2026 03:46:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals" rel="related" type="text/html" />
-<description>Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China’s latest challenge to US leaders.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiN_uWv.IQnkg%2Fv1%2F1200x799.jpg" alt="" /></p><p>Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China’s latest challenge to US leaders.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiN_uWv.IQnkg%2Fv1%2F1200x799.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiN_uWv.IQnkg%2Fv1%2F1200x799.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiN_uWv.IQnkg%2Fv1%2F1200x799.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens (Qwen)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8468cd1c9400b88b56eb.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fma4jmie27</guid>
-<pubDate>Mon, 16 Nov 2026 03:41:04 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://qwen.ai/blog?id=qwen4-max" rel="related" type="text/html" />
-<description>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" alt="" /></p><p>Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p><p><a href="https://qwen.ai/blog?id=qwen4-max">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/65aa4ad558ecbc7d8824.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2flopbkjt2b</guid>
-<pubDate>Mon, 16 Nov 2026 03:31:20 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388" rel="related" type="text/html" />
-<description>Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressively financed computing deals and startup investments.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-83307098%2Fsocial" alt="" /></p><p>Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressively financed computing deals and startup investments.</p><p><a href="https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-83307098%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-83307098%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-83307098%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7ecace4db97d7654360.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fiuyxo2g2l</guid>
-<pubDate>Mon, 16 Nov 2026 02:41:10 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/" rel="related" type="text/html" />
-<description>Toronto-based firm valued at more than $700 million USD after growing revenue 529 percent in three years.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.betakit.com/wp-content/uploads/2025/08/Blue-j1.jpg" alt="" /></p><p>Toronto-based firm valued at more than $700 million USD after growing revenue 529 percent in three years.</p><p><a href="https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.betakit.com/wp-content/uploads/2025/08/Blue-j1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.betakit.com/wp-content/uploads/2025/08/Blue-j1.jpg" />
-<enclosure url="https://cdn.betakit.com/wp-content/uploads/2025/08/Blue-j1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/11391e2724eb74520bd5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fhrss2xe26</guid>
-<pubDate>Mon, 16 Nov 2026 02:21:29 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players" rel="related" type="text/html" />
-<description>SK Hynix Inc. plans to open a semiconductor testing facility next year in partnership with the Korean government, angling to boost the global competitiveness of the country’s smaller chip equipment ma...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FikQisEcuQARg%2Fv1%2F1200x800.jpg" alt="" /></p><p>SK Hynix Inc. plans to open a semiconductor testing facility next year in partnership with the Korean government, angling to boost the global competitiveness of the country’s smaller chip equipment ma...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FikQisEcuQARg%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FikQisEcuQARg%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FikQisEcuQARg%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>SK Hynix says it plans to spend ~$1.05B over five years to support domestic suppliers of chip materials, parts, and equipment, strengthening its supply chain (Heekyong Yang/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c995295fabd4116ed47d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fft6ownr2p</guid>
-<pubDate>Mon, 16 Nov 2026 01:46:28 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/" rel="related" type="text/html" />
-<description>South Korea's SK Hynix said it plans to spend $1.05 billion over the next five years to support domestic suppliers ​of semiconductor materials, parts and equipment.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJNQDRSTMEFIAVPDZLB54BOSG7Y.jpg%3Fauth%3Dca97f8d152fd45041570a729fe11f2d850246ff78478810f078535d1f990d572%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>South Korea's SK Hynix said it plans to spend $1.05 billion over the next five years to support domestic suppliers ​of semiconductor materials, parts and equipment.</p><p><a href="https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJNQDRSTMEFIAVPDZLB54BOSG7Y.jpg%3Fauth%3Dca97f8d152fd45041570a729fe11f2d850246ff78478810f078535d1f990d572%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJNQDRSTMEFIAVPDZLB54BOSG7Y.jpg%3Fauth%3Dca97f8d152fd45041570a729fe11f2d850246ff78478810f078535d1f990d572%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FJNQDRSTMEFIAVPDZLB54BOSG7Y.jpg%3Fauth%3Dca97f8d152fd45041570a729fe11f2d850246ff78478810f078535d1f990d572%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d83c34b08ed648a28215.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2fe4ytdsl2t</guid>
-<pubDate>Mon, 16 Nov 2026 01:16:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2" rel="related" type="text/html" />
-<description>South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F757a9625-0234-4a28-95e5-e43ebc8bc967.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses</p><p><a href="https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F757a9625-0234-4a28-95e5-e43ebc8bc967.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F757a9625-0234-4a28-95e5-e43ebc8bc967.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F757a9625-0234-4a28-95e5-e43ebc8bc967.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e5fa88dfe9df2efa5190.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2f4pbppbw23</guid>
-<pubDate>Sun, 15 Nov 2026 23:03:13 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom" rel="related" type="text/html" />
-<description>The startup is set for the biggest IPO of all time, putting AI investors’ hopes and dreams — and fears — onto a frontier model maker.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY6gpTYfq9zI%2Fv0%2F1200x800.jpg" alt="" /></p><p>The startup is set for the biggest IPO of all time, putting AI investors’ hopes and dreams — and fears — onto a frontier model maker.</p><p><a href="https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY6gpTYfq9zI%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY6gpTYfq9zI%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiY6gpTYfq9zI%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
