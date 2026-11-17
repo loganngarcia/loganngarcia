@@ -2,7 +2,7 @@
 
 print("hello world")
 
-• Product designer working on **AI, robotics, and user-first technology**.  
+• Product manager working on **AI, robotics, and user-first technology**.  
 • Currently building [**makermods.ai**](https://makermods.ai) (affordable AI robots) and [**worklittle.com**](https://worklittle.com) (AI-supported mentorship).  
 • I obtained a **Master’s in Business Analytics at the University of California, Davis**, focused on product strategy, data, and AI agents.  
 
