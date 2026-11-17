@@ -5,8 +5,92 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 17 Nov 2026 00:28:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:20:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)</title>
+<link>https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ijkfygun2t</guid>
+<pubDate>Tue, 17 Nov 2026 07:31:07 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Nvidia unveils its Rubin HPC GPU with &quot;more than 50,000&quot; CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ifnmwhlu2b</guid>
+<pubDate>Tue, 17 Nov 2026 06:21:20 +0000</pubDate>
+<description>Rubin HPC puts &quot;over 50,000&quot; CUDA cores on a chip, implies four-die layout</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" alt="" /></p><p>Rubin HPC puts &quot;over 50,000&quot; CUDA cores on a chip, implies four-die layout</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" />
+</item>
+<item>
+<title>The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its &quot;no sell&quot; list in June 2025 (Kanishka Singh/Reuters)</title>
+<link>https://www.reuters.com/world/asia-pacific/us-releases-details-of-megaspeed-probe-says-investigation-began-2024-2026-11-17/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ieaeuqsc27</guid>
+<pubDate>Tue, 17 Nov 2026 05:56:02 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Analysis: Amazon&#x27;s $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects (Rafe Rosner-Uddin/Financial Times)</title>
+<link>https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2idfqoyo223</guid>
+<pubDate>Tue, 17 Nov 2026 05:41:08 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Meta is testing Direct, a standalone messaging app for Instagram that doesn&#x27;t require an existing Instagram account to use, in Thailand and Turkey (Karissa Bell/Engadget)</title>
+<link>https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i7zyuflv2m</guid>
+<pubDate>Tue, 17 Nov 2026 04:40:53 +0000</pubDate>
+<description>Meta&#x27;s new DM app for Instagram is only available in Turkey and Thailand, for now.</description>
+<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" alt="" /></p><p>Meta&#x27;s new DM app for Instagram is only available in Turkey and Thailand, for now.</p>]]></content:encoded>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" medium="image" />
+<media:thumbnail url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" />
+</item>
+<item>
+<title>Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with &quot;basically no human intervention&quot;, vs. the usual 6-12 months (Shane Downing/Tom&#x27;s Hardware)</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i5xxobrd2b</guid>
+<pubDate>Tue, 17 Nov 2026 04:03:57 +0000</pubDate>
+<description>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" alt="" /></p><p>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</p>]]></content:encoded>
+<media:content url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" medium="image" />
+<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" />
+</item>
+<item>
+<title>Filing: Leopold Aschenbrenner&#x27;s hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i4fmswq42m</guid>
+<pubDate>Tue, 17 Nov 2026 03:35:48 +0000</pubDate>
+<description>Leopold Aschenbrenner&#x27;s hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" alt="" /></p><p>Leopold Aschenbrenner&#x27;s hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Sources: Jensen Huang&#x27;s daughter remains in a senior Nvidia role; before Jensen Huang resigned, she was his de facto chief of staff with considerable authority (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i3ksybq32m</guid>
+<pubDate>Tue, 17 Nov 2026 03:20:48 +0000</pubDate>
+<description>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</description>
+<content:encoded><![CDATA[<p><img src="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" alt="" /></p><p>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</p>]]></content:encoded>
+<media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" medium="image" />
+<media:thumbnail url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo.jpg" />
+</item>
+<item>
+<title>macOS 27.3 beta warns if an app would get full device control, nudging users to &quot;Choose Apps&quot; for the app to control instead, brought on by AI apps&#x27; popularity (Juli Clover/MacRumors)</title>
+<link>https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hyt7t6by2e</guid>
+<pubDate>Tue, 17 Nov 2026 02:31:49 +0000</pubDate>
+<description>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here&#x27;s what Apple says is changing: The current Device Control and Data Access setting will be split into two options that make it clearer to users what they&#x27;re permitting.</description>
+<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" alt="" /></p><p>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here&#x27;s what Apple says is changing: The current Device Control and Data Access setting will be split into two options that make it clearer to users what they&#x27;re permitting.</p>]]></content:encoded>
+<media:content url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" medium="image" />
+<media:thumbnail url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" />
+</item>
 <item>
 <title>Sources: the US DOJ will review DoorDash&#x27;s ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review (Jody Godoy/Reuters)</title>
 <link>https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/</link>
@@ -818,82 +902,6 @@
 <pubDate>Sat, 14 Nov 2026 14:31:33 +0000</pubDate>
 <description>From www.washingtonpost.com</description>
 <content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>How the Swiss city of Lugano is trying to reinvent itself as a crypto hub to boost its economy by launching its own token LVGA, partnering with Tether, and more (Financial Times)</title>
-<link>https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?accessToken=zwAAAaHY_bdnkdOhvM4UwyZIj9O3Nm6DGw-2zw.MEUCIQCBXyHHNsgOjjEJ2PQjkcLjJSExdRJKNtibv8XGeKew_QIgU17k6hYW9xMvFN1Fc5T7EBfD6P1hSQhzaIHiqP7qYxg&amp;sharetype=gift&amp;token=638a9a7e-087a-40eb-8ef9-e66519a5dbe7</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2bhj4lqwu2b</guid>
-<pubDate>Sat, 14 Nov 2026 12:05:58 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2b22gf5f32b</guid>
-<pubDate>Sat, 14 Nov 2026 08:05:07 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: despite Nvidia&#x27;s 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing&#x27;s chip self-sufficiency campaign (Eleanor Olcott/Financial Times)</title>
-<link>https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ay6gniqu2x</guid>
-<pubDate>Sat, 14 Nov 2026 07:31:34 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)</title>
-<link>https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2awn5pbou24</guid>
-<pubDate>Sat, 14 Nov 2026 07:04:00 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>WhiteMatter, which builds &quot;guardian&quot; AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)</title>
-<link>https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2aw7ljq3v2b</guid>
-<pubDate>Sat, 14 Nov 2026 06:56:25 +0000</pubDate>
-<description>WhiteMatter says more AI agents are the key to controlling AI agents. Read the pitch deck the startup used to raised $20 million to back its vision.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" alt="" /></p><p>WhiteMatter says more AI agents are the key to controlling AI agents. Read the pitch deck the startup used to raised $20 million to back its vision.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6aee08e680d4b24f18346f51?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)</title>
-<link>https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2av3xvldu2y</guid>
-<pubDate>Sat, 14 Nov 2026 06:36:30 +0000</pubDate>
-<description>From www.mobihealthnews.com</description>
-<content:encoded><![CDATA[<p>From www.mobihealthnews.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2autonhhp2x</guid>
-<pubDate>Sat, 14 Nov 2026 06:31:52 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Cambridge, UK-based Tendrils, which is designing a CPU architecture with thousands of cores operating in parallel, raised $30M led by Benchmark (John Reynolds/Tech.eu)</title>
-<link>https://tech.eu/2026/11/11/tendrils-compute-raises-30m-to-redo-the-cpu/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2asv4j3lk2v</guid>
-<pubDate>Sat, 14 Nov 2026 05:56:52 +0000</pubDate>
-<description>From tech.eu</description>
-<content:encoded><![CDATA[<p>From tech.eu</p>]]></content:encoded>
-</item>
-<item>
-<title>JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU&#x27;s approval of the deal (Tomoko Wakasugi/Nikkei Asia)</title>
-<link>https://asia.nikkei.com/business/business-deals/china-s-jd.com-completes-1.5bn-takeover-of-german-appliance-retailer</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2apx7wyzz2x</guid>
-<pubDate>Sat, 14 Nov 2026 05:04:22 +0000</pubDate>
-<description>E-commerce group&#x27;s acquisition approved with EU market conditions</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>E-commerce group&#x27;s acquisition approved with EU market conditions</p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F7%2F3%2F13443778-2-eng-GB%2F79e635a88b79-20261113N-Ceconomy-Saturn.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
 </item>
 </channel>
 </rss>
