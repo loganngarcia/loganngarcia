@@ -5,8 +5,22 @@
 <link>https://mail.bycloud.ai/</link>
 <description>The AI Timeline by bycloud with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 17 Nov 2026 19:13:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 01:39:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/ai-timeline.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Vision-Language Models Don't Need a Pretrained Visual Prior</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b438c0007db909571192.html</link>
+<guid isPermaLink="false">combined:4c623db72ceec8892f53b3060cceeda51436863d</guid>
+<pubDate>Tue, 17 Nov 2026 19:54:37 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/vision-language-models-don-t-need-a-pretrained-visual-prior" rel="related" type="text/html" />
+<description>plus more about weight-space programming, Energy-Based Perspective on ML, and Latent Feedback Is a Compute and Data Amplifier</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" alt="" /></p><p>plus more about weight-space programming, Energy-Based Perspective on ML, and Latent Feedback Is a Compute and Data Amplifier</p><p><a href="https://mail.bycloud.ai/p/vision-language-models-don-t-need-a-pretrained-visual-prior">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>The Next Evolution of Sparse Attention Is Hierarchical</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1cba5c6d06730c1a9b05.html</link>
@@ -244,20 +258,6 @@
 <media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3c02a207-1fb3-4292-a061-d48c52cdb309/issue_117.jpg?t=1784662852" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3c02a207-1fb3-4292-a061-d48c52cdb309/issue_117.jpg?t=1784662852" />
 <enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/3c02a207-1fb3-4292-a061-d48c52cdb309/issue_117.jpg?t=1784662852" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Why Memorized Knowledge Fails to Generalize in LLM Finetuning</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d12643a69c04da81195.html</link>
-<guid isPermaLink="false">combined:add5686b1e66409a73de7309317f024995d96657</guid>
-<pubDate>Tue, 14 Jul 2026 18:31:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/why-memorized-knowledge-fails-to-generalize-in-llm-finetuning" rel="related" type="text/html" />
-<description>Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" alt="" /></p><p>Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory</p><p><a href="https://mail.bycloud.ai/p/why-memorized-knowledge-fails-to-generalize-in-llm-finetuning">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>AI Research Roundup: Diffusion Duality &amp; Text Generation Insights</title>

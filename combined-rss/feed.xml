@@ -5,8 +5,372 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 17 Nov 2026 19:13:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 01:39:59 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Nvidia interim CEO Colette Kress says the company will stay "disciplined and selective" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cd81011a0f9c024e95b0.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k7hsulqm2b</guid>
+<pubDate>Tue, 17 Nov 2026 23:36:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress" rel="related" type="text/html" />
+<description>Interim CEO Collette Kress says the chip giant is rigorously evaluating future funding.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe13HZ_jK5Ck3JXCJhF3cfyzSUIU%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F11%2F10%2F1794338777261.jpeg" alt="" /></p><p>Interim CEO Collette Kress says the chip giant is rigorously evaluating future funding.</p><p><a href="https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe13HZ_jK5Ck3JXCJhF3cfyzSUIU%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F11%2F10%2F1794338777261.jpeg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe13HZ_jK5Ck3JXCJhF3cfyzSUIU%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F11%2F10%2F1794338777261.jpeg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2Fe13HZ_jK5Ck3JXCJhF3cfyzSUIU%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F11%2F10%2F1794338777261.jpeg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board (Carsten Frauenheim/iFixit News)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ffabbc21425d1b6a2fb3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k6e34piw2m</guid>
+<pubDate>Tue, 17 Nov 2026 23:16:03 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward" rel="related" type="text/html" />
+<description>A HomePod stuck to an iPad, huh. Shouldn’t be too bad, right? Apple’s learned their repair lessons, right?</description>
+<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" alt="" /></p><p>A HomePod stuck to an iPad, huh. Shouldn’t be too bad, right? Apple’s learned their repair lessons, right?</p><p><a href="https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" />
+<enclosure url="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c79bb69b15e20bb1a75e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k4x7wmlk2x</guid>
+<pubDate>Tue, 17 Nov 2026 22:50:58 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlJMSEZCU1NVZHYiLCJwIjoiL3RlY2gvMTAzNTM2NC9taWNyb3NvZnQtb3V0bG9vay1vdXRhZ2Utbm90ZXBhZCIsImV4cCI6MTc5NTM2Njg5NywiaWF0IjoxNzk0OTM0ODk3fQ.qvNcpytW9E3bjpGqPWJDeMM-dLOfUvq1QT9fb4fxHec&amp;utm_medium=gift-link" rel="related" type="text/html" />
+<description>A bug took down Microsoft’s email services for millions around the world.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>A bug took down Microsoft’s email services for millions around the world.</p><p><a href="https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlJMSEZCU1NVZHYiLCJwIjoiL3RlY2gvMTAzNTM2NC9taWNyb3NvZnQtb3V0bG9vay1vdXRhZ2Utbm90ZXBhZCIsImV4cCI6MTc5NTM2Njg5NywiaWF0IjoxNzk0OTM0ODk3fQ.qvNcpytW9E3bjpGqPWJDeMM-dLOfUvq1QT9fb4fxHec&amp;utm_medium=gift-link">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7996672b50b87e5829da.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k2yp3bno2b</guid>
+<pubDate>Tue, 17 Nov 2026 22:16:00 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjA3cFNpbDJCT1MiLCJwIjoiL3JlcG9ydC8xMDM1NDY1L252aWRpYS1zYXlzLWl0LXdpbGwtbm90LXJlaW5zdGF0ZS1qZW5zZW4taHVhbmctYXMtY2VvIiwiZXhwIjoxNzk1Mzg1NDc1LCJpYXQiOjE3OTQ5NTM0NzV9.PWMNbp8LvjiIh6EH1gdv9OqWZ7SGbuRwywWf6K983Vg&amp;utm_medium=gift-link" rel="related" type="text/html" />
+<description>Nvidia execs aren’t talking about Jensen Huang today.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" alt="" /></p><p>Nvidia execs aren’t talking about Jensen Huang today.</p><p><a href="https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjA3cFNpbDJCT1MiLCJwIjoiL3JlcG9ydC8xMDM1NDY1L252aWRpYS1zYXlzLWl0LXdpbGwtbm90LXJlaW5zdGF0ZS1qZW5zZW4taHVhbmctYXMtY2VvIiwiZXhwIjoxNzk1Mzg1NDc1LCJpYXQiOjE3OTQ5NTM0NzV9.PWMNbp8LvjiIh6EH1gdv9OqWZ7SGbuRwywWf6K983Vg&amp;utm_medium=gift-link">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" />
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3fe7ab0f6adbee3d91e3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k2h2obct23</guid>
+<pubDate>Tue, 17 Nov 2026 22:06:08 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos" rel="related" type="text/html" />
+<description>Suno Inc., the artificial intelligence music startup that allows users to generate songs with a simple prompt, is giving users the ability to create videos to complement their audio works. The feature...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH87owu0ng1Y%2Fv1%2F1200x800.jpg" alt="" /></p><p>Suno Inc., the artificial intelligence music startup that allows users to generate songs with a simple prompt, is giving users the ability to create videos to complement their audio works. The feature...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH87owu0ng1Y%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH87owu0ng1Y%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH87owu0ng1Y%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Brett Adcock Hopes Figure Robots Can Work in Any Home Within Six Months</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a2caf8c861b46344c0b4.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/brett-adcock-moonshots-helix-3-homes-six-months</guid>
+<pubDate>Tue, 17 Nov 2026 22:02:49 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/brett-adcock-moonshots-helix-3-homes-six-months" rel="related" type="text/html" />
+<description>On Peter Diamandis' Moonshots podcast, Figure's CEO gave a home timeline after showing Helix 3, put BotQ capacity at about 40,000 robots a year, and said the world ran out of compute in September.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/brett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp" alt="" /></p><p>On Peter Diamandis' Moonshots podcast, Figure's CEO gave a home timeline after showing Helix 3, put BotQ capacity at about 40,000 robots a year, and said the world ran out of compute in September.</p><p><a href="https://www.humanoidsdaily.com/news/brett-adcock-moonshots-helix-3-homes-six-months">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/brett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/brett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/brett-adcock-moonshots-figure-hq-gvCLO8hiswbrQ51rh5bPQ65rQGgwzZ.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>This Week in Humanoids: Genesis AI’s $500M, Apollo’s Big Week and Foundation’s Missed Payroll</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/59c01a6b5ee2921a4b5e.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/weekly-newsletter-genesis-ai-foundation-november-17</guid>
+<pubDate>Tue, 17 Nov 2026 21:48:58 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/weekly-newsletter-genesis-ai-foundation-november-17" rel="related" type="text/html" />
+<description>Our November 17 newsletter covers Genesis AI’s Series A, Gemini Robotics 2.5 and GXO’s Apollo plan, Jensen Huang’s exit, Foundation’s payroll and first humanoids from Genki and ASUS.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-2026-11-17-collage-VM6fmqcX9FzN2BXPHbJSd8qDw4okIV.webp" alt="" /></p><p>Our November 17 newsletter covers Genesis AI’s Series A, Gemini Robotics 2.5 and GXO’s Apollo plan, Jensen Huang’s exit, Foundation’s payroll and first humanoids from Genki and ASUS.</p><p><a href="https://www.humanoidsdaily.com/news/weekly-newsletter-genesis-ai-foundation-november-17">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-2026-11-17-collage-VM6fmqcX9FzN2BXPHbJSd8qDw4okIV.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-2026-11-17-collage-VM6fmqcX9FzN2BXPHbJSd8qDw4okIV.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/newsletter-2026-11-17-collage-VM6fmqcX9FzN2BXPHbJSd8qDw4okIV.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/794837209e214d36d93e.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jzdsvgqs2e</guid>
+<pubDate>Tue, 17 Nov 2026 21:46:26 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/" rel="related" type="text/html" />
+<description>OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk.</description>
+<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" alt="" /></p><p>OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk.</p><p><a href="https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" medium="image" type="image/png" />
+<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" />
+<enclosure url="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4faa980a30277cf4a23d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jycmogrv2b</guid>
+<pubDate>Tue, 17 Nov 2026 21:27:52 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027" rel="related" type="text/html" />
+<description>Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...</description>
+<content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" alt="" /></p><p>Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...</p><p><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" />
+<enclosure url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed "Java4Shell"; Oracle has released a patch (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/165c612e46dcc3c7cbb2.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jxwi4sxu2i</guid>
+<pubDate>Tue, 17 Nov 2026 21:21:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN" rel="related" type="text/html" />
+<description>The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17dc-aibug-zfmc%2F17dc-aibug-zfmc-largeHorizontalJumbo.jpg" alt="" /></p><p>The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.</p><p><a href="https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17dc-aibug-zfmc%2F17dc-aibug-zfmc-largeHorizontalJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17dc-aibug-zfmc%2F17dc-aibug-zfmc-largeHorizontalJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F17%2Fmultimedia%2F17dc-aibug-zfmc%2F17dc-aibug-zfmc-largeHorizontalJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Gemini 4 Hydrogen Takes Over From Gemini Robotics ER 2 as Google Launches a Robotics Plugin for Antigravity</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4c7ca9c9b29df846a179.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/gemini-4-hydrogen-robotics-antigravity-plugin</guid>
+<pubDate>Tue, 17 Nov 2026 21:09:13 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/gemini-4-hydrogen-robotics-antigravity-plugin" rel="related" type="text/html" />
+<description>Google says its cheaper Gemini 4 model beats Gemini Robotics ER 2 on embodied reasoning and scores 58 on AA-Robotics. A new Antigravity plugin sets up an arm over USB, builds MuJoCo sims from chat and runs the same code on hardware.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-4-hydrogen-robotics-banner-bXLqaxYcLeoiymyWPXKIBd157Gh7ar.webp" alt="" /></p><p>Google says its cheaper Gemini 4 model beats Gemini Robotics ER 2 on embodied reasoning and scores 58 on AA-Robotics. A new Antigravity plugin sets up an arm over USB, builds MuJoCo sims from chat and runs the same code on hardware.</p><p><a href="https://www.humanoidsdaily.com/news/gemini-4-hydrogen-robotics-antigravity-plugin">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-4-hydrogen-robotics-banner-bXLqaxYcLeoiymyWPXKIBd157Gh7ar.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-4-hydrogen-robotics-banner-bXLqaxYcLeoiymyWPXKIBd157Gh7ar.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/gemini-4-hydrogen-robotics-banner-bXLqaxYcLeoiymyWPXKIBd157Gh7ar.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Mimic Robotics Previews FLUX-mimic-x, Claiming the Top RoboLab Score for Real-Time Robot Policies</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/799d614d285ca3349a90.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/mimic-robotics-flux-mimic-x-robolab</guid>
+<pubDate>Tue, 17 Nov 2026 21:07:52 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/mimic-robotics-flux-mimic-x-robolab" rel="related" type="text/html" />
+<description>The 7B Video-Action Model, built on Black Forest Labs' FLUX 3, scores 51.4% on NVIDIA's RoboLab in Mimic's own chart. No paper, blog post or weights have been published yet.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mimic-flux-mimic-x-robolab-leaderboard-OvR4HJfhMdGKBRUoUiGss49KxbDJXD.webp" alt="" /></p><p>The 7B Video-Action Model, built on Black Forest Labs' FLUX 3, scores 51.4% on NVIDIA's RoboLab in Mimic's own chart. No paper, blog post or weights have been published yet.</p><p><a href="https://www.humanoidsdaily.com/news/mimic-robotics-flux-mimic-x-robolab">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mimic-flux-mimic-x-robolab-leaderboard-OvR4HJfhMdGKBRUoUiGss49KxbDJXD.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mimic-flux-mimic-x-robolab-leaderboard-OvR4HJfhMdGKBRUoUiGss49KxbDJXD.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mimic-flux-mimic-x-robolab-leaderboard-OvR4HJfhMdGKBRUoUiGss49KxbDJXD.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ef476b7be6d4c854c769.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jx3gr7yw27</guid>
+<pubDate>Tue, 17 Nov 2026 21:05:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd&amp;reflink=article_copyURL_share" rel="related" type="text/html" />
+<description>The regulator’s civil probe is looking at whether the company violated investor-disclosure laws.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02933754%2Fsocial" alt="" /></p><p>The regulator’s civil probe is looking at whether the company violated investor-disclosure laws.</p><p><a href="https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd&amp;reflink=article_copyURL_share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02933754%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02933754%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-02933754%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/32c1c1e0f28cf977d603.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvxtz2r223</guid>
+<pubDate>Tue, 17 Nov 2026 20:46:03 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/legal/transactional/applovin-among-firms-talks-acquire-criteo-sources-say-2026-11-17/" rel="related" type="text/html" />
+<description>US advertising technology firm AppLovin is among the companies in talks to acquire smaller Paris-based peer ​Criteo , according to two people familiar with the matter.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6LSUNMY355IGXB5DXVQRSHGUS4.jpg%3Fauth%3D44e7c2dfd38c73da24e0a72dda996905c26d1598b9cec3095d8bc2c5ed786c1b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>US advertising technology firm AppLovin is among the companies in talks to acquire smaller Paris-based peer ​Criteo , according to two people familiar with the matter.</p><p><a href="https://www.reuters.com/legal/transactional/applovin-among-firms-talks-acquire-criteo-sources-say-2026-11-17/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6LSUNMY355IGXB5DXVQRSHGUS4.jpg%3Fauth%3D44e7c2dfd38c73da24e0a72dda996905c26d1598b9cec3095d8bc2c5ed786c1b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6LSUNMY355IGXB5DXVQRSHGUS4.jpg%3Fauth%3D44e7c2dfd38c73da24e0a72dda996905c26d1598b9cec3095d8bc2c5ed786c1b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F6LSUNMY355IGXB5DXVQRSHGUS4.jpg%3Fauth%3D44e7c2dfd38c73da24e0a72dda996905c26d1598b9cec3095d8bc2c5ed786c1b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Kalshi says the CFTC has ordered it to halt trading on "mention markets" tied to what President Trump will say during public events (Bobby Allyn/Bloomberg)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5af95e8f388d8ea2dcbc.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvorw4de27</guid>
+<pubDate>Tue, 17 Nov 2026 20:40:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches" rel="related" type="text/html" />
+<description>Federal regulators ordered Kalshi Inc. to halt trading on markets tied to what President Donald Trump will say during public events, in the latest sign that prediction markets are coming under greater...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIWbe5GLh.lg%2Fv1%2F1200x800.jpg" alt="" /></p><p>Federal regulators ordered Kalshi Inc. to halt trading on markets tied to what President Donald Trump will say during public events, in the latest sign that prediction markets are coming under greater...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIWbe5GLh.lg%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIWbe5GLh.lg%2Fv1%2F1200x800.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIWbe5GLh.lg%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Ramp is in early talks to raise $1B or more led by Coatue and Thrive at a valuation of $70B+, in its third funding round in a year (Kate Clark/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7947cca113ba2224b732.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvgeh2oj2x</guid>
+<pubDate>Tue, 17 Nov 2026 20:36:16 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a" rel="related" type="text/html" />
+<description>The financing round is the fast-growing company’s third fundraise in a year.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-40751469%2Fsocial" alt="" /></p><p>The financing round is the fast-growing company’s third fundraise in a year.</p><p><a href="https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-40751469%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-40751469%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-40751469%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide (Jeremy C. Owens/San Francisco Business Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5545712134333cc884d8.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jtz56ujo2t</guid>
+<pubDate>Tue, 17 Nov 2026 20:10:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all" rel="related" type="text/html" />
+<description>Waymo has been banned indefinitely from California freeways and is pulling its robotaxis off the highway in other markets after a pair of incidents on Bay Area roads.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F12167588%2Fwaymo%2A1200xx4032-2265-0-276.jpg" alt="" /></p><p>Waymo has been banned indefinitely from California freeways and is pulling its robotaxis off the highway in other markets after a pair of incidents on Bay Area roads.</p><p><a href="https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F12167588%2Fwaymo%2A1200xx4032-2265-0-276.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F12167588%2Fwaymo%2A1200xx4032-2265-0-276.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fmedia.bizj.us%2Fview%2Fimg%2F12167588%2Fwaymo%2A1200xx4032-2265-0-276.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Vision-Language Models Don't Need a Pretrained Visual Prior</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b438c0007db909571192.html</link>
+<guid isPermaLink="false">combined:4c623db72ceec8892f53b3060cceeda51436863d</guid>
+<pubDate>Tue, 17 Nov 2026 19:54:37 +0000</pubDate>
+<source url="https://mail.bycloud.ai/">The AI Timeline</source>
+<category>The AI Timeline</category>
+<atom:link href="https://mail.bycloud.ai/p/vision-language-models-don-t-need-a-pretrained-visual-prior" rel="related" type="text/html" />
+<description>plus more about weight-space programming, Energy-Based Perspective on ML, and Latent Feedback Is a Compute and Data Amplifier</description>
+<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" alt="" /></p><p>plus more about weight-space programming, Energy-Based Perspective on ML, and Latent Feedback Is a Compute and Data Amplifier</p><p><a href="https://mail.bycloud.ai/p/vision-language-models-don-t-need-a-pretrained-visual-prior">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" />
+<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/39f91703-a06c-4e9c-8969-f78dabe9023e/issue_134.jpg?t=1794934168" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/583ea470c4f79259e274.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jsvgwydd2q</guid>
+<pubDate>Tue, 17 Nov 2026 19:51:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/theo/status/2122760447103484410" rel="related" type="text/html" />
+<description>Why I hate GPT-6.2 Astra</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2106484435382333440%2FvXOVE8EX_400x400.jpg" alt="" /></p><p>Why I hate GPT-6.2 Astra</p><p><a href="https://x.com/theo/status/2122760447103484410">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2106484435382333440%2FvXOVE8EX_400x400.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2106484435382333440%2FvXOVE8EX_400x400.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2106484435382333440%2FvXOVE8EX_400x400.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Apple's System Status page shows an outage affecting iCloud sign-in for "all users", the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3e0e7322cd6e161678e3.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jritaiji2b</guid>
+<pubDate>Tue, 17 Nov 2026 19:26:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/" rel="related" type="text/html" />
+<description>Apple's status page confirms its services are facing outages, but has not confirmed the cause.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" alt="" /></p><p>Apple's status page confirms its services are facing outages, but has not confirmed the cause.</p><p><a href="https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/560e703561a25cd9d0c9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jq5cxhbj2q</guid>
+<pubDate>Tue, 17 Nov 2026 19:01:44 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/" rel="related" type="text/html" />
+<description>Google's Gemini update extending chat retention will roll out globally over the coming weeks.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" alt="" /></p><p>Google's Gemini update extending chat retention will roll out globally over the coming weeks.</p><p><a href="https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" />
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support (Scott Stein/CNET)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d16938bbf12c0171e062.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2joperub72e</guid>
+<pubDate>Tue, 17 Nov 2026 18:36:02 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/" rel="related" type="text/html" />
+<description>The most fascinating and frustrating device I've used in a long time pushes at the edges of where headsets are heading, and glasses are evolving.</description>
+<content:encoded><![CDATA[<p><img src="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" alt="" /></p><p>The most fascinating and frustrating device I've used in a long time pushes at the edges of where headsets are heading, and glasses are evolving.</p><p><a href="https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" />
+<enclosure url="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price (Ina Fried/Axios)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bfee865f2320dac9851a.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jo5hchv323</guid>
+<pubDate>Tue, 17 Nov 2026 18:26:01 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite" rel="related" type="text/html" />
+<description>AI chief Mustafa Suleyman says Microsoft is also building "true superintelligence."</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FQfA162E7xBSeGMH0c83ZfblV_AM%3D%2F1366x768%2Fsmart%2F2023%2F09%2F05%2F210407-1693947847469.jpg" alt="" /></p><p>AI chief Mustafa Suleyman says Microsoft is also building "true superintelligence."</p><p><a href="https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FQfA162E7xBSeGMH0c83ZfblV_AM%3D%2F1366x768%2Fsmart%2F2023%2F09%2F05%2F210407-1693947847469.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FQfA162E7xBSeGMH0c83ZfblV_AM%3D%2F1366x768%2Fsmart%2F2023%2F09%2F05%2F210407-1693947847469.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FQfA162E7xBSeGMH0c83ZfblV_AM%3D%2F1366x768%2Fsmart%2F2023%2F09%2F05%2F210407-1693947847469.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol's $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ad5eb54791f786a9c48f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jnlj3i4h2q</guid>
+<pubDate>Tue, 17 Nov 2026 18:15:59 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/" rel="related" type="text/html" />
+<description>OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a few weeks later at...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" alt="" /></p><p>OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a few weeks later at...</p><p><a href="https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" medium="image" type="image/webp" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" />
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" type="image/webp" length="0" />
+</item>
+<item>
+<title>OpenAI launches GPT-6.2 Astra, its new frontier model for "complex professional work", and GPT-6.2 Sol, its new "go-to model for everyday work" (OpenAI)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/725c967606cef490a74f.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jmsgevbw2m</guid>
+<pubDate>Tue, 17 Nov 2026 18:01:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://openai.com/index/introducing-gpt-6-2-astra-sol/" rel="related" type="text/html" />
+<description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png" alt="" /></p><p>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</p><p><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>An interview with OpenAI President Greg Brockman, who says he is in "full management mode", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b07761c01d391bd061ee.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jm6qu3m22q</guid>
+<pubDate>Tue, 17 Nov 2026 17:50:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety" rel="related" type="text/html" />
+<description>In August, OpenAI President Greg Brockman called up Denise Dresser, then the company’s chief revenue officer, with a tough message: Her time with OpenAI was coming to an end. Dresser, a former Slack CEO, had been in the job for only eight months, and while OpenAI had seen promising growth ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18190/9d1d4bec-8731-4487-8b3f-685d31a0dc3c.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>In August, OpenAI President Greg Brockman called up Denise Dresser, then the company’s chief revenue officer, with a tough message: Her time with OpenAI was coming to an end. Dresser, a former Slack CEO, had been in the job for only eight months, and while OpenAI had seen promising growth ...</p><p><a href="https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18190/9d1d4bec-8731-4487-8b3f-685d31a0dc3c.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18190/9d1d4bec-8731-4487-8b3f-685d31a0dc3c.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18190/9d1d4bec-8731-4487-8b3f-685d31a0dc3c.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
+</item>
 <item>
 <title>Docs: Nvidia stopped reporting Singapore unit revenue in 2025 as it accounted for nearly 50% of global revenue; the unit's revenue rose 72% YoY to $104B in 2025 (Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/851193cad36bf6af71b8.html</link>
@@ -155,11 +519,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html" rel="related" type="text/html" />
-<description>House committee chairs had invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn't agree voluntarily.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1764789617&amp;w=1920&amp;h=1080" alt="" /></p><p>House committee chairs had invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn't agree voluntarily.</p><p><a href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1764789617&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1764789617&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1764789617&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+<description>House committee chairs invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn't agree voluntarily.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" alt="" /></p><p>House committee chairs invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn't agree voluntarily.</p><p><a href="https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm's 500+ sites, due to a slow grid expansion and red tape (Alex Vasquez/Bloomberg)</title>
@@ -492,10 +856,10 @@
 <category>Techmeme</category>
 <atom:link href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee" rel="related" type="text/html" />
 <description>NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company’s national security policies, export control compliance and global trade risk management.</description>
-<content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_mid.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt="" /></p><p>NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company’s national security policies, export control compliance and global trade risk management.</p><p><a href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_mid.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_mid.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" />
-<enclosure url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_mid.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_mid.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" alt="" /></p><p>NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level oversight of the company’s national security policies, export control compliance and global trade risk management.</p><p><a href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_mid.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_mid.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" />
+<enclosure url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_mid.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Oakland-based Numa, which builds an AI platform to manage car dealership customer service, raised a $45M Series C, a source says at a $500M post-money valuation (Camila Grigera Naón/Fortune)</title>
@@ -566,300 +930,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" medium="image" type="image/png" />
 <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" />
 <enclosure url="https://cdn.mos.cms.futurecdn.net/wJ2qnaAhPDGJQVsKBgLAri-1920-80.png" type="image/png" length="0" />
-</item>
-<item>
-<title>The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its "no sell" list in June 2025 (Kanishka Singh/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/454cd46332c140382b12.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ieaeuqsc27</guid>
-<pubDate>Tue, 17 Nov 2026 05:56:02 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/asia-pacific/us-releases-details-of-megaspeed-probe-says-investigation-began-2024-2026-11-17/" rel="related" type="text/html" />
-<description>The US Commerce Department and ​Justice Department released information on Monday about Washington's investigation into Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The US Commerce Department and ​Justice Department released information on Monday about Washington's investigation into Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner...</p><p><a href="https://www.reuters.com/world/asia-pacific/us-releases-details-of-megaspeed-probe-says-investigation-began-2024-2026-11-17/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FAFZRO3UZENIB7DYPEYDI6K4PVQ.jpg%3Fauth%3D658d59e5a02e2d11eb91644541b68655214c386c8a97e94cf743c085d036c070%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Analysis: Amazon's $17B+ planned investment in Ohio data centers is at risk after midterm voters passed restriction measures affecting three proposed projects (Rafe Rosner-Uddin/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/97a315334947a2544350.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2idfqoyo223</guid>
-<pubDate>Tue, 17 Nov 2026 05:41:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f" rel="related" type="text/html" />
-<description>Voter revolts across the US threaten billions in AI investment as communities turn against Big Tech’s expansion</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Voter revolts across the US threaten billions in AI investment as communities turn against Big Tech’s expansion</p><p><a href="https://www.ft.com/content/e95adad4-b428-477d-9716-92172bbd199f">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F993146c3-1e7d-4e71-9a5c-5ae28a66973b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Meta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey (Karissa Bell/Engadget)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a6df2494566bd69efb37.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i7zyuflv2m</guid>
-<pubDate>Tue, 17 Nov 2026 04:40:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/" rel="related" type="text/html" />
-<description>Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.</description>
-<content:encoded><![CDATA[<p><img src="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" alt="" /></p><p>Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.</p><p><a href="https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" />
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with "basically no human intervention", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/851a72a5bbe145948dca.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i5xxobrd2b</guid>
-<pubDate>Tue, 17 Nov 2026 04:03:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat" rel="related" type="text/html" />
-<description>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" alt="" /></p><p>Anthropic says Claude Mythos Preview brought up prompt processing for one model on AMD Instinct MI355X GPUs in about three days.</p><p><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" />
-<enclosure url="https://cdn.mos.cms.futurecdn.net/VF4egKqqkKq5CbHhYxQi6U-1200-80.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/87fab3b1b22bbc1858b7.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i4fmswq42m</guid>
-<pubDate>Tue, 17 Nov 2026 03:35:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html" rel="related" type="text/html" />
-<description>Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" alt="" /></p><p>Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.</p><p><a href="https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Jensen Huang's daughter remains in a senior Nvidia role; before Jensen Huang resigned, she was his de facto chief of staff with considerable authority (New York Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1b4338b20147ce3c2646.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2i3ksybq32m</guid>
-<pubDate>Tue, 17 Nov 2026 03:20:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR&amp;smid=nytcore-ios-share" rel="related" type="text/html" />
-<description>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fmultimedia%2FBIZ-MADISON-HUANG-1-01-cmjw%2FBIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo-v2.jpg%3Fgift%3D1" alt="" /></p><p>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</p><p><a href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR&amp;smid=nytcore-ios-share">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fmultimedia%2FBIZ-MADISON-HUANG-1-01-cmjw%2FBIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo-v2.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fmultimedia%2FBIZ-MADISON-HUANG-1-01-cmjw%2FBIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo-v2.jpg%3Fgift%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F16%2Fmultimedia%2FBIZ-MADISON-HUANG-1-01-cmjw%2FBIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo-v2.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>macOS 27.3 beta warns if an app would get full device control, nudging users to "Choose Apps" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7afa97ca8bb003675961.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hyt7t6by2e</guid>
-<pubDate>Tue, 17 Nov 2026 02:31:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/" rel="related" type="text/html" />
-<description>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here's what Apple says is changing: The current Device Control and Data Access setting will be split into two options that…</description>
-<content:encoded><![CDATA[<p><img src="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" alt="" /></p><p>With the latest macOS 27.3 beta, Apple is giving Mac users more control over the data they share and the access they give to apps, including apps that use AI agents. Apple today informed developers about upcoming changes to the Full Disk Access API and the Device Control and Data Access API. Here's what Apple says is changing: The current Device Control and Data Access setting will be split into two options that…</p><p><a href="https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" />
-<enclosure url="https://images.macrumors.com/t/XEyVh7VFnBpfoKyJ-wxGJUrYFFU=/2500x/article-new/2026/11/claude-warning-2-2.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: the US DOJ will review DoorDash's ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review (Jody Godoy/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4ef4277f51a2aa5ccef1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hrc3bmfl2b</guid>
-<pubDate>Tue, 17 Nov 2026 00:16:58 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/" rel="related" type="text/html" />
-<description>The US Department of Justice will review DoorDash's proposed acquisition of Instacart, two people familiar with the matter told ​Reuters on Monday.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNOS6MCXGQFMERDRSZZDQUGMZQ4.jpg%3Fauth%3D67cc3cee3b4422341f5b5c07aecf01a1f807be1be481029faf3bcdac4921696e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>The US Department of Justice will review DoorDash's proposed acquisition of Instacart, two people familiar with the matter told ​Reuters on Monday.</p><p><a href="https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNOS6MCXGQFMERDRSZZDQUGMZQ4.jpg%3Fauth%3D67cc3cee3b4422341f5b5c07aecf01a1f807be1be481029faf3bcdac4921696e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNOS6MCXGQFMERDRSZZDQUGMZQ4.jpg%3Fauth%3D67cc3cee3b4422341f5b5c07aecf01a1f807be1be481029faf3bcdac4921696e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FNOS6MCXGQFMERDRSZZDQUGMZQ4.jpg%3Fauth%3D67cc3cee3b4422341f5b5c07aecf01a1f807be1be481029faf3bcdac4921696e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Kalshi bought FB Securities, a small New York-based broker, in July and plans to launch equity trading within the next two months (Vicky Ge Huang/Wall Street Journal)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/cd1503c1e5dbe3efab29.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hqo4r2jo27</guid>
-<pubDate>Tue, 17 Nov 2026 00:05:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89" rel="related" type="text/html" />
-<description>The prediction-markets platform, still fighting legal battles with U.S. states over its yes-or-no contracts, wants to expand into other assets.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-27298537%2Fsocial" alt="" /></p><p>The prediction-markets platform, still fighting legal battles with U.S. states over its yes-or-no contracts, wants to expand into other assets.</p><p><a href="https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-27298537%2Fsocial" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-27298537%2Fsocial" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-27298537%2Fsocial" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Researchers find Optimizely serving malicious JavaScript to sites of 178 orgs including Zoom, CNN, HSBC, Salesforce, GitLab, Ledger, BBC, Equifax, IKEA, more (Scott Helme/Report URI Blog)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/06a40bd35450a0b739be.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ho5o3mnn2b</guid>
-<pubDate>Mon, 16 Nov 2026 23:20:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/" rel="related" type="text/html" />
-<description>On 16 November 2026, malicious JavaScript was served to visitors of 178 organisations through the Optimizely Web experimentation platform. The list includes some of the most visited sites in the world: Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, Equifax, Air France-KLM, Ledger and Peacock. The malware was a</description>
-<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png" alt="" /></p><p>On 16 November 2026, malicious JavaScript was served to visitors of 178 organisations through the Optimizely Web experimentation platform. The list includes some of the most visited sites in the world: Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, Equifax, Air France-KLM, Ledger and Peacock. The malware was a</p><p><a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png" medium="image" type="image/png" />
-<media:thumbnail url="https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png" />
-<enclosure url="https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png" type="image/png" length="0" />
-</item>
-<item>
-<title>United Airlines reports "widespread system outage" affecting departing flights but not flights in progress (Michele Luhn/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3871cc67e04434905a79.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hmyac4cc2m</guid>
-<pubDate>Mon, 16 Nov 2026 22:59:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html" rel="related" type="text/html" />
-<description>The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794873348&amp;w=1920&amp;h=1080" alt="" /></p><p>The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.</p><p><a href="https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794873348&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794873348&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794873348&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c0dd331e5ebc2afeff5c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hjxlsq5v2m</guid>
-<pubDate>Mon, 16 Nov 2026 22:05:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/" rel="related" type="text/html" />
-<description>A US judge on Monday acquitted two MIT-educated brothers accused of stealing $25 ‌million in cryptocurrency in just 12 seconds, ruling prosecutors had failed to show that they committed fraud by explo...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>A US judge on Monday acquitted two MIT-educated brothers accused of stealing $25 ‌million in cryptocurrency in just 12 seconds, ruling prosecutors had failed to show that they committed fraud by explo...</p><p><a href="https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2F2IB3QESSTVJUZMQ5WU3V5D5RMA.jpg%3Fauth%3Dd9a7c256b83a3e39d5deef8832d6e6e069604479553fa333f2f62a4968eacc20%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it "a cornerstone compounder for a long time" (Kif Leswing/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1468dfc1dd78cd887954.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hgmabgb62i</guid>
-<pubDate>Mon, 16 Nov 2026 21:05:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html" rel="related" type="text/html" />
-<description>Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&amp;w=1920&amp;h=1080" alt="" /></p><p>Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.</p><p><a href="https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108552147-1794850190120-Screenshot-2026-11-16-at-122835_PM.jpg?v=1794850203&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/13f7e0f611d760038b7d.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2he3tb6th2p</guid>
-<pubDate>Mon, 16 Nov 2026 20:20:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda" rel="related" type="text/html" />
-<description>Thousands of customers are reporting difficulty accessing online accounts at several major U.S. banks after a technical issue at JPMorgan Chase caused ripple effects across the financial system.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fdims.apnews.com%2Fdims4%2Fdefault%2F49a7d80%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3000x2000%2B0%2B0%2Fresize%2F1200x800%21%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fafs-prod%252Fmedia%252F66a90e6332094b23bc328ec2199b7005%252F3000.jpeg" alt="" /></p><p>Thousands of customers are reporting difficulty accessing online accounts at several major U.S. banks after a technical issue at JPMorgan Chase caused ripple effects across the financial system.</p><p><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fdims.apnews.com%2Fdims4%2Fdefault%2F49a7d80%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3000x2000%2B0%2B0%2Fresize%2F1200x800%21%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fafs-prod%252Fmedia%252F66a90e6332094b23bc328ec2199b7005%252F3000.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fdims.apnews.com%2Fdims4%2Fdefault%2F49a7d80%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3000x2000%2B0%2B0%2Fresize%2F1200x800%21%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fafs-prod%252Fmedia%252F66a90e6332094b23bc328ec2199b7005%252F3000.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fdims.apnews.com%2Fdims4%2Fdefault%2F49a7d80%2F2147483647%2Fstrip%2Ftrue%2Fcrop%2F3000x2000%2B0%2B0%2Fresize%2F1200x800%21%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstorage.googleapis.com%252Fafs-prod%252Fmedia%252F66a90e6332094b23bc328ec2199b7005%252F3000.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Q&amp;A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bb1032f7c48658c1d2a8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2hahtaba62b</guid>
-<pubDate>Mon, 16 Nov 2026 19:15:57 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes" rel="related" type="text/html" />
-<description>Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.</description>
-<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/youtube/w_728,c_limit/0NE89Nzfk20" alt="" /></p><p>Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.</p><p><a href="https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://substackcdn.com/image/youtube/w_728,c_limit/0NE89Nzfk20" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://substackcdn.com/image/youtube/w_728,c_limit/0NE89Nzfk20" />
-<enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/0NE89Nzfk20" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards (Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/88ccc79de169d2a20942.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2h7dpdmrj2p</guid>
-<pubDate>Mon, 16 Nov 2026 18:55:45 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953" rel="related" type="text/html" />
-<description>The suit by California's attorney general alleges the company tested advanced AI models without adequate safeguards and misled the public about safety.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F95%252Fee%252F2d5a6fda48eeb4468c75d2851341%252Fopen-ai-conference-1-419.jpg" alt="" /></p><p>The suit by California's attorney general alleges the company tested advanced AI models without adequate safeguards and misled the public about safety.</p><p><a href="https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F95%252Fee%252F2d5a6fda48eeb4468c75d2851341%252Fopen-ai-conference-1-419.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F95%252Fee%252F2d5a6fda48eeb4468c75d2851341%252Fopen-ai-conference-1-419.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2Fresize%2F1200%2Fquality%2F90%2Fformat%2Fjpg%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F95%252Fee%252F2d5a6fda48eeb4468c75d2851341%252Fopen-ai-conference-1-419.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/63e5e5cd2656670211a5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2h4tg6g3m2l</guid>
-<pubDate>Mon, 16 Nov 2026 18:10:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/" rel="related" type="text/html" />
-<description>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675" alt="" /></p><p>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.</p><p><a href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sam Altman says he has "personal strong empathy" for Jensen Huang and "heroes have flaws," but the AI industry "will be fine" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/9d29f9d0389cc67bfbb9.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2h4kinpui2m</guid>
-<pubDate>Mon, 16 Nov 2026 18:05:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg1MTkyNSwiZXhwIjoxNzk1NDU2NzI1LCJhcnRpY2xlSWQiOiJUT0xTTEdUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.r6LmtmU7Op0YupcW7NseYlZEPI3zLR_cnigfe6HXPcY" rel="related" type="text/html" />
-<description>OpenAI’s Sam Altman said he believes the artificial intelligence industry will weather the uncertainty prompted by the ousting of Nvidia Corp. Chief Executive Officer Jensen Huang last week.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSwO.yAV7HjY%2Fv1%2F1200x800.jpg" alt="" /></p><p>OpenAI’s Sam Altman said he believes the artificial intelligence industry will weather the uncertainty prompted by the ousting of Nvidia Corp. Chief Executive Officer Jensen Huang last week.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg1MTkyNSwiZXhwIjoxNzk1NDU2NzI1LCJhcnRpY2xlSWQiOiJUT0xTTEdUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.r6LmtmU7Op0YupcW7NseYlZEPI3zLR_cnigfe6HXPcY">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSwO.yAV7HjY%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSwO.yAV7HjY%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiSwO.yAV7HjY%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Nvidia's board is not considering bringing Jensen Huang back as CEO and is focused on a national security investigation into Huang (CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/92c77f149babfa99ba58.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2h3d3y6bk2e</guid>
-<pubDate>Mon, 16 Nov 2026 17:43:50 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html" rel="related" type="text/html" />
-<description>Jensen Huang resigned from Nvidia last week after 33 years as CEO.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&amp;w=1920&amp;h=1080" alt="" /></p><p>Jensen Huang resigned from Nvidia last week after 33 years as CEO.</p><p><a href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108548911-1794851429961-108548911-1794403050475-gettyimages-2299100584-_04a7661_f6gzfowp.jpeg?v=1794851457&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c2bca83aac92188b40f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2h22byl2p23</guid>
-<pubDate>Mon, 16 Nov 2026 17:21:00 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines" rel="related" type="text/html" />
-<description>We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg" alt="" /></p><p>We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues.</p><p><a href="https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg" />
-<enclosure url="https://assets.claude.com/87317c13cd86cd0b62244c430e91d0bb13b920a1.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4adac3de4d562c1149b5.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2gyn4b2ne2l</guid>
-<pubDate>Mon, 16 Nov 2026 16:55:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai" rel="related" type="text/html" />
-<description>A five-month-old startup co-founded by two prominent artificial intelligence experts at Stanford University has drawn funding from several large tech firms to help businesses seamlessly improve and cu...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZUxwkz7vbhY%2Fv0%2F1200x762.jpg" alt="" /></p><p>A five-month-old startup co-founded by two prominent artificial intelligence experts at Stanford University has drawn funding from several large tech firms to help businesses seamlessly improve and cu...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZUxwkz7vbhY%2Fv0%2F1200x762.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZUxwkz7vbhY%2Fv0%2F1200x762.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiZUxwkz7vbhY%2Fv0%2F1200x762.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>How Frontier Language Models Are Speeding Up Robotics Research</title>
@@ -1310,62 +1380,6 @@
 <enclosure url="https://www.humanoidsdaily.com/_next/image?url=https%3A%2F%2F7jopx6ax2qhwmgqx.public.blob.vercel-storage.com%2Fimages%2Fauthors%2Fpa-1793809800250.webp&amp;w=1920&amp;q=75" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>NEURA Robotics Partners With E.ON and enviaM on Grid Robotics, With Trials Expected in 2027</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/2a14c3670bd265b25a58.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027</guid>
-<pubDate>Thu, 05 Nov 2026 13:04:53 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027" rel="related" type="text/html" />
-<description>The partners will train robotic skills at TUM RoboGym before testing inspections, asset monitoring and worker-support applications with grid operator MITNETZ STROM.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" alt="" /></p><p>The partners will train robotic skills at TUM RoboGym before testing inspections, asset monitoring and worker-support applications with grid operator MITNETZ STROM.</p><p><a href="https://www.humanoidsdaily.com/news/neura-eon-enviam-grid-robotics-2027">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neura-eon-enviam-grid-partnership-jxlF88g3Rqjo13c1FeRWIvr8ipsZfT.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>XPENG Highlights GroundingPI, a Vision Model for More Data-Efficient Robot Learning</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/d7a41ad24acffbf768cf.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation</guid>
-<pubDate>Thu, 05 Nov 2026 12:50:41 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation" rel="related" type="text/html" />
-<description>GroundingPI improves simulated robot manipulation with fewer demonstrations, offering a specialized visual foundation rather than an announced upgrade to XPENG’s IRON humanoid.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" alt="" /></p><p>GroundingPI improves simulated robot manipulation with fewer demonstrations, offering a specialized visual foundation rather than an announced upgrade to XPENG’s IRON humanoid.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-groundingpi-robot-vision-manipulation">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" medium="image" type="image/png" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-groundingpi-video-hero-Nbl5y0bnqhYB56fakkGreB7wo8RAZK.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Agility Begins Trading on Nasdaq as AGLT, the First US-Listed Pure-Play Humanoid Company</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/60f0409db2cf7e57a659.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut</guid>
-<pubDate>Thu, 05 Nov 2026 12:27:33 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut" rel="related" type="text/html" />
-<description>The Churchill XI merger closed with about $465 million in gross capital, below the $600 million-plus projected in June, as Agility debuts with $1.78 million in 2025 sales.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" alt="" /></p><p>The Churchill XI merger closed with about $465 million in gross capital, below the $600 million-plus projected in June, as Agility debuts with $1.78 million in 2025 sales.</p><p><a href="https://www.humanoidsdaily.com/news/agility-aglt-nasdaq-trading-debut">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agility-digit-5-carrying-box-cgi-wdHgiqY27caAqzCPir6HVf8gF7VqIS.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>NYU's MABEL Puts a 56-DOF Mobile Bimanual Robot on an $8,056 Open-Source Parts List</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/e57a2ce677f758ae278f.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu</guid>
-<pubDate>Thu, 05 Nov 2026 06:56:39 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu" rel="related" type="text/html" />
-<description>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" alt="" /></p><p>The open-source robot pairs two 7-DOF arms and 17-DOF ORCA hands with a lift and swerve base, and is teleoperated end to end with an Apple Vision Pro.</p><p><a href="https://www.humanoidsdaily.com/news/mabel-open-source-mobile-bimanual-robot-nyu">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/mabel-open-source-mobile-bimanual-robot-k7S968vfhNAYOlAyf5oEEUinNNb4Ek.webp" type="image/webp" length="0" />
-</item>
-<item>
 <title>JEPA Just Proved The Platonic Representation Hypothesis</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0c9b2e5756488af7c2a1.html</link>
 <guid isPermaLink="false">combined:ebb3b650496289d836bf2b4cca2ea8ed0e242cc3</guid>
@@ -1716,20 +1730,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01xIf9ZH22o5MUhuDYF_!!6000000007166-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Why Memorized Knowledge Fails to Generalize in LLM Finetuning</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3d12643a69c04da81195.html</link>
-<guid isPermaLink="false">combined:add5686b1e66409a73de7309317f024995d96657</guid>
-<pubDate>Tue, 14 Jul 2026 18:31:00 +0000</pubDate>
-<source url="https://mail.bycloud.ai/">The AI Timeline</source>
-<category>The AI Timeline</category>
-<atom:link href="https://mail.bycloud.ai/p/why-memorized-knowledge-fails-to-generalize-in-llm-finetuning" rel="related" type="text/html" />
-<description>Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory</description>
-<content:encoded><![CDATA[<p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" alt="" /></p><p>Plus more about Single Async Opt for Agentic RL, Remember When It Matters, and Sparse Delta Memory</p><p><a href="https://mail.bycloud.ai/p/why-memorized-knowledge-fails-to-generalize-in-llm-finetuning">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" />
-<enclosure url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/5aafae00-edee-4920-a4e2-d65489c64ef1/issue_116.jpg?t=1784052118" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Meet the newly public, Bezos-backed company that’s recreating the sun and stars</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/76f8a4d024570bd79d3b.html</link>
 <guid isPermaLink="false">2qDFmEgO0RhVn3arRPO6v9</guid>
@@ -2024,6 +2024,20 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
+<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
+<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
+<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -2050,20 +2064,6 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
-<guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotworld" rel="related" type="text/html" />
-<description>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" alt="" /></p><p>Embodied intelligence requires agents to perceive, reason about, and act within physical environments. World models offer a scalable path forward — but current approaches face a fundamental tension. General video generation models learn rich visual priors but lack the ability to model embodied physics. Domain-specific embodied models are tailored to individual scenarios and cannot generalize acros</p><p><a href="https://qwen.ai/blog?id=qwen-robotworld">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
