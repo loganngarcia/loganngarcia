@@ -5,8 +5,256 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 04:03:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:54:31 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>GTA VI&#x27;s 5,000-strong team eschewed AI and procedural generation in favor of handcrafted &quot;fidelity&quot;, with 30,000 unique NPCs and an in-game video game system (Joseph Bernstein/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o42zemtg2l</guid>
+<pubDate>Thu, 19 Nov 2026 12:45:50 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>IEA expects global data center investment to hit $4T by 2030; fewer than 100 major AI projects would require a combined 50GW of power, matching peak UK demand (Will Mathis/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/iea-sees-data-center-boom-pushing-power-grids-to-the-limit</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o3iyhd3c26</guid>
+<pubDate>Thu, 19 Nov 2026 12:35:46 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Dustin Moskovitz, one of Anthropic&#x27;s earliest investors, says he &quot;invested in Anthropic to promote safety, not racing&quot; and frontier AI labs &quot;should slow down&quot; (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o2x3b4vw2l</guid>
+<pubDate>Thu, 19 Nov 2026 12:25:45 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Analysis: Anthropic needs ~$602B in annual revenue to hit a 20% return on invested capital comparable to its Big Tech peers; Apple has $478B in annual revenue (Financial Times)</title>
+<link>https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o2fshybk2m</guid>
+<pubDate>Thu, 19 Nov 2026 12:16:05 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Germany and Austria submit a proposal urging the EU to require TikTok to find a local owner for its European operations to combat TikTok&#x27;s ties to Beijing (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-18/germany-austria-propose-trump-style-takeover-of-tiktok-s-eu-ops</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nzn72ujc26</guid>
+<pubDate>Thu, 19 Nov 2026 12:02:19 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Google is mandating Android app support for foldables starting in April 2027, saying developers must meet Tier 3 standards by filling display areas and more (Jay Peters/The Verge)</title>
+<link>https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nypiec3g2l</guid>
+<pubDate>Thu, 19 Nov 2026 11:45:43 +0000</pubDate>
+<description>Games will have to meet certain requirements, too.</description>
+<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" alt="" /></p><p>Games will have to meet certain requirements, too.</p>]]></content:encoded>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" medium="image" />
+<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" />
+</item>
+<item>
+<title>Snap launches Easy Lens CLI on Mac, Windows, and Linux, letting developers build AR Lenses using external AI coding tools like Claude Code (Aisha Malik/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ny64eg7526</guid>
+<pubDate>Thu, 19 Nov 2026 11:35:59 +0000</pubDate>
+<description>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" alt="" /></p><p>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" />
+</item>
+<item>
+<title>An argument against tech&#x27;s &quot;silent consensus&quot;, a belief that AI advances mean the forfeiture of human primacy, and a call for legal and technical frameworks (Dean Ball/OpenAI)</title>
+<link>https://openai.com/index/the-silent-consensus</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nxm5isza27</guid>
+<pubDate>Thu, 19 Nov 2026 11:25:57 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at Jeff Bezos&#x27; AI startup Prometheus, which raised $18B and employs ~250 people; sources say it is building an end-to-end agentic AI engineering system (Rebecca Heilweil/Fast Company)</title>
+<link>https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nx2mdq2l26</guid>
+<pubDate>Thu, 19 Nov 2026 11:16:08 +0000</pubDate>
+<description>From www.fastcompany.com</description>
+<content:encoded><![CDATA[<p>From www.fastcompany.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic is set to become the US stock market&#x27;s largest public benefit corporation by far; the mandate is overseen by a five-member &quot;long-term benefit trust&quot; (Cory Weinberg/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nwrcdd3y2t</guid>
+<pubDate>Thu, 19 Nov 2026 11:10:56 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Alibaba reports Q2 revenue up 10% to ~$40.7B, above est., and net profit up 3x to ~$9.68B, above ~$3.6B est., as its AI and e-commerce profitability improves (Tracy Qu/Wall Street Journal)</title>
+<link>https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nwck5mev2q</guid>
+<pubDate>Thu, 19 Nov 2026 11:02:41 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Moonshot AI cancelled a $150M contract with a Southeast Asian neocloud to rent access to Nvidia AI chips in an Indonesian data center, after US rules (The Information)</title>
+<link>https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nvwervde26</guid>
+<pubDate>Thu, 19 Nov 2026 10:55:52 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
+<item>
+<title>South Korea passes $1T in exports in 2026, up from $709B in 2025, becoming the fourth nation globally to reach the milestone after Germany, the US, and China (Reuters)</title>
+<link>https://www.reuters.com/world/south-korea-becomes-fourth-country-globally-hit-1-trillion-exports-ai-chip-boom-2026-11-19/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nvo3aw3t2t</guid>
+<pubDate>Thu, 19 Nov 2026 10:51:14 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filings: Anthropic sold $1.1B of stock to retail investors in the UK, the EU, Norway, and Switzerland in its record IPO; UK investors bought 3.6M+ shares (Pablo Mayo Cerqueiro/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-1-1-billion-of-shares-sold-to-european-retail-investors</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nvepjcga2e</guid>
+<pubDate>Thu, 19 Nov 2026 10:46:00 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: TSMC and Samsung have suspended some chip shipments to Chinese customers while they apply for US Commerce Department licenses, after new US curbs (Financial Times)</title>
+<link>https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nv6b2upc2b</guid>
+<pubDate>Thu, 19 Nov 2026 10:42:23 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of Netflix&#x27;s new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy (Alex Weprin/The Hollywood Reporter)</title>
+<link>https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nlmekqhk2m</guid>
+<pubDate>Thu, 19 Nov 2026 07:51:19 +0000</pubDate>
+<description>Ted Sarandos’ handpicked consigliere is tasked with reinventing the streamer — while his boss promises Wall Street that nothing is changing.</description>
+<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/21rep_page3_netflix-1.jpg?w=1440&amp;h=810&amp;crop=1" alt="" /></p><p>Ted Sarandos’ handpicked consigliere is tasked with reinventing the streamer — while his boss promises Wall Street that nothing is changing.</p>]]></content:encoded>
+<media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/21rep_page3_netflix-1.jpg?w=1440&amp;h=810&amp;crop=1" medium="image" />
+<media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/21rep_page3_netflix-1.jpg?w=1440&amp;h=810&amp;crop=1" />
+</item>
+<item>
+<title>College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses (Dana Goldstein/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html?unlocked_article_code=1.RVE.X0lj.uxofd9RL308T&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nlejdw6a2l</guid>
+<pubDate>Thu, 19 Nov 2026 07:46:56 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing (Christian Davies/Financial Times)</title>
+<link>https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nl3dvqu52t</guid>
+<pubDate>Thu, 19 Nov 2026 07:41:48 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash (Elena Eisenstadt/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/google-ruth--porat-pledges-data-center-local-support-amid-backlash</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nkrd2i2b26</guid>
+<pubDate>Thu, 19 Nov 2026 07:36:12 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources expect Anthropic&#x27;s IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs (Financial Times)</title>
+<link>https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nka5ft5u2e</guid>
+<pubDate>Thu, 19 Nov 2026 07:26:35 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service (Saritha Rai/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2njwf6kge26</guid>
+<pubDate>Thu, 19 Nov 2026 07:21:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development (Jasmine Sun/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2njgae5yx2q</guid>
+<pubDate>Thu, 19 Nov 2026 07:12:06 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 (Yuan Gao/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2niaqk6c623</guid>
+<pubDate>Thu, 19 Nov 2026 06:51:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A US congressional commission report says China&#x27;s PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals (Jaspreet Singh/Reuters)</title>
+<link>https://www.reuters.com/world/china/china-seeks-advanced-nvidia-chips-ai-weapons-despite-us-curbs-report-says-2026-11-18/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nf77575l2l</guid>
+<pubDate>Thu, 19 Nov 2026 05:56:35 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware (Nikkei Asia)</title>
+<link>https://asia.nikkei.com/business/technology/us-visa-denials-hit-xpeng-other-chinese-robot-makers-ahead-of-ces</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nevjikom2m</guid>
+<pubDate>Thu, 19 Nov 2026 05:51:10 +0000</pubDate>
+<description>Technical staff face travel hurdles as technology controls widen</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F0%2F7%2F13457047-1-eng-GB%2F047b30089430-2026-01-07T001755Z_1211079666_RC2XVIATFR71_RTRMADP_3_TECH-CES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>Technical staff face travel hurdles as technology controls widen</p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F0%2F7%2F13457047-1-eng-GB%2F047b30089430-2026-01-07T001755Z_1211079666_RC2XVIATFR71_RTRMADP_3_TECH-CES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F4%2F0%2F7%2F13457047-1-eng-GB%2F047b30089430-2026-01-07T001755Z_1211079666_RC2XVIATFR71_RTRMADP_3_TECH-CES.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+</item>
+<item>
+<title>Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&#x27; private data (Katie Paul/Reuters)</title>
+<link>https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nbukgj3m2i</guid>
+<pubDate>Thu, 19 Nov 2026 04:56:56 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nbb45vax2b</guid>
+<pubDate>Thu, 19 Nov 2026 04:46:04 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)</title>
+<link>https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nagcztx42p</guid>
+<pubDate>Thu, 19 Nov 2026 04:31:05 +0000</pubDate>
+<description>From www.coindesk.com</description>
+<content:encoded><![CDATA[<p>From www.coindesk.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Arizona&#x27;s AG opens a criminal investigation into OpenAI and other AI companies relating to the &quot;apparent infiltration of banks by rogue AI agents&quot; (David Thomas/Reuters)</title>
+<link>https://www.reuters.com/legal/transactional/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents-2026-11-19/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n7vckvce26</guid>
+<pubDate>Thu, 19 Nov 2026 04:21:34 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Jeffrey Kessler, who oversees Commerce Department&#x27;s BIS, pressured staff to expedite Nvidia H200 China sales despite red flags from other departments (The Information)</title>
+<link>https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n7dim64f2p</guid>
+<pubDate>Thu, 19 Nov 2026 04:11:36 +0000</pubDate>
+<description>From www.theinformation.com</description>
+<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Intel says it signed its first outside customer for its 18A-P chips, which went into risk production in June, a milestone in a five-year effort to take on TSMC (Katie Tarasov/CNBC)</title>
 <link>https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html</link>
@@ -368,8 +616,8 @@
 <link>https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2lpum2vsx2p</guid>
 <pubDate>Wed, 18 Nov 2026 14:02:11 +0000</pubDate>
-<description>The battle for the tournament’s US TV rights will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry</description>
-<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=8aad75c1734993ce6c36f132f9727ebf" alt="" /></p><p>The battle for the tournament’s US TV rights will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry</p>]]></content:encoded>
+<description>The battle for the tournament’s US TV rights will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry</description>
+<content:encoded><![CDATA[<p><img src="https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=8aad75c1734993ce6c36f132f9727ebf" alt="" /></p><p>The battle for the tournament’s US TV rights will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry</p>]]></content:encoded>
 <media:content url="https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=8aad75c1734993ce6c36f132f9727ebf" medium="image" />
 <media:thumbnail url="https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=8aad75c1734993ce6c36f132f9727ebf" />
 </item>
@@ -636,274 +884,6 @@
 <pubDate>Wed, 18 Nov 2026 00:45:58 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2kavw3cwg2x</guid>
-<pubDate>Wed, 18 Nov 2026 00:01:49 +0000</pubDate>
-<description>Nvidia&#x27;s interim CEO says the company is done selling chips to China. How much will that cost?</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" alt="" /></p><p>Nvidia&#x27;s interim CEO says the company is done selling chips to China. How much will that cost?</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" />
-</item>
-<item>
-<title>Nvidia interim CEO Colette Kress says the company will stay &quot;disciplined and selective&quot; in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)</title>
-<link>https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k7hsulqm2b</guid>
-<pubDate>Tue, 17 Nov 2026 23:36:02 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board (Carsten Frauenheim/iFixit News)</title>
-<link>https://www.ifixit.com/News/120317/homeview-teardown-a-surprising-step-backward</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k6e34piw2m</guid>
-<pubDate>Tue, 17 Nov 2026 23:16:03 +0000</pubDate>
-<description>A HomePod stuck to an iPad, huh. Shouldn’t be too bad, right? Apple’s learned their repair lessons, right?</description>
-<content:encoded><![CDATA[<p><img src="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" alt="" /></p><p>A HomePod stuck to an iPad, huh. Shouldn’t be too bad, right? Apple’s learned their repair lessons, right?</p>]]></content:encoded>
-<media:content url="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" medium="image" />
-<media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/11/17111733/HomeView_00006.jpg" />
-</item>
-<item>
-<title>Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)</title>
-<link>https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlJMSEZCU1NVZHYiLCJwIjoiL3RlY2gvMTAzNTM2NC9taWNyb3NvZnQtb3V0bG9vay1vdXRhZ2Utbm90ZXBhZCIsImV4cCI6MTc5NTM2Njg5NywiaWF0IjoxNzk0OTM0ODk3fQ.qvNcpytW9E3bjpGqPWJDeMM-dLOfUvq1QT9fb4fxHec&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k4x7wmlk2x</guid>
-<pubDate>Tue, 17 Nov 2026 22:50:58 +0000</pubDate>
-<description>A bug took down Microsoft’s email services for millions around the world.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>A bug took down Microsoft’s email services for millions around the world.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)</title>
-<link>https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjA3cFNpbDJCT1MiLCJwIjoiL3JlcG9ydC8xMDM1NDY1L252aWRpYS1zYXlzLWl0LXdpbGwtbm90LXJlaW5zdGF0ZS1qZW5zZW4taHVhbmctYXMtY2VvIiwiZXhwIjoxNzk1Mzg1NDc1LCJpYXQiOjE3OTQ5NTM0NzV9.PWMNbp8LvjiIh6EH1gdv9OqWZ7SGbuRwywWf6K983Vg&amp;utm_medium=gift-link</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k2yp3bno2b</guid>
-<pubDate>Tue, 17 Nov 2026 22:16:00 +0000</pubDate>
-<description>Nvidia execs aren’t talking about Jensen Huang today.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" alt="" /></p><p>Nvidia execs aren’t talking about Jensen Huang today.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200" />
-</item>
-<item>
-<title>Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2k2h2obct23</guid>
-<pubDate>Tue, 17 Nov 2026 22:06:08 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)</title>
-<link>https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jzdsvgqs2e</guid>
-<pubDate>Tue, 17 Nov 2026 21:46:26 +0000</pubDate>
-<description>OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI&#x27;s own scale. OpenAI itself classifies that as a risk.</description>
-<content:encoded><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" alt="" /></p><p>OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI&#x27;s own scale. OpenAI itself classifies that as a risk.</p>]]></content:encoded>
-<media:content url="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" medium="image" />
-<media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png" />
-</item>
-<item>
-<title>Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and net income up 105% to $65.3B (Nvidia Newsroom)</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jycmogrv2b</guid>
-<pubDate>Tue, 17 Nov 2026 21:27:52 +0000</pubDate>
-<description>Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...</description>
-<content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" alt="" /></p><p>Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...</p>]]></content:encoded>
-<media:content url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" medium="image" />
-<media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_1829ac3c-85ac-4929-8c67-5994c15c70c9-prv.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" />
-</item>
-<item>
-<title>Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed &quot;Java4Shell&quot;; Oracle has released a patch (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jxwi4sxu2i</guid>
-<pubDate>Tue, 17 Nov 2026 21:21:04 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: the US SEC is investigating Nvidia, including whether the company&#x27;s disclosures misled investors (Wall Street Journal)</title>
-<link>https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd&amp;reflink=article_copyURL_share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jx3gr7yw27</guid>
-<pubDate>Tue, 17 Nov 2026 21:05:57 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)</title>
-<link>https://www.reuters.com/legal/transactional/applovin-among-firms-talks-acquire-criteo-sources-say-2026-11-17/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvxtz2r223</guid>
-<pubDate>Tue, 17 Nov 2026 20:46:03 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Kalshi says the CFTC has ordered it to halt trading on &quot;mention markets&quot; tied to what President Trump will say during public events (Bobby Allyn/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvorw4de27</guid>
-<pubDate>Tue, 17 Nov 2026 20:40:59 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Ramp is in early talks to raise $1B or more led by Coatue and Thrive at a valuation of $70B+, in its third funding round in a year (Kate Clark/Wall Street Journal)</title>
-<link>https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jvgeh2oj2x</guid>
-<pubDate>Tue, 17 Nov 2026 20:36:16 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>California bans Waymo robotaxis from freeways after a viral video showed one failing to yield to the highway patrol; Waymo halts freeway service nationwide (Jeremy C. Owens/San Francisco Business Times)</title>
-<link>https://www.bizjournals.com/sanfrancisco/news/2026/11/17/waymo-california-freeway-ban-dmv-chp.html?page=all</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jtz56ujo2t</guid>
-<pubDate>Tue, 17 Nov 2026 20:10:59 +0000</pubDate>
-<description>From www.bizjournals.com</description>
-<content:encoded><![CDATA[<p>From www.bizjournals.com</p>]]></content:encoded>
-</item>
-<item>
-<title>GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)</title>
-<link>https://x.com/theo/status/2122760447103484410</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jsvgwydd2q</guid>
-<pubDate>Tue, 17 Nov 2026 19:51:01 +0000</pubDate>
-<description>Why I hate GPT-6.2 Astra</description>
-<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/profile_images/2106484435382333440/vXOVE8EX_400x400.jpg" alt="" /></p><p>Why I hate GPT-6.2 Astra</p>]]></content:encoded>
-<media:content url="https://pbs.twimg.com/profile_images/2106484435382333440/vXOVE8EX_400x400.jpg" medium="image" />
-<media:thumbnail url="https://pbs.twimg.com/profile_images/2106484435382333440/vXOVE8EX_400x400.jpg" />
-</item>
-<item>
-<title>Apple&#x27;s System Status page shows an outage affecting iCloud sign-in for &quot;all users&quot;, the App Store, and Apple Music; some users report failed iPhone activations (Sarah Perez/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jritaiji2b</guid>
-<pubDate>Tue, 17 Nov 2026 19:26:04 +0000</pubDate>
-<description>Apple&#x27;s status page confirms its services are facing outages, but has not confirmed the cause.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" alt="" /></p><p>Apple&#x27;s status page confirms its services are facing outages, but has not confirmed the cause.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key.jpg?resize=1200,780" />
-</item>
-<item>
-<title>Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jq5cxhbj2q</guid>
-<pubDate>Tue, 17 Nov 2026 19:01:44 +0000</pubDate>
-<description>Google&#x27;s Gemini update extending chat retention will roll out globally over the coming weeks.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" alt="" /></p><p>Google&#x27;s Gemini update extending chat retention will roll out globally over the coming weeks.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Xreal Aura review: portable, crisp display, and runs multiple Android apps on a virtual display, but Android XR lacks unique apps and VR controller support (Scott Stein/CNET)</title>
-<link>https://www.cnet.com/tech/computing/google-xreal-aura-glasses-hands-on/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2joperub72e</guid>
-<pubDate>Tue, 17 Nov 2026 18:36:02 +0000</pubDate>
-<description>The most fascinating and frustrating device I&#x27;ve used in a long time pushes at the edges of where headsets are heading, and glasses are evolving.</description>
-<content:encoded><![CDATA[<p><img src="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" alt="" /></p><p>The most fascinating and frustrating device I&#x27;ve used in a long time pushes at the edges of where headsets are heading, and glasses are evolving.</p>]]></content:encoded>
-<media:content url="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" medium="image" />
-<media:thumbnail url="https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg" />
-</item>
-<item>
-<title>Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol&#x27;s performance at 40% of the price (Ina Fried/Axios)</title>
-<link>https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jo5hchv323</guid>
-<pubDate>Tue, 17 Nov 2026 18:26:01 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol&#x27;s $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)</title>
-<link>https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jnlj3i4h2q</guid>
-<pubDate>Tue, 17 Nov 2026 18:15:59 +0000</pubDate>
-<description>OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a few weeks later at...</description>
-<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" alt="" /></p><p>OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a few weeks later at...</p>]]></content:encoded>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" medium="image" />
-<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628" />
-</item>
-<item>
-<title>OpenAI launches GPT-6.2 Astra, its new frontier model for &quot;complex professional work&quot;, and GPT-6.2 Sol, its new &quot;go-to model for everyday work&quot; (OpenAI)</title>
-<link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jmsgevbw2m</guid>
-<pubDate>Tue, 17 Nov 2026 18:01:57 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>An interview with OpenAI President Greg Brockman, who says he is in &quot;full management mode&quot;, as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)</title>
-<link>https://www.theinformation.com/articles/brockman-pushes-openai-toward-cybersecurity-and-showdown-ai-safety</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jm6qu3m22q</guid>
-<pubDate>Tue, 17 Nov 2026 17:50:57 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Docs: Nvidia stopped reporting Singapore unit revenue in 2025 as it accounted for nearly 50% of global revenue; the unit&#x27;s revenue rose 72% YoY to $104B in 2025 (Financial Times)</title>
-<link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jl364pwn2x</guid>
-<pubDate>Tue, 17 Nov 2026 17:31:03 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Take-Two&#x27;s Firaxis, which makes the Civilization and XCOM franchises, lays off 33% of its staff, or ~60 jobs; studio head Heather Hazen will also leave (Jason Schreier/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkzMjgwNywiZXhwIjoxNzk1NTM3NjA3LCJhcnRpY2xlSWQiOiJUT05OMDlLSUpIOTQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.UB2VStiHDC6AEPIoF0t33xZ72QVmViJYS4hB0UM7vs8&amp;leadSource=article-gifting</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jkj3ez7x27</guid>
-<pubDate>Tue, 17 Nov 2026 17:20:56 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets (Katrina Manson/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jjxwmasi2t</guid>
-<pubDate>Tue, 17 Nov 2026 17:11:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Source: Nvidia&#x27;s board is not considering reinstating Huang, after he released a statement saying he &quot;made serious mistakes&quot; and fell below &quot;the standards&quot; (CNN)</title>
-<link>http://www.cnn.com/2026/11/17/business/jensen-huang-nvidia-ceo-statement</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jjgy7tjq2m</guid>
-<pubDate>Tue, 17 Nov 2026 17:01:52 +0000</pubDate>
-<description>Former Nvidia CEO Jensen Huang, who abruptly stepped down last week after a scandal involving extramarital affairs, said Tuesday he would be “honored” to return to the role if the board were to allow it.</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/2026-11-13t150301z-2014543980-rc2yemaaovzf-rtrmadp-3-nvidia-ceo.JPG?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>Former Nvidia CEO Jensen Huang, who abruptly stepped down last week after a scandal involving extramarital affairs, said Tuesday he would be “honored” to return to the role if the board were to allow it.</p>]]></content:encoded>
-<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/2026-11-13t150301z-2014543980-rc2yemaaovzf-rtrmadp-3-nvidia-ceo.JPG?c=16x9&amp;q=w_800,c_fill" medium="image" />
-<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/2026-11-13t150301z-2014543980-rc2yemaaovzf-rtrmadp-3-nvidia-ceo.JPG?c=16x9&amp;q=w_800,c_fill" />
-</item>
-<item>
-<title>Sources: Jensen Huang&#x27;s daughter Madison, a marketing director, helped steer Nvidia&#x27;s response to Megaspeed scrutiny and temporarily sidelined a top comms exec (Financial Times)</title>
-<link>https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jhpr6ylh2p</guid>
-<pubDate>Tue, 17 Nov 2026 16:30:59 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Uber and Zipline launch autonomous drone deliveries, starting with Uber Eats customers in Spring, Texas, with plans for 1M deliveries per day by the end of 2029 (Kirsten Korosec/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jh5x6gvq2b</guid>
-<pubDate>Tue, 17 Nov 2026 16:21:02 +0000</pubDate>
-<description>The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800" alt="" /></p><p>The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800" />
-</item>
-<item>
-<title>Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US (Robbie Whelan/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=1Tm7UU&amp;reflink=article_copyURL_share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jgcxiljx26</guid>
-<pubDate>Tue, 17 Nov 2026 16:05:56 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: NSA Net, the highly classified network that the NSA uses for its internal communications, is down; there is no evidence of a cyberattack (CNN)</title>
-<link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jg43thwv2l</guid>
-<pubDate>Tue, 17 Nov 2026 16:02:06 +0000</pubDate>
-<description>The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter. The NSA closed its campus to most employees on Tuesday night, reverting to essential personnel only as it works to restore the network, according to a voicemail inbox used by NSA employees and a source familiar with the matter.</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter. The NSA closed its campus to most employees on Tuesday night, reverting to essential personnel only as it works to restore the network, according to a voicemail inbox used by NSA employees and a source familiar with the matter.</p>]]></content:encoded>
-<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
-<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" />
 </item>
 </channel>
 </rss>
