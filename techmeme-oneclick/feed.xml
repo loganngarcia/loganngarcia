@@ -5,8 +5,124 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 18 Nov 2026 23:00:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 04:03:51 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Intel says it signed its first outside customer for its 18A-P chips, which went into risk production in June, a milestone in a five-year effort to take on TSMC (Katie Tarasov/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n6itbtvi2l</guid>
+<pubDate>Thu, 19 Nov 2026 03:56:42 +0000</pubDate>
+<description>Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108477593-1793228653611-gettyimages-2278669801-AFP_B4P96JJ.jpeg?v=1793228835&amp;w=1920&amp;h=1080" alt="" /></p><p>Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108477593-1793228653611-gettyimages-2278669801-AFP_B4P96JJ.jpeg?v=1793228835&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108477593-1793228653611-gettyimages-2278669801-AFP_B4P96JJ.jpeg?v=1793228835&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost (Artificial Analysis)</title>
+<link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n5dyu7uw2l</guid>
+<pubDate>Thu, 19 Nov 2026 03:36:06 +0000</pubDate>
+<description>Google continues to accelerate its release cadence with Gemini 4 Neon, delivering a small Intelligence gain over Gemini 4 Carbon at a ~17% lower Cost per Task</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&amp;auto=format" alt="" /></p><p>Google continues to accelerate its release cadence with Gemini 4 Neon, delivering a small Intelligence gain over Gemini 4 Carbon at a ~17% lower Cost per Task</p>]]></content:encoded>
+<media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&amp;auto=format" medium="image" />
+<media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&amp;auto=format" />
+</item>
+<item>
+<title>How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html?unlocked_article_code=1.RlE.LNs4.VaGPGt5WhYLb&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n4ac6vz526</guid>
+<pubDate>Thu, 19 Nov 2026 03:16:08 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Hackers compromised Microsoft&#x27;s Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information (Bill Toulas/BleepingComputer)</title>
+<link>https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2n2tinbxo2e</guid>
+<pubDate>Thu, 19 Nov 2026 02:51:05 +0000</pubDate>
+<description>Hackers compromised Microsoft&#x27;s official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers&#x27; systems.</description>
+<content:encoded><![CDATA[<p><img src="https://www.bleepstatic.com/content/hl-images/2025/03/12/Microsoft-headpic.jpg" alt="" /></p><p>Hackers compromised Microsoft&#x27;s official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers&#x27; systems.</p>]]></content:encoded>
+<media:content url="https://www.bleepstatic.com/content/hl-images/2025/03/12/Microsoft-headpic.jpg" medium="image" />
+<media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2025/03/12/Microsoft-headpic.jpg" />
+</item>
+<item>
+<title>The US DOJ indicts a Russian national for allegedly working for Moscow to stalk staff of a tech and defense firm aiding Ukraine, which a source says is Palantir (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2myuzchjp23</guid>
+<pubDate>Thu, 19 Nov 2026 02:16:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI says agents now complete 46% of its researchers&#x27; 2-to-4-hour tasks on their own, vs. 23% in March, median researcher&#x27;s agent use hit $2,400/day, and more (OpenAI)</title>
+<link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mxrcspj22l</guid>
+<pubDate>Thu, 19 Nov 2026 01:56:10 +0000</pubDate>
+<description>From openai.com</description>
+<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)</title>
+<link>https://www.adweek.com/convergent-tv/moviepass-explores-sale-pitching-streamers-theatrical-bundle/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mwf5xfkm23</guid>
+<pubDate>Thu, 19 Nov 2026 01:31:29 +0000</pubDate>
+<description>The theatrical subscription company is pitching potential buyers on bundling movie tickets into streaming subscriptions.</description>
+<content:encoded><![CDATA[<p><img src="https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1018277690.jpg?w=600&amp;h=315&amp;crop=1" alt="" /></p><p>The theatrical subscription company is pitching potential buyers on bundling movie tickets into streaming subscriptions.</p>]]></content:encoded>
+<media:content url="https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1018277690.jpg?w=600&amp;h=315&amp;crop=1" medium="image" />
+<media:thumbnail url="https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-1018277690.jpg?w=600&amp;h=315&amp;crop=1" />
+</item>
+<item>
+<title>NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html?unlocked_article_code=1.RVE.gLxg.XpnU5fMGh-0k&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2muy2wgqt2x</guid>
+<pubDate>Thu, 19 Nov 2026 01:06:16 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mtl5ssvv23</guid>
+<pubDate>Thu, 19 Nov 2026 00:41:09 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>At DealBook, Elon Musk says he feels &quot;pretty foolish&quot; after spending nearly $500M backing Republicans in midterms won by Democrats and claims &quot;I&#x27;m not MAGA&quot; (Todd Spangler/Variety)</title>
+<link>https://variety.com/2026/digital/news/elon-musk-pretty-foolish-midterm-election-races-not-maga-1236952400/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2msqeh5rk2t</guid>
+<pubDate>Thu, 19 Nov 2026 00:26:10 +0000</pubDate>
+<description>Elon Musk spent big backing Republicans in the 2026 midterm elections -- which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate -- and the tech mogul says he now feels &#x27;pretty foolish&#x27; about that.</description>
+<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/11/Elon-Musk.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>Elon Musk spent big backing Republicans in the 2026 midterm elections -- which resulted in a sweeping defeat of the GOP as Democrats took over the House and Senate -- and the tech mogul says he now feels &#x27;pretty foolish&#x27; about that.</p>]]></content:encoded>
+<media:content url="https://variety.com/wp-content/uploads/2026/11/Elon-Musk.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" />
+<media:thumbnail url="https://variety.com/wp-content/uploads/2026/11/Elon-Musk.jpg?w=1000&amp;h=563&amp;crop=1" />
+</item>
+<item>
+<title>Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)</title>
+<link>https://9to5google.com/2026/11/18/gemini-4-neon-announcement/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mshw6fyx2t</guid>
+<pubDate>Thu, 19 Nov 2026 00:21:26 +0000</pubDate>
+<description>Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" alt="" /></p><p>Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level...</p>]]></content:encoded>
+<media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" />
+</item>
+<item>
+<title>The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs&#x27; AI platform via a ~$95M no-bid deal (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-18/trump-administration-unveils-project-to-combat-cybercrime</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mr2myogr2b</guid>
+<pubDate>Wed, 18 Nov 2026 23:56:07 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)</title>
+<link>https://www.reuters.com/technology/palo-alto-buy-ai-startup-applied-compute-45-billion-2026-11-18/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mpnziw262e</guid>
+<pubDate>Wed, 18 Nov 2026 23:31:10 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: Leopold Aschenbrenner discussed &quot;Situational Awareness 2.0&quot;, a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)</title>
 <link>https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639</link>
@@ -92,8 +208,8 @@
 <link>https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mbz4muwh2x</guid>
 <pubDate>Wed, 18 Nov 2026 19:26:50 +0000</pubDate>
-<description>Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" alt="" /></p><p>Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</p>]]></content:encoded>
+<description>Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" alt="" /></p><p>Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</p>]]></content:encoded>
 <media:content url="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" medium="image" />
 <media:thumbnail url="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" />
 </item>
@@ -788,118 +904,6 @@
 <content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter. The NSA closed its campus to most employees on Tuesday night, reverting to essential personnel only as it works to restore the network, according to a voicemail inbox used by NSA employees and a source familiar with the matter.</p>]]></content:encoded>
 <media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
 <media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&amp;q=w_800,c_fill" />
-</item>
-<item>
-<title>DHS Secretary Markwayne Mullin says recent tech outages are not tied to cyberattacks but to &quot;pushing new technology on top of really old computer systems&quot; (David Shepardson/Reuters)</title>
-<link>https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jfr3fz7j2b</guid>
-<pubDate>Tue, 17 Nov 2026 15:55:56 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Codex, which lets businesses use stablecoins for cross-border payments across Asia, Latin America, and sub-Saharan Africa, raised a $30M Series A led by Pantera (Camila Grigera Naón/Fortune)</title>
-<link>https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jfi5qn752p</guid>
-<pubDate>Tue, 17 Nov 2026 15:50:57 +0000</pubDate>
-<description>Valued at $130 million, the startup sees an opening in the costly plumbing behind international payments.</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/Codex-Team-Photo.jpeg?resize=1200,600" alt="" /></p><p>Valued at $130 million, the startup sees an opening in the costly plumbing behind international payments.</p>]]></content:encoded>
-<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Codex-Team-Photo.jpeg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Codex-Team-Photo.jpeg?resize=1200,600" />
-</item>
-<item>
-<title>Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, per the leaders of the panels (Garrett Downs/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jef7m6o723</guid>
-<pubDate>Tue, 17 Nov 2026 15:31:24 +0000</pubDate>
-<description>House committee chairs invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn&#x27;t agree voluntarily.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" alt="" /></p><p>House committee chairs invited former Nvidia CEO Jensen Huang to testify and threatened to subpoena him if he didn&#x27;t agree voluntarily.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108236158-1764789583941-gettyimages-2249798538-imgl8902_wkmxte1x.jpeg?v=1794957180&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Mexico is struggling to attract data centers despite its proximity to the US, hosting just 71 of LatAm&#x27;s 500+ sites, due to a slow grid expansion and red tape (Alex Vasquez/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/features/2026-11-17/mexico-is-missing-out-on-ai-data-center-boom-as-energy-crunch-bites</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jdtedcnt2m</guid>
-<pubDate>Tue, 17 Nov 2026 15:21:25 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Neuralink co-founder Max Hodak&#x27;s Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation (Ike Swetlitz/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/science-corp-maker-of-retina-chip-for-blindness-valued-at-3-5-billion</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jbu3krz723</guid>
-<pubDate>Tue, 17 Nov 2026 14:46:02 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Anthony Hughes/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2jblurz7t26</guid>
-<pubDate>Tue, 17 Nov 2026 14:41:26 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Paris-based Genesis AI, which is building a general-purpose robot with greater dexterity for warehouses and homes, raised a $500M Series A at a $3.5B valuation (Steven Rosenbush/Wall Street Journal)</title>
-<link>https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457?st=VQ2f9L&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ja6rrupo2b</guid>
-<pubDate>Tue, 17 Nov 2026 14:16:13 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tiberius Aerospace, a defense-as-a-service startup that uses AI to design long-range supersonic artillery munitions, raised an $85M Series A at a $1B+ valuation (Isabella Ward/Wired)</title>
-<link>https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j72gleyf2p</guid>
-<pubDate>Tue, 17 Nov 2026 13:55:54 +0000</pubDate>
-<description>Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afb9fde88d847b7d226d42b/191:100/w_1280,c_limit/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png" alt="" /></p><p>Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6afb9fde88d847b7d226d42b/191:100/w_1280,c_limit/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6afb9fde88d847b7d226d42b/191:100/w_1280,c_limit/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png" />
-</item>
-<item>
-<title>SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic&#x27;s outstanding capital stock, respectively, after its IPO and private placement (David Morris/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j6adcddy27</guid>
-<pubDate>Tue, 17 Nov 2026 13:41:18 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The UK&#x27;s NHS plans to keep its £330M Palantir contract until 2029, rather than triggering an early release clause in 2027; the deal was due to run until 2031 (Hugh Pym/BBC)</title>
-<link>https://www.bbc.com/news/articles/cqvg27zpm8w8o</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j4suk5zm23</guid>
-<pubDate>Tue, 17 Nov 2026 13:15:52 +0000</pubDate>
-<description>Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.</description>
-<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg" alt="" /></p><p>Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.</p>]]></content:encoded>
-<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg" medium="image" />
-<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg" />
-</item>
-<item>
-<title>The European Commission issues preliminary DSA charges against PDD-owned Temu for failing to implement adequate measures to stop the sale of illegal goods (Reuters)</title>
-<link>https://www.reuters.com/legal/litigation/eu-preliminarily-finds-temu-breaches-regulation-failing-tackle-illegal-good-2026-11-17/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j4c2elc22m</guid>
-<pubDate>Tue, 17 Nov 2026 13:06:28 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A week with Apple Watch&#x27;s Siri Recap and Live Rewind in beta: they can be inaccurate, lag Amazon Bee, Granola, and Otter, and rarely justify the privacy costs (Natalie Lung/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j3p3zyhv2m</guid>
-<pubDate>Tue, 17 Nov 2026 12:55:52 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The Trump administration&#x27;s proposal to curb China&#x27;s remote access to AI chips rattles Southeast Asia, threatening a data center boom fueled by Chinese companies (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html?unlocked_article_code=1.RFE.3pta.az4-gkX5GBns&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2j35kmynv2x</guid>
-<pubDate>Tue, 17 Nov 2026 12:46:03 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
