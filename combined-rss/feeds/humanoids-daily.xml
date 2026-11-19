@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 07:34:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 16:46:29 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>XPENG Sets November 25 AI Day in Guangzhou, Promises New IRON Capabilities</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4ca18eed401328d1c33.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/xpeng-ai-day-2026-november-25-guangzhou</guid>
+<pubDate>Thu, 19 Nov 2026 13:07:04 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/xpeng-ai-day-2026-november-25-guangzhou" rel="related" type="text/html" />
+<description>He Xiaopeng says the event will focus on how AI models and physical systems evolve together, with IRON interacting live on stage weeks before its mass-production target.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp" alt="" /></p><p>He Xiaopeng says the event will focus on how AI models and physical systems evolve together, with IRON interacting live on stage weeks before its mass-production target.</p><p><a href="https://www.humanoidsdaily.com/news/xpeng-ai-day-2026-november-25-guangzhou">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-ai-day-2026-origin-iron-teaser-cXByT0aZAyeFW6DF0pdkcHDvpMvtBh.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>NJIT's PHD-Hand Uses Linkages, Not Tendons, in a Humanoid Hand You Can Print for Under $650</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/14e22d6ade5ed130b400.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand</guid>
+<pubDate>Thu, 19 Nov 2026 07:55:32 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand" rel="related" type="text/html" />
+<description>NJIT researchers built PHD-Hand, a 570 g, 3D-printable humanoid hand with 15 linkage-driven joints and a parts cost under $650. The paper is accepted at IEEE Humanoids 2026, and the design will be open-sourced.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp" alt="" /></p><p>NJIT researchers built PHD-Hand, a 570 g, 3D-printable humanoid hand with 15 linkage-driven joints and a parts cost under $650. The paper is accepted at IEEE Humanoids 2026, and the design will be open-sourced.</p><p><a href="https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/phd-hand-njit-og-landscape-hggMuIlFFDqw5M6snYHr64cT4zg6Fe.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>IntelliProve Raises €2.7M to Bring Camera-Based Vital Signs to Humanoid Robots</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f15bd82878ec00c503ac.html</link>
@@ -127,8 +155,8 @@
 <source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
 <category>Humanoids Daily</category>
 <atom:link href="https://www.humanoidsdaily.com/features/frontier-language-models-speeding-up-robotics-research" rel="related" type="text/html" />
-<description>From a vibe-coded motion tracker to Argon reviewing robot failures and Astra steering GR00T 2, language models now sit in several parts of the robot-learning loop. Most of the fastest gains are still in simulation.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp" alt="" /></p><p>From a vibe-coded motion tracker to Argon reviewing robot failures and Astra steering GR00T 2, language models now sit in several parts of the robot-learning loop. Most of the fastest gains are still in simulation.</p><p><a href="https://www.humanoidsdaily.com/features/frontier-language-models-speeding-up-robotics-research">Open Original Article</a></p>]]></content:encoded>
+<description>In a post on X on Saturday, Ros Shinkle, founder and CEO of [Tuesday Labs](https://www.humanoidsdaily.com/news/tuesday-labs-voxel-home-robot-reservations) and formerly a staff roboticist at Boston Dynamics, asked whether her friends outside robotics knew what was happening. "Before October 20 it took 1 week to train a whole body controller (ie robot walking model) on 128 GPUs," she wrote. "Now it takes 3 minutes on…</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp" alt="" /></p><p>In a post on X on Saturday, Ros Shinkle, founder and CEO of [Tuesday Labs](https://www.humanoidsdaily.com/news/tuesday-labs-voxel-home-robot-reservations) and formerly a staff roboticist at Boston Dynamics, asked whether her friends outside robotics knew what was happening. "Before October 20 it took 1 week to train a whole body controller (ie robot walking model) on 128 GPUs," she wrote. "Now it takes 3 minutes on…</p><p><a href="https://www.humanoidsdaily.com/features/frontier-language-models-speeding-up-robotics-research">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/frontier-models-robotics-research-hero-PwZytTW1eLDTZCoufhTwv6CfKskdGt.webp" type="image/webp" length="0" />
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Inside Unitree's Hangzhou Factory, Robots Are Still Mostly Built by Hand</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/dc753f022ae2dd9fce77.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen</guid>
-<pubDate>Sat, 07 Nov 2026 11:31:16 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen" rel="related" type="text/html" />
-<description>Josef Chen's visit to Unitree's Hangzhou factory, and the company's own filings, show a robot maker running on manual assembly with about $50 of machinery per robot. He argues US wages and trade barriers make factory automation far more valuable to American robot makers.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp" alt="" /></p><p>Josef Chen's visit to Unitree's Hangzhou factory, and the company's own filings, show a robot maker running on manual assembly with about $50 of machinery per robot. He argues US wages and trade barriers make factory automation far more valuable to American robot makers.</p><p><a href="https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Swiss Startup Embodied AI Unveils AIR, a Wheeled Robot Built to Work Beside Factory Staff Without a Cage</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f6dcb14354d178cb1395.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe</guid>
-<pubDate>Fri, 06 Nov 2026 11:59:02 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe" rel="related" type="text/html" />
-<description>The EPFL spin-off's two-armed robot starts each job under remote control and, the company says, takes the task over within a month. It reports a 95% average success rate in paid pilots.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp" alt="" /></p><p>The EPFL spin-off's two-armed robot starts each job under remote control and, the company says, takes the task over within a month. It reports a 95% average success rate in paid pilots.</p><p><a href="https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
