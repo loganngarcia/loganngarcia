@@ -5,8 +5,142 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 10:10:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 18:36:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Trump says he would block US companies from building data centers overseas or impose a &quot;tremendous tax&quot; on them if they do (Julianna Bragg/Axios)</title>
+<link>https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ra3wopsb2b</guid>
+<pubDate>Fri, 20 Nov 2026 18:35:56 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Investigation: companies in Alice Huang&#x27;s family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2r7t4bb3o2q</guid>
+<pubDate>Fri, 20 Nov 2026 18:31:00 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tom Cotton, the GOP senator who chairs the Senate Intelligence Committee, says Howard Lutnick repeatedly ignored warnings about AI chips being smuggled to China (Wall Street Journal)</title>
+<link>https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2r6q3z6la2i</guid>
+<pubDate>Fri, 20 Nov 2026 18:11:25 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn&#x27;t come up (Reuters)</title>
+<link>https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2r3vvo5d62m</guid>
+<pubDate>Fri, 20 Nov 2026 17:20:58 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February (Harper Harwell/Birmingham Business Journal)</title>
+<link>https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html?page=all</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qxif3zd42m</guid>
+<pubDate>Fri, 20 Nov 2026 16:01:50 +0000</pubDate>
+<description>From www.bizjournals.com</description>
+<content:encoded><![CDATA[<p>From www.bizjournals.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filings: Jensen Huang&#x27;s charity committed $350M to rent compute from CoreWeave for its Computing Initiative for Open Science, and has already spent $108.3M (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/jensen-huang-s-charity-committed-350-million-to-coreweave</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qvrifqpf2b</guid>
+<pubDate>Fri, 20 Nov 2026 15:31:08 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic mathematician Levent Alpöge says he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)</title>
+<link>https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qv7s7t4g26</guid>
+<pubDate>Fri, 20 Nov 2026 15:21:14 +0000</pubDate>
+<description>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</description>
+<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&amp;w=1200" alt="" /></p><p>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</p>]]></content:encoded>
+<media:content url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&amp;w=1200" medium="image" />
+<media:thumbnail url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795183538.4&amp;w=1200" />
+</item>
+<item>
+<title>Anthropic stock fell as low as $87.26 in the opening hours of its second day of trading, trimming gains from the $83 IPO price to as little as 5.1% (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qunbgaqc2t</guid>
+<pubDate>Fri, 20 Nov 2026 15:10:52 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-19/coinbase-eyes-in-house-prediction-markets-in-first-half-2027</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qsfsgxzj2b</guid>
+<pubDate>Fri, 20 Nov 2026 14:30:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic raises an additional $12.2B as underwriters exercise their &quot;greenshoe&quot; overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qq6imi7h2b</guid>
+<pubDate>Fri, 20 Nov 2026 13:51:02 +0000</pubDate>
+<description>The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&amp;w=1920&amp;h=1080" alt="" /></p><p>The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17 (Kirsten Korosec/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qnxa3hbp2i</guid>
+<pubDate>Fri, 20 Nov 2026 13:11:10 +0000</pubDate>
+<description>Uber is testing the new program in three U.S. cities.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800" alt="" /></p><p>Uber is testing the new program in three U.S. cities.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800" />
+</item>
+<item>
+<title>How Jensen Huang used humiliation in his management style for decades; Huang&#x27;s behavior once led to a settlement with an exec who said he &quot;terrorized&quot; staff (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qmbhbuiv2b</guid>
+<pubDate>Fri, 20 Nov 2026 12:41:06 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: China says it will not approve requests from Chinese companies registered overseas after 2023 to list outside mainland China, impacting tech startups (Reuters)</title>
+<link>https://www.reuters.com/world/beijing-bar-young-red-chip-firms-listing-outside-mainland-china-sources-say-2026-11-20/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qi3bmfdf2m</guid>
+<pubDate>Fri, 20 Nov 2026 11:26:04 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qha25voa2i</guid>
+<pubDate>Fri, 20 Nov 2026 11:10:50 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Signal says it will restrict screenshots by default to stop AI agents from reading private chats on phones but warns its new protections are &quot;incomplete&quot; (Katie Paul/Reuters)</title>
+<link>https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qgpeoidq2q</guid>
+<pubDate>Fri, 20 Nov 2026 11:01:31 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: SK Hynix will become Kioxia&#x27;s largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector (Yoolim Lee/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qg674x4k2m</guid>
+<pubDate>Fri, 20 Nov 2026 10:51:54 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)</title>
 <link>https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/</link>
@@ -110,8 +244,10 @@
 <link>https://institute.deepmind.com/essays/what-comes-after-agi/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
 <pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<description>From institute.deepmind.com</description>
-<content:encoded><![CDATA[<p>From institute.deepmind.com</p>]]></content:encoded>
+<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
+<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p>]]></content:encoded>
+<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" />
+<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
 </item>
 <item>
 <title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#x27;s close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
@@ -728,148 +864,6 @@
 <content:encoded><![CDATA[<p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" alt="" /></p><p>Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level...</p>]]></content:encoded>
 <media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" medium="image" />
 <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628" />
-</item>
-<item>
-<title>The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs&#x27; AI platform via a ~$95M no-bid deal (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-18/trump-administration-unveils-project-to-combat-cybercrime</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mr2myogr2b</guid>
-<pubDate>Wed, 18 Nov 2026 23:56:07 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)</title>
-<link>https://www.reuters.com/technology/palo-alto-buy-ai-startup-applied-compute-45-billion-2026-11-18/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mpnziw262e</guid>
-<pubDate>Wed, 18 Nov 2026 23:31:10 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Leopold Aschenbrenner discussed &quot;Situational Awareness 2.0&quot;, a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)</title>
-<link>https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mnggf6jo26</guid>
-<pubDate>Wed, 18 Nov 2026 22:51:08 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>OpenAI says its models improved power, performance, and area by up to 14% on AMD&#x27;s flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)</title>
-<link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ml76mari2b</guid>
-<pubDate>Wed, 18 Nov 2026 22:11:17 +0000</pubDate>
-<description>From openai.com</description>
-<content:encoded><![CDATA[<p>From openai.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Source: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)</title>
-<link>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mkqfhbl727</guid>
-<pubDate>Wed, 18 Nov 2026 22:03:01 +0000</pubDate>
-<description>Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" alt="" /></p><p>Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Google rolls out Gemini 4 Neon, with &quot;fast end-to-end task completion&quot; across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mjxpzacz2p</guid>
-<pubDate>Wed, 18 Nov 2026 21:49:13 +0000</pubDate>
-<description>Today, we’re introducing Gemini 4 Neon</description>
-<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png" alt="" /></p><p>Today, we’re introducing Gemini 4 Neon</p>]]></content:encoded>
-<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png" medium="image" />
-<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png" />
-</item>
-<item>
-<title>DNI, DHS, and FBI officials tell Congress they have found no evidence that recent US tech outages were connected to each other or caused by cyberattacks (Nicole Sganga/CBS News)</title>
-<link>https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mjs7owkk2b</guid>
-<pubDate>Wed, 18 Nov 2026 21:46:08 +0000</pubDate>
-<description>Officials are testifying at a House committee hearing on worldwide threats as a series of network outages, including Microsoft Outlook and several banking institutions, have rattled Americans.</description>
-<content:encoded><![CDATA[<p><img src="https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/d243d062-f4eb-491b-a95a-28cf49a9a466/thumbnail/1200x630/d018f8fd6ed600cbbe1abeaab89ec243/gettyimages-2305721900.jpg" alt="" /></p><p>Officials are testifying at a House committee hearing on worldwide threats as a series of network outages, including Microsoft Outlook and several banking institutions, have rattled Americans.</p>]]></content:encoded>
-<media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/d243d062-f4eb-491b-a95a-28cf49a9a466/thumbnail/1200x630/d018f8fd6ed600cbbe1abeaab89ec243/gettyimages-2305721900.jpg" medium="image" />
-<media:thumbnail url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/d243d062-f4eb-491b-a95a-28cf49a9a466/thumbnail/1200x630/d018f8fd6ed600cbbe1abeaab89ec243/gettyimages-2305721900.jpg" />
-</item>
-<item>
-<title>Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg&#x27;s stake (Sabrina Willmer/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mjj6e5u62e</guid>
-<pubDate>Wed, 18 Nov 2026 21:41:05 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)</title>
-<link>https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?st=xrTMe2&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mi4nuibs2i</guid>
-<pubDate>Wed, 18 Nov 2026 21:16:11 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Bret Taylor&#x27;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)</title>
-<link>https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mhdjubdo2l</guid>
-<pubDate>Wed, 18 Nov 2026 21:02:08 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2me7jhajh2t</guid>
-<pubDate>Wed, 18 Nov 2026 20:06:12 +0000</pubDate>
-<description>You can now text or email Gemini, too.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" alt="" /></p><p>You can now text or email Gemini, too.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200" />
-</item>
-<item>
-<title>At Nvidia&#x27;s first all-hands since Huang&#x27;s ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)</title>
-<link>https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2mbz4muwh2x</guid>
-<pubDate>Wed, 18 Nov 2026 19:26:50 +0000</pubDate>
-<description>Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" alt="" /></p><p>Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6afddee377c5562ae471019b/191:100/w_1280,c_limit/GettyImages-2304258889.jpg" />
-</item>
-<item>
-<title>Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2m76itq6k2i</guid>
-<pubDate>Wed, 18 Nov 2026 18:36:09 +0000</pubDate>
-<description>We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.</description>
-<content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png" alt="" /></p><p>We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.</p>]]></content:encoded>
-<media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png" medium="image" />
-<media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png" />
-</item>
-<item>
-<title>Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)</title>
-<link>https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2m4xjum5s2m</guid>
-<pubDate>Wed, 18 Nov 2026 17:56:28 +0000</pubDate>
-<description>From www.politico.com</description>
-<content:encoded><![CDATA[<p>From www.politico.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)</title>
-<link>https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2m44dvzlg2i</guid>
-<pubDate>Wed, 18 Nov 2026 17:41:16 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges (CNBC)</title>
-<link>https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2m2poqxgf2m</guid>
-<pubDate>Wed, 18 Nov 2026 17:16:17 +0000</pubDate>
-<description>Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" alt="" /></p><p>Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108554572-1795033463943-108554572-1795033101955-gettyimages-2305196401-ANTHROPIC_IPO.jpg?v=1795033477&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
