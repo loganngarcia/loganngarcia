@@ -5,8 +5,36 @@
 <link>https://www.humanoidsdaily.com/</link>
 <description>Humanoids Daily with rich descriptions and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 04:02:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 12:47:33 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/humanoids-daily.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Apptronik's RL Lead Says Legs, Not Wheels, Make Robots Safe to Work Beside</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bb98f18994107dfbe372.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/apptronik-morgenstein-legs-safer-than-wheels</guid>
+<pubDate>Fri, 20 Nov 2026 10:58:12 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/apptronik-morgenstein-legs-safer-than-wheels" rel="related" type="text/html" />
+<description>Kyle Morgenstein argues the "fits in human spaces" case for humanoids is really about safety: legs keep a robot compliant with small actuators, while wheeled bases carry large reflected inertia.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apptronik-apollo-2-watering-can-gemini-robotics-NBPvs9YCfJu6vCgfxQFYVzrldDlSvy.webp" alt="" /></p><p>Kyle Morgenstein argues the "fits in human spaces" case for humanoids is really about safety: legs keep a robot compliant with small actuators, while wheeled bases carry large reflected inertia.</p><p><a href="https://www.humanoidsdaily.com/news/apptronik-morgenstein-legs-safer-than-wheels">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apptronik-apollo-2-watering-can-gemini-robotics-NBPvs9YCfJu6vCgfxQFYVzrldDlSvy.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apptronik-apollo-2-watering-can-gemini-robotics-NBPvs9YCfJu6vCgfxQFYVzrldDlSvy.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apptronik-apollo-2-watering-can-gemini-robotics-NBPvs9YCfJu6vCgfxQFYVzrldDlSvy.webp" type="image/webp" length="0" />
+</item>
+<item>
+<title>1X Will Ship NEO to Developers in December, Plans Weekly Leaderboard and Live Robot Runs</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ef68d7da1a3d57467d1.html</link>
+<guid isPermaLink="false">https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich</guid>
+<pubDate>Fri, 20 Nov 2026 09:24:40 +0000</pubDate>
+<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
+<category>Humanoids Daily</category>
+<atom:link href="https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich" rel="related" type="text/html" />
+<description>At Runtime 2026, Bernt Børnich said NEO ships in December to developers and some consumers, with a sensor-matched data collection rig, an automated training pipeline, open APIs, a Discord community and a Friday leaderboard streamed on Twitch.</description>
+<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" alt="" /></p><p>At Runtime 2026, Bernt Børnich said NEO ships in December to developers and some consumers, with a sensor-matched data collection rig, an automated training pipeline, open APIs, a Discord community and a Friday leaderboard streamed on Twitch.</p><p><a href="https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" medium="image" type="image/webp" />
+<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" />
+<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" type="image/webp" length="0" />
+</item>
 <item>
 <title>XPENG Sets November 25 AI Day in Guangzhou, Promises New IRON Capabilities</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a4ca18eed401328d1c33.html</link>
@@ -468,34 +496,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/primebot-q1-robots-production-video-TQlRzZNfem06OHoU2rggAkym4sAVup.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Figure’s HQ Is Crawling With Figure 03 Robots. What Are They All Doing?</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/f8542662890cfb1d7a26.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos</guid>
-<pubDate>Sat, 07 Nov 2026 18:28:26 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos" rel="related" type="text/html" />
-<description>Two new videos from Brett Adcock show dozens of Figure 03 humanoids roaming Figure’s headquarters, inside and out. The company is close to having more robots than employees, but has said little about how many are doing paid work.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp" alt="" /></p><p>Two new videos from Brett Adcock show dozens of Figure 03 humanoids roaming Figure’s headquarters, inside and out. The company is close to having more robots than employees, but has said little about how many are doing paid work.</p><p><a href="https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Atlas Battery Pack to Use 70 Samsung SDI Cells, Report Says</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5c394383a4c84248f81c.html</link>
-<guid isPermaLink="false">https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh</guid>
-<pubDate>Sat, 07 Nov 2026 11:43:21 +0000</pubDate>
-<source url="https://www.humanoidsdaily.com/">Humanoids Daily</source>
-<category>Humanoids Daily</category>
-<atom:link href="https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh" rel="related" type="text/html" />
-<description>The reported 1.3 kWh pack adds detail to Atlas’s power system as humanoid makers pursue battery swapping, fast charging and new chemistries.</description>
-<content:encoded><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" alt="" /></p><p>The reported 1.3 kWh pack adds detail to Atlas’s power system as humanoid makers pursue battery swapping, fast charging and new chemistries.</p><p><a href="https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" />
-<enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/boston-dynamics-atlas-video-aywHOT0exDO6So7vNqAA2M4wyuupYM.webp" type="image/webp" length="0" />
 </item>
 </channel>
 </rss>
