@@ -5,8 +5,106 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 01:49:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 08:52:36 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/10fe0526aacedac9fc68.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2si2g6yag2l</guid>
+<pubDate>Sat, 21 Nov 2026 06:30:54 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/" rel="related" type="text/html" />
+<description>Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup</description>
+<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&amp;w=1200" alt="" /></p><p>Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup</p><p><a href="https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&amp;w=1200" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&amp;w=1200" />
+<enclosure url="https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&amp;w=1200" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0938c826a63aee31ae39.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2sgwnw4522m</guid>
+<pubDate>Sat, 21 Nov 2026 06:10:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/" rel="related" type="text/html" />
+<description>Microsoft will retire its To Do app on June 30, 2027, moving work and school users to Planner and leaving personal-account users to pick another app. Users vented on X and LinkedIn as rival apps including Todoist, TickTick and Superlist pitched themselves as replacements.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-to-do-retirement.png" alt="" /></p><p>Microsoft will retire its To Do app on June 30, 2027, moving work and school users to Planner and leaving personal-account users to pick another app. Users vented on X and LinkedIn as rival apps including Todoist, TickTick and Superlist pitched themselves as replacements.</p><p><a href="https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-to-do-retirement.png" medium="image" type="image/png" />
+<media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-to-do-retirement.png" />
+<enclosure url="https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-to-do-retirement.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/30bb99aea49c7a8d3f79.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2sggehyr52p</guid>
+<pubDate>Sat, 21 Nov 2026 06:01:48 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls" rel="related" type="text/html" />
+<description>TSMC suspends some shipments, non-Chinese and non-AI developers hit</description>
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F7%2F0%2F7%2F13467079-1-eng-GB%2F03e997ced1f5-20251003-TSMC001d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" alt="" /></p><p>TSMC suspends some shipments, non-Chinese and non-AI developers hit</p><p><a href="https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F7%2F0%2F7%2F13467079-1-eng-GB%2F03e997ced1f5-20251003-TSMC001d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F7%2F0%2F7%2F13467079-1-eng-GB%2F03e997ced1f5-20251003-TSMC001d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F7%2F0%2F7%2F13467079-1-eng-GB%2F03e997ced1f5-20251003-TSMC001d.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Ubisoft launches Motherbrain, a subsidiary focused on developing "smart NPCs with memory and AI game masters that manage large-scale systemic worlds" (Sophie McEvoy/GamesIndustry.biz)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/21f601bc14ebefc30795.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2sdueso5i2l</guid>
+<pubDate>Sat, 21 Nov 2026 05:15:57 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation" rel="related" type="text/html" />
+<description>Studio is currently developing "smart NPCs with memory and AI game masters that manage large-scale systemic worlds"</description>
+<content:encoded><![CDATA[<p><img src="https://assetsio.gnwcdn.com/IMG_0617_AQAmnup.JPG?width=2048&amp;height=2048&amp;fit=bounds&amp;quality=85&amp;format=jpg&amp;auto=webp" alt="" /></p><p>Studio is currently developing "smart NPCs with memory and AI game masters that manage large-scale systemic worlds"</p><p><a href="https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://assetsio.gnwcdn.com/IMG_0617_AQAmnup.JPG?width=2048&amp;height=2048&amp;fit=bounds&amp;quality=85&amp;format=jpg&amp;auto=webp" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://assetsio.gnwcdn.com/IMG_0617_AQAmnup.JPG?width=2048&amp;height=2048&amp;fit=bounds&amp;quality=85&amp;format=jpg&amp;auto=webp" />
+<enclosure url="https://assetsio.gnwcdn.com/IMG_0617_AQAmnup.JPG?width=2048&amp;height=2048&amp;fit=bounds&amp;quality=85&amp;format=jpg&amp;auto=webp" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is "no longer under active consideration" (The Information)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/58fcc6af0deb1aca18ee.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2s3iawsd42b</guid>
+<pubDate>Sat, 21 Nov 2026 02:46:00 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix" rel="related" type="text/html" />
+<description>SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of memory chip giant SK Hynix, according to people familiar with the matter, though a spokesperson said he’s no longer actively considering such a deal. “SoftBank explores ...</description>
+<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18234/f3fbc26d-3406-4d83-a58e-4c696acd450f.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of memory chip giant SK Hynix, according to people familiar with the matter, though a spokesperson said he’s no longer actively considering such a deal. “SoftBank explores ...</p><p><a href="https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://tii.imgix.net/production/articles/18234/f3fbc26d-3406-4d83-a58e-4c696acd450f.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://tii.imgix.net/production/articles/18234/f3fbc26d-3406-4d83-a58e-4c696acd450f.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
+<enclosure url="https://tii.imgix.net/production/articles/18234/f3fbc26d-3406-4d83-a58e-4c696acd450f.jpg?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6bc06e59248373d1d76d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2s2wb3jvp2p</guid>
+<pubDate>Sat, 21 Nov 2026 02:35:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database" rel="related" type="text/html" />
+<description>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</description>
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</p><p><a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" />
+<enclosure url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Oracle says it has secured funding for its infrastructure contract with OpenAI and "any further private discussions with vendors are just additional options" (@oracle)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4a6321a045aa4031c191.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rtobpj6726</guid>
+<pubDate>Sat, 21 Nov 2026 00:26:12 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/oracle/status/2123884437045760420" rel="related" type="text/html" />
+<description>Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capital raise earlier this month, we became the first hyperscaler fully funded for this investment cycle. The financing we outlined at Oracle Investor Day, including vendor financing, is in place. Any fur…</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2064381976048459777%2Fd8QDf9lu_400x400.png" alt="" /></p><p>Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capital raise earlier this month, we became the first hyperscaler fully funded for this investment cycle. The financing we outlined at Oracle Investor Day, including vendor financing, is in place. Any fur…</p><p><a href="https://x.com/oracle/status/2123884437045760420">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2064381976048459777%2Fd8QDf9lu_400x400.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2064381976048459777%2Fd8QDf9lu_400x400.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F2064381976048459777%2Fd8QDf9lu_400x400.png" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ff0007f54b0bf06a7e9e.html</link>
@@ -776,104 +874,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FL0IRrV-ctpW-gcbAXiU-JWebjyI%3D%2F0x0%3A7871x4427%2F1366x768%2F2026%2F11%2F20%2F1795134043116.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FL0IRrV-ctpW-gcbAXiU-JWebjyI%3D%2F0x0%3A7871x4427%2F1366x768%2F2026%2F11%2F20%2F1795134043116.jpg" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FL0IRrV-ctpW-gcbAXiU-JWebjyI%3D%2F0x0%3A7871x4427%2F1366x768%2F2026%2F11%2F20%2F1795134043116.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/073cec697000d41a09ff.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2p4r5meuc2m</guid>
-<pubDate>Thu, 19 Nov 2026 22:30:53 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY" rel="related" type="text/html" />
-<description>Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropic...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBYr4yPkYRWM%2Fv1%2F1200x800.jpg" alt="" /></p><p>Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropic...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBYr4yPkYRWM%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBYr4yPkYRWM%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiBYr4yPkYRWM%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Intuit agrees to sell marketing subsidiary Mailchimp to Bending Spoons for $3.68B in cash and stock; Intuit paid $12B to buy Mailchimp in 2021 (Jordan Novet/CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/809d23d9ebceb151c981.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oz5pbafo2q</guid>
-<pubDate>Thu, 19 Nov 2026 21:26:19 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html" rel="related" type="text/html" />
-<description>Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&amp;w=1920&amp;h=1080" alt="" /></p><p>Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.</p><p><a href="https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108555972-1795124377963-gettyimages-2305362442-261116emc052_bnaz2xa9.jpeg?v=1795124419&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/450b4071a471de36b403.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oy62ev5i2x</guid>
-<pubDate>Thu, 19 Nov 2026 21:08:37 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" rel="related" type="text/html" />
-<description>Anthropic notched a valuation of about $2 trillion in its Nasdaq debut, edging past SpaceX's June listing and capping a turbulent stretch for the AI sector that tested Wall Street's appetite for the ​...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHL44STTNSZIINEN3KVY7QIL4CA.jpg%3Fauth%3D08e0594619050731358b34a16bbd670970a81219a7b83fb231c1e9055a8a6b35%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Anthropic notched a valuation of about $2 trillion in its Nasdaq debut, edging past SpaceX's June listing and capping a turbulent stretch for the AI sector that tested Wall Street's appetite for the ​...</p><p><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHL44STTNSZIINEN3KVY7QIL4CA.jpg%3Fauth%3D08e0594619050731358b34a16bbd670970a81219a7b83fb231c1e9055a8a6b35%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHL44STTNSZIINEN3KVY7QIL4CA.jpg%3Fauth%3D08e0594619050731358b34a16bbd670970a81219a7b83fb231c1e9055a8a6b35%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FHL44STTNSZIINEN3KVY7QIL4CA.jpg%3Fauth%3D08e0594619050731358b34a16bbd670970a81219a7b83fb231c1e9055a8a6b35%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/a712b28d93dabb22f6c8.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oxth4wis2m</guid>
-<pubDate>Thu, 19 Nov 2026 21:02:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/" rel="related" type="text/html" />
-<description>Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.</description>
-<content:encoded><![CDATA[<p><img src="https://imgproxy.divecdn.com/90l1kgM5RgIOe3mcI-vWvyEIdwxqmi8psPd-4E77IXI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" alt="" /></p><p>Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.</p><p><a href="https://www.cybersecuritydive.com/news/cisa-nominee-michael-losapio-confirmation-hearing/875197/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://imgproxy.divecdn.com/90l1kgM5RgIOe3mcI-vWvyEIdwxqmi8psPd-4E77IXI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" medium="image" type="image/webp" />
-<media:thumbnail url="https://imgproxy.divecdn.com/90l1kgM5RgIOe3mcI-vWvyEIdwxqmi8psPd-4E77IXI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" />
-<enclosure url="https://imgproxy.divecdn.com/90l1kgM5RgIOe3mcI-vWvyEIdwxqmi8psPd-4E77IXI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTA0NTYxLmpwZw==.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months (Jyoti Mann/The Information)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/b9badfd3e81f1cb3e2b0.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2otul23cu2i</guid>
-<pubDate>Thu, 19 Nov 2026 19:51:44 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business" rel="related" type="text/html" />
-<description>Meta Platforms plans to charge $300 for its forthcoming Muse Charm device and offer user subsidies, according to a person familiar with the matter, betting that the pocket-sized AI gadget will help energize its hardware business and draw users to its new personal assistant. To lure buyers, Meta ...</description>
-<content:encoded><![CDATA[<p><img src="https://tii.imgix.net/production/articles/18210/90436920-8fa4-47bb-8d22-46c254f1291d.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt="" /></p><p>Meta Platforms plans to charge $300 for its forthcoming Muse Charm device and offer user subsidies, according to a person familiar with the matter, betting that the pocket-sized AI gadget will help energize its hardware business and draw users to its new personal assistant. To lure buyers, Meta ...</p><p><a href="https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://tii.imgix.net/production/articles/18210/90436920-8fa4-47bb-8d22-46c254f1291d.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" medium="image" type="image/png" />
-<media:thumbnail url="https://tii.imgix.net/production/articles/18210/90436920-8fa4-47bb-8d22-46c254f1291d.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" />
-<enclosure url="https://tii.imgix.net/production/articles/18210/90436920-8fa4-47bb-8d22-46c254f1291d.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/png" length="0" />
-</item>
-<item>
-<title>A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/63c94f88d5a05394de9f.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2or4cmtze2i</guid>
-<pubDate>Thu, 19 Nov 2026 19:02:22 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829" rel="related" type="text/html" />
-<description>The group will be chaired by Reps. George Whitesides, Don Beyer and Nathaniel Moran.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2F6f7c2fa%2F2147483647%2Fresize%2F1200x%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F8b%252F2e%252F6bee9b35422f9a04c406d689eb40%252Felection-2024-california-house-15316.jpg" alt="" /></p><p>The group will be chaired by Reps. George Whitesides, Don Beyer and Nathaniel Moran.</p><p><a href="https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2F6f7c2fa%2F2147483647%2Fresize%2F1200x%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F8b%252F2e%252F6bee9b35422f9a04c406d689eb40%252Felection-2024-california-house-15316.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2F6f7c2fa%2F2147483647%2Fresize%2F1200x%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F8b%252F2e%252F6bee9b35422f9a04c406d689eb40%252Felection-2024-california-house-15316.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.politico.com%2Fdims4%2Fdefault%2F6f7c2fa%2F2147483647%2Fresize%2F1200x%2Fquality%2F90%2F%3Furl%3Dhttps%253A%252F%252Fstatic.politico.com%252F8b%252F2e%252F6bee9b35422f9a04c406d689eb40%252Felection-2024-california-house-15316.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1054662f25c3d852e57e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oqi7gfaa2b</guid>
-<pubDate>Thu, 19 Nov 2026 18:51:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/" rel="related" type="text/html" />
-<description>Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675" alt="" /></p><p>Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.</p><p><a href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>XPENG Sets November 25 AI Day in Guangzhou, Promises New IRON Capabilities</title>
@@ -1996,20 +1996,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
-<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
-<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
 <guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
@@ -2036,6 +2022,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
+<guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotmanip" rel="related" type="text/html" />
+<description>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" alt="" /></p><p>Qwen-Omni × Qwen-RobotManip — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Each video shows Qwen-RobotManip completing tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization. Qwen-RobotManip is validated across various real-robot platforms and tasks, demonstrating str</p><p><a href="https://qwen.ai/blog?id=qwen-robotmanip">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
