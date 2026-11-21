@@ -5,8 +5,32 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 07:19:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 15:27:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Rhodium: China&#x27;s biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2tf4u7lb523</guid>
+<pubDate>Sat, 21 Nov 2026 15:11:15 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)</title>
+<link>https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2sytrqofs23</guid>
+<pubDate>Sat, 21 Nov 2026 11:31:25 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html?unlocked_article_code=1.R1E.PGHV.x5mP00wlvgC0&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2slfozf7a27</guid>
+<pubDate>Sat, 21 Nov 2026 07:30:54 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
 <item>
 <title>NYU&#x27;s Tristan Buckmaster and Anthropic&#x27;s Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI&#x27;s solution (Peter Hall/Scientific American)</title>
 <link>https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/</link>
@@ -644,8 +668,10 @@
 <link>https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2okmxccau2b</guid>
 <pubDate>Thu, 19 Nov 2026 17:06:25 +0000</pubDate>
-<description>From tech.eu</description>
-<content:encoded><![CDATA[<p>From tech.eu</p>]]></content:encoded>
+<description>Boltz was spun out of MIT but is now located in London.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" alt="" /></p><p>Boltz was spun out of MIT but is now located in London.</p>]]></content:encoded>
+<media:content url="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" medium="image" />
+<media:thumbnail url="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" />
 </item>
 <item>
 <title>Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (CNBC)</title>
@@ -856,30 +882,6 @@
 <pubDate>Thu, 19 Nov 2026 11:10:56 +0000</pubDate>
 <description>From www.nytimes.com</description>
 <content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Alibaba reports Q2 revenue up 10% to ~$40.7B, above est., and net profit up 3x to ~$9.68B, above ~$3.6B est., as its AI and e-commerce profitability improves (Tracy Qu/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?st=wx49Qv&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nwck5mev2q</guid>
-<pubDate>Thu, 19 Nov 2026 11:02:41 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Moonshot AI cancelled a $150M contract with a Southeast Asian neocloud to rent access to Nvidia AI chips in an Indonesian data center, after US rules (The Information)</title>
-<link>https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nvwervde26</guid>
-<pubDate>Thu, 19 Nov 2026 10:55:52 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>South Korea passes $1T in exports in 2026, up from $709B in 2025, becoming the fourth nation globally to reach the milestone after Germany, the US, and China (Reuters)</title>
-<link>https://www.reuters.com/world/south-korea-becomes-fourth-country-globally-hit-1-trillion-exports-ai-chip-boom-2026-11-19/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nvo3aw3t2t</guid>
-<pubDate>Thu, 19 Nov 2026 10:51:14 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
