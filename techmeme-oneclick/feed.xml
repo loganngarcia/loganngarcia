@@ -5,8 +5,34 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 15:27:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:00:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen (Dan Goodin/Ars Technica)</title>
+<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2tvv7ughn27</guid>
+<pubDate>Sat, 21 Nov 2026 20:11:12 +0000</pubDate>
+<description>Test using prompts with unique, trackable secrets proves that data doesn&#x27;t stay private.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" alt="" /></p><p>Test using prompts with unique, trackable secrets proves that data doesn&#x27;t stay private.</p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" medium="image" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" />
+</item>
+<item>
+<title>Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)</title>
+<link>https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2trpns3aa2x</guid>
+<pubDate>Sat, 21 Nov 2026 18:56:30 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)</title>
+<link>https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2todynda52q</guid>
+<pubDate>Sat, 21 Nov 2026 17:56:18 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Rhodium: China&#x27;s biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)</title>
 <link>https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18&amp;smid=url-share</link>
@@ -84,8 +110,8 @@
 <link>https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2s2wb3jvp2p</guid>
 <pubDate>Sat, 21 Nov 2026 02:35:56 +0000</pubDate>
-<description>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</p>]]></content:encoded>
+<description>President Donald Trump on Saturday seemed to downplay a breach into the FBI’s nationwide criminal information database, using the incident to revisit his longstanding and unrelated grievances with the FBI over its investigation into Russian interference in the 2016 election.</description>
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>President Donald Trump on Saturday seemed to downplay a breach into the FBI’s nationwide criminal information database, using the incident to revisit his longstanding and unrelated grievances with the FBI over its investigation into Russian interference in the 2016 election.</p>]]></content:encoded>
 <media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" />
 <media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" />
 </item>
@@ -856,32 +882,6 @@
 <content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" alt="" /></p><p>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</p>]]></content:encoded>
 <media:content url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" medium="image" />
 <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" />
-</item>
-<item>
-<title>An argument against tech&#x27;s &quot;silent consensus&quot;, a belief that AI advances mean the forfeiture of human primacy, and a call for legal and technical frameworks (Dean Ball/OpenAI)</title>
-<link>https://openai.com/index/the-silent-consensus</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nxm5isza27</guid>
-<pubDate>Thu, 19 Nov 2026 11:25:57 +0000</pubDate>
-<description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</description>
-<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</p>]]></content:encoded>
-<media:content url="https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&amp;h=900&amp;fit=fill" medium="image" />
-<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&amp;h=900&amp;fit=fill" />
-</item>
-<item>
-<title>A look at Jeff Bezos&#x27; AI startup Prometheus, which raised $18B and employs ~250 people; sources say it is building an end-to-end agentic AI engineering system (Rebecca Heilweil/Fast Company)</title>
-<link>https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nx2mdq2l26</guid>
-<pubDate>Thu, 19 Nov 2026 11:16:08 +0000</pubDate>
-<description>From www.fastcompany.com</description>
-<content:encoded><![CDATA[<p>From www.fastcompany.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic is set to become the US stock market&#x27;s largest public benefit corporation by far; the mandate is overseen by a five-member &quot;long-term benefit trust&quot; (Cory Weinberg/New York Times)</title>
-<link>https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2nwrcdd3y2t</guid>
-<pubDate>Thu, 19 Nov 2026 11:10:56 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
