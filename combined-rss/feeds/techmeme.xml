@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 16:35:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 21:52:00 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under "ZDR" policies, and saw "privacy" often broken, keys stolen (Dan Goodin/Ars Technica)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/99727b65c29013d05b70.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2tvv7ughn27</guid>
+<pubDate>Sat, 21 Nov 2026 20:11:12 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/" rel="related" type="text/html" />
+<description>Test using prompts with unique, trackable secrets proves that data doesn't stay private.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" alt="" /></p><p>Test using prompts with unique, trackable secrets proves that data doesn't stay private.</p><p><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" />
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0fed198089e6566a7b18.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2trpns3aa2x</guid>
+<pubDate>Sat, 21 Nov 2026 18:56:30 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9" rel="related" type="text/html" />
+<description>Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China</p><p><a href="https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7623e0edafde13a801f7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2todynda52q</guid>
+<pubDate>Sat, 21 Nov 2026 17:56:18 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616" rel="related" type="text/html" />
+<description>Acquisition would help AWS compete with Nvidia in race for computing power</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Acquisition would help AWS compete with Nvidia in race for computing power</p><p><a href="https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/89d6aeff00111b2445b3.html</link>
@@ -127,8 +169,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database" rel="related" type="text/html" />
-<description>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</description>
-<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.</p><p><a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">Open Original Article</a></p>]]></content:encoded>
+<description>President Donald Trump on Saturday seemed to downplay a breach into the FBI’s nationwide criminal information database, using the incident to revisit his longstanding and unrelated grievances with the FBI over its investigation into Russian interference in the 2016 election.</description>
+<content:encoded><![CDATA[<p><img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" alt="" /></p><p>President Donald Trump on Saturday seemed to downplay a breach into the FBI’s nationwide criminal information database, using the incident to revisit his longstanding and unrelated grievances with the FBI over its investigation into Russian interference in the 2016 election.</p><p><a href="https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" />
 <enclosure url="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=16x9&amp;q=w_800,c_fill" type="image/jpeg" length="0" />
@@ -776,48 +818,6 @@
 <media:content url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" />
 <enclosure url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Source: National Cyber Director Sean Cairncross was "fired" from his role; the president "fully supported" the firing days after a wave of tech-related outages (Courtney Rozen/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8e355850fb2511201432.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pjnvzzvf23</guid>
-<pubDate>Fri, 20 Nov 2026 02:21:43 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/" rel="related" type="text/html" />
-<description>White House national cyber director Sean Cairncross was fired from his job, a person close to the White ​House said on Thursday, days after technology outages disrupted US air travel, banking ‌and nat...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7EFXFWNXRIHRCCMJVL34YRSW4.jpg%3Fauth%3D3e8ffbf87ee7488ee8420d080cd29240242cc717c925c20a4a64f1ec07efb914%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>White House national cyber director Sean Cairncross was fired from his job, a person close to the White ​House said on Thursday, days after technology outages disrupted US air travel, banking ‌and nat...</p><p><a href="https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7EFXFWNXRIHRCCMJVL34YRSW4.jpg%3Fauth%3D3e8ffbf87ee7488ee8420d080cd29240242cc717c925c20a4a64f1ec07efb914%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7EFXFWNXRIHRCCMJVL34YRSW4.jpg%3Fauth%3D3e8ffbf87ee7488ee8420d080cd29240242cc717c925c20a4a64f1ec07efb914%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FP7EFXFWNXRIHRCCMJVL34YRSW4.jpg%3Fauth%3D3e8ffbf87ee7488ee8420d080cd29240242cc717c925c20a4a64f1ec07efb914%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5d07306ad11d674abc1c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
-<pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://institute.deepmind.com/essays/what-comes-after-agi/" rel="related" type="text/html" />
-<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
-<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p><p><a href="https://institute.deepmind.com/essays/what-comes-after-agi/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
-<enclosure url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3f827201c6552ee6037a.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pen5nvaq23</guid>
-<pubDate>Fri, 20 Nov 2026 00:51:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/" rel="related" type="text/html" />
-<description>As the AI giant goes public in a historic IPO, these venture firms are reaping massive windfalls.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6afe15ce39e002001d532701%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" alt="" /></p><p>As the AI giant goes public in a historic IPO, these venture firms are reaping massive windfalls.</p><p><a href="https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6afe15ce39e002001d532701%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6afe15ce39e002001d532701%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F6afe15ce39e002001d532701%2F0x0.jpg%3Fformat%3Djpg%26height%3D900%26width%3D1600%26fit%3Dbounds" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
