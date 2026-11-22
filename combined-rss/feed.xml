@@ -5,8 +5,64 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 17:14:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 22:30:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for "bumps in the road" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/76ab22259b0140c21fbd.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2whprp24b2b</guid>
+<pubDate>Sun, 22 Nov 2026 20:35:36 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html" rel="related" type="text/html" />
+<description>Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" alt="" /></p><p>Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.</p><p><a href="https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" />
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/c5c9681ac21c76289f8d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wf7eaw3w2m</guid>
+<pubDate>Sun, 22 Nov 2026 19:50:38 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html" rel="related" type="text/html" />
+<description>The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22dc-nvidia-bessent-cfzt%2F22dc-nvidia-bessent-cfzt-facebookJumbo.jpg" alt="" /></p><p>The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.</p><p><a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22dc-nvidia-bessent-cfzt%2F22dc-nvidia-bessent-cfzt-facebookJumbo.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22dc-nvidia-bessent-cfzt%2F22dc-nvidia-bessent-cfzt-facebookJumbo.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22dc-nvidia-bessent-cfzt%2F22dc-nvidia-bessent-cfzt-facebookJumbo.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>OpenAI shares its models' perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 "avalanche" of advances (Jakub Pachocki/OpenAI)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/de5cd1a6d51dc917ab91.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2waheh5s62l</guid>
+<pubDate>Sun, 22 Nov 2026 18:25:38 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://openai.com/index/perplexity-and-intelligence" rel="related" type="text/html" />
+<description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</p><p><a href="https://openai.com/index/perplexity-and-intelligence">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" />
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0" />
+</item>
+<item>
+<title>Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/61906e664185f14ed45b.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2w4k6smkc26</guid>
+<pubDate>Sun, 22 Nov 2026 17:15:38 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/" rel="related" type="text/html" />
+<description>Companies such as SpaceX and Anthropic have come to wield enormous power as AI's potential creates frenzied demand for their shares, and they are wielding it to do things their way. Banks and investor...</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOYSLUUDHFNL5HCLE5IZBKL6DKI.jpg%3Fauth%3D199f025db64c33f01316f48dc8e5a7f71f60521103d69f45c7628fcb599ec904%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Companies such as SpaceX and Anthropic have come to wield enormous power as AI's potential creates frenzied demand for their shares, and they are wielding it to do things their way. Banks and investor...</p><p><a href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOYSLUUDHFNL5HCLE5IZBKL6DKI.jpg%3Fauth%3D199f025db64c33f01316f48dc8e5a7f71f60521103d69f45c7628fcb599ec904%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOYSLUUDHFNL5HCLE5IZBKL6DKI.jpg%3Fauth%3D199f025db64c33f01316f48dc8e5a7f71f60521103d69f45c7628fcb599ec904%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FOYSLUUDHFNL5HCLE5IZBKL6DKI.jpg%3Fauth%3D199f025db64c33f01316f48dc8e5a7f71f60521103d69f45c7628fcb599ec904%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with "taste" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/1cc2efb1a41a54095c8b.html</link>
@@ -85,11 +141,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f" rel="related" type="text/html" />
-<description>Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms</p><p><a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+<description>The page you are trying to access is unavailable because we detected potential misuse. Please wait a moment and try again.</description>
+<content:encoded><![CDATA[<p><img src="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" alt="" /></p><p>The page you are trying to access is unavailable because we detected potential misuse. Please wait a moment and try again.</p><p><a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" medium="image" type="image/gif" />
+<media:thumbnail url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" />
+<enclosure url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" type="image/gif" length="0" />
 </item>
 <item>
 <title>Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)</title>
@@ -183,11 +239,11 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c" rel="related" type="text/html" />
-<description>The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff47b0d1a-8b9a-43e1-993c-dd09019ee94e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent</p><p><a href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff47b0d1a-8b9a-43e1-993c-dd09019ee94e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff47b0d1a-8b9a-43e1-993c-dd09019ee94e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff47b0d1a-8b9a-43e1-993c-dd09019ee94e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+<description>The page you are trying to access is unavailable because we detected potential misuse. Please wait a moment and try again.</description>
+<content:encoded><![CDATA[<p><img src="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" alt="" /></p><p>The page you are trying to access is unavailable because we detected potential misuse. Please wait a moment and try again.</p><p><a href="https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&amp;sharetype=gift&amp;token=956073db-4440-473e-97bd-a0af2932464c">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" medium="image" type="image/gif" />
+<media:thumbnail url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" />
+<enclosure url="https://spoor-api.ft.com/px.gif?data=%7B%22category%22%3A%22page%22%2C%22action%22%3A%22view%22%2C%22system%22%3A%7B%22source%22%3A%22error-pages%22%2C%22version%22%3A%220.0.0%22%2C%22is_live%22%3Atrue%7D%2C%22context%22%3A%7B%22app%22%3A%22error-pages%22%2C%22product%22%3A%22ft.com%22%2C%22url%22%3A%22https%3A%2F%2Ferror-pages.ft.com%2Fcloudflare%2FRG101%22%2C%22message%22%3A%22429%22%2C%22content%22%3A%7B%22asset_type%22%3A%22errors%22%7D%7D%7D" type="image/gif" length="0" />
 </item>
 <item>
 <title>How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)</title>
@@ -310,10 +366,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70" rel="related" type="text/html" />
 <description>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</description>
-<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</p><p><a href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/png" />
-<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/png" length="0" />
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</p><p><a href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)</title>
@@ -792,20 +848,6 @@
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiH40VTA9NqsE%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
-<title>Signal says it will restrict screenshots by default to stop AI agents from reading private chats on phones but warns its new protections are "incomplete" (Katie Paul/Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/be807c04d8980c2ca35e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qgpeoidq2q</guid>
-<pubDate>Fri, 20 Nov 2026 11:01:31 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/" rel="related" type="text/html" />
-<description>Encrypted messaging service Signal said on Friday it would restrict screenshots to stop AI agents ​from reading private chats on phones, warning that the tech industry's push to embed AI in consumer d...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUDN7XNNWQRL6VFL72DCOQHCKHM.jpg%3Fauth%3D2d081fedb7ce6b4b160716de6408fd9ef95aacde8e9096308c4ecd4421c025b2%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Encrypted messaging service Signal said on Friday it would restrict screenshots to stop AI agents ​from reading private chats on phones, warning that the tech industry's push to embed AI in consumer d...</p><p><a href="https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUDN7XNNWQRL6VFL72DCOQHCKHM.jpg%3Fauth%3D2d081fedb7ce6b4b160716de6408fd9ef95aacde8e9096308c4ecd4421c025b2%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUDN7XNNWQRL6VFL72DCOQHCKHM.jpg%3Fauth%3D2d081fedb7ce6b4b160716de6408fd9ef95aacde8e9096308c4ecd4421c025b2%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FUDN7XNNWQRL6VFL72DCOQHCKHM.jpg%3Fauth%3D2d081fedb7ce6b4b160716de6408fd9ef95aacde8e9096308c4ecd4421c025b2%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>Apptronik's RL Lead Says Legs, Not Wheels, Make Robots Safe to Work Beside</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bb98f18994107dfbe372.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/apptronik-morgenstein-legs-safer-than-wheels</guid>
@@ -820,34 +862,6 @@
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apptronik-apollo-2-watering-can-gemini-robotics-NBPvs9YCfJu6vCgfxQFYVzrldDlSvy.webp" type="image/webp" length="0" />
 </item>
 <item>
-<title>Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector (Yoolim Lee/Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/07bc4c3acd8fdb1e318b.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qg674x4k2m</guid>
-<pubDate>Fri, 20 Nov 2026 10:51:54 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion" rel="related" type="text/html" />
-<description>SK Hynix Inc. will become rival Kioxia Holdings Corp.’s largest shareholder, expanding its clout in the memory chip sector that’s now critical to global AI development.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizYqRl3jFYMQ%2Fv0%2F1200x800.jpg" alt="" /></p><p>SK Hynix Inc. will become rival Kioxia Holdings Corp.’s largest shareholder, expanding its clout in the memory chip sector that’s now critical to global AI development.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizYqRl3jFYMQ%2Fv0%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizYqRl3jFYMQ%2Fv0%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FizYqRl3jFYMQ%2Fv0%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/85e99791405baf5f9ebe.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qchz2ixv2m</guid>
-<pubDate>Fri, 20 Nov 2026 09:45:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/" rel="related" type="text/html" />
-<description>A Bloomberg analysis finds a double-digit decline in hiring for jobs most exposed to the technology.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiaiHddE27lvU%2Fv0%2F-1x-1.png" alt="" /></p><p>A Bloomberg analysis finds a double-digit decline in hiring for jobs most exposed to the technology.</p><p><a href="https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiaiHddE27lvU%2Fv0%2F-1x-1.png" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiaiHddE27lvU%2Fv0%2F-1x-1.png" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiaiHddE27lvU%2Fv0%2F-1x-1.png" type="image/jpeg" length="0" />
-</item>
-<item>
 <title>1X Will Ship NEO to Developers in December, Plans Weekly Leaderboard and Live Robot Runs</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7ef68d7da1a3d57467d1.html</link>
 <guid isPermaLink="false">https://www.humanoidsdaily.com/news/1x-neo-developers-december-runtime-2026-bornich</guid>
@@ -860,20 +874,6 @@
 <media:content url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" medium="image" type="image/webp" />
 <media:thumbnail url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" />
 <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/neo-bernt-bornich-runtime-2026-stage-VsZSUlFCCEy1tvDVUoh7tCk9RBeS9y.webp" type="image/webp" length="0" />
-</item>
-<item>
-<title>Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/801d949fd702241b7982.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2q2nmysve2p</guid>
-<pubDate>Fri, 20 Nov 2026 07:25:47 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html" rel="related" type="text/html" />
-<description>Google is now officially rolling out what it calls the "collapsible sidebar" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said "New on the Google desktop homepage globally: we’re rolling out a collapsible sidebar to easily find &amp; jump back into your recent AI searches."</description>
-<content:encoded><![CDATA[<p><img src="https://images.seroundtable.com/google-ai-mode-sidebar-0z5ygkqF.jpg" alt="" /></p><p>Google is now officially rolling out what it calls the "collapsible sidebar" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said "New on the Google desktop homepage globally: we’re rolling out a collapsible sidebar to easily find &amp; jump back into your recent AI searches."</p><p><a href="https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.seroundtable.com/google-ai-mode-sidebar-0z5ygkqF.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://images.seroundtable.com/google-ai-mode-sidebar-0z5ygkqF.jpg" />
-<enclosure url="https://images.seroundtable.com/google-ai-mode-sidebar-0z5ygkqF.jpg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>XPENG Sets November 25 AI Day in Guangzhou, Promises New IRON Capabilities</title>
@@ -1996,20 +1996,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i3/O1CN01jzXzt71RYqOIWUmj4_!!6000000002124-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotWorld: Boundless Worlds for Embodied Agents</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/5cd8df4a590004511ca9.html</link>
 <guid isPermaLink="false">combined:e8f16f2fa622f98dd99baf88ab2a1a5ad7d962b9</guid>
@@ -2036,6 +2022,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
