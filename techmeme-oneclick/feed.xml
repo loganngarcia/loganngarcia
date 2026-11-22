@@ -5,8 +5,18 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 21:00:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 01:08:10 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &quot;zero espionage&quot; executive girlfriends (Wired)</title>
+<link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2udcma4mc2m</guid>
+<pubDate>Sun, 22 Nov 2026 00:11:20 +0000</pubDate>
+<description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" alt="" /></p><p>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" />
+</item>
 <item>
 <title>Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen (Dan Goodin/Ars Technica)</title>
 <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
@@ -364,8 +374,8 @@
 <link>https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2qv7s7t4g26</guid>
 <pubDate>Fri, 20 Nov 2026 15:21:14 +0000</pubDate>
-<description>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</description>
-<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" alt="" /></p><p>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</p>]]></content:encoded>
+<description>The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion</description>
+<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" alt="" /></p><p>The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion</p>]]></content:encoded>
 <media:content url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" medium="image" />
 <media:thumbnail url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" />
 </item>
@@ -548,10 +558,8 @@
 <link>https://institute.deepmind.com/essays/what-comes-after-agi/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
 <pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
-<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p>]]></content:encoded>
-<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" />
-<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
+<description>From institute.deepmind.com</description>
+<content:encoded><![CDATA[<p>From institute.deepmind.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#x27;s close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
@@ -694,10 +702,8 @@
 <link>https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2okmxccau2b</guid>
 <pubDate>Thu, 19 Nov 2026 17:06:25 +0000</pubDate>
-<description>Boltz was spun out of MIT but is now located in London.</description>
-<content:encoded><![CDATA[<p><img src="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" alt="" /></p><p>Boltz was spun out of MIT but is now located in London.</p>]]></content:encoded>
-<media:content url="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" medium="image" />
-<media:thumbnail url="https://cdn.tech.eu/uploads/2026/11/boltz-807.png" />
+<description>From tech.eu</description>
+<content:encoded><![CDATA[<p>From tech.eu</p>]]></content:encoded>
 </item>
 <item>
 <title>Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (CNBC)</title>
@@ -872,16 +878,6 @@
 <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" alt="" /></p><p>Games will have to meet certain requirements, too.</p>]]></content:encoded>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" medium="image" />
 <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.741906587151%2C100%2C78.516186825698&amp;w=1200" />
-</item>
-<item>
-<title>Snap launches Easy Lens CLI on Mac, Windows, and Linux, letting developers build AR Lenses using external AI coding tools like Claude Code (Aisha Malik/TechCrunch)</title>
-<link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ny64eg7526</guid>
-<pubDate>Thu, 19 Nov 2026 11:35:59 +0000</pubDate>
-<description>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" alt="" /></p><p>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" medium="image" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200" />
 </item>
 </channel>
 </rss>
