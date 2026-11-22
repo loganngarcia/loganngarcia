@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:58:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 16:02:23 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&#x27;s obsession with &quot;taste&quot; as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2vuzoegzk23</guid>
+<pubDate>Sun, 22 Nov 2026 15:01:07 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)</title>
+<link>https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&amp;sharetype=gift&amp;token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2vhnngsmd23</guid>
+<pubDate>Sun, 22 Nov 2026 11:01:45 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Current and former officials from the US and other countries describe the Chinese spy agency MSS&#x27; campaign to help Chinese companies acquire advanced AI chips (New York Times)</title>
 <link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share</link>
@@ -600,10 +616,8 @@
 <link>https://institute.deepmind.com/essays/what-comes-after-agi/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
 <pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
-<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p>]]></content:encoded>
-<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" />
-<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
+<description>From institute.deepmind.com</description>
+<content:encoded><![CDATA[<p>From institute.deepmind.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#x27;s close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
@@ -862,24 +876,6 @@
 <pubDate>Thu, 19 Nov 2026 13:10:44 +0000</pubDate>
 <description>From www.wsj.com</description>
 <content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform&#x27;s AI push (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o4mpkjy72m</guid>
-<pubDate>Thu, 19 Nov 2026 12:55:44 +0000</pubDate>
-<description>You can turn Canva’s AI features on or off at any time.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt="" /></p><p>You can turn Canva’s AI features on or off at any time.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" />
-</item>
-<item>
-<title>GTA VI&#x27;s 5,000-strong team eschewed AI and procedural generation in favor of handcrafted &quot;fidelity&quot;, with 30,000 unique NPCs and an in-game video game system (Joseph Bernstein/New York Times)</title>
-<link>https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o42zemtg2l</guid>
-<pubDate>Thu, 19 Nov 2026 12:45:50 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
