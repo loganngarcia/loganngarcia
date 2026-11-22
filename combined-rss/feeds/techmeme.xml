@@ -5,8 +5,22 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 21:52:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 01:53:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches "zero espionage" executive girlfriends (Wired)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8fbc77318659cb3bbba9.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2udcma4mc2m</guid>
+<pubDate>Sun, 22 Nov 2026 00:11:20 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/" rel="related" type="text/html" />
+<description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" alt="" /></p><p>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</p><p><a href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" />
+<enclosure url="https://media.wired.com/photos/6afbae0afa103e595fff7d74/191:100/w_1280,c_limit/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under "ZDR" policies, and saw "privacy" often broken, keys stolen (Dan Goodin/Ars Technica)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/99727b65c29013d05b70.html</link>
@@ -561,8 +575,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/" rel="related" type="text/html" />
-<description>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</description>
-<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" alt="" /></p><p>An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, would cap off the technology’s year-long conquest of math in spectacular fashion</p><p><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Open Original Article</a></p>]]></content:encoded>
+<description>The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion</description>
+<content:encoded><![CDATA[<p><img src="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" alt="" /></p><p>The AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians, caps off the technology’s year-long conquest of math in spectacular fashion</p><p><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" />
 <enclosure url="https://static.scientificamerican.com/dam/asset/cee10388-a264-4ba7-b944-7f0a8daf537d/riemann.jpg?m=1795217260.215&amp;w=1200" type="image/jpeg" length="0" />
@@ -804,20 +818,6 @@
 <media:content url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" />
 <enclosure url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0911d83ee1a918d950c6.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2plkulgdv2m</guid>
-<pubDate>Fri, 20 Nov 2026 02:55:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html" rel="related" type="text/html" />
-<description>Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" alt="" /></p><p>Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.</p><p><a href="https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" />
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
