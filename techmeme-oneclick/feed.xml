@@ -5,8 +5,44 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 16:02:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:43:26 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &quot;bumps in the road&quot; as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2whprp24b2b</guid>
+<pubDate>Sun, 22 Nov 2026 20:35:36 +0000</pubDate>
+<description>Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" alt="" /></p><p>Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&#x27;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wf7eaw3w2m</guid>
+<pubDate>Sun, 22 Nov 2026 19:50:38 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>OpenAI shares its models&#x27; perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 &quot;avalanche&quot; of advances (Jakub Pachocki/OpenAI)</title>
+<link>https://openai.com/index/perplexity-and-intelligence</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2waheh5s62l</guid>
+<pubDate>Sun, 22 Nov 2026 18:25:38 +0000</pubDate>
+<description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
+<content:encoded><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p><p>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</p>]]></content:encoded>
+<media:content url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" medium="image" />
+<media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" />
+</item>
+<item>
+<title>Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)</title>
+<link>https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2w4k6smkc26</guid>
+<pubDate>Sun, 22 Nov 2026 17:15:38 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&#x27;s obsession with &quot;taste&quot; as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)</title>
 <link>https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx&amp;smid=url-share</link>
@@ -616,8 +652,10 @@
 <link>https://institute.deepmind.com/essays/what-comes-after-agi/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
 <pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<description>From institute.deepmind.com</description>
-<content:encoded><![CDATA[<p>From institute.deepmind.com</p>]]></content:encoded>
+<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
+<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p>]]></content:encoded>
+<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" />
+<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
 </item>
 <item>
 <title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#x27;s close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
@@ -842,40 +880,6 @@
 <pubDate>Thu, 19 Nov 2026 14:16:10 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Google partners with Jeff Bezos&#x27; Blue Origin to launch TPU-powered AI server satellites aboard the New Glenn rocket in Q1 2029, as part of Project Suncatcher (Emma Roth/The Verge)</title>
-<link>https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oackskbo2i</guid>
-<pubDate>Thu, 19 Nov 2026 14:01:39 +0000</pubDate>
-<description>Google is working with Blue Origin on its plan to put AI data centers in space.</description>
-<content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&amp;strip=all&amp;crop=0%2C19.088098918083%2C100%2C61.823802163833&amp;w=1200" alt="" /></p><p>Google is working with Blue Origin on its plan to put AI data centers in space.</p>]]></content:encoded>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&amp;strip=all&amp;crop=0%2C19.088098918083%2C100%2C61.823802163833&amp;w=1200" medium="image" />
-<media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&amp;strip=all&amp;crop=0%2C19.088098918083%2C100%2C61.823802163833&amp;w=1200" />
-</item>
-<item>
-<title>Anthropic-backed pro-AI safety nonprofit Public First Action&#x27;s PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed (Clara Ence Morse/Washington Post)</title>
-<link>https://www.washingtonpost.com/technology/2026/11/19/anthropic-gave-40m-an-ai-safety-group-most-candidates-it-backed-won/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o7p3yozl23</guid>
-<pubDate>Thu, 19 Nov 2026 13:50:46 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Twitch says GTA VI was its &quot;largest game launch ever&quot; with 3.3M concurrent livestream viewers; GTA VI is set to hit $3B+ in revenue in its first few months (Cecilia D&#x27;Anastasio/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-19/-grand-theft-auto-vi-debut-spurs-livestream-influencer-marathons</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o5zejmyc2x</guid>
-<pubDate>Thu, 19 Nov 2026 13:20:43 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Temu owner PDD reports Q3 revenue flat YoY at ~$16.2B, below ~$17.3B est., and net profit up 0.7% to ~$4.43B, above ~$3.7B est., as Temu&#x27;s user base shrinks (Tracy Qu/Wall Street Journal)</title>
-<link>https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?st=ZWhSa9&amp;reflink=desktopwebshare_permalink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2o5hk2old23</guid>
-<pubDate>Thu, 19 Nov 2026 13:10:44 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
