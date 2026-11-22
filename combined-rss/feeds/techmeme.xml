@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Techmeme stories with direct publisher links, rich descriptions, and article images.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 01:53:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 09:19:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feeds/techmeme.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0ba59a1738fccdaf86a7.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2v2acharh2l</guid>
+<pubDate>Sun, 22 Nov 2026 07:01:39 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share" rel="related" type="text/html" />
+<description>China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22int-china-mss-01-bjfp%2F22int-china-mss-01-bjfp-facebookJumbo.jpg%3Fgift%3D1" alt="" /></p><p>China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.</p><p><a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.6AIw.4HHCTzFjtDId&amp;smid=url-share">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22int-china-mss-01-bjfp%2F22int-china-mss-01-bjfp-facebookJumbo.jpg%3Fgift%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22int-china-mss-01-bjfp%2F22int-china-mss-01-bjfp-facebookJumbo.jpg%3Fgift%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F22%2Fmultimedia%2F22int-china-mss-01-bjfp%2F22int-china-mss-01-bjfp-facebookJumbo.jpg%3Fgift%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/fe9dc1d014af3677a2c5.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2uz3sijya2b</guid>
+<pubDate>Sun, 22 Nov 2026 06:41:14 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584" rel="related" type="text/html" />
+<description>Tesla Reality View, a feature of FSD v15 renders a moveable, photorealistic, full-motion view of your car's surroundings</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F11%2Ftesla-fsd-gta-1200x675.jpg" alt="" /></p><p>Tesla Reality View, a feature of FSD v15 renders a moveable, photorealistic, full-motion view of your car's surroundings</p><p><a href="https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F11%2Ftesla-fsd-gta-1200x675.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F11%2Ftesla-fsd-gta-1200x675.jpg" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fgizmodo.com%2Fapp%2Fuploads%2F2026%2F11%2Ftesla-fsd-gta-1200x675.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>A joint statement by the Lean and Mathlib communities says "we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct" (Lean community blog)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/de6a6b768afb5e7424fa.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2uwv6swj626</guid>
+<pubDate>Sun, 22 Nov 2026 06:01:45 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/" rel="related" type="text/html" />
+<description>Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a pro</description>
+<content:encoded><![CDATA[<p><img src="https://leanprover-community.github.io/blog/meta-twitter.png" alt="" /></p><p>Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a pro</p><p><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://leanprover-community.github.io/blog/meta-twitter.png" medium="image" type="image/png" />
+<media:thumbnail url="https://leanprover-community.github.io/blog/meta-twitter.png" />
+<enclosure url="https://leanprover-community.github.io/blog/meta-twitter.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/3e62680043e3842edfaf.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2uwbtqdzb2q</guid>
+<pubDate>Sun, 22 Nov 2026 05:50:55 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f" rel="related" type="text/html" />
+<description>Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms</p><p><a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fff7558dc-0e1e-4f17-ae04-649c3e1fec33.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/36c2080657787817e38d.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2uvyvymns2b</guid>
+<pubDate>Sun, 22 Nov 2026 05:45:56 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=HzXMZU" rel="related" type="text/html" />
+<description>The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69232147%2Fsocial" alt="" /></p><p>The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.</p><p><a href="https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?st=HzXMZU">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69232147%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69232147%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-69232147%2Fsocial" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches "zero espionage" executive girlfriends (Wired)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8fbc77318659cb3bbba9.html</link>
@@ -212,10 +282,10 @@
 <category>Techmeme</category>
 <atom:link href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70" rel="related" type="text/html" />
 <description>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</p><p><a href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
+<content:encoded><![CDATA[<p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" alt="" /></p><p>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</p><p><a href="https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&amp;sharetype=gift&amp;token=c6d010aa-7792-4679-9ca7-57a6e433dc70">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" medium="image" type="image/png" />
+<media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+<enclosure url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-barrier-page&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" type="image/png" length="0" />
 </item>
 <item>
 <title>Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)</title>
@@ -748,76 +818,6 @@
 <media:content url="https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
 <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/48de2cece46d28c4e4a3.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pwqlwdvv2q</guid>
-<pubDate>Fri, 20 Nov 2026 06:15:52 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs" rel="related" type="text/html" />
-<description>Nscale Plc’s agreement to sell artificial intelligence computing capacity to ByteDance Ltd. will come under greater regulatory scrutiny after the US moved to crack down on China’s access to American t...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUHjVaX8qbD8%2Fv1%2F1200x800.jpg" alt="" /></p><p>Nscale Plc’s agreement to sell artificial intelligence computing capacity to ByteDance Ltd. will come under greater regulatory scrutiny after the US moved to crack down on China’s access to American t...</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUHjVaX8qbD8%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUHjVaX8qbD8%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiUHjVaX8qbD8%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0f12386e9c83d5a23386.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pvmspw7e26</guid>
-<pubDate>Fri, 20 Nov 2026 05:55:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/" rel="related" type="text/html" />
-<description>Industrial monitoring startup BrightAI closes $97M investment - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/BrightAI.png" alt="" /></p><p>Industrial monitoring startup BrightAI closes $97M investment - SiliconANGLE</p><p><a href="https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/BrightAI.png" medium="image" type="image/png" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/BrightAI.png" />
-<enclosure url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/BrightAI.png" type="image/png" length="0" />
-</item>
-<item>
-<title>Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/0451baefe03020270a86.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pv2we2rj2t</guid>
-<pubDate>Fri, 20 Nov 2026 05:45:51 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b" rel="related" type="text/html" />
-<description>Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd449f0a1-e996-4b08-823b-ac513e3ea2c8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" alt="" /></p><p>Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom</p><p><a href="https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd449f0a1-e996-4b08-823b-ac513e3ea2c8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd449f0a1-e996-4b08-823b-ac513e3ea2c8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd449f0a1-e996-4b08-823b-ac513e3ea2c8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Anthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO (Bloomberg)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7566cf61dbd681b21da1.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ppzx4h4z2p</guid>
-<pubDate>Fri, 20 Nov 2026 04:15:49 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans" rel="related" type="text/html" />
-<description>Anthropic PBC shares fell on their second day of trading as the unwinding of the global AI trade overshadowed the optimism that had fueled a rally on its record-setting debut.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihO6Ix9.vqDU%2Fv1%2F1200x800.jpg" alt="" /></p><p>Anthropic PBC shares fell on their second day of trading as the unwinding of the global AI trade overshadowed the optimism that had fueled a rally on its record-setting debut.</p><p><a href="https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihO6Ix9.vqDU%2Fv1%2F1200x800.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihO6Ix9.vqDU%2Fv1%2F1200x800.jpg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FihO6Ix9.vqDU%2Fv1%2F1200x800.jpg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/23dcaebcf77072e9661c.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2pnjhgl4k2b</guid>
-<pubDate>Fri, 20 Nov 2026 03:30:48 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.cbsnews.com/sanfrancisco/news/california-nvidia-subpoena-jensen-huang-affair-alleged-chinese-spy/" rel="related" type="text/html" />
-<description>California Attorney General Rob Bonta announced an investigative subpoena on Nvidia following allegations the former CEO, Jensen Huang, had an affair​ with a suspected Chinese spy.</description>
-<content:encoded><![CDATA[<p><img src="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" alt="" /></p><p>California Attorney General Rob Bonta announced an investigative subpoena on Nvidia following allegations the former CEO, Jensen Huang, had an affair​ with a suspected Chinese spy.</p><p><a href="https://www.cbsnews.com/sanfrancisco/news/california-nvidia-subpoena-jensen-huang-affair-alleged-chinese-spy/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" />
-<enclosure url="https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg" type="image/jpeg" length="0" />
 </item>
 </channel>
 </rss>
