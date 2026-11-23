@@ -5,8 +5,50 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 21:43:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 02:00:29 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)</title>
+<link>https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wz2khlpj2i</guid>
+<pubDate>Mon, 23 Nov 2026 01:45:51 +0000</pubDate>
+<description>GPT-6.2 Astra now costs the same per token as Claude Fable 5.2. In three hard tests, Fable scored slightly higher but cost more than five times as much.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/11/a7a49ed2-steve-a-johnson-z4cfaa14neu-unsplash-scaled.jpg" alt="" /></p><p>GPT-6.2 Astra now costs the same per token as Claude Fable 5.2. In three hard tests, Fable scored slightly higher but cost more than five times as much.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/11/a7a49ed2-steve-a-johnson-z4cfaa14neu-unsplash-scaled.jpg" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/11/a7a49ed2-steve-a-johnson-z4cfaa14neu-unsplash-scaled.jpg" />
+</item>
+<item>
+<title>Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&#x27; Senate confirmation (Axios)</title>
+<link>https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wwar5pv62m</guid>
+<pubDate>Mon, 23 Nov 2026 00:55:39 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)</title>
+<link>https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wvowgbb32t</guid>
+<pubDate>Mon, 23 Nov 2026 00:45:40 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Alice Huang was in touch with an officer of China&#x27;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html?unlocked_article_code=1.SlE.mMaV._G76gCoFrg-4&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wuu4kkcr2i</guid>
+<pubDate>Mon, 23 Nov 2026 00:30:41 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>How Dario Amodei built Anthropic&#x27;s tightly knit culture with essays, Slack memos, and &quot;Vision Quest&quot; talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)</title>
+<link>https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2wqx3w7qj2m</guid>
+<pubDate>Sun, 22 Nov 2026 23:20:46 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
 <item>
 <title>After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &quot;bumps in the road&quot; as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)</title>
 <link>https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html</link>
@@ -652,10 +694,8 @@
 <link>https://institute.deepmind.com/essays/what-comes-after-agi/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2phy7upud2m</guid>
 <pubDate>Fri, 20 Nov 2026 01:51:41 +0000</pubDate>
-<description>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</description>
-<content:encoded><![CDATA[<p><img src="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" alt="" /></p><p>How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization.</p>]]></content:encoded>
-<media:content url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" medium="image" />
-<media:thumbnail url="https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw" />
+<description>From institute.deepmind.com</description>
+<content:encoded><![CDATA[<p>From institute.deepmind.com</p>]]></content:encoded>
 </item>
 <item>
 <title>Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#x27;s close, a 430%+ return on investment (Richard Nieva/Forbes)</title>
@@ -836,50 +876,6 @@
 <pubDate>Thu, 19 Nov 2026 15:35:51 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Seattle-based StepSecurity, which offers a software supply chain security platform, raised a $20M Series A led by Elephant, bringing its total funding to $23M (Chris Metinko/Axios)</title>
-<link>https://www.axios.com/pro/enterprise-software-deals/2026/11/18/stepsecurity-supply-chain-cybersecurity</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oeq4idjk23</guid>
-<pubDate>Thu, 19 Nov 2026 15:20:49 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk&#x27;s top X news sources and raise tech funding (James Jackson/Wired)</title>
-<link>https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2odnlkpcn27</guid>
-<pubDate>Thu, 19 Nov 2026 15:01:30 +0000</pubDate>
-<description>Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afced7fd3e4d723d17cee88/191:100/w_1280,c_limit/IMG_0337.jpg" alt="" /></p><p>Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6afced7fd3e4d723d17cee88/191:100/w_1280,c_limit/IMG_0337.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6afced7fd3e4d723d17cee88/191:100/w_1280,c_limit/IMG_0337.jpg" />
-</item>
-<item>
-<title>Sources: Anthropic&#x27;s IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2od2yxjvq2m</guid>
-<pubDate>Thu, 19 Nov 2026 14:51:06 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX (Gerardo Fortuna/Politico)</title>
-<link>https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2oc7nzcsz2l</guid>
-<pubDate>Thu, 19 Nov 2026 14:35:49 +0000</pubDate>
-<description>Presented by European Commission’s Directorate-General for Education, Youth, Sport and Culture By GERARDO FORTUNA with MAX GRIERA PRESENTED BY Send tips here | Follow us @gerardofortuna @NicholasVi…</description>
-<content:encoded><![CDATA[<p><img src="https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png" alt="" /></p><p>Presented by European Commission’s Directorate-General for Education, Youth, Sport and Culture By GERARDO FORTUNA with MAX GRIERA PRESENTED BY Send tips here | Follow us @gerardofortuna @NicholasVi…</p>]]></content:encoded>
-<media:content url="https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png" medium="image" />
-<media:thumbnail url="https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png" />
-</item>
-<item>
-<title>A UK tribunal rules against the UK Home Office, saying it must acknowledge issuing a secret &quot;technical capability notice&quot; to Apple to bypass its encryption (Tim Bradshaw/Financial Times)</title>
-<link>https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ob4jimza27</guid>
-<pubDate>Thu, 19 Nov 2026 14:16:10 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
