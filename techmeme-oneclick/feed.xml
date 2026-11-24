@@ -5,8 +5,132 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 23 Nov 2026 22:13:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:08:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>PM Lawrence Wong says he doesn&#x27;t want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed&#x27;s purchases of Nvidia chips (Philip Heijmans/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zuozn2do26</guid>
+<pubDate>Tue, 24 Nov 2026 05:05:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>AWS debuts Strands Decider v2, a family of five open decision models based on Google&#x27;s Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)</title>
+<link>https://thenewstack.io/aws-strands-decider-v2/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zshufdsq2m</guid>
+<pubDate>Tue, 24 Nov 2026 04:26:01 +0000</pubDate>
+<description>AWS releases Strands Decider v2, five open decision models built on Gemma 4 that top hosted rivals on its benchmarks but aren&#x27;t on Amazon Bedrock yet.</description>
+<content:encoded><![CDATA[<p><img src="https://cdn.thenewstack.io/media/2026/05/2f95a795-img_3509-scaled.jpg" alt="" /></p><p>AWS releases Strands Decider v2, five open decision models built on Gemma 4 that top hosted rivals on its benchmarks but aren&#x27;t on Amazon Bedrock yet.</p>]]></content:encoded>
+<media:content url="https://cdn.thenewstack.io/media/2026/05/2f95a795-img_3509-scaled.jpg" medium="image" />
+<media:thumbnail url="https://cdn.thenewstack.io/media/2026/05/2f95a795-img_3509-scaled.jpg" />
+</item>
+<item>
+<title>OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)</title>
+<link>https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zrvmnupi2b</guid>
+<pubDate>Tue, 24 Nov 2026 04:15:49 +0000</pubDate>
+<description>Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks - SiliconANGLE</description>
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-23-08-48-22.png" alt="" /></p><p>Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-23-08-48-22.png" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-23-08-48-22.png" />
+</item>
+<item>
+<title>Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)</title>
+<link>https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zr4gxf6k2x</guid>
+<pubDate>Tue, 24 Nov 2026 04:01:44 +0000</pubDate>
+<description>One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/191:100/w_1280,c_limit/business_west_bank_google_maps.jpg" alt="" /></p><p>One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/191:100/w_1280,c_limit/business_west_bank_google_maps.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/191:100/w_1280,c_limit/business_west_bank_google_maps.jpg" />
+</item>
+<item>
+<title>OpenAI rolls out a version of GPT-6.2 Sol that is &quot;optimized for everyday conversation&quot; to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)</title>
+<link>https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zq7xyuwb2l</guid>
+<pubDate>Tue, 24 Nov 2026 03:45:49 +0000</pubDate>
+<description>OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted in...</description>
+<content:encoded><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted in...</p>]]></content:encoded>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&amp;strip=all&amp;resize=1200,628" medium="image" />
+<media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&amp;strip=all&amp;resize=1200,628" />
+</item>
+<item>
+<title>Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&#x27;s board, but was remorseful about them (Wall Street Journal)</title>
+<link>https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zokd4ryu23</guid>
+<pubDate>Tue, 24 Nov 2026 03:15:49 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html?unlocked_article_code=1.S1E.uEk0.4ODfUv_FRPyx&amp;smid=url-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zmcxdqgm2b</guid>
+<pubDate>Tue, 24 Nov 2026 02:35:54 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Filing: the former OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many involving possible trade secrets (Madlin Mekelburg/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zkwpy5eb2b</guid>
+<pubDate>Tue, 24 Nov 2026 02:11:10 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: the US is investigating Iran&#x27;s possible role in cyberattacks on up to 50 energy tankers via a Fortinet router flaw; Russia is also a possible culprit (Wall Street Journal)</title>
+<link>https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zjahrqwb2p</guid>
+<pubDate>Tue, 24 Nov 2026 01:40:49 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)</title>
+<link>https://utahnewsdispatch.com/2026/11/23/kalshi-blocks-operations-in-utah-legal-challenges-ongoing/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zgpxlmsf2i</guid>
+<pubDate>Tue, 24 Nov 2026 00:55:48 +0000</pubDate>
+<description>The prediction market platform Kalshi has paused operations in Utah as it faces multiple legal challenges from state leaders.</description>
+<content:encoded><![CDATA[<p><img src="https://utahnewsdispatch.com/wp-content/uploads/2026/08/040726_Kalshi_003-scaled-1-2048x1366.jpg" alt="" /></p><p>The prediction market platform Kalshi has paused operations in Utah as it faces multiple legal challenges from state leaders.</p>]]></content:encoded>
+<media:content url="https://utahnewsdispatch.com/wp-content/uploads/2026/08/040726_Kalshi_003-scaled-1-2048x1366.jpg" medium="image" />
+<media:thumbnail url="https://utahnewsdispatch.com/wp-content/uploads/2026/08/040726_Kalshi_003-scaled-1-2048x1366.jpg" />
+</item>
+<item>
+<title>Supertake, which uses AI agents to turn users&#x27; market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)</title>
+<link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zf3ks7od2i</guid>
+<pubDate>Tue, 24 Nov 2026 00:26:30 +0000</pubDate>
+<description>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</description>
+<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675" alt="" /></p><p>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</p>]]></content:encoded>
+<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675" medium="image" />
+<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675" />
+</item>
+<item>
+<title>Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)</title>
+<link>https://www.wsj.com/pro/venture-capital/australian-iot-startup-aims-to-help-bridge-the-gap-between-ai-and-the-real-world-83864d54</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zbpuesge2p</guid>
+<pubDate>Mon, 23 Nov 2026 23:26:16 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours (Dina Bass/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-23/hpe-gives-forecast-that-falls-short-of-most-optimistic-estimates</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2zalqycw227</guid>
+<pubDate>Mon, 23 Nov 2026 23:06:04 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates (Brody Ford/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-23/zoom-projects-revenue-that-misses-estimates-on-stagnant-growth</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2z7qpnxwk2m</guid>
+<pubDate>Mon, 23 Nov 2026 22:50:57 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout</link>
@@ -752,128 +876,6 @@
 <content:encoded><![CDATA[<p><img src="https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png" alt="" /></p><p>Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens.</p>]]></content:encoded>
 <media:content url="https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png" medium="image" />
 <media:thumbnail url="https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png" />
-</item>
-<item>
-<title>Anthropic stock closed down 8.5% at $88.91 on its second day of trading, trimming gains from its $83 IPO price (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rioqqrir2q</guid>
-<pubDate>Fri, 20 Nov 2026 21:09:37 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company&#x27;s market cap down by $2.5T (Kif Leswing/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rim4qnid2p</guid>
-<pubDate>Fri, 20 Nov 2026 21:08:09 +0000</pubDate>
-<description>Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" alt="" /></p><p>Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-20/bitcoin-falls-to-more-than-two-year-low-as-global-markets-sink</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rgkczln32b</guid>
-<pubDate>Fri, 20 Nov 2026 20:31:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: the US SEC is probing Nvidia&#x27;s accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)</title>
-<link>https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rgawczgx2m</guid>
-<pubDate>Fri, 20 Nov 2026 20:26:05 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Nvidia board&#x27;s main reason for ousting Jensen Huang was his &quot;lying&quot; and &quot;lack of candor&quot; from October 2025 until this fall over the Alice Huang affair (Wired)</title>
-<link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rfxqhvsj2m</guid>
-<pubDate>Fri, 20 Nov 2026 20:20:57 +0000</pubDate>
-<description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6b007b4f6873ef9746910ee1/191:100/w_1280,c_limit/GettyImages-2298479100.jpg" alt="" /></p><p>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6b007b4f6873ef9746910ee1/191:100/w_1280,c_limit/GettyImages-2298479100.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6b007b4f6873ef9746910ee1/191:100/w_1280,c_limit/GettyImages-2298479100.jpg" />
-</item>
-<item>
-<title>Nvidia shares fell 12% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company&#x27;s market cap down by $2.5T (Kif Leswing/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rffxtlkq26</guid>
-<pubDate>Fri, 20 Nov 2026 20:11:01 +0000</pubDate>
-<description>Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" alt="" /></p><p>Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Sources: Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rf4vwnrw2b</guid>
-<pubDate>Fri, 20 Nov 2026 20:05:57 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Take-Two says GTA VI generated $3.79B in day-one sales, surpassing the $2.9B lifetime box-office gross of the highest-grossing film Avengers: Endgame (Jennifer Maas/Variety)</title>
-<link>https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rew3ff662b</guid>
-<pubDate>Fri, 20 Nov 2026 20:02:08 +0000</pubDate>
-<description>&quot;Grand Theft Auto 6&quot; has earned $3.79 billion in its first 4 hours.</description>
-<content:encoded><![CDATA[<p><img src="https://variety.com/wp-content/uploads/2026/08/GTA-6-2.jpg?w=1000&amp;h=563&amp;crop=1" alt="" /></p><p>&quot;Grand Theft Auto 6&quot; has earned $3.79 billion in its first 4 hours.</p>]]></content:encoded>
-<media:content url="https://variety.com/wp-content/uploads/2026/08/GTA-6-2.jpg?w=1000&amp;h=563&amp;crop=1" medium="image" />
-<media:thumbnail url="https://variety.com/wp-content/uploads/2026/08/GTA-6-2.jpg?w=1000&amp;h=563&amp;crop=1" />
-</item>
-<item>
-<title>Trump says he &quot;would love to see&quot; Jensen Huang return as CEO, saying &quot;if they were smart&quot;, Nvidia would &quot;accept an apology, and let him go back to work&quot; (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rdhcpllj2x</guid>
-<pubDate>Fri, 20 Nov 2026 19:35:58 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at designing AI evaluations (Grace Huckins/MIT Technology Review)</title>
-<link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rbrl6d3o2m</guid>
-<pubDate>Fri, 20 Nov 2026 19:05:56 +0000</pubDate>
-<description>METR’s latest report finds that AI models are still improving at a rapid clip, but they show some weaknesses in tasks that require judgment.</description>
-<content:encoded><![CDATA[<p><img src="https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600" alt="" /></p><p>METR’s latest report finds that AI models are still improving at a rapid clip, but they show some weaknesses in tasks that require judgment.</p>]]></content:encoded>
-<media:content url="https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600" medium="image" />
-<media:thumbnail url="https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600" />
-</item>
-<item>
-<title>Sources: YouTube reaches an agreement in principle to pay ~$3B to US school districts over claims YouTube fosters addiction; a final deal may be months away (Olivia Carville/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2rawu4ft32m</guid>
-<pubDate>Fri, 20 Nov 2026 18:50:59 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Trump says he would block US companies from building data centers overseas or impose a &quot;tremendous tax&quot; on them if they do (Julianna Bragg/Axios)</title>
-<link>https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ra3wopsb2b</guid>
-<pubDate>Fri, 20 Nov 2026 18:35:56 +0000</pubDate>
-<description>From www.axios.com</description>
-<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Investigation: companies in Alice Huang&#x27;s family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2r7t4bb3o2q</guid>
-<pubDate>Fri, 20 Nov 2026 18:31:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Tom Cotton, the GOP senator who chairs the Senate Intelligence Committee, says Howard Lutnick repeatedly ignored warnings about AI chips being smuggled to China (Wall Street Journal)</title>
-<link>https://www.wsj.com/politics/national-security/top-republican-senator-says-lutnick-ignored-his-china-chip-warnings-512f64fd?st=3ZECin</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2r6q3z6la2i</guid>
-<pubDate>Fri, 20 Nov 2026 18:11:25 +0000</pubDate>
-<description>From www.wsj.com</description>
-<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
