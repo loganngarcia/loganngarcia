@@ -5,15 +5,161 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 10:25:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:02:20 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of &quot;vibes-based&quot; positioning, rebutting a report on AI leaders&#x27; views (Madison Mills/Axios)</title>
+<link>https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35we46lfz25</guid>
+<pubDate>Wed, 25 Nov 2026 19:46:09 +0000</pubDate>
+<description>From www.axios.com</description>
+<content:encoded><![CDATA[<p>From www.axios.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35tutbyzq2q</guid>
+<pubDate>Wed, 25 Nov 2026 19:01:49 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies&#x27; remote access to AI chips (Kai Nicol-Schwarz/CNBC)</title>
+<link>https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35rv53b3c24</guid>
+<pubDate>Wed, 25 Nov 2026 18:26:12 +0000</pubDate>
+<description>Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers</description>
+<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108558280-1795524153938-gettyimages-2306090565-NVIDIA_HQ.jpeg?v=1795524192&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers</p>]]></content:encoded>
+<media:content url="https://image.cnbcfm.com/api/v1/image/108558280-1795524153938-gettyimages-2306090565-NVIDIA_HQ.jpeg?v=1795524192&amp;w=1920&amp;h=1080" medium="image" />
+<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108558280-1795524153938-gettyimages-2306090565-NVIDIA_HQ.jpeg?v=1795524192&amp;w=1920&amp;h=1080" />
+</item>
+<item>
+<title>Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)</title>
+<link>https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35podcpla25</guid>
+<pubDate>Wed, 25 Nov 2026 17:46:36 +0000</pubDate>
+<description>Every, an AI-focused media company and publication, has raised $17.5 million at a $110 million post-money valuation, Fortune has exclusively learned.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/Unknown_3d0e16-e1795555543252.jpeg?resize=1200,600" alt="" /></p><p>Every, an AI-focused media company and publication, has raised $17.5 million at a $110 million post-money valuation, Fortune has exclusively learned.</p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Unknown_3d0e16-e1795555543252.jpeg?resize=1200,600" medium="image" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/Unknown_3d0e16-e1795555543252.jpeg?resize=1200,600" />
+</item>
+<item>
+<title>The US FCC authorizes SpaceX to deploy its &quot;Starmind&quot; constellation of 1M satellites for data centers in space (David Shepardson/Reuters)</title>
+<link>https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35ojyhrld2b</guid>
+<pubDate>Wed, 25 Nov 2026 17:26:16 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)</title>
+<link>https://www.anthropic.com/research/migrating-api-to-rust</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35nfzieys23</guid>
+<pubDate>Wed, 25 Nov 2026 17:06:10 +0000</pubDate>
+<description>How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.</description>
+<content:encoded><![CDATA[<p><img src="https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" alt="" /></p><p>How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions.</p>]]></content:encoded>
+<media:content url="https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" medium="image" />
+<media:thumbnail url="https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" />
+</item>
+<item>
+<title>Sources: US officials told Congressional staffers that there is no evidence MSS directed Alice Huang to spy on Jensen Huang and the affair may have been amorous (Wall Street Journal)</title>
+<link>https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7?st=UJKdtq&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35jip3nml23</guid>
+<pubDate>Wed, 25 Nov 2026 15:56:04 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% (Financial Times)</title>
+<link>https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35gyghsv324</guid>
+<pubDate>Wed, 25 Nov 2026 15:11:11 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Source: President Trump is scheduled to lead a December 4 groundbreaking ceremony for TSMC&#x27;s Phoenix plant expansion, deepening his chip sector involvement (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35dduhxht2j</guid>
+<pubDate>Wed, 25 Nov 2026 14:06:00 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Tether and Circle freezing $2B+ in crypto after Binance&#x27;s $6.3B hack shows their centralized control and a shift from Circle&#x27;s reliance on slow court orders (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35bofbrku2b</guid>
+<pubDate>Wed, 25 Nov 2026 13:36:05 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Chinese vendors in Shenzhen&#x27;s Huaqiangbei market still sell US-restricted Nvidia hardware, quoting $3M+ for Blackwell B300 servers, up from $2M two months ago (Joshua Yang/Washington Post)</title>
+<link>https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzk1NTgyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk2OTY1MTk5LCJpYXQiOjE3OTU1ODI4MDAsImp0aSI6ImRjN2IwMDllLWFkMzEtNDViZC1hNDBlLTdiZTZkY2QyYjgyOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI2LzExLzI1L3RvcC1udmlkaWEtY2hpcHMtYXJlLXN0aWxsLW9mZmVyLWNoaW5hLWRlc3BpdGUtdXMtYmFuLyJ9.jF3hc_e28ZcCrJ5Y8OmlgXSYteCO7jDAMSZ9yQp6kJg&amp;itid=gfta</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n357rdujkq24</guid>
+<pubDate>Wed, 25 Nov 2026 13:01:57 +0000</pubDate>
+<description>From www.washingtonpost.com</description>
+<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Walmart-backed Indian fintech PhonePe resumes its IPO preparations, targeting a Q1 2027 debut at a $12B to $15B valuation and raising $1.2B to $1.5B (Reuters)</title>
+<link>https://www.reuters.com/world/india/walmart-backed-phonepe-restarts-ipo-process-eyes-up-15-billion-valuation-market-2026-11-25/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3575wicnc25</guid>
+<pubDate>Wed, 25 Nov 2026 12:51:06 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>EA says it used AI and archival recordings to add late soccer commentator John Motson to EA Sports FC 27, with permission from Motson&#x27;s widow and son (Tom Gerken/BBC)</title>
+<link>https://www.bbc.com/news/articles/c65y10j841jpo</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n355r5suvx2w</guid>
+<pubDate>Wed, 25 Nov 2026 12:26:03 +0000</pubDate>
+<description>The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.</description>
+<content:encoded><![CDATA[<p><img src="https://ichef.bbci.co.uk/news/1024/branded_news/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg" alt="" /></p><p>The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.</p>]]></content:encoded>
+<media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg" medium="image" />
+<media:thumbnail url="https://ichef.bbci.co.uk/news/1024/branded_news/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg" />
+</item>
+<item>
+<title>US court documents detail a Commerce Department pressure campaign on Intel to acquire a 10% equity stake in 2025, warning rejection would carry &quot;consequences&quot; (Noah Shachtman/Wired)</title>
+<link>https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n353jnlna72c</guid>
+<pubDate>Wed, 25 Nov 2026 11:46:04 +0000</pubDate>
+<description>Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.</description>
+<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6b04df84424fd4be0d579981/191:100/w_1280,c_limit/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg" alt="" /></p><p>Donald Trump’s dealings with Intel reveal yet another government-led pressure campaign involving a private company, court documents show.</p>]]></content:encoded>
+<media:content url="https://media.wired.com/photos/6b04df84424fd4be0d579981/191:100/w_1280,c_limit/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg" medium="image" />
+<media:thumbnail url="https://media.wired.com/photos/6b04df84424fd4be0d579981/191:100/w_1280,c_limit/How-Trump-Admin-Got-Piece-of-Intel-Business.jpg" />
+</item>
+<item>
+<title>Nvidia&#x27;s board reinstating Jensen Huang as CEO under pressure from President Trump represents &quot;another installment of his regrettable state capitalism&quot; (Wall Street Journal)</title>
+<link>https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c?st=U9EhS6</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n352pkmeqa2w</guid>
+<pubDate>Wed, 25 Nov 2026 11:31:28 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at Iranian cyber unit Shahid Kaveh, which France said recently hacked supermarket freezers; in 2023 and 2024, it hacked Israeli-made industrial devices (Financial Times)</title>
+<link>https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?accessToken=zwAAAaKox6AIks8240LyF9RIp9OA9iRW391vkc9fOoWt5iFBidO62pifQXAu2QE.MEUCIQDyugqDlGORQFyxUvpsLSGx3IFVF80SRpcwo-zvXD_brgIgWy5Yr-AZKf_u8KAKuWRSrKVV6IBsPkAxfnFRNp89Syo&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n34zu2wtld23</guid>
+<pubDate>Wed, 25 Nov 2026 11:16:06 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Liquid Compute: Asian data centers and neoclouds are seeking US clients to offload excess capacity after new US compute rules, as B300 hourly rental costs fall (Newley Purnell/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-25/asia-data-centers-sound-out-us-clients-to-replace-china-demand</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n34z2gal4t2u</guid>
+<pubDate>Wed, 25 Nov 2026 11:01:45 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon&#x27;s block; any deal would require a sign-off from both CEOs (Sebastian Herrera/Fortune)</title>
 <link>https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n34wiqlde425</guid>
 <pubDate>Wed, 25 Nov 2026 10:16:05 +0000</pubDate>
-<description>E-commerce giant blocked Meta&#x27;s popular AI tool from its online store in September</description>
-<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600" alt="" /></p><p>E-commerce giant blocked Meta&#x27;s popular AI tool from its online store in September</p>]]></content:encoded>
+<description>The e-commerce giant blocked Meta’s popular AI tool from its online store in September.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600" alt="" /></p><p>The e-commerce giant blocked Meta’s popular AI tool from its online store in September.</p>]]></content:encoded>
 <media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600" medium="image" />
 <media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296209094_cc3633-e1795590650418.jpg?resize=1200,600" />
 </item>
@@ -431,9 +577,9 @@
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n32r7swayy2m</guid>
 <pubDate>Tue, 24 Nov 2026 13:36:17 +0000</pubDate>
 <description>Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads - SiliconANGLE</description>
-<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/zipher.jpeg" alt="" /></p><p>Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads - SiliconANGLE</p>]]></content:encoded>
-<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/zipher.jpeg" medium="image" />
-<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/zipher.jpeg" />
+<content:encoded><![CDATA[<p><img src="https://images.siliconangle.com/blogs.dir/1/files/2026/11/ziphernew.jpeg" alt="" /></p><p>Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads - SiliconANGLE</p>]]></content:encoded>
+<media:content url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/ziphernew.jpeg" medium="image" />
+<media:thumbnail url="https://images.siliconangle.com/blogs.dir/1/files/2026/11/ziphernew.jpeg" />
 </item>
 <item>
 <title>The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)</title>
@@ -742,152 +888,6 @@
 <pubDate>Mon, 23 Nov 2026 19:31:06 +0000</pubDate>
 <description>From www.reuters.com</description>
 <content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Jensen Huang returned to Nvidia&#x27;s headquarters to cheers from employees and said &quot;I&#x27;m gonna be a better CEO the second time around&quot; (Geoff Weiss/Business Insider)</title>
-<link>https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yt6lvtke2e</guid>
-<pubDate>Mon, 23 Nov 2026 19:06:04 +0000</pubDate>
-<description>Jensen Huang returned to Nvidia&#x27;s Santa Clara HQ to cheers and chants from employees, apologizing for two weeks of turmoil.</description>
-<content:encoded><![CDATA[<p><img src="https://i.insider.com/6b048e4073f126f9eccb99ec?width=1200&amp;format=jpeg" alt="" /></p><p>Jensen Huang returned to Nvidia&#x27;s Santa Clara HQ to cheers and chants from employees, apologizing for two weeks of turmoil.</p>]]></content:encoded>
-<media:content url="https://i.insider.com/6b048e4073f126f9eccb99ec?width=1200&amp;format=jpeg" medium="image" />
-<media:thumbnail url="https://i.insider.com/6b048e4073f126f9eccb99ec?width=1200&amp;format=jpeg" />
-</item>
-<item>
-<title>Dutch payment company Adyen says co-CEO Pieter van der Does plans to step down at the end of the year; co-CEO Ingo Uytdehaage will become the sole chief (Sarah Jacob/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-23/adyen-co-ceo-pieter-van-der-does-to-retire-from-payments-firm</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ysxwxzli2t</guid>
-<pubDate>Mon, 23 Nov 2026 19:02:21 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AWS CEO Matt Garman says AI safety can&#x27;t rely on an &quot;emergency brake&quot; and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)</title>
-<link>https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yqx4ivhg2p</guid>
-<pubDate>Mon, 23 Nov 2026 18:26:06 +0000</pubDate>
-<description>Most of the practical tools to build trustworthy AI systems already exist, and the industry needs to use them.</description>
-<content:encoded><![CDATA[<p><img src="https://assets.aboutamazon.com/dims4/default/a5fda22/2147483647/strip/true/crop/2000x1000+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff0%2F4d%2Fbf5376014476a3c07012bd8c8065%2Faisafety-hero-amazonnews-ck112026.png" alt="" /></p><p>Most of the practical tools to build trustworthy AI systems already exist, and the industry needs to use them.</p>]]></content:encoded>
-<media:content url="https://assets.aboutamazon.com/dims4/default/a5fda22/2147483647/strip/true/crop/2000x1000+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff0%2F4d%2Fbf5376014476a3c07012bd8c8065%2Faisafety-hero-amazonnews-ck112026.png" medium="image" />
-<media:thumbnail url="https://assets.aboutamazon.com/dims4/default/a5fda22/2147483647/strip/true/crop/2000x1000+0+60/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Ff0%2F4d%2Fbf5376014476a3c07012bd8c8065%2Faisafety-hero-amazonnews-ck112026.png" />
-</item>
-<item>
-<title>Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)</title>
-<link>https://www.pcmag.com/news/gta-6-leaker-releases-all-files-for-alleged-xbox-build-of-game</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yq4t4pae2p</guid>
-<pubDate>Mon, 23 Nov 2026 18:11:23 +0000</pubDate>
-<description>&#x27;Xmas came early,&#x27; the CyberLeek gang says. If real, the dumped executable program promises to help the modding community create a PC port for Grand Theft Auto 6 soon.</description>
-<content:encoded><![CDATA[<p><img src="https://i.pcmag.com/imagery/articles/04HP4aR1cSaq9EuByHcMxQt-1.fit_lim.size_1200x630.v1795448227.jpg" alt="" /></p><p>&#x27;Xmas came early,&#x27; the CyberLeek gang says. If real, the dumped executable program promises to help the modding community create a PC port for Grand Theft Auto 6 soon.</p>]]></content:encoded>
-<media:content url="https://i.pcmag.com/imagery/articles/04HP4aR1cSaq9EuByHcMxQt-1.fit_lim.size_1200x630.v1795448227.jpg" medium="image" />
-<media:thumbnail url="https://i.pcmag.com/imagery/articles/04HP4aR1cSaq9EuByHcMxQt-1.fit_lim.size_1200x630.v1795448227.jpg" />
-</item>
-<item>
-<title>Sources: Nvidia board&#x27;s decision to reinstate Jensen Huang was done without consulting Nvidia&#x27;s senior leadership, who were only informed at the last minute (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-about-face-on-huang-made-without-consulting-leadership</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ypmqnrwv26</guid>
-<pubDate>Mon, 23 Nov 2026 18:02:24 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Senate Banking Committee Chairman Tim Scott says Jensen Huang will testify publicly on December 3, focusing on oversight of US export controls (Emily Birnbaum/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-23/jensen-huang-will-testify-publicly-before-us-senators-next-week</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yoytgpfr2m</guid>
-<pubDate>Mon, 23 Nov 2026 17:51:16 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Musk has told employees SpaceX is falling behind in AI, making it more lucrative to rent out computing than use it to improve SpaceX&#x27;s own products (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html?unlocked_article_code=1.SlE.aCYC.YU6IyUKPOOHb&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yo6sg4sq27</guid>
-<pubDate>Mon, 23 Nov 2026 17:36:42 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Filing: the US DOJ is seeking forfeiture of $1B+ in cryptocurrency stolen from Binance by hackers linked to North Korea (Chris Strohm/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-23/us-seeks-to-recover-more-than-1-billion-from-binance-hack</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ynmnnheh2q</guid>
-<pubDate>Mon, 23 Nov 2026 17:26:33 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang&#x27;s reinstatement, assuring Nvidia&#x27;s board Huang posed no national security risk (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ymrfdbqf2m</guid>
-<pubDate>Mon, 23 Nov 2026 17:11:19 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia&#x27;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)</title>
-<link>https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yl3hfqzb2t</guid>
-<pubDate>Mon, 23 Nov 2026 16:41:09 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>US lawmakers criticize Nvidia&#x27;s decision to reinstate Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China (David Shepardson/Reuters)</title>
-<link>https://www.reuters.com/business/lawmakers-criticize-nvidia-decision-reinstate-huang-ceo-2026-11-23/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ykawuydm2t</guid>
-<pubDate>Mon, 23 Nov 2026 16:26:19 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>President Trump says Jensen Huang &quot;did nothing wrong&quot;, Nvidia&#x27;s board &quot;did ask for assurance on the national security threat&quot;, and he spoke to Xi about Huang (Dan Mangan/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ygmb2pdi2l</guid>
-<pubDate>Mon, 23 Nov 2026 15:21:04 +0000</pubDate>
-<description>President Trump said his administration gave Nvidia&#x27;s board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795450515&amp;w=1920&amp;h=1080" alt="" /></p><p>President Trump said his administration gave Nvidia&#x27;s board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795450515&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795450515&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Source: Trump dialed into Nvidia&#x27;s board meeting to argue for Huang&#x27;s return; a US official says he &quot;was totally involved&quot; and &quot;we have to protect our geniuses&quot; (J.D. Capelouto/Semafor)</title>
-<link>https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ygcu3szd2b</guid>
-<pubDate>Mon, 23 Nov 2026 15:15:48 +0000</pubDate>
-<description>Chipmaker’s board said it received government assurances that Huang’s return poses no national security risk.</description>
-<content:encoded><![CDATA[<p><img src="https://img.semafor.com/ffb9c2be0ed8aef17ce97d90028fc4a4353acad0-4000x2667.jpg?rect=0,284,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" alt="" /></p><p>Chipmaker’s board said it received government assurances that Huang’s return poses no national security risk.</p>]]></content:encoded>
-<media:content url="https://img.semafor.com/ffb9c2be0ed8aef17ce97d90028fc4a4353acad0-4000x2667.jpg?rect=0,284,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" medium="image" />
-<media:thumbnail url="https://img.semafor.com/ffb9c2be0ed8aef17ce97d90028fc4a4353acad0-4000x2667.jpg?rect=0,284,4000,2100&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" />
-</item>
-<item>
-<title>Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)</title>
-<link>https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yfl2mwme2l</guid>
-<pubDate>Mon, 23 Nov 2026 15:02:30 +0000</pubDate>
-<description>From alineaanalytics.substack.com</description>
-<content:encoded><![CDATA[<p>From alineaanalytics.substack.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2yex2u5rl26</guid>
-<pubDate>Mon, 23 Nov 2026 14:51:19 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Nvidia&#x27;s board says it voted to reinstate Jensen Huang after receiving input from &quot;senior levels&quot; of the US government; a probe into his conduct is ongoing (Tim Bradshaw/Financial Times)</title>
-<link>https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ydi3c4ei2b</guid>
-<pubDate>Mon, 23 Nov 2026 14:25:02 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>President Trump says Nvidia &quot;made the correct and proper decision&quot;, the US &quot;needs Jensen&#x27;s leadership&quot;, and the US AG found no evidence of &quot;unlawful conduct&quot; (Donald J. Trump/@realDonaldTrump@truthsocial.com)</title>
-<link>https://truthsocial.com/@realDonaldTrump/117666141823845971</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n2ycs6mvmg2m</guid>
-<pubDate>Mon, 23 Nov 2026 14:12:48 +0000</pubDate>
-<description>From truthsocial.com</description>
-<content:encoded><![CDATA[<p>From truthsocial.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
