@@ -5,8 +5,26 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 20:31:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 03:14:58 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3awqmxx6325</guid>
+<pubDate>Fri, 27 Nov 2026 00:31:08 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#x27;s organizers out of ~$260K (Nathan Grayson/Aftermath)</title>
+<link>https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3aowfg5jo23</guid>
+<pubDate>Thu, 26 Nov 2026 22:11:12 +0000</pubDate>
+<description>What a time to be alive</description>
+<content:encoded><![CDATA[<p><img src="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/n3on2.png" alt="" /></p><p>What a time to be alive</p>]]></content:encoded>
+<media:content url="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/n3on2.png" medium="image" />
+<media:thumbnail url="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/n3on2.png" />
+</item>
 <item>
 <title>Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)</title>
 <link>https://www.reuters.com/technology/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist-2026-11-26/</link>
@@ -148,16 +166,6 @@
 <pubDate>Thu, 26 Nov 2026 10:51:20 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)</title>
-<link>https://scottaaronson.blog/?p=10379</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n37flzgctf2m</guid>
-<pubDate>Thu, 26 Nov 2026 09:51:40 +0000</pubDate>
-<description>I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what’s now happening, so I’m trying again. Last night, we ha…</description>
-<content:encoded><![CDATA[<p><img src="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" alt="" /></p><p>I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what’s now happening, so I’m trying again. Last night, we ha…</p>]]></content:encoded>
-<media:content url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" medium="image" />
-<media:thumbnail url="https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ" />
 </item>
 <item>
 <title>Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data (Reuters)</title>
@@ -888,14 +896,6 @@
 <pubDate>Tue, 24 Nov 2026 17:11:01 +0000</pubDate>
 <description>From www.ft.com</description>
 <content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)</title>
-<link>https://www.reuters.com/world/shein-pay-100-million-settle-us-claims-ftc-official-says-2026-11-24/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n334rjg2vd2l</guid>
-<pubDate>Tue, 24 Nov 2026 17:03:02 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
