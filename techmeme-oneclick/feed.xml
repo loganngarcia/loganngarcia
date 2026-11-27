@@ -5,8 +5,88 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:38:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 21:38:30 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)</title>
+<link>https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3d5g2ueih24</guid>
+<pubDate>Fri, 27 Nov 2026 21:35:49 +0000</pubDate>
+<description>Anthropic’s trust problem, the perils of proactive models, and why a model’s apology isn’t evidence of anything.</description>
+<content:encoded><![CDATA[<p><img src="https://www.dbreunig.com/img/sf_beach_og.jpg" alt="" /></p><p>Anthropic’s trust problem, the perils of proactive models, and why a model’s apology isn’t evidence of anything.</p>]]></content:encoded>
+<media:content url="https://www.dbreunig.com/img/sf_beach_og.jpg" medium="image" />
+<media:thumbnail url="https://www.dbreunig.com/img/sf_beach_og.jpg" />
+</item>
+<item>
+<title>Q&amp;A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)</title>
+<link>https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cywrmlzt25</guid>
+<pubDate>Fri, 27 Nov 2026 20:15:42 +0000</pubDate>
+<description>&quot;If we pause now, people still won&#x27;t understand what&#x27;s at stake.&quot;</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!9PbN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F226789196%2F50d65d67-bc9e-41db-a8ed-a79fb018061f%2Ftranscoded-1795804086.png" alt="" /></p><p>&quot;If we pause now, people still won&#x27;t understand what&#x27;s at stake.&quot;</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!9PbN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F226789196%2F50d65d67-bc9e-41db-a8ed-a79fb018061f%2Ftranscoded-1795804086.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!9PbN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F226789196%2F50d65d67-bc9e-41db-a8ed-a79fb018061f%2Ftranscoded-1795804086.png" />
+</item>
+<item>
+<title>OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and &quot;coercing and threatening&quot; suppliers that work with both (Financial Times)</title>
+<link>https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cumnvhym2w</guid>
+<pubDate>Fri, 27 Nov 2026 18:58:27 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)</title>
+<link>https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cu7gcs5425</guid>
+<pubDate>Fri, 27 Nov 2026 18:51:03 +0000</pubDate>
+<description>From www.ft.com</description>
+<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
+</item>
+<item>
+<title>European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3csasmgvz2q</guid>
+<pubDate>Fri, 27 Nov 2026 18:16:02 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>SAP confirms a cybersecurity incident; report: hackers obtained its staffers&#x27; authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)</title>
+<link>https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cmoea4hi2w</guid>
+<pubDate>Fri, 27 Nov 2026 16:36:14 +0000</pubDate>
+<description>SAP is investigating suspicious GitHub activity after reports that hackers stole employee tokens and tampered with its source code.</description>
+<content:encoded><![CDATA[<p><img src="https://www.securityweek.com/wp-content/uploads/2026/09/SAP_vulnerability-patches.jpg" alt="" /></p><p>SAP is investigating suspicious GitHub activity after reports that hackers stole employee tokens and tampered with its source code.</p>]]></content:encoded>
+<media:content url="https://www.securityweek.com/wp-content/uploads/2026/09/SAP_vulnerability-patches.jpg" medium="image" />
+<media:thumbnail url="https://www.securityweek.com/wp-content/uploads/2026/09/SAP_vulnerability-patches.jpg" />
+</item>
+<item>
+<title>The CMA says Meta made changes to Muse&#x27;s ToS in the UK to reflect the country&#x27;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)</title>
+<link>https://www.politico.eu/article/metas-uk-rollout-for-muse-ai-agent-exposes-it-to-more-liability/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3ciqztev72s</guid>
+<pubDate>Fri, 27 Nov 2026 15:26:09 +0000</pubDate>
+<description>The U.K. terms of service for Muse give consumers far more protection than in the U.S.</description>
+<content:encoded><![CDATA[<p><img src="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/27/GettyImages-2256533371.jpg" alt="" /></p><p>The U.K. terms of service for Muse give consumers far more protection than in the U.S.</p>]]></content:encoded>
+<media:content url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/27/GettyImages-2256533371.jpg" medium="image" />
+<media:thumbnail url="https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/27/GettyImages-2256533371.jpg" />
+</item>
+<item>
+<title>Interviews with Huawei CEO Ren Zhengfei and others on how Trump&#x27;s restrictions pushed Huawei toward self-reliance, making it central to China&#x27;s AI ambitions (New York Times)</title>
+<link>https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe&amp;smid=nytcore-ios-share</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cf47eufd2u</guid>
+<pubDate>Fri, 27 Nov 2026 14:20:49 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Serial numbers in Chinese filings reveal that Nvidia&#x27;s restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3cawltqdn2b</guid>
+<pubDate>Fri, 27 Nov 2026 13:06:06 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss (Ben Jiang/South China Morning Post)</title>
 <link>https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail</link>
@@ -736,8 +816,10 @@
 <link>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</link>
 <guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n342usz5ax2u</guid>
 <pubDate>Wed, 25 Nov 2026 02:01:45 +0000</pubDate>
-<description>From generativehistory.substack.com</description>
-<content:encoded><![CDATA[<p>From generativehistory.substack.com</p>]]></content:encoded>
+<description>OpenAI’s newest model can autonomously research open historical problems from end to end, forming hypotheses to make new discoveries.</description>
+<content:encoded><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png" alt="" /></p><p>OpenAI’s newest model can autonomously research open historical problems from end to end, forming hypotheses to make new discoveries.</p>]]></content:encoded>
+<media:content url="https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png" medium="image" />
+<media:thumbnail url="https://substackcdn.com/image/fetch/$s_!mr1c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85c196c7-1cc6-440f-b086-de25bf788ac1_1672x941.png" />
 </item>
 <item>
 <title>The US Treasury&#x27;s FinCEN says it&#x27;s investigating a cybersecurity incident that &quot;resulted in unauthorized access to a limited subset of its systems&quot; (Lauren Feiner/The Verge)</title>
@@ -814,86 +896,6 @@
 <pubDate>Tue, 24 Nov 2026 22:47:18 +0000</pubDate>
 <description>From www.washingtonpost.com</description>
 <content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic rolls out &quot;Install as app&quot; in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)</title>
-<link>https://claude.com/resources/articles/install-as-app</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33npbvvxz2t</guid>
-<pubDate>Tue, 24 Nov 2026 22:06:01 +0000</pubDate>
-<description>Open the artifacts you use every day like any other app, and let them do more on your computer. Rolling out in beta in Claude for Mac and Windows.</description>
-<content:encoded><![CDATA[<p><img src="https://claude.com/resources/articles/install-as-app/opengraph-image/og" alt="" /></p><p>Open the artifacts you use every day like any other app, and let them do more on your computer. Rolling out in beta in Claude for Mac and Windows.</p>]]></content:encoded>
-<media:content url="https://claude.com/resources/articles/install-as-app/opengraph-image/og" medium="image" />
-<media:thumbnail url="https://claude.com/resources/articles/install-as-app/opengraph-image/og" />
-</item>
-<item>
-<title>Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)</title>
-<link>https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33mna7mod23</guid>
-<pubDate>Tue, 24 Nov 2026 21:46:58 +0000</pubDate>
-<description>From www.reuters.com</description>
-<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)</title>
-<link>https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33m27qn5p27</guid>
-<pubDate>Tue, 24 Nov 2026 21:36:20 +0000</pubDate>
-<description>A new test assumes AI agents can go rogue—and asks whether they can resist temptation.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/191:100/w_1280,c_limit/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg" alt="" /></p><p>A new test assumes AI agents can go rogue—and asks whether they can resist temptation.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/191:100/w_1280,c_limit/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/191:100/w_1280,c_limit/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg" />
-</item>
-<item>
-<title>Docs: Grubhub is on track for ~$6.4B in GTV and a $97M EBITDA loss in 2026, reflecting heavy marketing and operating costs; Wonder says it&#x27;s not pursuing a sale (Valida Pau/The Information)</title>
-<link>https://www.theinformation.com/articles/grubhub-track-lose-100-million-2026</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33ls7q3rr2e</guid>
-<pubDate>Tue, 24 Nov 2026 21:31:52 +0000</pubDate>
-<description>From www.theinformation.com</description>
-<content:encoded><![CDATA[<p>From www.theinformation.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33k6khkvy23</guid>
-<pubDate>Tue, 24 Nov 2026 21:02:58 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy (Associated Press)</title>
-<link>https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33jbmlhod2i</guid>
-<pubDate>Tue, 24 Nov 2026 20:46:47 +0000</pubDate>
-<description>From apnews.com</description>
-<content:encoded><![CDATA[<p>From apnews.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Sources: Jensen Huang said Nvidia doesn&#x27;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)</title>
-<link>https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33hbn5c2o2b</guid>
-<pubDate>Tue, 24 Nov 2026 20:11:00 +0000</pubDate>
-<description>Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&amp;w=1920&amp;h=1080" alt="" /></p><p>Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Sources: the CIA and the ODNI recently discovered a cybersecurity breach affecting an open-source intelligence analysis system, exposing some unclassified info (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33gyomn4k2b</guid>
-<pubDate>Tue, 24 Nov 2026 20:06:00 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)</title>
-<link>https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33fcy4mez27</guid>
-<pubDate>Tue, 24 Nov 2026 19:35:58 +0000</pubDate>
-<description>Republicans worry Nvidia CEO Jensen Huang&#x27;s affairs with a suspected Chinese spy jeopardized U.S. national security.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" alt="" /></p><p>Republicans worry Nvidia CEO Jensen Huang&#x27;s affairs with a suspected Chinese spy jeopardized U.S. national security.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" />
 </item>
 </channel>
 </rss>
