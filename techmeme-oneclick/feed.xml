@@ -5,8 +5,60 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 03:14:58 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:38:52 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss (Ben Jiang/South China Morning Post)</title>
+<link>https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3c7bsilvx25</guid>
+<pubDate>Fri, 27 Nov 2026 12:36:34 +0000</pubDate>
+<description>From www.scmp.com</description>
+<content:encoded><![CDATA[<p>From www.scmp.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)</title>
+<link>https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3c5uyfs462y</guid>
+<pubDate>Fri, 27 Nov 2026 12:11:31 +0000</pubDate>
+<description>From www.reuters.com</description>
+<content:encoded><![CDATA[<p>From www.reuters.com</p>]]></content:encoded>
+</item>
+<item>
+<title>A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower (Tiffany Hsu/New York Times)</title>
+<link>https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3bxzobuu32j</guid>
+<pubDate>Fri, 27 Nov 2026 10:26:45 +0000</pubDate>
+<description>From www.nytimes.com</description>
+<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
+</item>
+<item>
+<title>Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October&#x27;s record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3boalhbf52s</guid>
+<pubDate>Fri, 27 Nov 2026 07:31:40 +0000</pubDate>
+<description>From www.bloomberg.com</description>
+<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
+</item>
+<item>
+<title>US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple&#x27;s share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)</title>
+<link>http://www.counterpointresearch.com/en/insights/us-smartphone-shipments-fell-9-percent-yoy-as-memory-costs-squeeze-android</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3bief2siy2s</guid>
+<pubDate>Fri, 27 Nov 2026 05:46:25 +0000</pubDate>
+<description>Counterpoint Research Insight</description>
+<content:encoded><![CDATA[<p><img src="https://counterpointresearch.com/images/og/og-default.png" alt="" /></p><p>Counterpoint Research Insight</p>]]></content:encoded>
+<media:content url="https://counterpointresearch.com/images/og/og-default.png" medium="image" />
+<media:thumbnail url="https://counterpointresearch.com/images/og/og-default.png" />
+</item>
+<item>
+<title>Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)</title>
+<link>https://www.calcalistech.com/ctechnews/article/h18nob7kml</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3b7xmbbrx2c</guid>
+<pubDate>Fri, 27 Nov 2026 03:16:06 +0000</pubDate>
+<description>Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents and connects their activity to the employees responsible for them.</description>
+<content:encoded><![CDATA[<p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/24/BJxVRegmJ7e/BJxVRegmJ7e_0_0_1379_777_0_large.jpg" alt="" /></p><p>Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents and connects their activity to the employees responsible for them.</p>]]></content:encoded>
+<media:content url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/24/BJxVRegmJ7e/BJxVRegmJ7e_0_0_1379_777_0_large.jpg" medium="image" />
+<media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/24/BJxVRegmJ7e/BJxVRegmJ7e_0_0_1379_777_0_large.jpg" />
+</item>
 <item>
 <title>Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)</title>
 <link>https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html</link>
@@ -842,60 +894,6 @@
 <content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" alt="" /></p><p>Republicans worry Nvidia CEO Jensen Huang&#x27;s affairs with a suspected Chinese spy jeopardized U.S. national security.</p>]]></content:encoded>
 <media:content url="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" medium="image" />
 <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Jensen Huang says he is back not as a &quot;tech bro&quot; or due to Trump&#x27;s pressure, but because Nvidia&#x27;s board &quot;evaluated the entire situation&quot; and &quot;gathered facts&quot; (New York Times)</title>
-<link>https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html?unlocked_article_code=1.S1E.xNC-.8GeedDSv6d1J&amp;smid=url-share</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33er534qz2l</guid>
-<pubDate>Tue, 24 Nov 2026 19:25:59 +0000</pubDate>
-<description>From www.nytimes.com</description>
-<content:encoded><![CDATA[<p>From www.nytimes.com</p>]]></content:encoded>
-</item>
-<item>
-<title>AG Todd Blanche and FBI Director Kash Patel dodge reporters&#x27; questions about a purported probe that led Trump to push Nvidia&#x27;s board to bring back Jensen Huang (Dan Mangan/CNBC)</title>
-<link>https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33dng7zqp2e</guid>
-<pubDate>Tue, 24 Nov 2026 19:06:01 +0000</pubDate>
-<description>The AG and FBI director evaded answering reporters&#x27; questions about details of an investigation Trump said resolved security concerns about Jensen Huang.</description>
-<content:encoded><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108558537-1795539323722-gettyimages-2306157739-AFP_D8GW9N2.jpeg?v=1795539366&amp;w=1920&amp;h=1080" alt="" /></p><p>The AG and FBI director evaded answering reporters&#x27; questions about details of an investigation Trump said resolved security concerns about Jensen Huang.</p>]]></content:encoded>
-<media:content url="https://image.cnbcfm.com/api/v1/image/108558537-1795539323722-gettyimages-2306157739-AFP_D8GW9N2.jpeg?v=1795539366&amp;w=1920&amp;h=1080" medium="image" />
-<media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108558537-1795539323722-gettyimages-2306157739-AFP_D8GW9N2.jpeg?v=1795539366&amp;w=1920&amp;h=1080" />
-</item>
-<item>
-<title>Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)</title>
-<link>https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33b4ylaky2b</guid>
-<pubDate>Tue, 24 Nov 2026 18:21:02 +0000</pubDate>
-<description>The service said Tuesday that more than 60 percent of new tracks uploaded to its service on Nov. 6 were fully AI-generated songs.</description>
-<content:encoded><![CDATA[<p><img src="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2223254831-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" alt="" /></p><p>The service said Tuesday that more than 60 percent of new tracks uploaded to its service on Nov. 6 were fully AI-generated songs.</p>]]></content:encoded>
-<media:content url="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2223254831-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" medium="image" />
-<media:thumbnail url="https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2223254831-H-2026.jpg?w=1296&amp;h=730&amp;crop=1" />
-</item>
-<item>
-<title>In the first all-hands since his return, Jensen Huang apologized for violating Nvidia&#x27;s code of conduct, saying he made some &quot;very serious personal mistakes&quot; (Paresh Dave/Wired)</title>
-<link>https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33a3nsash2m</guid>
-<pubDate>Tue, 24 Nov 2026 18:02:24 +0000</pubDate>
-<description>The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.</description>
-<content:encoded><![CDATA[<p><img src="https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/191:100/w_1280,c_limit/GettyImages-2279157190.jpg" alt="" /></p><p>The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.</p>]]></content:encoded>
-<media:content url="https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/191:100/w_1280,c_limit/GettyImages-2279157190.jpg" medium="image" />
-<media:thumbnail url="https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/191:100/w_1280,c_limit/GettyImages-2279157190.jpg" />
-</item>
-<item>
-<title>Three xAI founding members launch Epochal to build AI agents that achieve &quot;superhuman prediction&quot;; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3362rq6bp2e</guid>
-<pubDate>Tue, 24 Nov 2026 17:26:07 +0000</pubDate>
-<description>From www.bloomberg.com</description>
-<content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia&#x27;s size, plus Trump&#x27;s support, left Nvidia with no other options (Robert Armstrong/Financial Times)</title>
-<link>https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?accessToken=zwAAAaIN0Dg6kc9hFDDQmuxOXtOV12FehvaSzg.MEUCIH4bbkfWy63pk-Xp-zO034ya7sPPUY31qsEmWAonwMiYAiEAjq9EnBc-CjRb-tH7fq3b4ZDurNrYht5g6NCUWzd4aAA&amp;segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&amp;shareId=7a634a5c-6c03-492a-8b55-763c32ceb632&amp;shareType=enterprise&amp;syn-25a6b1a6=1</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3357s243226</guid>
-<pubDate>Tue, 24 Nov 2026 17:11:01 +0000</pubDate>
-<description>From www.ft.com</description>
-<content:encoded><![CDATA[<p>From www.ft.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
