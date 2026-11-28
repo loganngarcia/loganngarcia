@@ -5,8 +5,78 @@
 <link>https://www.techmeme.com/</link>
 <description>Combined direct-link feed: Techmeme, Humanoids Daily, Sherwood News, The AI Timeline by bycloud, and Qwen Research.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 28 Nov 2026 04:40:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 13:38:03 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/combined-rss/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/4062c57b0d965162eb28.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3e77oi5cg2s</guid>
+<pubDate>Sat, 28 Nov 2026 07:40:43 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq" rel="related" type="text/html" />
+<description>As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94798287%2Fsocial" alt="" /></p><p>As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a rabbit out of a hat.”</p><p><a href="https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94798287%2Fsocial" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94798287%2Fsocial" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.wsj.net%2Fim-94798287%2Fsocial" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/6463ba4f94f963c15141.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3e45dctg42u</guid>
+<pubDate>Sat, 28 Nov 2026 06:45:42 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/" rel="related" type="text/html" />
+<description>Trustly has raised the funds from existing investors.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.tech.eu%2Fuploads%2F2025%2F06%2Ftrustly-733.png" alt="" /></p><p>Trustly has raised the funds from existing investors.</p><p><a href="https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.tech.eu%2Fuploads%2F2025%2F06%2Ftrustly-733.png" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.tech.eu%2Fuploads%2F2025%2F06%2Ftrustly-733.png" />
+<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fcdn.tech.eu%2Fuploads%2F2025%2F06%2Ftrustly-733.png" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/aeb432b16453bc2ed455.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3e32dyxfd2w</guid>
+<pubDate>Sat, 28 Nov 2026 06:26:09 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://fortune.com/2026/11/26/reddit-coo-jen-wong-user-karma-moderator-model-ai/" rel="related" type="text/html" />
+<description>"Reddit typically gets you as a young adult, and then you season over time in this incredible way," Jen Wong tells Fortune.</description>
+<content:encoded><![CDATA[<p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2213132412-e1795707183910.jpg?resize=1200,600" alt="" /></p><p>"Reddit typically gets you as a young adult, and then you season over time in this incredible way," Jen Wong tells Fortune.</p><p><a href="https://fortune.com/2026/11/26/reddit-coo-jen-wong-user-karma-moderator-model-ai/">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2213132412-e1795707183910.jpg?resize=1200,600" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2213132412-e1795707183910.jpg?resize=1200,600" />
+<enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2213132412-e1795707183910.jpg?resize=1200,600" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/866f2e8ff9945934d5ea.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3dz3n2yto2w</guid>
+<pubDate>Sat, 28 Nov 2026 05:51:04 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://embo.com/introducing-embo" rel="related" type="text/html" />
+<description>Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained motor skills. We are partnering with a16z in a $110M Seed round.</description>
+<content:encoded><![CDATA[<p><img src="https://embo.com/images/posts/introducing-embo/banner.jpg" alt="" /></p><p>Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained motor skills. We are partnering with a16z in a $110M Seed round.</p><p><a href="https://embo.com/introducing-embo">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://embo.com/images/posts/introducing-embo/banner.jpg" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://embo.com/images/posts/introducing-embo/banner.jpg" />
+<enclosure url="https://embo.com/images/posts/introducing-embo/banner.jpg" type="image/jpeg" length="0" />
+</item>
+<item>
+<title>Anthropic says Claude doesn't silently sabotage work and that some user reports reflect "overcaution", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/908640080e2e89d4e898.html</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3drkcbpto2q</guid>
+<pubDate>Sat, 28 Nov 2026 03:36:06 +0000</pubDate>
+<source url="https://www.techmeme.com/">Techmeme</source>
+<category>Techmeme</category>
+<atom:link href="https://x.com/edwinarbus/status/2126507795642187855" rel="related" type="text/html" />
+<description>Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-…</description>
+<content:encoded><![CDATA[<p><img src="https://pbs.twimg.com/card_img/2124535308058267648/-9wrskrt?format=png&amp;name=medium" alt="" /></p><p>Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-…</p><p><a href="https://x.com/edwinarbus/status/2126507795642187855">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://pbs.twimg.com/card_img/2124535308058267648/-9wrskrt?format=png&amp;name=medium" medium="image" type="image/jpeg" />
+<media:thumbnail url="https://pbs.twimg.com/card_img/2124535308058267648/-9wrskrt?format=png&amp;name=medium" />
+<enclosure url="https://pbs.twimg.com/card_img/2124535308058267648/-9wrskrt?format=png&amp;name=medium" type="image/jpeg" length="0" />
+</item>
 <item>
 <title>How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/45a98e80be7fa06ddc52.html</link>
@@ -15,8 +85,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://lithowar.com/lithography-war/" rel="related" type="text/html" />
-<description>At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under way that few outsiders understand: chip lithography, which sets the ceiling on what a fab can make. The opening shots were a series of US export controls meant to keep the mostâ¦</description>
-<content:encoded><![CDATA[<p><img src="https://lithowar.com/lithography-war/og.png" alt="" /></p><p>At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under way that few outsiders understand: chip lithography, which sets the ceiling on what a fab can make. The opening shots were a series of US export controls meant to keep the mostâ¦</p><p><a href="https://lithowar.com/lithography-war/">Open Original Article</a></p>]]></content:encoded>
+<description>At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under way that few outsiders understand: chip lithography, which sets the ceiling on what a fab can make. The opening shots were a series of US export controls meant to keep the most…</description>
+<content:encoded><![CDATA[<p><img src="https://lithowar.com/lithography-war/og.png" alt="" /></p><p>At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under way that few outsiders understand: chip lithography, which sets the ceiling on what a fab can make. The opening shots were a series of US export controls meant to keep the most…</p><p><a href="https://lithowar.com/lithography-war/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://lithowar.com/lithography-war/og.png" medium="image" type="image/png" />
 <media:thumbnail url="https://lithowar.com/lithography-war/og.png" />
 <enclosure url="https://lithowar.com/lithography-war/og.png" type="image/png" length="0" />
@@ -183,8 +253,8 @@
 <source url="https://www.techmeme.com/">Techmeme</source>
 <category>Techmeme</category>
 <atom:link href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/" rel="related" type="text/html" />
-<description>Hackers have breached the US Air Force's flagship cloud computing platform, three ​people familiar with the matter told Reuters, in a development that could jeopardize a vast swathe of sensitive tacti...</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI5VWSYW4UFLARLK6HJW36YPQ5I.jpg%3Fauth%3Dcd82ac1658a268a9e3a908902cbc44fc74d7db84db720489ec5595bd136eebe9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Hackers have breached the US Air Force's flagship cloud computing platform, three ​people familiar with the matter told Reuters, in a development that could jeopardize a vast swathe of sensitive tacti...</p><p><a href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/">Open Original Article</a></p>]]></content:encoded>
+<description>It is among the US military's biggest cloud platforms and could jeopardize a vast swathe of sensitive tactical, personnel and logistics data.</description>
+<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI5VWSYW4UFLARLK6HJW36YPQ5I.jpg%3Fauth%3Dcd82ac1658a268a9e3a908902cbc44fc74d7db84db720489ec5595bd136eebe9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>It is among the US military's biggest cloud platforms and could jeopardize a vast swathe of sensitive tactical, personnel and logistics data.</p><p><a href="https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/">Open Original Article</a></p>]]></content:encoded>
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI5VWSYW4UFLARLK6HJW36YPQ5I.jpg%3Fauth%3Dcd82ac1658a268a9e3a908902cbc44fc74d7db84db720489ec5595bd136eebe9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI5VWSYW4UFLARLK6HJW36YPQ5I.jpg%3Fauth%3Dcd82ac1658a268a9e3a908902cbc44fc74d7db84db720489ec5595bd136eebe9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FI5VWSYW4UFLARLK6HJW36YPQ5I.jpg%3Fauth%3Dcd82ac1658a268a9e3a908902cbc44fc74d7db84db720489ec5595bd136eebe9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
@@ -790,76 +860,6 @@
 <media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEC4C57JNKVTKG5WPSGLOOXJE.jpg%3Fauth%3Ddeb973326cff4a4749078e37c062ce550fbe22bb7f9010e746c9fbecf70086b5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
 <media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEC4C57JNKVTKG5WPSGLOOXJE.jpg%3Fauth%3Ddeb973326cff4a4749078e37c062ce550fbe22bb7f9010e746c9fbecf70086b5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
 <enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FDTEC4C57JNKVTKG5WPSGLOOXJE.jpg%3Fauth%3Ddeb973326cff4a4749078e37c062ce550fbe22bb7f9010e746c9fbecf70086b5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: the DOJ didn't formally investigate Jensen Huang before his reinstatement; AG Todd Blanche cleared him based on probes into Super Micro and Megaspeed (Reuters)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/135ad7a8b7d2115086cf.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n362lyk75z2s</guid>
-<pubDate>Wed, 25 Nov 2026 21:02:08 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25/" rel="related" type="text/html" />
-<description>Jensen Huang's reinstatement has angered members of Congress — both Republicans and Democrats.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGPP7SPTFKVJOLCOH4EZWDT5OVE.jpg%3Fauth%3D970809bdf7d3c69abd6e21bc35aaf0800c4c3ae8ede376bbc6a0de86d412cf1a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="" /></p><p>Jensen Huang's reinstatement has angered members of Congress — both Republicans and Democrats.</p><p><a href="https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGPP7SPTFKVJOLCOH4EZWDT5OVE.jpg%3Fauth%3D970809bdf7d3c69abd6e21bc35aaf0800c4c3ae8ede376bbc6a0de86d412cf1a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGPP7SPTFKVJOLCOH4EZWDT5OVE.jpg%3Fauth%3D970809bdf7d3c69abd6e21bc35aaf0800c4c3ae8ede376bbc6a0de86d412cf1a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FGPP7SPTFKVJOLCOH4EZWDT5OVE.jpg%3Fauth%3D970809bdf7d3c69abd6e21bc35aaf0800c4c3ae8ede376bbc6a0de86d412cf1a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>WhatsApp starts letting users schedule messages from 10 minutes to 14 days in advance, in group and individual chats; messages are sent even if the phone is off (Ivan Mehta/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/ff23b12ebb8220f454ab.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35zydfoux2b</guid>
-<pubDate>Wed, 25 Nov 2026 20:51:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/" rel="related" type="text/html" />
-<description>Users can schedule messages from 10 minutes later to after 14 days.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-schedule.jpg?resize=1200,675" alt="" /></p><p>Users can schedule messages from 10 minutes later to after 14 days.</p><p><a href="https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-schedule.jpg?resize=1200,675" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-schedule.jpg?resize=1200,675" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-schedule.jpg?resize=1200,675" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>Sources: a16z is in talks to raise ~$20B across its next set of funds; its last set, announced in January at $15B+, later grew to $20B+ with three add-ons (Lucinda Shen/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7585da7eeb775548cada.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35yujd6sd23</guid>
-<pubDate>Wed, 25 Nov 2026 20:31:07 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/pro/all-deals/2026/11/25/andreessen-horowitz-20b-fundraise" rel="related" type="text/html" />
-<description>Megafunds are raising at an accelerated clip as AI demands larger and faster checks.</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMhab2tAbduCZ72kMcVZhfzaEDI0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F08%2F1767906145245.jpeg" alt="" /></p><p>Megafunds are raising at an accelerated clip as AI demands larger and faster checks.</p><p><a href="https://www.axios.com/pro/all-deals/2026/11/25/andreessen-horowitz-20b-fundraise">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMhab2tAbduCZ72kMcVZhfzaEDI0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F08%2F1767906145245.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMhab2tAbduCZ72kMcVZhfzaEDI0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F08%2F1767906145245.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FMhab2tAbduCZ72kMcVZhfzaEDI0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F01%2F08%2F1767906145245.jpeg" type="image/jpeg" length="0" />
-</item>
-<item>
-<title>1Password says an attacker used an employee's GitHub account to push malicious code to its backend, taking some users' names and emails; vaults weren't accessed (Zack Whittaker/TechCrunch)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/8f62a618cddf04dde8ff.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35xicscbk2s</guid>
-<pubDate>Wed, 25 Nov 2026 20:06:24 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/" rel="related" type="text/html" />
-<description>The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.</description>
-<content:encoded><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200" alt="" /></p><p>The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.</p><p><a href="https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200" medium="image" type="image/png" />
-<media:thumbnail url="https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200" />
-<enclosure url="https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200" type="image/png" length="0" />
-</item>
-<item>
-<title>Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of "vibes-based" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/46ac3b65de55fff5d54e.html</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n35we46lfz25</guid>
-<pubDate>Wed, 25 Nov 2026 19:46:09 +0000</pubDate>
-<source url="https://www.techmeme.com/">Techmeme</source>
-<category>Techmeme</category>
-<atom:link href="https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios" rel="related" type="text/html" />
-<description>Dario Amodei accuses rival AI leaders of "vibes-based" positioning</description>
-<content:encoded><![CDATA[<p><img src="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS-eVrQNX69ZyMSR4Iu5sBjrBDw0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F09%2F23%2F1790194223976.jpeg" alt="" /></p><p>Dario Amodei accuses rival AI leaders of "vibes-based" positioning</p><p><a href="https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS-eVrQNX69ZyMSR4Iu5sBjrBDw0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F09%2F23%2F1790194223976.jpeg" medium="image" type="image/jpeg" />
-<media:thumbnail url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS-eVrQNX69ZyMSR4Iu5sBjrBDw0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F09%2F23%2F1790194223976.jpeg" />
-<enclosure url="https://cardyb.bsky.app/v1/image?url=https%3A%2F%2Fimages.axios.com%2FS-eVrQNX69ZyMSR4Iu5sBjrBDw0%3D%2F0x0%3A1920x1080%2F1366x768%2F2026%2F09%2F23%2F1790194223976.jpeg" type="image/jpeg" length="0" />
 </item>
 <item>
 <title>XPENG Details Mass-Production IRON Humanoid at AI Day 2026, Confirms Unisex Form Factor and VLA 3.0</title>
@@ -2038,20 +2038,6 @@
 <enclosure url="https://img.alicdn.com/imgextra/i2/O1CN01tVjHlI24sKFloAjuy_!!6000000007446-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
-<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
-<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
-<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
-<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-<source url="https://qwen.ai/research">Qwen Research</source>
-<category>Qwen Research</category>
-<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
-<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
-<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
-<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
-<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
-<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
-</item>
-<item>
 <title>Qwen-RobotManip: Alignment Unlocks Scale for Robotic Manipulation Foundation Models</title>
 <link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/7811be57258b7e177b45.html</link>
 <guid isPermaLink="false">combined:db3b2372f7c42dac69f51340c87df46dd96a6137</guid>
@@ -2064,6 +2050,20 @@
 <media:content url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" medium="image" type="image/png" />
 <media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" />
 <enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01tCtYQc1DfLOL4aayA_!!6000000000243-2-tps-1590-954.png" type="image/png" length="0" />
+</item>
+<item>
+<title>Qwen-RobotNav: A Scalable Navigation Model Designed for an Agentic Navigation System</title>
+<link>https://cdn.jsdelivr.net/gh/loganngarcia/loganngarcia@main/combined-rss/reader/bf9d107d60e22e20fc60.html</link>
+<guid isPermaLink="false">combined:bae2852c27225ecef3b8bf77c00d73df697d5798</guid>
+<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+<source url="https://qwen.ai/research">Qwen Research</source>
+<category>Qwen Research</category>
+<atom:link href="https://qwen.ai/blog?id=qwen-robotnav" rel="related" type="text/html" />
+<description>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</description>
+<content:encoded><![CDATA[<p><img src="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" alt="" /></p><p>Agentic navigation systems require a base navigation model with a configurable navigation context protocol: instruction following, object search, target tracking, and autonomous driving share the same perception-planning backbone yet demand fundamentally different context strategies for consuming the visual stream. Like the Model Context Protocol for LLM tool use, a navigation model needs a standa</p><p><a href="https://qwen.ai/blog?id=qwen-robotnav">Open Original Article</a></p>]]></content:encoded>
+<media:content url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" medium="image" type="image/png" />
+<media:thumbnail url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" />
+<enclosure url="https://img.alicdn.com/imgextra/i4/O1CN01ttKuLR1VWn4v7hWsE_!!6000000002661-2-tps-1590-954.png" type="image/png" length="0" />
 </item>
 <item>
 <title>Qwen3.7-Plus: Multimodal Agent Intelligence</title>
