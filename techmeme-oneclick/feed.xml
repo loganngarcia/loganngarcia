@@ -5,8 +5,24 @@
 <link>https://www.techmeme.com/river</link>
 <description>Techmeme headlines that open the original publisher directly, with article previews.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 27 Nov 2026 21:38:30 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 03:30:42 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/loganngarcia/loganngarcia/main/techmeme-oneclick/feed.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)</title>
+<link>https://lithowar.com/lithography-war/</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3dmaratoc2u</guid>
+<pubDate>Sat, 28 Nov 2026 02:01:18 +0000</pubDate>
+<description>From lithowar.com</description>
+<content:encoded><![CDATA[<p>From lithowar.com</p>]]></content:encoded>
+</item>
+<item>
+<title>US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&#x27;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)</title>
+<link>https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?st=h32XJK&amp;reflink=desktopwebshare_permalink</link>
+<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n3ddtjyc2n25</guid>
+<pubDate>Fri, 27 Nov 2026 23:30:44 +0000</pubDate>
+<description>From www.wsj.com</description>
+<content:encoded><![CDATA[<p>From www.wsj.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)</title>
 <link>https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html</link>
@@ -878,24 +894,6 @@
 <pubDate>Tue, 24 Nov 2026 23:26:10 +0000</pubDate>
 <description>From www.bloomberg.com</description>
 <content:encoded><![CDATA[<p>From www.bloomberg.com</p>]]></content:encoded>
-</item>
-<item>
-<title>Trump says a pardon for Jensen Huang is &quot;always an option&quot; but likely unnecessary, and it&#x27;s &quot;probably not too late&quot; for the US to take an equity stake in Nvidia (New York Post)</title>
-<link>https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33rdhceqj25</guid>
-<pubDate>Tue, 24 Nov 2026 23:10:59 +0000</pubDate>
-<description>President Trump told The Post in an exclusive interview that he’s willing to pardon Jensen Huang if necessary.</description>
-<content:encoded><![CDATA[<p><img src="https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ognf991tk-1795564570817.jpg?quality=75&amp;strip=all&amp;1795546604&amp;w=1200" alt="" /></p><p>President Trump told The Post in an exclusive interview that he’s willing to pardon Jensen Huang if necessary.</p>]]></content:encoded>
-<media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ognf991tk-1795564570817.jpg?quality=75&amp;strip=all&amp;1795546604&amp;w=1200" medium="image" />
-<media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ognf991tk-1795564570817.jpg?quality=75&amp;strip=all&amp;1795546604&amp;w=1200" />
-</item>
-<item>
-<title>Jensen Huang&#x27;s return is greeted with relief in China, with state media saying &quot;The king is back!&quot;, as Asian stocks jump; Taiwan hailed him as a hometown hero (Washington Post)</title>
-<link>https://www.washingtonpost.com/world/2026/11/24/king-is-back-huangs-return-nvidia-is-greeted-with-relief-asia/</link>
-<guid isPermaLink="false">at://did:plc:pv7fudnt4dspurzdnyq73pfe/app.bsky.feed.post/3n33pz3z3e725</guid>
-<pubDate>Tue, 24 Nov 2026 22:47:18 +0000</pubDate>
-<description>From www.washingtonpost.com</description>
-<content:encoded><![CDATA[<p>From www.washingtonpost.com</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
